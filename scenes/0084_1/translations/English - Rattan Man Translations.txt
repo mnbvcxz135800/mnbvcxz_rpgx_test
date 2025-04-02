@@ -1,0 +1,769 @@
+//Language: English
+//Translator: Rattan Man Translations
+<BG>black,NONE
+<NAME_PLATE>
+　This place was the Chaos Arena――
+<PAUSE>
+<NAME_PLATE>
+　It was an underground stadium where evil Rakshasa gathered, which existed somewhere in Tokyo.
+<PAUSE>
+<NAME_PLATE>
+　Female fighters were assembled there for all sorts of reasons, and were throwing themselves into battles on which they staked their lives night after night......
+<PAUSE>
+<BGM_PLAY>bgm206,1000
+<BG>nc060a,IN, 1000
+<NAME_PLATE>
+　That was deadly entertainment which one could never see on the surface world.
+<PAUSE>
+<NAME_PLATE>
+　There was one other popular aspect besides those extremely chaotic shows. That was......
+<PAUSE>
+<NAME_PLATE>
+　The ultimate sexual service, using Slave Prostitutes, who had undergone bodily remodelling so that they could respond to any kind of obscene desire.
+<PAUSE>
+<BG>nc094a,IN ,1000
+<NAME_PLATE>
+　The last match that was being held in the Chaos Arena had successfully concluded, and the atmosphere of the VIP Room was starting to become relaxed.
+<PAUSE>
+<NAME_PLATE>
+　However, shortly after this, service would begin that was blood-tingling and heart-pounding in a different way than spectating.
+<PAUSE>
+<NAME_PLATE>
+　The men who were waiting for that looked somewhat restless. At that time......
+<PAUSE>
+<VOICE_PLAY>chrm_0084_1_0000_r18
+<NAME_PLATE>Woman
+「Everyone in attendance. We are terribly sorry to have kept you waiting for long. From here on, it's time for entertainment.」
+<PAUSE>
+<NAME_PLATE>
+　One woman entered the VIP Room and announced that, bowing respectfully.
+<PAUSE>
+<NAME_PLATE>
+　Immediately after that, a large number of women entered the room, each wearing gorgeous outfits.
+<PAUSE>
+<NAME_PLATE>
+　Among them, there was the owner of beauty which stood out from the crowd, clad in a particularly alluring kimono.
+<PAUSE>
+<ACTOR>0,chr_t0084a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0084_1_0000_r18
+<NAME_PLATE>Asagi
+「..................」
+<PAUSE>
+<NAME_PLATE>
+　It was Igawa Asagi.
+<PAUSE>
+<NAME_PLATE>
+　She was supposed to be a righteous Taimanin who destroyed evil, but had been reduced to a whore in the Chaos Arena.
+<PAUSE>
+<NAME_PLATE>Man A
+「Ohh, I've been waiting a long time for this!」
+<PAUSE>
+<NAME_PLATE>Man B
+「Do it quickly. I can't wait any longer!」
+<PAUSE>
+<NAME_PLATE>
+　The only men who gathered in this place were those who had enormous fortunes, like big shots from the financial sector.
+<PAUSE>
+<NAME_PLATE>
+　Those men were unashamedly breathing roughly through their noses, waiting eagerly for the start of service time.
+<PAUSE>
+<VOICE_PLAY>chrm_0084_1_0001_r18
+<NAME_PLATE>Woman
+「Everyone, please do not be so impatient. The night is still long, after all......」
+<PAUSE>
+<NAME_PLATE>
+　The first woman said, smiling, whereupon the surrounding women began roaming around with relaxed movements.
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<NAME_PLATE>
+　They travelled without hesitation. They each walked to the customer who had “bought” them.
+<PAUSE>
+<NAME_PLATE>
+　Asagi, of course, was no exception to that. She was also stepping up to the side of a customer who had signed an exclusivity contract.
+<PAUSE>
+<ACTOR>0,chr_t0084a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0084_1_0001_r18
+<NAME_PLATE>Asagi
+「Goshujin-sama......♪ Please, make love to me tonight too.」
+<PAUSE>
+<NAME_PLATE>Man
+「Yeah. “We'll all” give you plenty of love.」
+<PAUSE>
+<NAME_PLATE>
+　The man made a creepy smirk in front of Asagi, who showed a bewitching smile on her face.
+<PAUSE>
+<NAME_PLATE>
+　After that, both Asagi and the man moved to a private room......
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<BG_OUT>1000
+<VOICE_PLAY>chr_0084_1_0002_r18
+<NAME_PLATE>Asagi
+「Mm...... Uh, um, Goshujin-sama...... Does this feel right?」
+<PAUSE>
+<NAME_PLATE>Man
+「Mm, wait a sec...... Ah, yeah, you're fine right there. Now then, we set the camera switch to on......」
+<PAUSE>
+<NAME_PLATE>
+　The man fine-tuned the position of his camera, and pressed a few buttons.
+<PAUSE>
+<BGM_STOP>1000
+<NAME_PLATE>
+　When he did, the letters REC were displayed on the camera screen.
+<PAUSE>
+<NAME_PLATE>Man
+「Okay, that's good, Asagi. This is the beginning of the stream.」
+<PAUSE>
+<NAME_PLATE>
+　The man announced, and shortly after, an image of Asagi was shown on the screen of his PC......
+<PAUSE>
+<BGM_PLAY>bgm611,1000
+<EV>chr_0084_1a_r18,IN, 1000
+<VOICE_PLAY>chr_0084_1_0003_r18
+<NAME_PLATE>Asagi
+「G, good evening, everyone...... It's time for Hideo's pig bitch stream......」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0004_r18
+<NAME_PLATE>Asagi
+「Please watch all the lewd acts of the great Hideo-sama's pig bitch, Asagi, and jerk your dicks tonight too......♪」
+<PAUSE>
+<NAME_PLATE>
+　Asagi announced bashfully, facing the camera.
+<PAUSE>
+<NAME_PLATE>
+　The camera was connected to a PC, and this footage was being streamed live on the net.
+<PAUSE>
+<NAME_PLATE>
+　This nouveau riche old man, who had bought Asagi, was a pervert whose hobby was streaming sex with Slave Prostitutes on the net.
+<PAUSE>
+<NAME_PLATE>Man
+「Kuku...... Everybody, please observe. As you can see, even the woman known as the Strongest Taimanin becomes like this once she's been trained.」
+<PAUSE>
+<NAME_PLATE>Man
+「So once again, tonight, I'll be streaming myself wrecking this shitty woman with the power of cock and money.」
+<PAUSE>
+<NAME_PLATE>
+　Once Asagi finished her statement, the man smiled in apparent satisfaction, and started talking into the camera's mic.
+<PAUSE>
+<NAME_PLATE>
+　The man's streams boasted a secret popularity, and there were a large number of viewers on the other side of the camera.
+<PAUSE>
+<NAME_PLATE>
+　The viewer count on the stream page was continuing to rise rapidly on this occasion as well. Having seen that with a sidelong glance, the man smiled more and more.
+<PAUSE>
+<NAME_PLATE>Man
+「Well...... First of all, we'll start with smegma cleaning! Sokushaku dick cheese cleaning is routine for an impertinent pig woman, right?」
+<PAUSE>
+<NAME_PLATE>
+　The man thrust his erect cock out in front of Asagi's eyes, and ordered her to lick it.
+<PAUSE>
+<EV>chr_0084_1b_r18,NONE
+<NAME_PLATE>
+　Thick, cheese-like smegma was plastering the man's penis, and giving off a horrible stench.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0005_r18
+<NAME_PLATE>Asagi
+「Uhh...... Mm, mmh......」
+<PAUSE>
+<NAME_PLATE>
+　Asagi made her nose twitch from that strong smell, but she desperately tried to maintain her smiling face.
+<PAUSE>
+<NAME_PLATE>
+　After that, she calmly took a deep breath, and reached her tongue out to the man's penis.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0006_r18
+<NAME_PLATE>Asagi
+「If, if it's all right...... I'll perform sokushaku...... Mm, haah, haah...... chu, nchu......」
+<PAUSE>
+<NAME_PLATE>
+　Asagi licked the man's meat pole, while taking care not to show her revulsion on her face.
+<PAUSE>
+<NAME_PLATE>
+　Her tonguework was outstanding, crawling around the surface of the penis and squirming like a separate creature.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0007_r18
+<NAME_PLATE>Asagi
+「Nchuu, rerooh...... Chubah, jururu, chu, chubuu......」
+<PAUSE>
+<NAME_PLATE>
+　That behaviour aroused the men on the other side of the screen, and a large number of comments began to dance on the stream page.
+<PAUSE>
+<NAME_PLATE>Man
+「How is it? Tasty?」
+<PAUSE>
+<NAME_PLATE>
+　The man asked with a high-handed attitude, while gazing in satisfaction at the video viewer count, which was increasing all the time.
+<PAUSE>
+<NAME_PLATE>
+　Asagi spoke, still continuing to lick his penis.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0008_r18
+<NAME_PLATE>Asagi
+「Njuruuu...... chubu, nchu, chubah...... ah, nchu, nnh......」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0009_r18
+<NAME_PLATE>Asagi
+「Y, yesh...... Goshujin-sama's dick cheese...... ish very tashty......」
+<PAUSE>
+<NAME_PLATE>
+　Asagi replied happily, while licking off the man's smegma with the tip of her tongue.
+<PAUSE>
+<NAME_PLATE>
+　She then transported the smegma she had licked off into her mouth, and made a show of chewing it like it was delicious.
+<PAUSE>
+<NAME_PLATE>Man
+「Kuku. As always, you're licking it like it's delicious, aren't you? Okay, next suck the head.」
+<PAUSE>
+<NAME_PLATE>
+　Pleased with Asagi's answer, the man smiled triumphantly and handed down his next order.
+<PAUSE>
+<NAME_PLATE>
+　There was no way Asagi could disobey that order, and she put it into practice immediately.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0010_r18
+<NAME_PLATE>Asagi
+「Yes, Goshujin-sama...... I will gratefully suck Goshujin-sama's glans......♪」
+<PAUSE>
+<NAME_PLATE>
+　Asagi announced to the men on the other side of the screen with upturned eyes, as if flirting with them.
+<PAUSE>
+<NAME_PLATE>
+　And then, she enveloped the man's glans in her mouth, which had opened wide.
+<PAUSE>
+<EV>chr_0084_1c_r18,NONE
+<VOICE_PLAY>chr_0084_1_0011_r18
+<NAME_PLATE>Asagi
+「Ah, nkuh...... mm, mmmh......! Nju, chubu, ogoh, mm......」
+<PAUSE>
+<NAME_PLATE>Man
+「Hora, my cock won't fit in unless you cram it deeper, you know?」
+<PAUSE>
+<NAME_PLATE>
+　Asagi was desperately trying to stuff the penis into her mouth, but it wouldn't fit easily because it was too large.
+<PAUSE>
+<NAME_PLATE>
+　Having grown irritated by that, the man thrust his hips out, trying to insert his penis even deeper.
+<PAUSE>
+<NAME_PLATE>
+　As a result, one of Asagi's cheeks was pushed from the inside by the glans, and ended up bulging out.
+<PAUSE>
+<NAME_PLATE>Man
+「Fuu. Well, I suppose this is fine...... Kuku! Even so, how pathetic that face is!」
+<PAUSE>
+<NAME_PLATE>
+　The man sneered at Asagi, who had made an unsightly facial expression, with one cheek bulging out.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0012_r18
+<NAME_PLATE>Asagi
+「h...... Uh, nnh......!」
+<PAUSE>
+<NAME_PLATE>
+　But no matter how seized with anger she was, Asagi, who wasn't even allowed to object, couldn't say so.
+<PAUSE>
+<NAME_PLATE>
+　About all she could do was look up at the man's face.
+<PAUSE>
+<NAME_PLATE>Man
+「Mm, what's with those eyes? You're happy sucking my cock, aren't you? Eh?」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0013_r18
+<NAME_PLATE>Asagi
+「Uh, nkuh...... ah, nn......」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0014_r18
+<NAME_PLATE>Asagi
+「Y, yes...... I'm very happy...... to get, to service, Goshujin-sama's penish......」
+<PAUSE>
+<NAME_PLATE>
+　Having to say something like this was a humiliation as far as the proud Asagi was concerned.
+<PAUSE>
+<NAME_PLATE>
+　But right now, she could not disobey this man, no matter what. That was the law of this place.
+<PAUSE>
+<NAME_PLATE>Man
+「Kukuku......! Ahh, that's good, Asagi. Pigs act like pigs, see?」
+<PAUSE>
+<NAME_PLATE>
+　Having reconfirmed her obedience towards him, the man twisted his facial expression unattractively.
+<PAUSE>
+<NAME_PLATE>
+　After that, he loudly announced to the viewers on the other side of the screen.
+<PAUSE>
+<NAME_PLATE>Man
+「Well then, I'm going to train this pig woman now. Everyone, it's the start of the show!」
+<PAUSE>
+<NAME_PLATE>
+　The man declared excitedly, and began swinging his hips furiously.
+<PAUSE>
+<EV>chr_0084_1d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0084_1_0015_r18
+<NAME_PLATE>Asagi
+「Ngoh......?! Ogoh, nn, nguuu! Nju, chubuuuh!」
+<PAUSE>
+<NAME_PLATE>
+　The hips were swung by the man with all his strength, and his penis went in and out of Asagi's mouth at high speed.
+<PAUSE>
+<NAME_PLATE>
+　Each time, the man's glans poked Asagi's cheek, and made her raise a shameful voice.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0016_r18
+<NAME_PLATE>Asagi
+「Nn, ogoh! Njubuuu! Nhih, igi, nnuuuh!」
+<PAUSE>
+<NAME_PLATE>
+　Since his hips were being moved recklessly, Asagi wasn't even given a respite to breathe.
+<PAUSE>
+<NAME_PLATE>
+　As she was subjected to the man's pistoning, Asagi's facial expression was quickly becoming more anguished.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0017_r18
+<NAME_PLATE>Asagi
+「Nn, ngih......! Nchubu, nnoh, nn! Nn, nguh......!」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0018_r18
+<NAME_PLATE>Asagi
+「Hah, hahih...... Go, Gohyujin, sama! Ih, it hurtsh......! Hih, njuuu!」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0019_r18
+<NAME_PLATE>Asagi
+「Hih, nkuuh! Wh, why'sh it, sho...... Ngoh, juboooh!」
+<PAUSE>
+<NAME_PLATE>
+　Asagi, who had never imagined such reckless pistoning would start, asked desperately.
+<PAUSE>
+<NAME_PLATE>
+　In Asagi's expectations, she had assumed she would continue the service fellatio like that. But that didn't happen.
+<PAUSE>
+<NAME_PLATE>Man
+「Shut up! I'm not getting excited 'cause your fellatio's too slow!」
+<PAUSE>
+<NAME_PLATE>Man
+「So, this time, I'm doing the moving! This way's more intense, so it's more worth watching for everyone!」
+<PAUSE>
+<NAME_PLATE>
+　In order to respond to the man's voice, a large number of comments were being sent on the stream page.
+<PAUSE>
+<NAME_PLATE>
+　Every one of those was something that praised the man's act. Not a single comment existed that sympathized with Asagi.
+<PAUSE>
+<NAME_PLATE>Man
+「Ukuku! Hora, look! Everyone's saying this way is better, aren't they?」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0020_r18
+<NAME_PLATE>Asagi
+「Nguh......! Njuboh, chubah, nkuuu! Kuh, mmh......!!」
+<PAUSE>
+<NAME_PLATE>
+　Asagi looked at the characters which danced across the screen, and let mortified-sounding groans escape.
+<PAUSE>
+<NAME_PLATE>
+　In contrast to Asagi, the man's arousal was rising more and more.
+<PAUSE>
+<NAME_PLATE>Man
+「Haahaah......! Man, I'm already gonna let a load out any time now! Take this!」
+<PAUSE>
+<NAME_PLATE>
+　The man informed her, breathing roughly through his nose and making the movement of his hips even faster.
+<PAUSE>
+<NAME_PLATE>
+　And then, he thrust his penis especially deep into Asagi's mouth, and that instant――
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0084_1e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chr_0084_1_0021_r18
+<NAME_PLATE>Asagi
+「Mm, mm?! Nbuh, mmh! Nkuuuuuh......!」
+<PAUSE>
+<NAME_PLATE>
+　A large amount of cum suddenly flooded out from the man's penis, and filled the inside of Asagi's mouth to capacity.
+<PAUSE>
+<NAME_PLATE>
+　The force of it was so tremendous that the semen, which would not fit completely in her mouth, gushed back out from her nose.
+<PAUSE>
+<NAME_PLATE>
+　Even though he had let out that much, the force of the ejaculation didn't wane, and the man spewed out cum from his penis over and over again.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0022_r18
+<NAME_PLATE>Asagi
+「Obuh! Nguh, ngoh, nnoooh! Nn, uguuuuuh!」
+<PAUSE>
+<NAME_PLATE>
+　Semen, which gave off a severe stench, was poured into her mouth, and Asagi was fainting from the excessive anguish.
+<PAUSE>
+<NAME_PLATE>
+　Having developed breathing difficulties because semen was flowing into her trachea, she appeared to be rolling back her eyes.
+<PAUSE>
+<NAME_PLATE>
+　The man laughed at that unsightly appearance of Asagi's.
+<PAUSE>
+<NAME_PLATE>Man
+「Kuhaha! Wow, looking good, Asagi! There's a suitable appearance for a pig.」
+<PAUSE>
+<NAME_PLATE>
+　The man gleefully insulted Asagi, while ejaculating even more.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0023_r18
+<NAME_PLATE>Asagi
+「Nn...... uu, njubu...... ubu, nbuuu......」
+<PAUSE>
+<NAME_PLATE>
+　The consciousness of the oxygen-deprived Asagi was already starting to fade, and she couldn't even respond to the man's words.
+<PAUSE>
+<NAME_PLATE>Man
+「What, bedtime already? The night is still long! Wake up, Asagi!」
+<PAUSE>
+<NAME_PLATE>
+　The man raised an angry voice and pulled his penis out. Then he ejaculated again, spraying semen onto Asagi's face.
+<PAUSE>
+<EV>chr_0084_1f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chr_0084_1_0024_r18
+<NAME_PLATE>Asagi
+「Mmh......?! Mmhih, mmh!!」
+<PAUSE>
+<NAME_PLATE>
+　Hot cum suddenly rained down on her face, and made the surprised Asagi regain consciousness.
+<PAUSE>
+<NAME_PLATE>
+　Even while she was doing so, the man was making cum gush out, and soiling her face with dirty-white fluid.
+<PAUSE>
+<NAME_PLATE>
+　And so, Asagi's face instantly became covered in gooey cum.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0025_r18
+<NAME_PLATE>Asagi
+「Ah, mm...... fuuh, fuuh...... auh, mm......」
+<PAUSE>
+<NAME_PLATE>
+　Having had her hair, face and the inside of her mouth dirtied with semen, Asagi was giving off a crude odour.
+<PAUSE>
+<NAME_PLATE>
+　The inside of her mouth was now full of the man's cum, to the point where if she lost focus even a little, it would spill from the edges of her mouth.
+<PAUSE>
+<NAME_PLATE>Man
+「Hora, Asagi. Show the cum you've collected in your mouth to the people on the other side of the camera, too.」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0026_r18
+<NAME_PLATE>Asagi
+「Uuh, nnah...... ah, ahhh......」
+<PAUSE>
+<NAME_PLATE>
+　Asagi meekly approached the camera, and showed off her mouth, which had transformed into a pool of semen, to the viewing audience.
+<PAUSE>
+<NAME_PLATE>
+　The viewers were greatly excited by the close-up shot, which even seemed to convey the stench.
+<PAUSE>
+<NAME_PLATE>Man
+「Good, Asagi. So next, chew the cum in your mouth, just like that.」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0027_r18
+<NAME_PLATE>Asagi
+「Ah...... ah, nnaah......」
+<PAUSE>
+<NAME_PLATE>
+　Asagi nodded at the man's words, and then moved her sticky tongue and stirred the semen around in her mouth.
+<PAUSE>
+<EV>chr_0084_1g_r18,NONE
+<VOICE_PLAY>chr_0084_1_0028_r18
+<NAME_PLATE>Asagi
+「Mm...... kuchu, chupu...... ueh, ah, nchu......」
+<PAUSE>
+<NAME_PLATE>
+　Despite almost sobbing from the powerful stench, Asagi desperately chewed the semen in her mouth.
+<PAUSE>
+<NAME_PLATE>
+　The truth was, it was so unbearable that she wanted to vomit right away.
+<PAUSE>
+<NAME_PLATE>
+　However, Asagi was trying not to let that show in her facial expression. On the contrary, she was even expressing a smile, as if it were delicious.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0029_r18
+<NAME_PLATE>Asagi
+「Nchupu...... kuchu, nn, nnah...... nn, kuchu......♪」
+<PAUSE>
+<NAME_PLATE>
+　The sight of Asagi chewing the gooey semen was the very picture of vulgarity, and greatly aroused the men.
+<PAUSE>
+<NAME_PLATE>
+　However, Asagi's performance wouldn't end with something like this.
+<PAUSE>
+<NAME_PLATE>
+　The man had arranged for one more act.
+<PAUSE>
+<NAME_PLATE>Man
+「That's good, Asagi. You're supremely kinky and erotic, aren't you? Looks like the people on the net are very pleased as well.」
+<PAUSE>
+<NAME_PLATE>Man
+「So, next, gulp down that semen. Don't leave even a drop behind, okay?」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0030_r18
+<NAME_PLATE>Asagi
+「Uuh...... uah, aaah, nn, nku......」
+<PAUSE>
+<NAME_PLATE>
+　Asagi was shaken by the man's words for just a second, but she immediately nodded.
+<PAUSE>
+<NAME_PLATE>
+　And then, she moved her throat in order to drink up the cum.
+<PAUSE>
+<EV>chr_0084_1h_r18,NONE
+<VOICE_PLAY>chr_0084_1_0031_r18
+<NAME_PLATE>Asagi
+「Nnuu...... nkuh, koku...... goku, nn, goku...... uu, nnh......!」
+<PAUSE>
+<NAME_PLATE>
+　Asagi slowly swallowed the extremely thick cum, which stuck to her throat.
+<PAUSE>
+<NAME_PLATE>
+　At this moment, Asagi's facial expression was gleaming, as if to say that this was the greatest drink.
+<PAUSE>
+<NAME_PLATE>
+　This smiling face was for the sake of covering over the true feelings of Asagi, who was being assailed by fierce revulsion.
+<PAUSE>
+<NAME_PLATE>Man
+「Ahh, there's a good expression. Hora hora, everyone, please look closely. This is a Taimanin's precious gokkun scene!」
+<PAUSE>
+<NAME_PLATE>
+　The man excited the audience, next to Asagi, who swallowed the semen.
+<PAUSE>
+<NAME_PLATE>
+　Asagi also brought her mouth towards the camera, in order to show off to the viewers, and gulped.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0032_r18
+<NAME_PLATE>Asagi
+「Nnh...... goku, koku, nnh...... nchu, kuchu...... gokun......!」
+<PAUSE>
+<NAME_PLATE>
+　Asagi swallowed repeatedly, over and over again, and finally finished drinking the semen.
+<PAUSE>
+<NAME_PLATE>
+　Naturally, not even a drop of the man's semen remained in her mouth.
+<PAUSE>
+<NAME_PLATE>Man
+「Ho ho. It looks like you drank all the cum properly, huh? Excellent, Asagi!」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0033_r18
+<NAME_PLATE>Asagi
+「Nn...... haah, haah...... uu, nfufu......♪」
+<PAUSE>
+<NAME_PLATE>Man
+「Why don't I give a special reward from me to Asagi?」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0034_r18
+<NAME_PLATE>Asagi
+「R, reward...... I'm, happy......」
+<PAUSE>
+<NAME_PLATE>
+　Hearing “reward”, an unpleasant hunch travelled through Asagi's mind.
+<PAUSE>
+<NAME_PLATE>
+　But even so, she displayed a smile, as if she were delighted by the man's words.
+<PAUSE>
+<NAME_PLATE>Man
+「So, let's reveal it. The reward this time will be......」
+<PAUSE>
+<NAME_PLATE>Man
+「To suck my dick and clean it well. How about that? Aren't you happy?」
+<PAUSE>
+<NAME_PLATE>
+　The man said, and stuck his own penis out in front of Asagi's eyes again.
+<PAUSE>
+<EV>chr_0084_1i_r18,NONE
+<NAME_PLATE>
+　Asagi, who had figured it would be something like that, made a forced smile, without being especially surprised.
+<PAUSE>
+<NAME_PLATE>
+　And then, she began talking toward the man's meat pole like it was dear to her.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0035_r18
+<NAME_PLATE>Asagi
+「Ah...... Y, yes...... I'm very happy, to be able to serve Goshujin-sama......♪」
+<PAUSE>
+<NAME_PLATE>
+　Asagi was extending her tongue to the penis as she said those words, which were far removed from her true feelings.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0036_r18
+<NAME_PLATE>Asagi
+「Nchupu...... chu, rero, rerooh...... afu, nnah, chupuu......」
+<PAUSE>
+<NAME_PLATE>
+　Asagi moved her tongue, and thoroughly licked off the semen that remained on the surface of his penis.
+<PAUSE>
+<NAME_PLATE>
+　She was cleaning every nook and cranny of his penis―His urethra, obviously, but also the shaft and the underside of the crown.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0037_r18
+<NAME_PLATE>Asagi
+「Rero, rero...... chu, njuru♪ Chupuu, jubu, nnah, ahh......♪」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0038_r18
+<NAME_PLATE>Asagi
+「Chubu, ah, nku...... ah, ahh...... Goshujin-sama's, penis...... is, realleh, dewicioush......♪」
+<PAUSE>
+<NAME_PLATE>
+　While transporting the semen that she had licked off with her tongue into her mouth, Asagi delivered a flirtatious-sounding line.
+<PAUSE>
+<NAME_PLATE>
+　The man's mood improved because of Asagi's attitude.
+<PAUSE>
+<NAME_PLATE>Man
+「Kuhaha! Good, Asagi! Sow-ish words like that are my favourite thing. Looks like you've finally come to understand how to service me, huh?」
+<PAUSE>
+<NAME_PLATE>
+　Having gotten aroused from Asagi's remark, the man made his enormous meat pole twitch.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0039_r18
+<NAME_PLATE>Asagi
+「Nn, nnah......! Ahh, nku...... Th, thank you, very much, Goshujin-sama......♪」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0040_r18
+<NAME_PLATE>Asagi
+「F, for me, to have Goshujin-sama say so...... is my greatest joy♪ Juru chu, chupaah......」
+<PAUSE>
+<NAME_PLATE>
+　Pressed to respond, Asagi made intolerable statements as she pursued his cock.
+<PAUSE>
+<NAME_PLATE>
+　That behaviour of Asagi's had made the man increasingly arrogant.
+<PAUSE>
+<NAME_PLATE>Man
+「Kuku......! That's splendid. Looks like your pig bitch nature has become pretty ingrained.」
+<PAUSE>
+<NAME_PLATE>Man
+「Well, the cleaning of my cock isn't over yet! Make sure to suck up the sperm that's left over in my urethra, okay?」
+<PAUSE>
+<NAME_PLATE>
+　Saying so, the man tried to thrust his penis into Asagi's mouth again.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0041_r18
+<NAME_PLATE>Asagi
+「Ah, mm...... Y, yes...... Understood...... I'll milk it to the last drop♪」
+<PAUSE>
+<NAME_PLATE>
+　Asagi readily accepted the man's demand, and showed the large meat pole into her mouth.
+<PAUSE>
+<EV>chr_0084_1j_r18,NONE
+<VOICE_PLAY>chr_0084_1_0042_r18
+<NAME_PLATE>Asagi
+「Mm, aah, nnah...... mm, mmm......」
+<PAUSE>
+<NAME_PLATE>
+　Having fully enveloped his penis in her mouth, Asagi stopped for a moment there and faced the camera.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0043_r18
+<NAME_PLATE>Asagi
+「W, wehhl naw...... I'll suck out the cum inside the cock too......」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0044_r18
+<NAME_PLATE>Asagi
+「Rero...... chu, nju, chuu...... chubu, rerooh, nn, chubuuh......♪」
+<PAUSE>
+<NAME_PLATE>
+　Making sure to show off to the camera, Asagi narrowed her cheeks as she sucked up the semen.
+<PAUSE>
+<NAME_PLATE>
+　Her suction power was excellent, and she sucked out the semen in his urethra like a vacuum.
+<PAUSE>
+<NAME_PLATE>Man
+「Kuh...... Oh, ohhh! This is amazing! It's like thrusting my dick into a vacuum cleaner!」
+<PAUSE>
+<NAME_PLATE>
+　The man reflexively raised his voice, while making his hips jitter from Asagi's strong suction.
+<PAUSE>
+<NAME_PLATE>
+　Despite that, Asagi still sucked the semen with terrific force.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0045_r18
+<NAME_PLATE>Asagi
+「Mh, mmh......! Njuuuu! Chu, chuuuuuh......!」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0046_r18
+<NAME_PLATE>Asagi
+「Chubu, ju! Chubaah, nguh, kuh, chupuuuh...... Goku, nn...... haah, haah......!」
+<PAUSE>
+<NAME_PLATE>
+　Asagi had continued sucking cum out of his penis, and finally drunk it up to the last drop.
+<PAUSE>
+<NAME_PLATE>
+　And then, once she sensed that semen wouldn't come out anymore, she turned her eyes toward the man's face.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0047_r18
+<NAME_PLATE>Asagi
+「Haah, haah...... Ah, Ah've vinished, yoh dick, cleanin, Goshujin-sama......♪」
+<PAUSE>
+<NAME_PLATE>
+　That voice of Asagi's was sweet and silky.
+<PAUSE>
+<NAME_PLATE>
+　Having heard that, the man made a particularly satisfied-looking smile.
+<PAUSE>
+<NAME_PLATE>Man
+「Well done, Asagi. So then, shall we go on to the usual?」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0048_r18
+<NAME_PLATE>Asagi
+「Y, yes...... Undershtood, Goshujin-sama♪」
+<PAUSE>
+<NAME_PLATE>
+　Asagi said, smiling, and at the same time, the man placed his penis, which he had pulled out, on her head.
+<PAUSE>
+<EV>chr_0084_1k_r18,NONE
+<VOICE_PLAY>chr_0084_1_0049_r18
+<NAME_PLATE>Asagi
+「Ah, ahh...... Goshujin-sama's penis, on my head......♪」
+<PAUSE>
+<NAME_PLATE>
+　Asagi, who had had his penis placed on top of her head like a crown, was making a thoroughly elated double-peace pose.
+<PAUSE>
+<NAME_PLATE>
+　That pose was the very picture of stupidity, and Asagi herself was experiencing humiliation.
+<PAUSE>
+<NAME_PLATE>
+　However, this sight was popular with the viewers, and had now become a traditional pose.
+<PAUSE>
+<NAME_PLATE>Man
+「The first half is almost at an end. You have something to say to me and all the viewers, right?」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0050_r18
+<NAME_PLATE>Asagi
+「Uu...... Y, yes......」
+<PAUSE>
+<NAME_PLATE>
+　Perhaps because she was experiencing considerable shame in her mind, the voice of Asagi, who said so and nodded, was shaking.
+<PAUSE>
+<NAME_PLATE>
+　But even so, Asagi made an awkward smile and pointed her eyes at the camera.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0051_r18
+<NAME_PLATE>Asagi
+「Uh, umm...... First of all, everyone who watched this far, thank you, truly......♪」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0052_r18
+<NAME_PLATE>Asagi
+「Of course, I'm grateful to Goshujin-sama too......♪」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0053_r18
+<NAME_PLATE>Asagi
+「Thank you very much for allowing me to serve you tonight as well.」
+<PAUSE>
+<NAME_PLATE>
+　Asagi said that much, then ended her words for a moment, and made a show of bowing skillfully, so that the penis on top of her head wouldn't fall off.
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0054_r18
+<NAME_PLATE>Asagi
+「T, tonight's stream will continue for a long time yet. Next, at last, I will get to have...... s, sex, with Goshujin-sama.」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0055_r18
+<NAME_PLATE>Asagi
+「Also...... In fact, I've had a lovely, life-lasting tattoo put on my back, so please look forward to that too.」
+<PAUSE>
+<VOICE_PLAY>chr_0084_1_0056_r18
+<NAME_PLATE>Asagi
+「W, well then, thank you for continuing to watch Hideo's pig bitch streams......♪」
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

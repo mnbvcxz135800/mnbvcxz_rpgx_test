@@ -1,0 +1,1441 @@
+//■SR00Xa　　　：【水着】黒田巴02（超人ＳＲ）Ｈ１
+//※声優の方へのお願いにつきまして。
+//　巴と蓮魔の関係は非常に強い愛情と絆で結ばれており、蔑むような言葉や言葉責めを交わす事があっても、
+//　それはプレイの一環であり、またそういった侮蔑表現こそが褒め言葉であるという認識によるものです。
+//　エッチシーン内でハードで恥辱的な台詞がある場合も、本気で嫌ったり蔑んだりしているのではなく、
+//　深い愛情の上で蔑みあっているような印象になるように演技をお願い致します。
+//【黒画面】
+//【ビーチ】
+//※背景素材「水着のシモベ君_nc014a」より流用。
+<BGM_PLAY>bgm208,1000
+<BG>chrnc0133a,IN, 1000
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<VOICE_PLAY>chr_0344_1_0000_r18
+<NAME_PLATE>巴
+「ん～～！　いい天気ですね、蓮魔先生」
+<PAUSE>
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+<VOICE_PLAY>chrr_0344_1_0000_r18
+<NAME_PLATE>零子
+「ああ　絶好のスポーツ日和だな」
+<PAUSE>
+<NAME_PLATE>
+　良く晴れた空の下、
+波打ち際で大きく伸びをする私。
+そして蓮魔先生♪
+<PAUSE>
+<NAME_PLATE>
+　これが二人きりでの
+プライベートビーチ旅行だったなら……
+<PAUSE>
+<NAME_PLATE>
+　今すぐにでも抱きしめ合って、
+キスをかわして、くんずほぐれつ、
+挿れて挿れられて波際の格闘技なのですが。
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>師範代
+「巴さん、我々の方も準備ができました。
+　私の妻もみんなも、気合十分ですよ！」
+<PAUSE>
+<ACTOR>0,chr_t0344a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0344_1_0001_r18
+<NAME_PLATE>巴
+「あ、はい、分かりました」
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<NAME_PLATE>
+　貸し切りにはしてあるものの、
+ここはどこにでもあるような普通のビーチ。
+<PAUSE>
+<NAME_PLATE>
+　そして集まったのは、私が定期的に
+稽古をつけている道場の門下生の人たちを
+中心とした何十人という男女です。
+<PAUSE>
+<GROUP>
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+</GROUP>
+<VOICE_PLAY>chr_0344_1_0002_r18
+<NAME_PLATE>巴
+「皆さんもやる気に満ちているようで
+　私たちも負けていられませんね！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0001_r18
+<NAME_PLATE>零子
+「当然だ。仲間内の交流イベントとはいえ
+　勝負は勝負。勝ちに行くぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0003_r18
+<NAME_PLATE>巴
+「はい！」
+<PAUSE>
+<NAME_PLATE>
+　先生の言葉に私は力強く頷きます。
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>
+　こうして彼らと集まるのは、
+一度や二度ではありません。
+<PAUSE>
+<NAME_PLATE>
+　蓮魔先生のご指導により、
+ふたなりのすばらしさに目覚めた私は、
+それを広く知らせるための活動をしています。
+<PAUSE>
+<NAME_PLATE>
+　その一環として指導している道場の
+門下生とその関係者の方々にも広めた所、
+これが大当たり！
+<PAUSE>
+<NAME_PLATE>
+　道場の公式サイトはすっかりふたなり専用
+アダルト動画ページとなり、愛好者の男性や
+ふたなり志願の女性が押し寄せたのです。
+<PAUSE>
+<NAME_PLATE>
+　そして日に日に増える門下生との交流のため
+こうしてイベントを開いたり団体旅行をしたり
+するようになったというわけです。
+<PAUSE>
+<NAME_PLATE>
+　今日は海への旅行を兼ねて開いた、
+女性、すなわちふたなり門下生限定参加の
+ビーチボール大会。
+<PAUSE>
+<NAME_PLATE>
+　新しく入った女性門下生は非力な人も多く、
+混合にすると男女差が出過ぎるからという、
+蓮魔先生の気遣いによるものです。
+<PAUSE>
+<GROUP>
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+</GROUP>
+<VOICE_PLAY>chrr_0344_1_0002_r18
+<NAME_PLATE>零子
+「……だが、選手として参加できない男性陣は
+　果たして楽しめるのだろうか……か？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0004_r18
+<NAME_PLATE>巴
+「あ、い、いえ……」
+<PAUSE>
+<NAME_PLATE>
+　私の考えを見透かしたかのように……
+いえ、私ごときの考えなど、蓮魔先生なら
+お見通しなのは当たり前でした。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0003_r18
+<NAME_PLATE>零子
+「ふふ、どうやら心配無用なようだぞ。
+　見てみろ」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>
+　指し示された方を見ると、
+そこには男性陣の姿。
+<PAUSE>
+<NAME_PLATE>
+　彼等は落ち込むどころか盛り上がった様子で
+カメラや双眼鏡で眺めまわしています。
+<PAUSE>
+<NAME_PLATE>
+　その先には色とりどりのふたなり美女たち。
+彼等はもう全員、チンポをバキバキに
+勃起させているようです。
+<PAUSE>
+<NAME_PLATE>
+　そうでした、彼等はふたなり愛好者。
+<PAUSE>
+<NAME_PLATE>
+　参加できずともふたなり女性が
+おっぱいとチンポを揺らしながら
+はしゃぐ姿を見るだけでも満足なのでしょう。
+<PAUSE>
+<NAME_PLATE>
+　もちろん大会でたっぷり体を火照らせた後に
+行われるだろう酒池肉林への期待も……。
+<PAUSE>
+<NAME_PLATE>
+　そしてそれは決して彼等だけが
+喜ぶ事ではありません。
+<PAUSE>
+<NAME_PLATE>
+　自らふたなりになりたいという女性は、
+皆生粋のマゾ豚なのですから……
+<PAUSE>
+<NAME_PLATE>
+　男性の熱い視線を浴びて、
+女性陣も彼等に負けないくらい
+チンポを勃てています。
+<PAUSE>
+<GROUP>
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+</GROUP>
+<NAME_PLATE>
+　それはもちろん、蓮魔先生も、私も。
+<PAUSE>
+<NAME_PLATE>
+　この日のために特注した水着は、
+水に濡れると透けるという特殊素材です。
+<PAUSE>
+<NAME_PLATE>
+　だからもう、ふたなり女は誰も彼も、
+股間をカウパー汁でギットギトに濡らし、
+どれだけチンポを滾らせているか一目瞭然。
+<PAUSE>
+<NAME_PLATE>
+　そしてそれを見られているという状況が、
+より一層にチンポを汁まみれにさせて
+見せつける結果になるのです。
+<PAUSE>
+<NAME_PLATE>
+　もちろん試合が始まれば、
+チンポだけでなく
+おっぱいやお尻の穴なんかまで……♪
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0005_r18
+<NAME_PLATE>巴
+「はあ、きっと優勝者はその、
+　昂り切った殿方とふたなり女性の
+　バキバキチンポを独り占めですね……」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0004_r18
+<NAME_PLATE>零子
+「ん？　何を言っている？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0006_r18
+<NAME_PLATE>巴
+「ふぇ？」
+<PAUSE>
+<NAME_PLATE>
+　私のうっとりとした言葉に、
+蓮魔先生はぴくりと眉を跳ねさせました。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0005_r18
+<NAME_PLATE>零子
+「優勝者にご褒美など、あるわけないだろう。
+　戦いは勝って当たり前、負ければ恥辱。
+　そういうものだろう」
+<PAUSE>
+<NAME_PLATE>
+　それはそうかもしれませんが……
+ああ、いえ、もちろん蓮魔先生のお考えに、
+異論などあるはずもないですが。
+<PAUSE>
+<NAME_PLATE>
+　それでもせっかくの余興です。
+何か勝ち負けに差をつけた方が、
+試合も、その後の事も盛り上がるのでは……
+<PAUSE>
+<NAME_PLATE>
+　そう考えると、やはり蓮魔先生は
+私の浅はかな考えなどお見通しのようで、
+ニヤリと笑いました。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0006_r18
+<NAME_PLATE>零子
+「勝者には何もない。だが敗者には、
+　罰ゲームを受けてもらう」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0007_r18
+<NAME_PLATE>零子
+「ギャラリーの前でがに股センズリ。
+　腰ヘコオナニーでアヘるまで絶頂射精。
+　そんな無様な姿を晒してもらう」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0344_1_0007_r18
+<NAME_PLATE>巴
+「ええっ！？」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0008_r18
+<NAME_PLATE>零子
+「それだけではない。
+　アヘった後はギャラリーの慰み者」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0009_r18
+<NAME_PLATE>零子
+「すなわち輪姦凌辱の末、肉便器宣言させる。
+　それは録画され、同時に配信される」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0344_1_0008_r18
+<NAME_PLATE>巴
+「ええええええええええっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　そんなの……そんなのっ！
+<PAUSE>
+<NAME_PLATE>
+　う、うらやましいいいいいぃっ！！
+<PAUSE>
+<NAME_PLATE>
+　私の中のマゾメス豚がはしたない鳴き声を
+上げるのを感じます。
+<PAUSE>
+<NAME_PLATE>
+　でも、私と蓮魔先生が組む以上、
+驕りでもなんでもなく、
+私たちは当然優勝するでしょう。
+<PAUSE>
+<NAME_PLATE>
+　つまりそれは、
+私のマゾチンポを焦らして、
+弄ぶためのルールなのです。
+<PAUSE>
+<NAME_PLATE>
+　その証拠に先生の笑みも先程から、
+意地悪ないじめっ子の笑みになり、
+チンポもエラを張ったドＳ勃起状態です。
+<PAUSE>
+<NAME_PLATE>
+　もちろんその表情とイチモツは見るだけで、
+私の穴という穴とチンポから、
+じゅわーっと汁が溢れるくらい素敵ですが。
+<PAUSE>
+<NAME_PLATE>
+　い、いえ、まだまだ方法はあるはずです。
+<PAUSE>
+<NAME_PLATE>
+　ミスをしたフリをするだとか、
+どこかを痛めたフリをして不戦敗だとか……
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0010_r18
+<NAME_PLATE>零子
+「いいか、巴」
+<PAUSE>
+<NAME_PLATE>
+　ああ、でもやっぱり、蓮魔先生はお見通し。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0011_r18
+<NAME_PLATE>零子
+「この大会、『必ず』優勝するからな。
+　もちろん一点も譲らない、完勝勝ちだ」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0009_r18
+<NAME_PLATE>巴
+「が、ガンバリマスぅ……」
+<PAUSE>
+<NAME_PLATE>
+　蓮魔先生にそう言われて、
+私は逆らえるはずもないのでした。
+<PAUSE>
+//【黒画面】
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　………
+<PAUSE>
+//【ビーチ】
+//	※背景素材「水着のシモベ君_nc014a」より流用。
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm208,1000
+<BG>chrnc0133a,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>師範代
+「優勝、蓮魔・黒田チーム！」
+<PAUSE>
+<GROUP>
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+</GROUP>
+<VOICE_PLAY>chrr_0344_1_0012_r18
+<NAME_PLATE>零子
+「うむ、よくやったぞ巴」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0010_r18
+<NAME_PLATE>巴
+「は、はいぃ、ありがとうございますぅ……」
+<PAUSE>
+<NAME_PLATE>
+　結局私たちは本気を出すまでもなく、
+最後まで勝ち残りきってしまいました。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0013_r18
+<NAME_PLATE>零子
+「ほら見てみろ、
+　敗北した者たちの哀れな姿を」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0011_r18
+<NAME_PLATE>巴
+「あ、あのぉ、お言葉ですが……
+　彼女たち滅茶苦茶喜んでいますよね……」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>
+　敗退したふたなり門下生は、
+我先にギャラリーへと飛び込み、
+そこで無様オナニーを見せつけまくりました。
+<PAUSE>
+<NAME_PLATE>
+　そして散々アヘり倒した後は、
+まだカメラも回っていない内から
+肉便器宣言をしてチンポ懇願。
+<PAUSE>
+<NAME_PLATE>
+　あまりにうらやま……いえ、
+浅ましく情けない姿を晒し悦んでいます。
+<PAUSE>
+<GROUP>
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+</GROUP>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0344_1_0012_r18
+<NAME_PLATE>巴
+「といいますか、私たち以外ほとんど、
+　わざと負けようとしてましたよねっ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0013_r18
+<NAME_PLATE>巴
+「もうゲームセットの笛の前から
+　水着のフチに指かけて、
+　決着と同時に猛ダッシュですよ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0014_r18
+<NAME_PLATE>巴
+「際どいボールを追う時に、
+　あの速さなら間に合ってましたよね！？」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0015_01_r18
+<NAME_PLATE>零子
+「ふふっ……巴、取り乱し過ぎだぞ。
+　対魔忍たる者、涙は簡単に見せるな」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0016_r18
+<NAME_PLATE>巴
+「だって、だってぇ……優勝したのに
+　誰のチンポも貰えないなんて、
+　悲しすぎますぅ……」
+<PAUSE>
+<BGM_STOP>1000
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>
+　私は日頃より、人の手本となるような
+振る舞いを心がけています。
+蓮魔先生の前ならなおさらです。
+<PAUSE>
+<NAME_PLATE>
+　しかしそれを以ってなお、
+チンポお預けは悲しすぎる事態なのです。
+<PAUSE>
+<BGM_PLAY>bgm509,1000
+<GROUP>
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+</GROUP>
+<VOICE_PLAY>chrr_0344_1_0014_r18
+<NAME_PLATE>零子
+「何を勘違いしているんだ？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0017_r18
+<NAME_PLATE>巴
+「……え？」
+<PAUSE>
+<NAME_PLATE>
+　顔を上げると、
+蓮魔先生が狂宴の中心地を眺めています。
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>
+　その表情は私も思わず見惚れてしまう程の、
+ドスケベ変態マゾメスちんぽ豚顔でした。
+<PAUSE>
+<NAME_PLATE>
+　チンポをいただけるのなら
+己が撒き散らした小便すら這いつくばり啜る。
+そんな覚悟を感じさせるドエロ表情……
+<PAUSE>
+<GROUP>
+<ACTOR>0,chr_t0344a_r18,LEFT, LEFT, IN, linear, 1000
+<ACTOR>1,hr_t001a,RIGHT, RIGHT, IN, linear, 1000
+</GROUP>
+<VOICE_PLAY>chrr_0344_1_0015_r18
+<NAME_PLATE>零子
+「私たちがお互いチンポを懇願する時、
+　いつもいちいち試合で決めているか？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0018_r18
+<NAME_PLATE>巴
+「え……それって……！
+　い、いいんですか！
+　勝ってもチンポを欲しがっても……！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0019_r18
+<NAME_PLATE>巴
+「マゾ豚チンポ振り回してコキながら、
+　チンポハメて下さい、ザーメン下さいって、
+　無様に懇願できるんですか！？」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0016_r18
+<NAME_PLATE>零子
+「ああ、できるんだ。
+　……すれば、いいだけだ」
+<PAUSE>
+<NAME_PLATE>
+　女がチンポを立てられるはずがない。
+そんな固定観念は捨てて、
+ふたなりにしてしまえばいい……
+<PAUSE>
+<NAME_PLATE>
+　転じて、勝者はチンポをもらえないなら、
+下さいと懇願すればいい。
+まさにコロンブスの卵的発想！
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0017_r18
+<NAME_PLATE>零子
+「考えてもみろ。負けて痴態を晒し、
+　チンポを恵んでもらったとて、
+　それは不可抗力であり簡単に実現できる」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0018_r18
+<NAME_PLATE>零子
+「だが、絶対王者になる事は簡単ではない。
+　全てを勝ち抜いた一つのチームだけが、
+　至る事の出来る境地だ」
+<PAUSE>
+<NAME_PLATE>
+　そこまで言われれば、
+さすがに私も分かります。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0020_r18
+<NAME_PLATE>巴
+「そんな勝者がチンポ欲しさに、
+　敗者たちに頭を下げて懇願する……
+　勝者のプライドを自ら踏みにじって……！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0019_r18
+<NAME_PLATE>零子
+「そういう事だ。安易に負けるのとは、
+　段違いの屈辱だろうな。
+　勝者に褒美があるとすれば、これだろう」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0020_r18
+<NAME_PLATE>零子
+「メス堕ちにも『格』というものがあるのだ
+　よく覚えておけ」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0021_r18
+<NAME_PLATE>巴
+「はい！」
+<PAUSE>
+<NAME_PLATE>
+　蓮魔先生はいつも、
+未熟な私に道を示して下さっている事を
+ますます実感します。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0022_r18
+<NAME_PLATE>巴
+「あ、で、でも、どうしましょう……」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0021_r18
+<NAME_PLATE>零子
+「どうした？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0023_r18
+<NAME_PLATE>巴
+「私、蓮魔先生以外の、一般の方には、
+　土下座チンポ懇願なんてした事がなくて……
+　何か粗相をしてしまうのでは、と……」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0022_r18
+<NAME_PLATE>零子
+「なんだ、そんな事か」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0024_r18
+<NAME_PLATE>巴
+「う、うぅ、すみません、予習を怠りました」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0023_r18
+<NAME_PLATE>零子
+「いや、そうじゃない。それを言うならば……
+　実は私もまだまだ慣れているとは言えない。
+　至らぬところだらけだろう」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0024_r18
+<NAME_PLATE>零子
+「だが、心配はしていない。
+　隣に巴がいてくれているからな。
+　一緒ならば、怖くはない」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0025_r18
+<NAME_PLATE>巴
+「先生……！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0025_r18
+<NAME_PLATE>零子
+「それにもし粗相があったとしても、
+　そこをネタに蔑んでもらえばいい。
+　だろう？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0026_r18
+<NAME_PLATE>巴
+「…………はいっ！」
+<PAUSE>
+<NAME_PLATE>
+　私は先生の慧眼に感極まって、
+頷くのが精いっぱいです。
+<PAUSE>
+<NAME_PLATE>
+　バレーへの集中で渇きかけて
+パリパリになっていた股間部が、
+再び潤って透けていくのを感じます。
+<PAUSE>
+<NAME_PLATE>
+　先生の股も、先走りと愛液で一気に透けて、
+もう完全にふたなりメス豚モードです。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0026_r18
+<NAME_PLATE>零子
+「さあ、行こう」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0027_r18
+<NAME_PLATE>巴
+「はい！」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>
+　もう恐れはありません。
+私は先生に手を引かれ、
+淫獄の地に歩み出しました。
+<PAUSE>
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　………
+<PAUSE>
+//【SR00xa：黒田巴Ｈシーン１】
+<UI_DISP>OFF, 0
+<BGM_PLAY>bgm724,1000
+<EV>chr_0344_1a_r18,IN, 1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0344_1_0028_r18
+<NAME_PLATE>巴
+「はあ、はあぁぁ……みなさん、
+　私たちにもおチンポくださぁい……。
+　無様オナニーして興奮させますからぁ」
+<PAUSE>
+<NAME_PLATE>男
+「優勝して、
+　そんな事しなくてもいいのにか？」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0029_r18
+<NAME_PLATE>巴
+「そ、そうですぅ……私は自分の意思で、
+　屈辱ド変態オナニーしてチンポをねだる、
+　浅ましい便女なんですぅ……！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0030_r18
+<NAME_PLATE>巴
+「お願いします、お願いしますぅ！
+　巴のザーメンぶっかけられてアヘる、
+　メス豚絶頂顔見て下さいぃいぃ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0027_r18
+<NAME_PLATE>零子
+「あぁぁ……皆さま、私の教え子が、
+　このような無様を晒し申し訳ない」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0028_r18
+<NAME_PLATE>零子
+「それも全て、教師である私の不徳。
+　責任を取り、私も見せつけ腰ヘコオナニーで
+　同じ恥辱を味わわせて……」
+<PAUSE>
+<NAME_PLATE>男
+「ウソつけ！
+　ただ見て欲しいだけだろうが！
+　正直に言え！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chrr_0344_1_0029_r18
+<NAME_PLATE>零子
+「うううっ！　そ、そうです……！
+　聖職者ぶっておきながら本当は私も……！
+　あ、あ、あああああぁっ！」
+<PAUSE>
+<NAME_PLATE>
+　男の人たちに囲まれながら、
+私と蓮魔先生は情けなく勃起したチンポを
+必死で手でごしごしとしごきます。
+<PAUSE>
+<NAME_PLATE>
+　より必死で情けないオナニーに見えるように
+チンポが歪むくらいの力で滅茶苦茶にします。
+<PAUSE>
+<NAME_PLATE>
+　でも痛みなんてありません。
+あるのはただ、快感と興奮のみ。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0031_r18
+<NAME_PLATE>巴
+「あっへ、あへへぇ……あああぁ、ひぃん！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0030_r18
+<NAME_PLATE>零子
+「んほっ、んっ、ん、んほおっ、おほっ！」
+<PAUSE>
+<NAME_PLATE>男たち
+「へへへへ……」
+<PAUSE>
+<NAME_PLATE>
+　いつも清楚ぶって澄ましている女が、
+豚以下の鳴き声を上げチンポを扱く光景に、
+皆さんも興奮してくれたようです。
+<PAUSE>
+<NAME_PLATE>
+　これまで他で撮影や乱交をしていた人たちも
+次々と集まって、
+私たちにチンポを向けてくれます。
+<PAUSE>
+<NAME_PLATE>
+　もちろんそれはチンポだけではありません。
+失望したような、蔑むような視線もです。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0032_r18
+<NAME_PLATE>巴
+「ああぁぁぁ……見ないでぇ、
+　そんな目で私たちを見ないでぇ……
+　んおぉっ、おぉっ！」
+<PAUSE>
+<NAME_PLATE>男
+「見るなと言っても
+　そっちが見せつけてくるんじゃねぇか」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0031_r18
+<NAME_PLATE>零子
+「そうだ、見られたいと言ったのは私たち。
+　どんな風に蔑まれようと、耐えるんだ。
+　んうっ、くうぅぅ、おほぉっ♪」
+<PAUSE>
+<NAME_PLATE>
+　見ないでだとか、
+耐えるだとか、
+心にもない事を言う私たち。
+<PAUSE>
+<NAME_PLATE>
+　もちろんその言葉は、
+より気持ちよくなるための演出に
+他なりません。
+<PAUSE>
+<NAME_PLATE>男たち
+「これがあの黒田流随一の剣士だって？」
+「教師だぁ？　人間以下のクセによぉ」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0033_r18
+<NAME_PLATE>巴
+「うっ、うっ……い、いぁっ、ああっ！」
+<PAUSE>
+<NAME_PLATE>
+　そしてそれは彼等も同じです。
+<PAUSE>
+<NAME_PLATE>
+　失望の視線も、蔑みの言葉も、
+それが私たちをより一層興奮させ、
+より気持ちよくなると知っての事なのです。
+<PAUSE>
+<NAME_PLATE>
+　その証拠に、どんな視線を向けようと、
+決して目は離さず、チンポを扱く手は
+止まるどころかますます激しくなっています。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0034_r18
+<NAME_PLATE>巴
+「ああぁぁ、すごいぃ……すんすん……！
+　んほあああぁっ、ちんぽっ、
+　ちんぽ臭しゅごっ、興奮しゅるぅっ！」
+<PAUSE>
+<NAME_PLATE>
+　屋外でもこんな風にチンポの壁で
+囲まれたら、ニオイも熱気も篭りっぱなし。
+<PAUSE>
+<NAME_PLATE>
+　濃密なチンカス臭、小便臭、先走り臭……！
+<PAUSE>
+<NAME_PLATE>
+　そんな中に混じる、青臭い饐えたニオイ。
+ザーメンの、ニオイ！
+<PAUSE>
+//【SR00xb：黒田巴Ｈシーン１＿スパート】
+<EV>chr_0344_1b_r18,NONE
+<VOICE_PLAY>chr_0344_1_0035_r18
+<NAME_PLATE>巴
+「はぁ、はぁ……あああぁ、飲みたぁい、
+　飲ませてぇぇ……」
+<PAUSE>
+<NAME_PLATE>
+　私の手がさらに激しさを増し……
+マラ先からは小便のようにカウパー汁を
+撒き散らし、舌をれろれろと突き出します。
+<PAUSE>
+<NAME_PLATE>
+　さっきから喉が渇いて仕方ありません。
+<PAUSE>
+<NAME_PLATE>
+　でもそれは暑さのせいでも、
+運動のせいでもありません。
+<PAUSE>
+<NAME_PLATE>
+　周囲のチンポの射精の感じ取った
+私のメス豚本能が、出された精液を一滴でも
+多く飲みたいと叫ぶ飢餓感のせい。
+<PAUSE>
+<NAME_PLATE>
+　本当の渇きなら、本当の飢えなら、
+一か月でも二ヵ月でも耐え切る対魔忍の肉体。
+<PAUSE>
+<NAME_PLATE>
+　だけどザーメンの渇き、チンポの飢えは、
+一秒たりとも我慢できない、待ちきれない！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0344_1_0036_r18
+<NAME_PLATE>巴
+「あっ、おっ、おんっ！　おおぉっ！
+　ま、負けるっ、チンポに負けるぅっ！
+　勝負に勝って、チンポに負けますぅっ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0032_r18
+<NAME_PLATE>零子
+「今更何を言っているんだ……んっ、おっ！
+　巴、私たちはとっくに負けているぅっ」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0033_r18
+<NAME_PLATE>零子
+「メス豚は産まれた時から、
+　メス豚なんだからな……！
+　おおぉぉおっ、ち、チンポおおぉっ！」
+<PAUSE>
+<NAME_PLATE>
+　先生の言葉に、
+私のマラ肉がビクンと震えます。
+<PAUSE>
+<NAME_PLATE>
+　ああ、私、完全に敗北と屈服の魅力に、
+憑りつかれちゃっています……！
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0037_r18
+<NAME_PLATE>巴
+「ほっ、ほっ、ほっ、んほっ、ほっ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0034_r18
+<NAME_PLATE>零子
+「はぁっ、はっ、はっ、はっ！」
+<PAUSE>
+<NAME_PLATE>
+　早く、早く射精するところを見られたい！
+そしてみんなが射精するところを見たい！
+<PAUSE>
+<NAME_PLATE>
+　もうそれだけしか考えられなくて、
+猿のようにチンポを扱くだけになり……
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0038_r18
+<NAME_PLATE>巴
+「見て、見て、見て……見てえええぇっ！
+　ふたなりチンポから無駄打ちザーメン、
+　ヘコヘコって腰振り射精するの、見てっ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0035_r18
+<NAME_PLATE>零子
+「ああっ、射精してくれっ、私たちの
+　ブザマでいやらしい姿でイッてくれっ！
+　ザーメンぶっかけてぇっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0039_r18
+<NAME_PLATE>巴
+「イクっ、いくいくっ、いくっいくっいく！
+　イクうううううううううううぅっ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0036_r18
+<NAME_PLATE>零子
+「イッてっ、イッてイッて！
+　イッてえええええええええぇっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0040_r18
+<NAME_PLATE>巴
+「――――あっ！」
+<PAUSE>
+//【SR00xc：黒田巴Ｈシーン１＿射精１回目】
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0344_1c_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　どっぴゅうううううううううううぅっ！
+びゅっ、びゅびゅうっ！　どぴゅっ！
+びゅるびゅぅっ、びゅうううぅっ！
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0041_r18
+<NAME_PLATE>巴
+「う゛ううぅーーーーーーー！
+　うっ、う、うううううぅうぅっ！」
+<PAUSE>
+<NAME_PLATE>
+　全身を稲妻が貫いたかのような、
+強烈な射精絶頂。
+<PAUSE>
+<NAME_PLATE>
+　イッたら言おうとしていた、
+メス豚敗北宣言は圧倒的な快楽に
+消し飛んでしまいました。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0042_r18
+<NAME_PLATE>巴
+「おんっ、おっ、お゛おおおおおぉっ！
+　気持ちいいっ、いぐっ、気持ちいいっ！
+　いっぐっ、気持ち、イクううううぅっ！」
+<PAUSE>
+<NAME_PLATE>男たち
+「うぐぐぅ、この、変態メス豚どもがぁっ！
+　うううううぅっ！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　びゅうううぅっ！　びちゃっ、ぶちゅっ！
+びゅっびゅ！　びゅるるっ！　びちゃあ！
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0043_r18
+<NAME_PLATE>巴
+「あ゛あああぁーーーーーーーーー！！
+　ぎぼぢいいいいいいいいぃっ！！」
+<PAUSE>
+<NAME_PLATE>
+　さらに周りの男性たちも次々に射精して、
+それが私の体にぶつかり弾けると、
+もうその熱さと勢いに痺れてしまいます。
+<PAUSE>
+<NAME_PLATE>
+　射精中だというのに狂ったように
+チンポを扱きながら絶叫。
+<PAUSE>
+<NAME_PLATE>
+　まるでチンポを見せつけるように背を反らし
+腰を突き出し、所かまわず白濁汁を撒き散らし
+まさに豚です。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0037_r18
+<NAME_PLATE>零子
+「あっあっ、ああぁっ！　も、もっと！
+　もっとかけて……！　んんううぅっ！
+　ザーメンひっかけてくれ……っ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0038_r18
+<NAME_PLATE>零子
+「はぁー、はぁー、精液を感じる程、
+　ふたなりザーメン噴いてしまう、
+　失格教師を精液便所にしてくれぇっ！」
+<PAUSE>
+<NAME_PLATE>
+　そんな中、私と同じくらい強烈な快感に
+見舞われているはずの蓮魔先生は、
+あまりに堂々と屈服懇願を口にします。
+<PAUSE>
+<NAME_PLATE>
+　それは聞いてるだけで、私の、
+周りの男性の射精量を増させる程の
+負け豚口上です。
+<PAUSE>
+<NAME_PLATE>
+　そしてその気持ちは、寸分違わず私と同じ。
+このように快楽に堕ちてもなお、
+先生と私は一緒なのだと嬉しくなります。
+<PAUSE>
+<NAME_PLATE>
+　そして同時に翻弄されっぱなしな私への
+叱咤激励にも聞こえるのです。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0039_r18
+<NAME_PLATE>零子
+「あっ、あ……巴……んんっ！
+　これで、満足か？　堪能したか？」
+<PAUSE>
+<NAME_PLATE>
+　そんな事はありません。
+全身白濁まみれになっても、何度イッても……
+<PAUSE>
+<NAME_PLATE>
+　私の飢えは、渇きは、おさまらない……！
+<PAUSE>
+<NAME_PLATE>
+　それはつまり、蓮魔先生も同じ。
+ここで私が勇気を出さなければ、
+先生を飢えさせたままになってしまう！
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0044_r18
+<NAME_PLATE>巴
+「あぁぁぁ、く、くだ、さいっ！
+　お願いしますっ、ちんぽくださいっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0045_r18
+<NAME_PLATE>巴
+「もう、精液だけじゃ足りません……！
+　あっあ！　直接ぅ、ちんぽぉ……！
+　しゃぶらせて……あああぁっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0046_r18
+<NAME_PLATE>巴
+「生チンポ、べろべろって舐めて、
+　じゅぼじゅぼ咥えて、おしっこ残滓と
+　チンカスと精液のカクテル、飲みたいぃっ」
+<PAUSE>
+<NAME_PLATE>
+　目いっぱい媚びた奴隷メスの声で、
+心の中で土下座平伏しながら叫びます。
+<PAUSE>
+<NAME_PLATE>
+　快感で痺れて動けない分、
+敗北の意思は伝わるように、徹底的に
+下手に出て、卑下した言葉を紡ぎます。
+<PAUSE>
+<NAME_PLATE>
+　そしてその想いが伝わったのか……
+<PAUSE>
+<NAME_PLATE>男たち
+「へっ、そこまで言われたらなぁ」
+「おう、しゃぶれや。丁寧にな」
+<PAUSE>
+<NAME_PLATE>
+　道場の門下生でも付き合いの長い二人が、
+淫悦で動けない私たちに代わって歩み寄り、
+自らチンポを突き出してくれました。
+<PAUSE>
+//【SR00xd：黒田巴Ｈシーン１＿フェラ】
+<EV>chr_0344_1d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0344_1_0047_r18
+<NAME_PLATE>巴
+「んぐっ、ぶっ、ごぶっ、お゛おっ、
+　んじゅるるる、じゅぶっ、じゅううっ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0040_r18
+<NAME_PLATE>零子
+「んぐっ、んむっ、じゅるる……ぐぶっ！
+　ぐっぽぐっぽっ……んぶぶぅっ！」
+<PAUSE>
+<NAME_PLATE>
+　私たちは待ちきれないように舌を突き出し、
+僅かにでも触れるとれろれろとしゃぶり寄せ、
+口内まで到達すると唇を閉じます。
+<PAUSE>
+<NAME_PLATE>
+　そして二度と離すまいとするように、
+舌で、唇で、頬で、絡みつき、吸い付く。
+<PAUSE>
+<NAME_PLATE>
+　するとこれまで散々他のふたなり女性に
+しゃぶり尽くされハメ尽してきたにも拘わらず
+いまだ濃厚なチンカス小便の味が広がります。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0048_r18
+<NAME_PLATE>巴
+「んんっ、れろれええぇぇ……へふっ、はふ！
+　んじゅるぶっ、じゅるるっ！」
+<PAUSE>
+<NAME_PLATE>
+　私はカップアイスの蓋の裏を
+はしたなく舐めるように、その味とニオイを、
+全部こそげ取るつもりでしゃぶり尽くします。
+<PAUSE>
+<NAME_PLATE>
+　しかしそれでもまだ渇きは癒えません。
+<PAUSE>
+<NAME_PLATE>
+　それどころかもっと新鮮で、もっと熱い、
+直出しザー汁が欲しいと思ってしまいます。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0049_r18
+<NAME_PLATE>巴
+「んん～～～……じゅるるじゅぶれろっ！
+　れろれろれろぉおぉぉ……じゅるっ！」
+<PAUSE>
+<NAME_PLATE>
+　口を塞がれてしまい、
+もう言葉でチンポをねだる事はできません。
+<PAUSE>
+<NAME_PLATE>
+　だけれどその分、顔がブサイクに歪むのも
+構わないくらいのガッツリフェラで、
+口内射精を懇願して……
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0041_r18
+<NAME_PLATE>零子
+「んぶぼっ、ん゛ぶひいぃいっ、
+　ふごっ、ふごっ……じゅるっ！　ぶひぃ！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0050_r18
+<NAME_PLATE>巴
+「……！」
+<PAUSE>
+<NAME_PLATE>
+　その時、隣から聞こえてきた、
+あまりに下品で無様な鳴き声に、
+私はびゅるっと亀頭から残り汁を噴きました。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0042_r18
+<NAME_PLATE>零子
+「くっちゃくっちゃ……ぶひいいぃんっ！
+　じゅぶぶぅ、じゅるっ、れろおぉおっ！」
+<PAUSE>
+<NAME_PLATE>
+　ふごふごと鼻息荒く、
+必死でチンポに食らいつく貪欲な姿は、
+まさに豚です。
+<PAUSE>
+<NAME_PLATE>
+　私は気持ちよくさせる事でしか、
+射精をおねだりできないと思い込んでいた
+自分を恥じます。
+<PAUSE>
+<NAME_PLATE>
+　何しろ先生の豚面豚声フェラは、
+隣にいる私ですら射精してしまいそうな程、
+エロく無様なんですから。
+<PAUSE>
+<NAME_PLATE>
+　しゃぶられている彼は、もう傅き縋る豚を
+どうやってザーメンに溺れさせるかしか、
+頭になくなっているはずです。
+<PAUSE>
+<NAME_PLATE>
+　その視線はもはや人間を蔑むどころか、
+家畜に向けられるそれです。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0051_r18
+<NAME_PLATE>巴
+「ぶっひっ、ぶひっ！　ふごっ！　じゅるっ！
+　ぶひぶひいぃっ！　ふんごおおぉっ！」
+<PAUSE>
+<NAME_PLATE>
+　私も見習わなければと、
+出せる限りの無様な声色で鳴き、
+しゃぶります。
+<PAUSE>
+<NAME_PLATE>
+　その時、蓮魔先生はどこか、
+にやっと笑ったかのように見えました。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0043_r18
+<NAME_PLATE>零子
+「じゅるるるうぅっ！　ぶひいぃっ！
+　ちゅばっ、ちゅばっ、ぶひひいぃっ！」
+<PAUSE>
+<NAME_PLATE>
+　そして「ついてこれるか？」と
+言わんばかりにより激しく、より強く、
+チンポに吸い付いていきます。
+<PAUSE>
+<NAME_PLATE>
+　豚声を上げる時に唇を震わせていて、
+先生のぷるんとした唇でそんな風にされたら、
+チンポに響いてたまらないでしょう。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0052_r18
+<NAME_PLATE>巴
+「んぶるるるっ、ぐっぽっ、じゅっぽん！
+　じゅるるるるるるるるううぅっ！
+　ぶひひいいいいっ！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0044_r18
+<NAME_PLATE>零子
+「ぶひっ、ふごっ、ふごごおぉっ！
+　ごっごっ！　じゅるるるっ、れろぉっ！」
+<PAUSE>
+<NAME_PLATE>
+　私と先生は競い合うように、
+高め合うように、鳴き声を上げまくります。
+<PAUSE>
+<NAME_PLATE>
+　その光景に周囲も生唾を飲み、
+熱気はさらに上昇。
+<PAUSE>
+<NAME_PLATE>
+　出し過ぎてさすがに休憩していた人たちも、
+いつの間にか我先にと押し寄せ、
+ガチガチに勃起したチンポをしごいています。
+<PAUSE>
+<NAME_PLATE>
+　ましてしゃぶられている人は、
+たまらないはずです。
+<PAUSE>
+<NAME_PLATE>
+　先走りの味が濃くなって、
+亀頭が熱くなって、カリが張って、
+金玉がきゅーってせり上がる音が聞こえて……
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0053_r18
+<NAME_PLATE>巴
+「んんーーーーーーーーーーーっ！！」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0045_r18
+<NAME_PLATE>零子
+「ぶじゅるうううぅ……ぐぶっ、ごっ！」
+<PAUSE>
+<NAME_PLATE>
+　もうあと数瞬での射精。
+それを感じ取った私は豚の鳴き声をやめ、
+一気に喉奥までチンポを飲み込みます。
+<PAUSE>
+<NAME_PLATE>
+　チンポ全部をメス肉でぴっちり包み込み、
+ザーメンを恵んで下さるお礼のご奉仕。
+<PAUSE>
+<NAME_PLATE>
+　それを私と蓮魔先生は、
+まるで見計らったように、同時にしました。
+<PAUSE>
+<NAME_PLATE>
+　早く、早く飲ませて……！
+<PAUSE>
+<NAME_PLATE>男
+「う、う、うおおおおおおおおおっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0054_r18
+<NAME_PLATE>巴
+「――っ！！」
+<PAUSE>
+//【SR00xe：黒田巴Ｈシーン１＿射精二回目】
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0344_1e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　びゅるううぅっ、びゅるりっ！　びゅっ！
+びちびちっ！　ぶりゅっ、びっ、びゅう！
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0055_r18
+<NAME_PLATE>巴
+「んんぐうううぅっ、ごくっ！　ごくっ！
+　んおおおぉっ、おっ、ほっ、お゛おぉ！」
+<PAUSE>
+<NAME_PLATE>
+　まるで爆発したかのように、
+私の頭の中で爆ぜる射精チンポ。
+<PAUSE>
+<NAME_PLATE>
+　女の口内容量などお構いなしに、
+容赦なくなだれ込むザーメンの奔流。
+<PAUSE>
+<NAME_PLATE>
+　飢え切った私は、味わう余地もそこそこに、
+喉を鳴らしてドボドボと胃に流し込み、
+じわーっと胃液に溶け込む感覚に恍惚とする。
+<PAUSE>
+<NAME_PLATE>
+　だけれど、飲んでも飲んでも飲み干せない、
+予想以上の量とニオイのキツさ。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0056_r18
+<NAME_PLATE>巴
+「おっぐっ、ごぼっ！　うぶっ！
+　おご……おげぇっ！　んぐっ、ごくっ！」
+<PAUSE>
+<NAME_PLATE>
+　噎せかえり、咳き込み、せっかくの精汁を
+口から鼻から、無様に零してしまう。
+<PAUSE>
+<NAME_PLATE>男たち
+「ううううぅっ！　豚がぁっ！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　びゅるうううううううううぅっ！
+どびゅうううううううぅぅっ！
+<PAUSE>
+<NAME_PLATE>
+　だけどそれが幸いにも、
+周りの人の興奮を煽り立てたみたいです。
+<PAUSE>
+<NAME_PLATE>
+　先程以上に熱く大量のザーメンが、
+好き勝手に巴便所にコキ捨てられていくのを
+感じます。
+<PAUSE>
+<NAME_PLATE>
+　そして気づけば私のチンポも、
+出された分だけ排泄するかのように、
+ザーメンをヒリだしていました。
+<PAUSE>
+<NAME_PLATE>
+　その時ようやく私は、あれほど悶えた
+チンポ射精快楽に気づかない程の、
+恥辱絶頂に陥っているのだと気づきます。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0046_r18
+<NAME_PLATE>零子
+「お゛おおおおおおおおぉんっ！
+　おおおおぉっ！　ほおおおおぉおっ！」
+<PAUSE>
+<NAME_PLATE>
+　蓮魔先生はそれに最初から気づいていたのか
+口内ザーメン、ぶっかけザーメン、
+オナニー射精を全て味わうかのように……
+<PAUSE>
+<NAME_PLATE>
+　理性をトばして家畜メスのように
+野太いアクメ声を上げています。
+<PAUSE>
+<NAME_PLATE>
+　ああ、これこそが先生がおっしゃっていた、
+『格の違う』快楽堕ちなのですね……
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0057_r18
+<NAME_PLATE>巴
+「いぐっ、いぐ……イクぐうううぅっ！
+　んっほおおおおおおおおぉぉっ！」
+<PAUSE>
+<NAME_PLATE>
+　先生に遅ればせながらもその境地に
+至った私は、意識をトばし、
+快楽に身を委ねます。
+<PAUSE>
+<NAME_PLATE>
+　その後の、何分続いたのか分からない、
+もしかしたら何時間も続いていたかのような、
+至福のアクメ時間は……
+<PAUSE>
+<NAME_PLATE>
+　これまでのただの敗北アクメ堕ちでは
+味わえない桃源郷だったのでした。
+<PAUSE>
+//【黒画面】
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　………
+<PAUSE>
+//【SR00xf：黒田巴Ｈシーン１＿余韻】
+<UI_DISP>OFF, 0
+<BGM_PLAY>bgm724,1000
+<EV>chr_0344_1f_r18,IN, 1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0344_1_0058_r18
+<NAME_PLATE>巴
+「はぁ、はぁ……はああぁぁ……」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0059_r18
+<NAME_PLATE>巴
+「先生、これ……気持ち良すぎます。
+　勝負に勝ってチンポに負ける、
+　泥塗り敗北アクメ、クセになりそうです」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0047_r18
+<NAME_PLATE>零子
+「ははは、私はもうクセになるどころか、
+　これがなくては生きていけないくらいだよ」
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0048_r18
+<NAME_PLATE>零子
+「だが、これは誰に迷惑をかけるでもない。
+　むしろ皆を幸せにする中毒だ」
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0060_r18
+<NAME_PLATE>巴
+「あは……そうですね……」
+<PAUSE>
+<NAME_PLATE>
+　私と蓮魔先生は、べっとりと精液を
+こびりつかせた口で笑い合います。
+<PAUSE>
+<NAME_PLATE>
+　先生のおっしゃる通り、
+周りの人々も皆嬉しそうに笑っています。
+<PAUSE>
+<NAME_PLATE>
+　ああ、本当にこの大会を開いて――
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0344_1_0061_r18
+<NAME_PLATE>巴
+「えっ……ひゃん！？」
+<PAUSE>
+<NAME_PLATE>
+　今日のこの出来事を
+まとめに入ろうとしていたら、
+突然勃起チンポを突き出されました。
+<PAUSE>
+<NAME_PLATE>
+　あれだけ出したというのに、
+皆さんまだまだ肉棒を滾らせています。
+<PAUSE>
+<NAME_PLATE>
+　いえ、ザーメンまみれの私たちの痴態で、
+むしろ始まる前よりも、
+興奮が高まっているようです。
+<PAUSE>
+<VOICE_PLAY>chr_0344_1_0062_r18
+<NAME_PLATE>巴
+「あぁぁん……くっさぁい……あはぁ……」
+<PAUSE>
+<NAME_PLATE>
+　自分でもゾクゾクするような、媚びきった
+奴隷メス豚声を上げます。
+<PAUSE>
+<NAME_PLATE>
+　イッたあとの気だるげな恍惚感が、
+オスの逞しいチンポ臭を嗅いで、
+疼くような獣欲に変わっていくのを感じます。
+<PAUSE>
+<NAME_PLATE>
+　改めて自分がメスなのだと……
+チンポが生えているだけの
+ただのメス豚肉便器なのだと、思い知る。
+<PAUSE>
+<VOICE_PLAY>chrr_0344_1_0049_r18
+<NAME_PLATE>零子
+「あぁぁ、チンポ……チンポくださぁい……」
+<PAUSE>
+<NAME_PLATE>
+　それは蓮魔先生も同じのようです。
+<PAUSE>
+<NAME_PLATE>
+　勝利と敗北。その両方を同時に感じるのは、
+何と甘美な禁断の果実なのでしょう。
+<PAUSE>
+<NAME_PLATE>
+　私はその栄誉をうやうやしく賜るように、
+差し出された亀頭を舌の上で転がすのでした。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

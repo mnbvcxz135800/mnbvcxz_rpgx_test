@@ -1,0 +1,2286 @@
+//■EV002a　未来アスカＨ２
+//----------------------------------------------------------------
+//作成者：そのだまさき
+//----------------------------------------------------------------
+//【背景：見知らぬ部屋＿夜】【時間：夜】
+//　※監獄アカデミア_NC015aより流用
+<BG>nc167a,IN, 1000
+<VOICE_PLAY>chr_0330_2_0000_r18
+<NAME_PLATE>アスカ
+「で、どうしてくれるの？」
+<PAUSE>
+//【イベント絵：EV002a　 未来アスカＨ２】【時間：夜】
+<NAME_PLATE>俺
+「じゃあまあ普通に……」
+<PAUSE>
+<BGM_PLAY>bgm310,1000
+<EV>chr_0330_2a_r18,IN, 1000
+<NAME_PLATE>
+　俺の知っているアスカより年上で、
+見た目は若くなった未来のアスカを
+とりあえず仰向けに押し倒す。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0001_r18
+<NAME_PLATE>アスカ
+「きゃっ」
+<PAUSE>
+<NAME_PLATE>
+　今よりちょっと甲高い、
+見た目相応の声を出すアスカの足を掴み、
+よいしょと左右に広げてやる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0002_r18
+<NAME_PLATE>アスカ
+「ふあんっ」
+<PAUSE>
+<NAME_PLATE>
+　アスカは甘えたように身をよじるが
+ちょっと俺を非難するような目になる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0003_r18
+<NAME_PLATE>アスカ
+「正常位でするつもりなのね。
+　ふ、ふーん……」
+<PAUSE>
+<NAME_PLATE>俺
+「ダメか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0004_r18
+<NAME_PLATE>アスカ
+「ダメじゃないけどすっごい普通。
+　せっかくこの私が誘ってあげてるのに……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0005_r18
+<NAME_PLATE>アスカ
+「あのさ、ゆきかぜとも
+　その……したの？　正常位で」
+<PAUSE>
+<NAME_PLATE>俺
+「…………」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0006_r18
+<NAME_PLATE>アスカ
+「あっ、やっぱなし。今の忘れて。
+　聞きたくない」
+<PAUSE>
+<NAME_PLATE>俺
+「じゃあ、聞くなよ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0007_r18
+<NAME_PLATE>アスカ
+「しょ、しょうがないでしょ。
+　やっぱり気になるんだもん。
+　あの子に遅れをとっちゃってるし」
+<PAUSE>
+<NAME_PLATE>俺
+「そういうとこ変わらないな。
+　年を取って、身体が小さくなっても」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0008_r18
+<NAME_PLATE>アスカ
+「ちょっと。
+　年を取ったも身体が小さくなったも禁止。
+　これでも気にしてるんだから」
+<PAUSE>
+<NAME_PLATE>俺
+「でもやっぱり気になるよ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0009_r18
+<NAME_PLATE>アスカ
+「そりゃそうだろうけどさ」
+<PAUSE>
+<NAME_PLATE>
+　アスカは気まずそうに目を逸らす。
+<PAUSE>
+<NAME_PLATE>
+　さっきからやたらと口数が多い。
+それは緊張を隠すためのように思えた。
+<PAUSE>
+<NAME_PLATE>
+　その証拠に触れたら壊れてしまいそうな
+華奢な身体が小さく震えている。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0010_r18
+<NAME_PLATE>アスカ
+「そんな目で見ないでよ。
+　この身体であなたとできるのは、
+　私的には結構ありだし」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0011_r18
+<NAME_PLATE>アスカ
+「ゆきかぜは怒るだろうけど」
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜのことは言わない約束だろ？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0012_r18
+<NAME_PLATE>アスカ
+「わ、分かってるわよ。
+　でもやっぱり―――んうっ！？」
+<PAUSE>
+<NAME_PLATE>
+　また何か言いかけるアスカの唇を
+俺は自分のそれで塞いだ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0013_r18
+<NAME_PLATE>アスカ
+「んっ……ちょっ、ふうまぁ……」
+<PAUSE>
+<NAME_PLATE>俺
+「今のお前、可愛いな、アスカ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0014_r18
+<NAME_PLATE>アスカ
+「ば……ばか、んんっ……んっ
+　年上の女に言う……ンッ……
+　セリフじゃないわよ……あっ……」
+<PAUSE>
+<NAME_PLATE>
+　アスカは文句を言いつつも
+俺のキスには素直に応じてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0015_r18
+<NAME_PLATE>アスカ
+「あんたとの……キス……初めて……
+　嬉しい……んっ……んっ……あぁン……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0016_r18
+<NAME_PLATE>アスカ
+「んちゅっ……んっふっ……
+　んく……ちゅっちゅっ……んちゅっ」
+<PAUSE>
+<NAME_PLATE>
+　唇と唇、舌と舌が絡まり合い、
+ピチャピチャと卑猥な音を立てる。
+<PAUSE>
+<NAME_PLATE>俺
+「この身体、触るぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0017_r18
+<NAME_PLATE>アスカ
+「う、うん……
+　小さすぎて驚かないでね」
+<PAUSE>
+<NAME_PLATE>俺
+「胸は十分に大きいな。
+　ゆきかぜが怒るくらいに」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0018_r18
+<NAME_PLATE>アスカ
+「うふっ、そうね……」
+<PAUSE>
+<NAME_PLATE>
+　というわけで、
+俺の知るアスカよりは胸よりは小さいが、
+それでも十分に大きい胸にまず触れる。
+<PAUSE>
+<NAME_PLATE>
+　二つの膨らみに両の掌を当てると
+意外なほどしっかりとした肉感が
+伝わってくる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0019_r18
+<NAME_PLATE>アスカ
+「あっ……んっ……ああっ……
+　ふああ……ふうまの手……大きい……
+　それに……暖かい……ああっ……」
+<PAUSE>
+<NAME_PLATE>
+　アスカは早くも甘えた声を出して、
+切なそうに身をよじった。
+<PAUSE>
+<NAME_PLATE>俺
+「対魔忍スーツの上からだからかな。
+　胸ってもっと柔らかいのかと思ってた」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0020_r18
+<NAME_PLATE>アスカ
+「そ、それは……んっあっ……
+　わたし、成長期……だからあっ……」
+<PAUSE>
+<NAME_PLATE>俺
+「そうなのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0021_r18
+<NAME_PLATE>アスカ
+「今……せ、成長期で……あんっ……
+　大人のおっぱいになる……寸前は
+　ああんっ、一番固く……なるの……」
+<PAUSE>
+<NAME_PLATE>俺
+「そうなのか。さすが経験者」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0022_r18
+<NAME_PLATE>アスカ
+「そ、そうよっ……二度目……だもん。
+　だからっ……あっ、ああっ……
+　優しく……あっ、揉んで……」
+<PAUSE>
+<NAME_PLATE>俺
+「こんな感じか？」
+<PAUSE>
+<NAME_PLATE>
+　切なそうなアスカのリクエストに応えて、
+成長期で一番固くなっているという乳房を
+ゆっくりゆっくり捏ねていく。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0023_r18
+<NAME_PLATE>アスカ
+「あっ、そうっ、そうそう……
+　あっ、イイ……すごくイイ……
+　おっぱい……感じちゃう……ふうまぁ」
+<PAUSE>
+<NAME_PLATE>俺
+「感じてるのは分かるよ。
+　さっきさんざん俺の乳首を責めたが、
+　アスカこそもうカチカチだぞ」
+<PAUSE>
+<NAME_PLATE>
+　二つの乳首が固くしこって、
+対魔忍スーツが不自然なほどに
+ぷっくり浮き上がっている。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0024_r18
+<NAME_PLATE>アスカ
+「なっ、なによぉ……
+　んんっ……文句、あるのぉ……！？」
+<PAUSE>
+<NAME_PLATE>俺
+「ないな。可愛いだけだ」
+<PAUSE>
+<NAME_PLATE>
+　俺は二つの卑猥なポッチを指で摘まみ、
+さっきの恨みを多少込めてキュッと捻った。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0025_r18
+<NAME_PLATE>アスカ
+「ああんんっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「イイ声が出たな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0026_r18
+<NAME_PLATE>アスカ
+「ちょっ、イイ声ってバカ……
+　やっだめ、それだめ―――」
+<PAUSE>
+<NAME_PLATE>俺
+「今度は俺が責める番だろ？」
+<PAUSE>
+<NAME_PLATE>
+　キュッ、キュッ、キュキュッと
+敏感な乳首を連続して虐めてやる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0027_r18
+<NAME_PLATE>アスカ
+「そうだけどっ、そうだけどぉっ！！
+　ああっン、いきなりそれ責めすぎっ！
+　ダメダメっ、乳首そんな捻っちゃらめぇ！」
+<PAUSE>
+<NAME_PLATE>
+　アスカは小刻みに甲高い悲鳴を上げて、
+腰をひくんひくんと浮き上がらせた。
+<PAUSE>
+<NAME_PLATE>
+　そのイヤらしい腰ふりで、
+オマンコのムワッとするような匂いが
+対魔忍スーツの股間から漂ってくる。
+<PAUSE>
+<NAME_PLATE>
+　そこは染みだした愛液でじっとりと
+呆れるくらいに黒ずんでいる。
+<PAUSE>
+<NAME_PLATE>俺
+「ここももうとっくに濡れ濡れだな」
+<PAUSE>
+<NAME_PLATE>
+　俺は片手で乳首弄りを続けながら、
+もう片手でスーツの上から股間を
+そろりと撫でた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0028_r18
+<NAME_PLATE>アスカ
+「んぅうううっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカは全身をキュンとすくませて、
+今度は出そうになった嬌声を押し殺した。
+<PAUSE>
+<NAME_PLATE>俺
+「なあ、どうなんだ？
+　俺のチンポをしゃぶって濡らしてたのか？」
+<PAUSE>
+<NAME_PLATE>
+　俺が責めろと言われているので、
+少し芝居がかった口調で言葉責めしながら、
+<PAUSE>
+<NAME_PLATE>
+　はしたなく濡れた対魔忍スーツを
+指で割れ目にグイグイと食い込ませる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0029_r18
+<NAME_PLATE>アスカ
+「ひああっン、そうよおっ。
+　すごい濡らしてたわよぉっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「いやらしいオマンコだな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0030_r18
+<NAME_PLATE>アスカ
+「しょ、しょうがないでしょっ！
+　初めてのふうまのチンポなんだからっ。
+　私だってオマンコ濡れちゃうわよぉ！」
+<PAUSE>
+<NAME_PLATE>
+　アスカも結構その気になっているらしく、
+イヤイヤと身悶えしながら白状した。
+<PAUSE>
+<NAME_PLATE>俺
+「俺のチンポ、欲しいのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0031_r18
+<NAME_PLATE>アスカ
+「ああっ、欲しいっ……欲しい……
+　ふうまのチンポ欲しい……すごく欲しい。
+　もうどうにかなりそう……ああっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0032_r18
+<NAME_PLATE>アスカ
+「あんまり……焦らさないでぇ……
+　もうずっとその気になってるんだからぁ……
+　ずっと待ってたんだから……ふうまぁ」
+<PAUSE>
+<NAME_PLATE>
+　これ以上ないくらい
+切なそうな目でねだられ、
+俺も我慢ができなくなった。
+<PAUSE>
+//【イベント絵：EV002b　未来アスカＨ２＿差分１】【時間：夜】
+<NAME_PLATE>俺
+「このナイフ、借りるぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0033_r18
+<NAME_PLATE>アスカ
+「えっ？　私のナイフ？
+　ちょっなに？　あっ、ンッッ！！
+　ああーーーっ」
+<PAUSE>
+<NAME_PLATE>
+　そばに置いてあった
+仮面のマダムが使っていたのと
+よく似たナイフを手に取り、
+<PAUSE>
+<NAME_PLATE>
+　割れ目に食い込ませた股布を引き出して
+刃を立てるとそれはツーッと綺麗に割れて、
+<PAUSE>
+<EV>chr_0330_2b_r18,NONE
+<NAME_PLATE>
+　色鮮やかなサーモンピンクのオマンコが
+ぱっくりと露わになった。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0034_r18
+<NAME_PLATE>アスカ
+「んもう……
+　なにもスーツ破かなくったって……」
+<PAUSE>
+<NAME_PLATE>俺
+「せっかくだからな。
+　それにしても……すごいな。
+　これがアスカのオマンコか……」
+<PAUSE>
+<NAME_PLATE>
+　毛が一本も生えていない。
+この幼い身体になってしまったからではなく
+元々そうなのだろう。
+<PAUSE>
+<NAME_PLATE>
+　しっかりとルージュを塗った唇が
+股間にぺったりと張り付いているようで、
+恐ろしく艶かしい。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0035_r18
+<NAME_PLATE>アスカ
+「そんなじっと見ないで……」
+<PAUSE>
+<NAME_PLATE>俺
+「でも、すごく綺麗なオマンコだぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0036_r18
+<NAME_PLATE>アスカ
+「それは……当然だけど……
+　やっぱり……ああダメ、恥ずかしい……」
+<PAUSE>
+<NAME_PLATE>
+　アスカはもう耐えきれないという顔で
+俺からさっと目を逸らした。
+<PAUSE>
+<NAME_PLATE>
+　パイパンのオマンコも
+恥ずかしそうに縮こまって、
+愛液がぴゅっと溢れ出てくる。
+<PAUSE>
+<NAME_PLATE>俺
+「もう少し前戯が必要か？
+　指で弄るとか、舌で舐めるとか」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0037_r18
+<NAME_PLATE>アスカ
+「～～～～～～～～～～っっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカは俺の方を見ないまま、
+ふるふると顔を左右に振った。
+<PAUSE>
+<NAME_PLATE>俺
+「返事がないな。
+　じゃあさっきフェラしてもらったことだし、
+　ここはじっくりたっぷりクンニを―――」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0038_r18
+<NAME_PLATE>アスカ
+「……なくていい」
+<PAUSE>
+<NAME_PLATE>俺
+「ん？　なんか言ったか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0039_r18
+<NAME_PLATE>アスカ
+「しなくていいって言ったの……
+　分かってるくせに……イジワル……」
+<PAUSE>
+<NAME_PLATE>
+　アスカは羞恥に染まった目で
+ちょっと恨めしそうに俺を見上げた。
+<PAUSE>
+<NAME_PLATE>俺
+「なにしろ俺が責める番って
+　言われてるからな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0040_r18
+<NAME_PLATE>アスカ
+「そ、そうだけどぉ……
+　そういう責め方って……もう、ドＳ」
+<PAUSE>
+<NAME_PLATE>
+　拗ねたようにまたプイッと顔を背ける姿が
+たまらなく可愛らしい。
+<PAUSE>
+<NAME_PLATE>
+　その見た目と相まって
+俺より年上のアスカということを
+つい忘れそうになる。
+<PAUSE>
+<NAME_PLATE>俺
+「じゃあ、入れるぞ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0041_r18
+<NAME_PLATE>アスカ
+「う、うん……」
+<PAUSE>
+<NAME_PLATE>俺
+「『優しくして』
+　とか言わないのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0042_r18
+<NAME_PLATE>アスカ
+「なによそれ、言って欲しいの？」
+<PAUSE>
+<NAME_PLATE>俺
+「この見た目だからな。
+　言ってくれると、まあ興奮する」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0043_r18
+<NAME_PLATE>アスカ
+「……変態」
+<PAUSE>
+<NAME_PLATE>
+　アスカは頬を膨らませたが、
+どう見ても俺のチンポとサイズ的に合わない
+小さな身体ではやはり不安だったようで、
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0044_r18
+<NAME_PLATE>アスカ
+「優しくして……」
+<PAUSE>
+<NAME_PLATE>
+　声を震わせながら、そう言った。
+<PAUSE>
+<NAME_PLATE>
+　俺の知るアスカらしくない仕草に
+ゾクッとするほど興奮する。
+<PAUSE>
+<NAME_PLATE>
+　そんなアスカのイヤらしく息づいている
+けれど怖いくらい小さな割れ目に
+チンポの先をあてがうと、
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0045_r18
+<NAME_PLATE>アスカ
+「……っっ！」
+<PAUSE>
+<NAME_PLATE>
+　アスカは全身をきゅっと強ばらせた。
+<PAUSE>
+<NAME_PLATE>俺
+「入れるぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0046_r18
+<NAME_PLATE>アスカ
+「う、うんっ……」
+<PAUSE>
+<NAME_PLATE>
+　ずぶっ。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0047_r18
+<NAME_PLATE>アスカ
+「んんっっ……！！」
+<PAUSE>
+<NAME_PLATE>
+　たっぷりと濡れていたせいだろうか、
+その見た目に反して秘唇は驚くほど柔らかく
+俺の肉棒を咥え込んだ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0048_r18
+<NAME_PLATE>アスカ
+「ふう……まぁ……ぁあ……」
+<PAUSE>
+<NAME_PLATE>
+　かすれ声で俺を呼ぶアスカに
+ゆっくり、ゆっくり挿入していく。
+<PAUSE>
+<NAME_PLATE>
+　ずぶっ……ずぶ……ずぶっ……。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0049_r18
+<NAME_PLATE>アスカ
+「あっ……んっ……ああっ……っ……
+　熱いの……入って……くる……ぁあ……」
+<PAUSE>
+<NAME_PLATE>
+　アスカはイヤイヤをするように
+小刻みに身をよじっていたが、
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0050_r18
+<NAME_PLATE>アスカ
+「ンンンッッ！！」
+<PAUSE>
+<NAME_PLATE>
+　不意に眉をぎゅっと強く顰めた。
+<PAUSE>
+<NAME_PLATE>
+　スムーズに俺を受け入れていた蜜壺が
+痛みに―――そう痛みに一気に強ばる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0051_r18
+<NAME_PLATE>アスカ
+「うっ………くっ……ううぅ……」
+<PAUSE>
+<NAME_PLATE>俺
+「アスカ、お前……」
+<PAUSE>
+<NAME_PLATE>
+　あのゆきかぜがそうであったように、
+このアスカも処女なのか？
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0052_r18
+<NAME_PLATE>アスカ
+「う、うるさい……っ！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0053_r18
+<NAME_PLATE>アスカ
+「そういう……余計なことっ……
+　き、聞かなくてっ……いいからっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0054_r18
+<NAME_PLATE>アスカ
+「あんたは今……わ、私を分からせてる
+　途中なんだから……気にしないのっ！」
+<PAUSE>
+<NAME_PLATE>
+　間違いなく破瓜の傷みに震えながら、
+アスカはそれを気にする俺を
+咎めるように言った。
+<PAUSE>
+<NAME_PLATE>俺
+「いいのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0055_r18
+<NAME_PLATE>アスカ
+「いいって……言ってるでしょっ……
+　遠慮せず……ズボズボ……しなさいよっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「……分かった」
+<PAUSE>
+<NAME_PLATE>
+　その女心は俺などには分からないが、
+気にするなと言うなら気にしない。
+<PAUSE>
+<NAME_PLATE>
+　だが、このまま一気に奥までねじ込んだり、
+ズボズボするのは負担が大きいだろう。
+<PAUSE>
+<NAME_PLATE>
+　それに、さっきからああしろこうしろで
+さすがにちょっとカチンと来ている。
+<PAUSE>
+<NAME_PLATE>
+　俺はチンポを半分くらいまで
+埋めた状態で止めることにして、
+対魔忍スーツの胸のあたりを切り開いた。
+<PAUSE>
+//【イベント絵：EV002c　未来アスカＨ２＿差分２】【時間：夜】
+<EV>chr_0330_2c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0056_r18
+<NAME_PLATE>アスカ
+「ふああっっ！」
+<PAUSE>
+<NAME_PLATE>
+　伸縮性のある布で
+押さえつけられていた
+二つの乳房がぶるんと広がる。
+<PAUSE>
+<NAME_PLATE>
+　おっぱいが一番固い時期などと
+言っていたが、
+直に見るそれはやはり柔らかそうだ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0057_r18
+<NAME_PLATE>アスカ
+「はぁはぁ……はぁ……ふうまぁ……」
+<PAUSE>
+<NAME_PLATE>
+　俺に乳房を直に触られる期待か、
+アスカの顔は破瓜の傷みを忘れたかのように
+イヤらしく輝いている。
+<PAUSE>
+<NAME_PLATE>俺
+「やっぱり巨乳だな。俺の知ってる
+　アスカよりも不自然なくらいだ。
+　小さな身体に大きな胸が卑猥だな」
+<PAUSE>
+<NAME_PLATE>
+　まずは言葉責めだ。
+アスカは真っ赤になって俺から目を逸らす。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0058_r18
+<NAME_PLATE>アスカ
+「バカ……
+　そんなこと言わないでよ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0059_r18
+<NAME_PLATE>アスカ
+「このオッパイ……男の人に見られるの……
+　ふうまが初めてなんだから……」
+<PAUSE>
+<NAME_PLATE>俺
+「じゃあ、触られたことは？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0060_r18
+<NAME_PLATE>アスカ
+「あ、あるわけないでしょ！」
+<PAUSE>
+<NAME_PLATE>俺
+「嬉しいな」
+<PAUSE>
+<NAME_PLATE>
+　本心からそう言い、
+俺以外の誰も知らない乳房を
+両手でふわりと包み込んだ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0061_r18
+<NAME_PLATE>アスカ
+「あっ……ああっ……んんっ……」
+<PAUSE>
+<NAME_PLATE>
+　アスカは甘えた声で身をよじった。
+快感のさざなみが全身に広がっていく。
+<PAUSE>
+<NAME_PLATE>
+　むにゅっとした柔らかい乳房と
+その真ん中でカチカチになった乳首の感触が
+掌に伝わってくる。
+<PAUSE>
+<NAME_PLATE>俺
+「すごい柔らかいな。
+　これで成長期だから固くなってるのか？」
+<PAUSE>
+<NAME_PLATE>
+　そう尋ねながら、
+掌からこぼれるほど大きな乳肉を
+円を描くように動かしていく。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0062_r18
+<NAME_PLATE>アスカ
+「んっっ……なってる……の、よぉっ……！」
+<PAUSE>
+<NAME_PLATE>俺
+「じゃあ俺が柔らかくしてやらないとな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0063_r18
+<NAME_PLATE>アスカ
+「そんなこと……できるわけ……
+　ひあっ……んっ、あっ……ああっ……！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカはもう最後まで
+文句を言うことができない。
+<PAUSE>
+<NAME_PLATE>
+　ぐにゅり、ぐにゅりと形を変えていく
+二つの乳房の快感に声を震わせ始める。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0064_r18
+<NAME_PLATE>アスカ
+「やあんっ……ああん、んっ……
+　それっ……あん、そんな……ダメ……
+　ああ、オッパイ……ダメぇ……」
+<PAUSE>
+<NAME_PLATE>俺
+「止めて欲しいのか？」
+<PAUSE>
+<NAME_PLATE>
+　全ての指に力を込め、パン粉を捏ねるように
+乳房をぎゅっ、ぎゅっと揉み込んでやると、
+アスカはイヤイヤしながら喘ぎ答えた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0065_r18
+<NAME_PLATE>アスカ
+「やめないでぇ……やめちゃイヤァ……
+　あなたの手……ぁあ、気持イイ……」
+<PAUSE>
+<NAME_PLATE>俺
+「すごいな、グニュグニュだぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0066_r18
+<NAME_PLATE>アスカ
+「はあん、ああんっ……！
+　おっぱい、ホントに柔らかくなってるっ……
+　あなたに揉まれて、イヤらしくなってるぅ」
+<PAUSE>
+<NAME_PLATE>俺
+「こことか特にな」
+<PAUSE>
+<NAME_PLATE>
+　俺は乳房を乳首に向かって、
+たっぷりと絞り上げていき、
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0067_r18
+<NAME_PLATE>アスカ
+「んっ、んんんんーーーーーーーーっっ！」
+<PAUSE>
+<NAME_PLATE>
+　息を止めて身をすくませる姿に
+興奮しながら、充血してさらに赤く固く
+勃起した乳首を指でコリコリと弄ってやった。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0068_r18
+<NAME_PLATE>アスカ
+「あひんっ！　いいんっっ！！
+　やっ、だめっ、乳首らめえっ！！
+　ああんコリコリしちゃらめええっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「乳首が気持ちいいのは、
+　お前に教わったばかりだぞ。
+　こんな風にな―――」
+<PAUSE>
+<NAME_PLATE>
+　ギュッ。
+<PAUSE>
+<NAME_PLATE>
+　さっき俺がやられたほどではないが、
+親指と人差し指の爪を乳首に立てる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0069_r18
+<NAME_PLATE>アスカ
+「あっあーーーーーーっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカは甲高い悲鳴を上げた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0070_r18
+<NAME_PLATE>アスカ
+「それらめぇええええっっ！！
+　乳首に爪立てるのらめぇえええっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0071_r18
+<NAME_PLATE>アスカ
+「感じ過ぎちゃうっっ！！
+　おっぱい感じすぎちゃうぅ！！
+　ああっああああーーーーーー！！」
+<PAUSE>
+<NAME_PLATE>
+　俺のチンポを半分ほど咥え込んだ
+腰がググッと浮き上がり、
+<PAUSE>
+<NAME_PLATE>
+　破瓜の傷みではなく快感に
+膣道が艶かしく蠕動を始めて、
+愛液がピュピュッと外に噴き出した。
+<PAUSE>
+<NAME_PLATE>俺
+「そろそろいいか？」
+<PAUSE>
+<NAME_PLATE>
+　乳首に爪を立てるのを止めると、
+アスカは腰をすとんと落として、
+荒い息と蕩けた目で俺を見上げた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0072_r18
+<NAME_PLATE>アスカ
+「はぁっ……はあっ……なにがよぉ……
+　も、もう……射精するの？」
+<PAUSE>
+<NAME_PLATE>俺
+「おいおい。
+　まだ全部チンポを入れてないんだから
+　射精なんかするわけないだろ？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0073_r18
+<NAME_PLATE>アスカ
+「え……うそ……
+　まだ全部入ってない……？
+　じょ、冗談でしょ……？」
+<PAUSE>
+<NAME_PLATE>
+　アスカの顔がさっと強ばり、
+頭を上げて結合部を目で確認しようとした。
+<PAUSE>
+<NAME_PLATE>俺
+「冗談じゃない。
+　まずは俺のチンポの大きさを
+　分からせてやらないとな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0074_r18
+<NAME_PLATE>アスカ
+「ま、待って待って。
+　そんな実はまだ全部じゃないとか
+　私、心の準備が―――」
+<PAUSE>
+<NAME_PLATE>俺
+「ダメだ」
+<PAUSE>
+<NAME_PLATE>
+　ここは強引に行こう。
+俺はアスカに深く覆い被さり、
+残り半分のチンポを一気に埋め込んだ。
+<PAUSE>
+//【イベント絵：EV002d　未来アスカＨ２＿差分３】【時間：夜】
+<EV>chr_0330_2d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0075_r18
+<NAME_PLATE>アスカ
+「かっはっっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカの身体が強烈に突っ張った。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0076_r18
+<NAME_PLATE>アスカ
+「ひっ……はっ……かはっ……ぁ……」
+<PAUSE>
+<NAME_PLATE>
+　あまりの衝撃に息ができなくなり、
+空気を求めて口がカパッと開く。
+<PAUSE>
+<NAME_PLATE>
+　その反対に下の口は怯えたように
+いや違う、嬉しそうにキュウッと窄まった。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0077_r18
+<NAME_PLATE>アスカ
+「ひあっ、ああっ！
+　ほ、ほんとに、入って……来てるっ……
+　奥に……まだ奥にぃ……チンポぉ……」
+<PAUSE>
+<NAME_PLATE>
+　ずぶっ、ずぶっ、ずぶずぶっ。
+<PAUSE>
+<NAME_PLATE>
+　驚きに震えるアスカに覆い被さり、
+その小さな身体、狭い膣道にチンポを
+さらに埋め込んでいく。
+<PAUSE>
+<NAME_PLATE>俺
+「まだまだ入るぞ。
+　俺を全部感じろ、アスカ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0078_r18
+<NAME_PLATE>アスカ
+「うん、うんっ……感じてるっ……
+　ふうまのこと……全部、感じてるぅ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0079_r18
+<NAME_PLATE>アスカ
+「ああっ……すごい、こんなに……
+　こんなに奥まで……ふうまがいる……
+　私の中に……ふうまがぁ……いるのぉ……」
+<PAUSE>
+<NAME_PLATE>
+　さっきの破瓜の傷みは
+もう完全に消え去っているようだ。
+<PAUSE>
+<NAME_PLATE>
+　狭いながらも蜜汁で蕩けそうな膣襞が
+俺の肉柱を確かに受け止めていく。
+<PAUSE>
+<NAME_PLATE>
+　そして驚きと怯えだけだったアスカの顔に
+深い結合への喜びの表情が広がっていく。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0080_r18
+<NAME_PLATE>アスカ
+「ふう……まぁ……もっとぉ……
+　もっと……奥まで……ああっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0081_r18
+<NAME_PLATE>アスカ
+「私の一番……奥まで……入れて……
+　全部……全部ぅ……入れてぇえ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0082_r18
+<NAME_PLATE>アスカ
+「私をあなたのものにして……してぇ……」
+<PAUSE>
+<NAME_PLATE>
+　潤んだ目で俺を真っ直ぐに見つめ、
+両手を広げて俺を求めてくるアスカに
+さらにググッと深く覆い被さる。
+<PAUSE>
+<NAME_PLATE>
+　ずぶっ、ずぶぅ～～～～っ。
+―――ぐにゅっ。
+<PAUSE>
+<NAME_PLATE>
+　パンパンに膨らんだ亀頭の先が
+狭い蜜壺の奥に隠れていた子宮口に当たった。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0083_r18
+<NAME_PLATE>アスカ
+「んんんーーーーーーーーーーーーっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカは反射的に目を閉じ、
+全身をギュッと強ばらせたまま、
+プルプルと切なそうに震えている。
+<PAUSE>
+<NAME_PLATE>
+　俺はそのままチンポを動かさずに、
+全挿入の衝撃が収まるのをじっと待った。
+<PAUSE>
+<NAME_PLATE>
+　３０秒ほどもそうしていただろうか、
+アスカはようやく深い息を吐き、目を開けた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0084_r18
+<NAME_PLATE>アスカ
+「はーーーっ、はーーーーっ、はーーーっ」
+<PAUSE>
+<NAME_PLATE>俺
+「どうだ？　俺のチンポは？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0085_r18
+<NAME_PLATE>アスカ
+「バカ……すごすぎよ、こんなの……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0086_r18
+<NAME_PLATE>アスカ
+「あんた……実は……はぁはぁ……
+　オークかなんか……じゃないの？」
+<PAUSE>
+<NAME_PLATE>俺
+「そこまでじゃないさ」
+<PAUSE>
+<NAME_PLATE>
+　俺は苦笑しつつ、
+根元までたっぷり埋め込んだ肉棒を
+グッッ、グッと膣内で脈打たせてみせた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0087_r18
+<NAME_PLATE>アスカ
+「ひあんっ、あんっ！
+　あっ、ちょっと、待ってっ、やん、だめ。
+　チンポぐにぐにするのダメっ！」
+<PAUSE>
+<NAME_PLATE>
+　フェラチオを仕掛けてきた時とは
+もう別人のように弱気な声を出す。
+<PAUSE>
+<NAME_PLATE>俺
+「俺に分からせて欲しいんだろ？
+　これからこいつをズボズボ動かして、
+　お前を責め立てるんだぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0088_r18
+<NAME_PLATE>アスカ
+「そ、そうだけど……
+　別に私を怖がらせろとかは
+　言ってないでしょ……イジワル……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0089_r18
+<NAME_PLATE>アスカ
+「だから……ズボズボしてもいいから……
+　私への優しさは……忘れないでよ……
+　こんな小さな身体なんだから……」
+<PAUSE>
+<NAME_PLATE>俺
+「今さらそれを言うかな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0090_r18
+<NAME_PLATE>アスカ
+「い、いいから！
+　男として私への心遣いを忘れずに、
+　ちゃんと分からせるの！　そうするの！」
+<PAUSE>
+<NAME_PLATE>俺
+「分かった分かった。
+　じゃあ、そんな感じでな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0091_r18
+<NAME_PLATE>アスカ
+「う、うん……お願い……」
+<PAUSE>
+<NAME_PLATE>
+　アスカは照れくさそうに言った。
+<PAUSE>
+<NAME_PLATE>
+　こんな馬鹿話をしている間に、
+身体の力もオマンコの緊張も解けたようだ。
+<PAUSE>
+<NAME_PLATE>
+　上の口よりはだいぶ素直な膣口が
+早く分からせてと甘えるように
+キュッキュッと震え始めていた。
+<PAUSE>
+//【イベント絵：EV002e　未来アスカＨ２＿差分４】【時間：夜】
+<EV>chr_0330_2e_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0092_r18
+<NAME_PLATE>アスカ
+「ひああああああああああっ！！」
+<PAUSE>
+<NAME_PLATE>
+　チンポに力を込めて、
+最初だけはゆっくりと腰を引いてやる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0093_r18
+<NAME_PLATE>アスカ
+「あああっ、うそおっ、なにこれっ！
+　ひああ、すごいすごいすごいいいっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0094_r18
+<NAME_PLATE>アスカ
+「オマンコが……引っ張られて……
+　外に……でちゃう……みたぃいいっ……」
+<PAUSE>
+<NAME_PLATE>
+　未知の快感に戸惑っているような声と共に
+逃げる俺を追いかけて
+アスカの腰が浮き上がる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0095_r18
+<NAME_PLATE>アスカ
+「あっあっっ、あっあっ、ああーーーーーっ」
+<PAUSE>
+<NAME_PLATE>
+　ようやく俺の大きさに馴染み始めた蜜壺も
+新たな刺激に驚いてシャックリするように
+ヒクヒクと震えている。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0096_r18
+<NAME_PLATE>アスカ
+「はあんっ、こんな、こんなのってっ！
+　ああっ、ふうま、ふうまあっ！」
+<PAUSE>
+<NAME_PLATE>
+　いっぱいに膨らませたカリ首で
+膣襞を奥から手前までたっぷりと擦ってから、
+<PAUSE>
+<NAME_PLATE>
+　助けを求めるように俺の名を呼ぶアスカに
+今度は強く、奥まで一気にねじ込んでやる。
+<PAUSE>
+<NAME_PLATE>
+　ズブゥウウウウウウウッ！！
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0097_r18
+<NAME_PLATE>アスカ
+「あひぃいいいいいいんんっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　結合部からものすごい勢いで愛液が噴出し、
+チンポで内側から押されたアスカの身体が
+ベッドの上で大きくずれた。
+<PAUSE>
+<NAME_PLATE>
+　俺に比べて体重が軽すぎるせいで、
+挿入の勢いを受け止めきれないのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0098_r18
+<NAME_PLATE>アスカ
+「ああん、ふうまぁ……
+　ぎゅっとして……離さないで……
+　ふうま……抱きしめて……ふうま……」
+<PAUSE>
+<NAME_PLATE>俺
+「アスカ……」
+<PAUSE>
+<NAME_PLATE>
+　胸は一人前に大きいが、その他は
+壊れそうなほどに華奢な身体を支えて、
+力加減を調節しながらまた腰を動かす。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0099_r18
+<NAME_PLATE>アスカ
+「ひあああっ！　あんっんっ！
+　ああっんっ！！　やああっ、あああんっ！」
+<PAUSE>
+<NAME_PLATE>
+　アスカも俺に合わせようとしていた。
+チンポの抜き差しのタイミングを計りながら、
+喘ぎ混じりの息を吸い、そして吐く。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0100_r18
+<NAME_PLATE>アスカ
+「はあっ……んっ……ああっ……
+　ンッッ……ああっ……んはあっ……
+　ひああっ……ああああっっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「はあぁっ……はあっ……はあっ……」
+<PAUSE>
+<NAME_PLATE>
+　年齢も身体の大きさも違う
+俺とアスカの抽送の呼吸がそろってくる。
+<PAUSE>
+<NAME_PLATE>
+　じゅぼっ、じゅぼっ、じゅぼっという
+二人の肉がイヤらしく擦れ合う音が
+歩調を合わせる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0101_r18
+<NAME_PLATE>アスカ
+「はあーーっ、んっああっ！
+　はぁはあっ……ぁっ、ああんっ！！
+　あんっ、ンッっ……はああんっっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「アスカ、こんな感じでいいか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0102_r18
+<NAME_PLATE>アスカ
+「そう、そう、そんな感じっ！
+　ああいい、すごくイイッッ！！
+　あんっ、ああんっっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「さすがだな。
+　すぐに俺と息を合わせてくる。
+　セックスの才能も抜群だな」
+<PAUSE>
+<NAME_PLATE>
+　思わず出たその言葉に、
+アスカはくしゃっと顔を綻ばせた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0103_r18
+<NAME_PLATE>アスカ
+「ばかぁ……何言ってるのよ……
+　こんな時に……くくくっ」
+<PAUSE>
+<NAME_PLATE>
+　喘ぎ混じりの笑い声に、
+膣口も一緒にキュキュッと楽しそうに
+脈打った。
+<PAUSE>
+<NAME_PLATE>俺
+「いや、ついな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0104_r18
+<NAME_PLATE>アスカ
+「なにがついよ。ほんとバカなんだから。
+　それは私たちの相性が
+　抜群ってことでしょ？」
+<PAUSE>
+<NAME_PLATE>俺
+「かもな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0105_r18
+<NAME_PLATE>アスカ
+「かもじゃなくて、そうなの。
+　ほらあ、余計なこと言ってないで。
+　もっとガンガン来ていいわよ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0106_r18
+<NAME_PLATE>アスカ
+「私、いくらでも合わせるから。
+　ふうまと一緒に感じるから。
+　ほら早く、早くぅう！」
+<PAUSE>
+<NAME_PLATE>俺
+「くっ……」
+<PAUSE>
+<NAME_PLATE>
+　甘えた声で急き立てられ、
+ついでにチンポをギュッと締め付けられた。
+<PAUSE>
+<NAME_PLATE>俺
+「よし、だんだん強くしていくぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0107_r18
+<NAME_PLATE>アスカ
+「うん、して、してぇ！
+　もっと気持ちよくして、おねがい！」
+<PAUSE>
+<NAME_PLATE>
+　貪欲なアスカのおねだりに応じて
+俺はまだ少し抑えていた腰の動きを
+早く、大きくしていく。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0108_r18
+<NAME_PLATE>アスカ
+「ひああっ！？
+　あっあっあぁあああああーーーーーっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカの嬌声が驚きと共に
+ぐんと大きく跳ね上がった。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0109_r18
+<NAME_PLATE>アスカ
+「あんっ、ひああんっ！　あんっあんっ！
+　やっ、あんっ、はひっ、ひあんっ！！
+　あっ、あっ、はああんっ！」
+<PAUSE>
+<NAME_PLATE>
+　蜜壺もギュッ、ギュッ、ギュッと
+より一層強烈に、忙しなく震え始める。
+<PAUSE>
+<NAME_PLATE>
+　もっと強く、激しくという
+オマンコのうねりだ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0110_r18
+<NAME_PLATE>アスカ
+「ふうまのチンポ、感じるっ、すごく感じる！
+　あっあっああっ、動いてるのっ！
+　私の中で、動いてるのぉっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0111_r18
+<NAME_PLATE>アスカ
+「いっぱい擦れてっ、奥にっ当たってっ
+　あんっ、すごい、すごいっっ！！
+　気持ちイイ、気持いいっ、ふうまあっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「くっ……うっっ……」
+<PAUSE>
+<NAME_PLATE>
+　強烈な射精衝動が込み上げてくる。
+膣内で肉棒が激しく脈打ち始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0112_r18
+<NAME_PLATE>アスカ
+「えっあっ！？　あっあっっ！！
+　ちんぽ、すごいビクビクしてるっ！
+　出そうなの？　ふうま、そうなの？」
+<PAUSE>
+<NAME_PLATE>俺
+「アスカ、このまま出していいのか？」
+<PAUSE>
+<NAME_PLATE>
+　この身体で妊娠させたらまずいのでは
+という理性がほんの一瞬働きかけたが、
+<PAUSE>
+<NAME_PLATE>
+　そんな俺のためらいを感じ取って、
+<PAUSE>
+アスカは全身でしがみついてきた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0113_r18
+<NAME_PLATE>アスカ
+「出してっ、遠慮しないで出してっっ！
+　私、もう妊娠できるからっ！
+　あなたの赤ちゃん作れるからっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0114_r18
+<NAME_PLATE>アスカ
+「お願いっ、私に分からせてっ！
+　身体がどんなに変わっても
+　私はふうまの女だって、分からせてぇっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0115_r18
+<NAME_PLATE>アスカ
+「私、イクから、あなたと一緒にイクから！
+　愛してる、一番愛してるっ、だから一緒に！
+　一緒にっ、あっあっああーーーーっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「アスカっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺はアスカをギュッと抱きしめ、
+ありったけの想いを込めて肉棒を打ち込んだ。
+<PAUSE>
+//【イベント絵：EV002f　未来アスカＨ２＿差分５】【時間：夜】
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0330_2f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chr_0330_2_0116_r18
+<NAME_PLATE>アスカ
+「ひああああああああっっ！！
+　イクうううううううううううううっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　どびゅっ、どびゅっ、どびゅうっ！！
+<PAUSE>
+<NAME_PLATE>
+　猛々しい欲望の奔流が
+アスカの子宮を激しく打ち付けた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0117_r18
+<NAME_PLATE>アスカ
+「あっあっあっあっ
+　ああああーーーーーーーーーっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺の腕の中で
+アスカは射精のリズムに合わせて、
+全身をびくびくと激しく震わせる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0118_r18
+<NAME_PLATE>アスカ
+「あんっ、すごいっ！　熱い熱いっ！
+　ザーメンっ、あっ、ああんっ！！
+　当たってるっ、当たってるうっ！！」
+<PAUSE>
+<NAME_PLATE>
+　小さな身体の狭い蜜壺が
+さらにあり得ないほど窄まって、
+俺のチンポをぎゅうぎゅうと絞り上げる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0119_r18
+<NAME_PLATE>アスカ
+「もっとちょうだいっ、もっとイカせてっ！！
+　ああすごいすごい
+　チンポすごいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「くうっ、アスカっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　チンポごと引っこ抜かれるような
+強烈な快感に射精が止まらなくなる。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ドビュウウッ、ドビュウウッ！！
+ドビュドビュウウウウウッ！！
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0120_r18
+<NAME_PLATE>アスカ
+「ひああっ、ああっ、あああっ！！
+　出てるっっ、いっぱい出てるっっ！！
+　ふうまの精子っ、ザーメンっ出てるっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0121_r18
+<NAME_PLATE>アスカ
+「わたしっ、イッてるっ！
+　ふうまに中出しされて、イッてるっ！
+　ほんとにほんとにイッてるうっっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「そうだ、アスカっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺にしがみついてくるアスカを
+さらに強く抱きしめる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0122_r18
+<NAME_PLATE>アスカ
+「ずっとこうして欲しかったのっっ！！
+　ずっとあなたでイキたかったのっっ！！
+　愛してる、愛してるっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0123_r18
+<NAME_PLATE>アスカ
+「こんなにっ、こんなにっっ！
+　こんなにっっ、イクぅ、私イクぅっ！
+　イクイクぅうううううっ！！
+<PAUSE>
+<NAME_PLATE>
+　未来まで抱き続けた俺への想いを
+全て爆発させるような絶頂だ。
+<PAUSE>
+<NAME_PLATE>俺
+「アスカっ！　アスカっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　その想いに少しでも応えられるように、
+俺もありったけの欲望を叩きつける。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0124_r18
+<NAME_PLATE>アスカ
+「ふうまっ、ああんっ、ふうまっ！！
+　私まだイクっ、イクぅっ、ああんっ！
+　すごいすごいすごひいい！」
+<PAUSE>
+<NAME_PLATE>俺
+「もっとイッていいぞ！！
+　もっとだ！　もっとだアスカっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　猛り狂うチンポを子宮口に押し付け、
+熱い衝動をどびゅどびゅと子宮に叩き込む。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0125_r18
+<NAME_PLATE>アスカ
+「うんっ、うんっ、イクからっっ、
+　何度でも何度でも、あなたでイクからっ！！
+　ほらまた、また、またあっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0330_2_0126_r18
+<NAME_PLATE>アスカ
+「あああああああああああん！！
+　イクイクイクイクイクぅううううううううう
+　うううううううううううううううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　喜びに満ちたアスカの絶頂の叫びが
+何度も何度も響きわたった。
+<PAUSE>
+//【イベント絵：EV002g　未来アスカＨ２＿差分６】【時間：夜】
+<EV>chr_0330_2g_r18,NONE
+<VOICE_PLAY>chr_0330_2_0127_r18
+<NAME_PLATE>アスカ
+「はぁっ、はぁっ……
+　はぁっ……はあっ……はあっ……」
+<PAUSE>
+<NAME_PLATE>俺
+「はぁ、はぁ……はぁ……」
+<PAUSE>
+<NAME_PLATE>
+　二人ともしばらく口も利けない。
+<PAUSE>
+<NAME_PLATE>
+　アスカは息も絶え絶えだし、
+俺はその彼女に体重をかけないように
+するので精一杯だ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0128_r18
+<NAME_PLATE>アスカ
+「はぁはぁ……はぁ……はぁ……
+　私に……乗っかってもいいわよ……
+　頑張ってるの……辛いでしょ？」
+<PAUSE>
+<NAME_PLATE>俺
+「そういうわけには……な……
+　はぁはぁ……まあなんとか……大丈夫だ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0129_r18
+<NAME_PLATE>アスカ
+「無理しちゃって……ほら、いいから」
+<PAUSE>
+<NAME_PLATE>俺
+「はうっ……」
+<PAUSE>
+<NAME_PLATE>
+　アスカに背中をちょっと押されただけで、
+俺はくたっと彼女に倒れ込んでしまった。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0130_r18
+<NAME_PLATE>アスカ
+「くうっ……ちょっと重い……」
+<PAUSE>
+<NAME_PLATE>俺
+「だから、そうだって……」
+<PAUSE>
+<NAME_PLATE>
+　また身体を起こそうとする俺を
+アスカは無理やり引き寄せる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0131_r18
+<NAME_PLATE>アスカ
+「いいの……
+　あなたの身体を……
+　重さを感じてたいの……今は……」
+<PAUSE>
+<NAME_PLATE>俺
+「そうか……」
+<PAUSE>
+<NAME_PLATE>
+　それでもアスカが辛くない程度に
+ちょっとだけ身体を浮かせてやる。
+<PAUSE>
+<NAME_PLATE>
+　アスカもそれに気づいただろうが、
+もう何も言わなかった。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0132_r18
+<NAME_PLATE>アスカ
+「うん……そう……
+　今……すごく幸せ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0133_r18
+<NAME_PLATE>アスカ
+「この世界のこととか……
+　全部どうでもよくなっちゃうくらい……」
+<PAUSE>
+<NAME_PLATE>
+　甘えきった声で言う。
+<PAUSE>
+<NAME_PLATE>
+　まだ俺がしっかりと入っている蜜壺が
+ひくっ、ひくっと心地よさげに脈打った。
+<PAUSE>
+<NAME_PLATE>俺
+「それにしてもあれだな……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0134_r18
+<NAME_PLATE>アスカ
+「どれ？」
+<PAUSE>
+<NAME_PLATE>俺
+「俺の知ってるアスカとは思えないくらい
+　可愛いな。今のアスカは」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0135_r18
+<NAME_PLATE>アスカ
+「…………」
+<PAUSE>
+<NAME_PLATE>
+　アスカはちょっとだけ眉をひそめ、
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0136_r18
+<NAME_PLATE>アスカ
+「そういうデリカシーゼロのことを言う所が
+　私の知ってるふうまそのものね」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0137_r18
+<NAME_PLATE>アスカ
+「ほんと死ななきゃ治らないんだから」
+<PAUSE>
+<NAME_PLATE>俺
+「いや、そっちの世界では死んでるんだが」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0138_r18
+<NAME_PLATE>アスカ
+「そうよ。
+　なんで死んじゃったのよ、バカ」
+<PAUSE>
+<NAME_PLATE>俺
+「それを俺に言われてもな。
+　こっちの俺は死なずに済んだわけだし」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0139_r18
+<NAME_PLATE>アスカ
+「私とゆきかぜのおかげでしょ」
+<PAUSE>
+<NAME_PLATE>俺
+「ああ、感謝してる。心から」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0140_r18
+<NAME_PLATE>アスカ
+「当然よ」
+<PAUSE>
+<NAME_PLATE>俺
+「こんなこともできたしな。
+　最高だったぞ、アスカ」
+<PAUSE>
+<NAME_PLATE>
+　そう言いつつ、
+まだ力を失っていないチンポを膣内で
+グッ、グッと脈打たせた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0141_r18
+<NAME_PLATE>アスカ
+「あっ……んっ……
+　それも感謝して……当然……だけど……」
+<PAUSE>
+<NAME_PLATE>
+　アスカはぴくぴくと身を震わせながら、
+甘えているような表情で言った。
+<PAUSE>
+<NAME_PLATE>俺
+「だけど？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0142_r18
+<NAME_PLATE>アスカ
+「私ね……すごく嬉しかった……
+　ちゃんと抱いてくれて……ありがとう」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0143_r18
+<NAME_PLATE>アスカ
+「この身体じゃ……やっぱりね……
+　引かれるかなとか……思ってたから……」
+<PAUSE>
+<NAME_PLATE>俺
+「俺が？　そんなわけないだろ？
+　抱くよ、当然。
+　姿は違えどアスカだものな」
+<PAUSE>
+<NAME_PLATE>
+　本当はそうでもなかったのだが、
+ここはアスカの気持ちを考えてそう言う。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0144_r18
+<NAME_PLATE>アスカ
+「そう自信たっぷりに言われると、
+　それはそれで引く。ロリコン」
+<PAUSE>
+<NAME_PLATE>俺
+「なんだよそれは」
+<PAUSE>
+<NAME_PLATE>
+　俺が苦笑すると、
+アスカもクスクスと笑った。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0145_r18
+<NAME_PLATE>アスカ
+「ふふっ、冗談よ。
+　今、すごく幸せ……ふうま」
+<PAUSE>
+<NAME_PLATE>俺
+「やっぱり未来のお前は素直で可愛いな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0146_r18
+<NAME_PLATE>アスカ
+「……バカ」
+<PAUSE>
+<NAME_PLATE>
+　アスカは恥ずかしそうに言った。
+<PAUSE>
+//【イベント絵：EV002h　未来アスカＨ２＿差分７】【時間：夜】
+<NAME_PLATE>俺
+「さてと……」
+<PAUSE>
+<NAME_PLATE>
+　アスカがそろそろ重そうなので
+俺はチンポを膣内から抜いていく。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0147_r18
+<NAME_PLATE>アスカ
+「あっ、ひああっ……ああっ……んっ……」
+<PAUSE>
+<NAME_PLATE>
+　アクメ直後の敏感な膣襞を刺激され、
+アスカはまた切なそうな声を出した。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0148_r18
+<NAME_PLATE>アスカ
+「あんっ……やあっ……ああ……
+　んっ……あっ……それ気持……いい……」
+<PAUSE>
+<NAME_PLATE>
+　ずるっ、ずる、ずる～～～～～～っ。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0149_r18
+<NAME_PLATE>アスカ
+「ひあっ……あっあ……
+　だめ抜けちゃう……ふうまのチンポ……
+　抜け……ちゃうっ……ぁああン」
+<PAUSE>
+<NAME_PLATE>
+　アスカの腰がぐぐっと浮き上がり、
+逃げるチンポを追いかけていく。
+<PAUSE>
+<EV>chr_0330_2h_r18,NONE
+<NAME_PLATE>
+　ちゅぽんっ。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0150_r18
+<NAME_PLATE>アスカ
+「ひゃうんっっ！」
+<PAUSE>
+<NAME_PLATE>
+　チンポをギリギリまで追いかけた腰が
+それが抜けると同時にストンと落ちた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0151_r18
+<NAME_PLATE>アスカ
+「はぁん……はぁン……あぁ……ふあぁ……」
+<PAUSE>
+<NAME_PLATE>
+　今の僅かな刺激で、
+収まっていた呼吸がまた乱れている。
+<PAUSE>
+<NAME_PLATE>
+　俺のチンポを完全に受け止めていた
+小さな身体のオマンコはパックリと口を開け、
+<PAUSE>
+<NAME_PLATE>
+　さっき射精したばかりの
+まだドロリとしたザーメンが溢れ出ていた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0152_r18
+<NAME_PLATE>アスカ
+「ひはぁ……はぁ……はぁ……
+　精液が……ごぽごぽ……いってる……
+　嘘みたい……こんなの……」
+<PAUSE>
+<NAME_PLATE>俺
+「たっぷり出したからな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0153_r18
+<NAME_PLATE>アスカ
+「たっぷりにも……ほどがあるわよ……
+　もう……出し過ぎ……はぁはぁ……」
+<PAUSE>
+<NAME_PLATE>俺
+「分からされたか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0154_r18
+<NAME_PLATE>アスカ
+「え……？」
+<PAUSE>
+<NAME_PLATE>
+　アスカはとろんとした目で俺を見る。
+<PAUSE>
+<NAME_PLATE>俺
+「イク時、言ってただろ。
+　身体がどんなに変わっても
+　俺の女だって分からせてって」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0155_r18
+<NAME_PLATE>アスカ
+「～～～～～～～っ！
+　わ、わたしそんなこと言ってた？」
+<PAUSE>
+<NAME_PLATE>
+　覚えがあるのかないのか、
+アスカは真っ赤になって目を逸らす。
+<PAUSE>
+<NAME_PLATE>俺
+「言ってた言ってた。思いっきり」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0156_r18
+<NAME_PLATE>アスカ
+「そうかもしれないけど、
+　終わってから言わないでよ。
+　恥ずかしいでしょ。もうやだっ」
+<PAUSE>
+<NAME_PLATE>俺
+「で、分からされたのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0157_r18
+<NAME_PLATE>アスカ
+「うう……だからあ……」
+<PAUSE>
+<NAME_PLATE>俺
+「ん？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0158_r18
+<NAME_PLATE>アスカ
+「……うん。
+　すごく……分からされた……」
+<PAUSE>
+<NAME_PLATE>
+　アスカは小さな小さな声で頷いたが、
+<PAUSE>
+<NAME_PLATE>俺
+「いや、まだだな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0159_r18
+<NAME_PLATE>アスカ
+「え……？」
+<PAUSE>
+<NAME_PLATE>俺
+「俺としてはもうちょっと
+　分からせたいところだ。
+　まだチンポも元気だしな」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0160_r18
+<NAME_PLATE>アスカ
+「元気なのは分かるけど、
+　……じゃあ、なにするわけ？」
+<PAUSE>
+<NAME_PLATE>
+　俺に尋ねるアスカの胸が
+期待半分、不安半分という感じで
+たぷんたぷんと上下している。
+<PAUSE>
+//【イベント絵：EV002i　未来アスカＨ２＿差分８】【時間：夜】
+<NAME_PLATE>俺
+「よし、決まった」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0161_r18
+<NAME_PLATE>アスカ
+「ちょっ、なにっ？
+　えっ？　おっぱい！？　ふあああっ！！」
+<PAUSE>
+<EV>chr_0330_2i_r18,IN,1000
+<NAME_PLATE>
+　俺はアスカの太股を跨いで、
+自分の身体を前に移動させ、
+<PAUSE>
+<NAME_PLATE>
+　たわわに揺れる乳房の間に
+チンポをずるっと差し入れた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0330_2_0162_r18
+<NAME_PLATE>アスカ
+「ああんっっ！！
+　つまり、パイズリ！？」
+<PAUSE>
+<NAME_PLATE>
+　アスカは尋ねつつも、
+自分でおっぱいを左右から押し潰して、
+チンポを強く密着させた。
+<PAUSE>
+<NAME_PLATE>俺
+「いいだろ？」
+<PAUSE>
+<NAME_PLATE>
+　俺は腰を前後に動かし、
+むにゅっと潰れたオッパイ肉で
+射精したばかりのチンポを扱き始める。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0163_r18
+<NAME_PLATE>アスカ
+「ひゃんっ……んっ、ああっ……
+　まあっ……いいけどっ……ああっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0164_r18
+<NAME_PLATE>アスカ
+「ぜんぶっ……ふうまにあげるって……
+　あっ……んっ……決めたからあっ……
+　ぱいっずりっ……だってぇ……！」
+<PAUSE>
+<NAME_PLATE>
+　胸の谷間でジュルッジュルッと
+卑猥な音を立てるチンポを見ながら、
+アスカは喘ぎ答えた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0165_r18
+<NAME_PLATE>アスカ
+「それにっ……んっ……あんっ……
+　ゆきかぜには、してないでしょっ……
+　さすがに……これはぁっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0166_r18
+<NAME_PLATE>アスカ
+「ふうまのっ……初めてはっ……
+　あんっ……とられちゃった……けどぉ……
+　初パイズリは……わたし、なんだからっ」
+<PAUSE>
+<NAME_PLATE>俺
+「ああ、お前が初めてだ」
+<PAUSE>
+<NAME_PLATE>
+　どこまでもゆきかぜを気にするところが
+本当にアスカらしい。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0167_r18
+<NAME_PLATE>アスカ
+「いっぱい感じて……わたしのオッパイ……
+　もっと強くチンポ動かしていいから……
+　私もグリグリ揉んであげるからぁ」
+<PAUSE>
+<NAME_PLATE>
+　アスカは俺に誘いをかけながら、
+その言葉通り、押し潰した乳房を
+グリグリと捏ね始めた。
+<PAUSE>
+<NAME_PLATE>俺
+「ならいくぞ」
+<PAUSE>
+<NAME_PLATE>
+　さっき出したばかりのチンポは
+恐ろしく敏感になっている。
+<PAUSE>
+<NAME_PLATE>
+　俺は沸き上がる射精衝動のままに腰を振り、
+うねり動く乳房の間で肉棒を扱いていく。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0168_r18
+<NAME_PLATE>アスカ
+「んっっ！！　ああっっ！！
+　ふああっ、ああっ、ひああんっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカの声がきゅんっと裏返った。
+<PAUSE>
+<NAME_PLATE>
+　自分の手と俺のチンポの動きで、
+グニュグニュと形を変えるオッパイに
+甘えた表情で身をくねらせ、
+<PAUSE>
+<NAME_PLATE>
+　胸の谷間からジュボジュボと
+突き出されるチンポに瞳を輝かせる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0169_r18
+<NAME_PLATE>アスカ
+「はあっんっ、ああっン、すごいっ！
+　わたしのオッパイ、オモチャになってるっ！
+　メチャクチャになってるっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0170_r18
+<NAME_PLATE>アスカ
+「おっぱいがこんなに潰れてっ、
+　チンポがじゅぼじゅぼ出てきてっ！
+　イヤらしくて気持ちイイ、イイッ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「なら、また一緒にイクか？」
+<PAUSE>
+<NAME_PLATE>
+　そのヨガリ顔にチンポを突きつけると、
+アスカは躊躇うことなく頷いた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0171_r18
+<NAME_PLATE>アスカ
+「うんイクっ、わたしまたイクっ！
+　パイズリで、おっぱいオモチャにされて、
+　ザーメン出されて、イクっ、絶対イクっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「実はドＭなのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0172_r18
+<NAME_PLATE>アスカ
+「ドＭ？　わたしが？　わたしが？」
+<PAUSE>
+<NAME_PLATE>
+　さすがにそれは否定するかと思ったが、
+アスカは一瞬戸惑うような顔をしただけで
+すぐにそれも首肯し始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0173_r18
+<NAME_PLATE>アスカ
+「そうなのかなっ、そうなのかなっ！
+　それでもいい、わたしドＭでもいいっ！！
+　相手があなたならいいっ！　もうイイ！」
+<PAUSE>
+<NAME_PLATE>
+　激しく言いながら、自分でオッパイを
+ギューーッ、ギューーッとさらに押し潰す。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0174_r18
+<NAME_PLATE>アスカ
+「あなたのものにしてっ、ドＭの印つけてっ！
+　ザーメンで汚してっ、おっぱいも、顔も、
+　ぜんぶぜんぶ汚してっ、汚してえっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「口もだ！
+　口も開けろ、アスカ！！」
+<PAUSE>
+<NAME_PLATE>
+　熱いものがぐーんと
+股間を駆け上がってきた瞬間、
+俺はアスカに命令した。
+<PAUSE>
+//【イベント絵：EV002j　未来アスカＨ２＿差分９】【時間：夜】
+<VOICE_PLAY>chr_0330_2_0175_r18
+<NAME_PLATE>アスカ
+「んぁあっ、ああっあっ！！
+　えあぁあああーーーーーーーーっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカはわずかな躊躇もなく、
+それどころか嬉々として口を大きく開け、
+舌をいっぱいに差し出した。
+<PAUSE>
+<NAME_PLATE>俺
+「くっっっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0330_2j_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　どびゅうううううううっっ！！
+<PAUSE>
+<NAME_PLATE>
+　三度目とは思えない、
+長く糸を引くような精液が
+チンポの先から飛び出した。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0176_r18
+<NAME_PLATE>アスカ
+「ひゃああんんんんんんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　白濁のそれは狙い違わず、
+アスカの広げた舌にべちゃっとへばり付き、
+<PAUSE>
+<NAME_PLATE>
+　それから顔にも髪にも
+びちゃびちゃと容赦なく降り注いでいく。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0177_r18
+<NAME_PLATE>アスカ
+「へあっ、ひゅごいっ、しゅごいっ！
+　あたひ、よごひゃれてるっっ！
+　あなたのざーめんでよごひゃれてるっ！」
+<PAUSE>
+<NAME_PLATE>
+　アスカはザーメンまみれの舌をくねらせ、
+その身体をピーンと突っ張らせていく。
+<PAUSE>
+<NAME_PLATE>俺
+「よしいけっ！！
+　俺のザーメンを浴びていけっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0178_r18
+<NAME_PLATE>アスカ
+「うんっ、いふっ、いひゅっ、見てれっ、
+　汚さひゃれてイクとこっ、イクひょこお！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0179_r18
+<NAME_PLATE>アスカ
+「ひゃっ、えはっ、へひゃっっ！！
+　いくひくへくひぅうううっぅううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　胸も顔もザーメンまみれの
+もはや呂律も回らなくなったアスカが
+絶頂する。
+<PAUSE>
+<NAME_PLATE>俺
+「くあっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　その顔を見て俺はさらに激しく射精し、
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　びちゃっ、びっちゃっ、びちゃびちゃっ！
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0180_r18
+<NAME_PLATE>アスカ
+「あんあんあんあんああああああ
+　んんんんんんんっっい！！」
+<PAUSE>
+<NAME_PLATE>
+　アスカはドＭの刻印を
+ありったけ受け止めて、
+白濁で汚された顔を淫らに輝かせる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0181_r18
+<NAME_PLATE>アスカ
+「はあ、あんっ、あん、はあんぅ！
+　きもちいい、ふうま、愛してる、きもちいい
+　ふうま、愛してる、きもひいいい！！」
+<PAUSE>
+<NAME_PLATE>
+　ふうま、愛してる、気持ちいい。
+<PAUSE>
+<NAME_PLATE>
+　最後にはその三つしか言えなくなって、
+アスカは俺の欲望でマーキングされた悦びに
+いつまでも打ち震えていた。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0182_r18
+<NAME_PLATE>アスカ
+「はぁ、はぁ、はぁ……はぁ……はぁ……
+　すごい……イッちゃった……
+　イッちゃったぁ……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0183_r18
+<NAME_PLATE>アスカ
+「ひょっとしたら……
+　普通にセックス……するより……
+　すごかった……かも……」
+<PAUSE>
+<NAME_PLATE>
+　オッパイはもちろん顔も髪も
+ドロドロにして、
+それを拭おうともせずに俺を見上げる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0184_r18
+<NAME_PLATE>アスカ
+「完全に……ふうまのものに……
+　なったって……気がする……幸せ……」
+<PAUSE>
+<NAME_PLATE>俺
+「なら、そのザーメン顔のまま
+　ゆきかぜに報告もできるか？
+　俺の女にされたって……」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0185_r18
+<NAME_PLATE>アスカ
+「ばか。
+　そんなこと、できるわけ―――」
+<PAUSE>
+<NAME_PLATE>
+　『ないでしょ』と
+言いかけたらしいアスカは、
+ふと小悪魔のような笑みを浮かべて、
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0186_r18
+<NAME_PLATE>アスカ
+「言ってもいいけど、
+　殺されたって、知らないから……ふふっ」
+<PAUSE>
+<NAME_PLATE>俺
+「それは困るな。
+　じゃあ、殺される前にもっとしておくか」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0187_r18
+<NAME_PLATE>アスカ
+「うん、して。
+　もっともっと私として。
+　いっぱい愛して」
+<PAUSE>
+//【黒画面】
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　この可愛いアスカと
+次は何をしようと思ったその時。
+<PAUSE>
+<NAME_PLATE>
+　急に意識が遠のき始めた。
+<PAUSE>
+<NAME_PLATE>
+　おい待て、この感じは！？
+<PAUSE>
+<NAME_PLATE>
+　いつかのあの時と同じだ。
+<PAUSE>
+<NAME_PLATE>
+　未来のアスカの気配がスーッと消え去り、
+別の声が聞こえてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0188_r18
+<NAME_PLATE>アスカ
+「ねえ！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0189_r18
+<NAME_PLATE>アスカ
+「ちょっと！」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0190_r18
+<NAME_PLATE>アスカ
+「いつまで寝てんのよ！」
+<PAUSE>
+//【背景：NC075b　五車町＿駅前＿夕方】【時間：夕方】
+//　※対魔忍アサギZERO_nc075bより流用
+<UI_DISP>OFF, 0
+<BG>chrnc0330a,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>俺
+「っっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ハッとして目を覚ますと、
+そこは五車の駅のベンチだ。
+<PAUSE>
+<NAME_PLATE>
+　居眠りをしていたのか？
+やっぱり夢か？
+<PAUSE>
+<ACTOR>0,as_t005e_r18,CENTER, CENTER, IN, linear, 1000
+<NAME_PLATE>
+　そして目の前にはアスカが、
+俺のよく知るアスカがいる。
+<PAUSE>
+//　※立ち絵
+//　　甲河アスカ立ち絵
+//　　　　＊対魔忍RPGの制服アスカのカードイラスト表を流用
+<BGM_PLAY>bgm208,1000
+<ACTOR>0,as_t005d_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0330_2_0191_r18
+<NAME_PLATE>アスカ
+「あ、やっと起きた」
+<PAUSE>
+<NAME_PLATE>俺
+「元のアスカ……だよな？？」
+<PAUSE>
+<ACTOR>0,as_t005e_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0330_2_0192_r18
+<NAME_PLATE>アスカ
+「なにそれ？　元の？　なにが？」
+<PAUSE>
+<NAME_PLATE>俺
+「あ、いや、こっちの話し……って
+　お前、いつまで待たせるんだよ！」
+<PAUSE>
+<NAME_PLATE>
+　思い出した。
+<PAUSE>
+<NAME_PLATE>
+　ＤＳＯとの共同任務のため
+ブリーフィングに参加するアスカを
+駅に迎えに来ていたのだが、
+<PAUSE>
+<NAME_PLATE>
+　いつまで経ってもアスカが現れないので、
+いつの間にか寝てしまったのだ。
+<PAUSE>
+<ACTOR>0,as_t005a_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0330_2_0193_r18
+<NAME_PLATE>アスカ
+「ごめんごめん。
+　ちょっとＤＳＯでトラブルがあってさ」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0194_r18
+<NAME_PLATE>アスカ
+「五車に遅れるって連絡いってるはずだけど
+　“聞いて”はなかったようね」
+<PAUSE>
+<NAME_PLATE>
+　アスカは全く悪びれずに言い、
+クスクス笑いながら手鏡を取り出して、
+俺の顔を写してみせた。
+<PAUSE>
+<NAME_PLATE>
+　『アスカ遅れるって。ゆきかぜ』
+<PAUSE>
+<NAME_PLATE>
+　俺の顔にマジックでそう書かれていた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>俺
+「くそ！？　あいつ！！！」
+<PAUSE>
+<ACTOR>0,as_t005b_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0330_2_0195_r18
+<NAME_PLATE>アスカ
+「寝てるふうまが悪いわよ。
+　それにしても仲いいのね。
+　さ、行きましょ」
+<PAUSE>
+<NAME_PLATE>
+　アスカは俺を無理やり立たせると、
+なぜか腕を組んで歩き出した。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>俺
+「え！？　ちょっ！？
+　顔を洗わせろよ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0330_2_0196_r18
+<NAME_PLATE>アスカ
+「いいからいいから♪」
+<PAUSE>
+<NAME_PLATE>
+　アスカは妙に楽しそうにしながら、
+ぐいぐいと俺を引っ張っていく。
+<PAUSE>
+<NAME_PLATE>
+　その強引さは、さっきまで夢で見ていた
+未来のアスカと同じだった。
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

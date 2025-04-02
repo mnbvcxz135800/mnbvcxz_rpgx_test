@@ -1,0 +1,2041 @@
+//■EV001a　 幻影不知火Ｈ１
+//【黒画面】
+//【背景：ヨミハラ＿町の広場＿昼夜共通】【時間：夜】
+//　※対魔忍アサギZERO_NC034aより流用
+<BG>nc122a,IN, 1000
+<NAME_PLATE>
+　東京の地下３００メートル。
+<PAUSE>
+<NAME_PLATE>
+　人に仇なす魔族がはびこる街、
+ヨミハラ。
+<PAUSE>
+<NAME_PLATE>
+　そこに“幻影”の異名をもち、
+一人の母でもある対魔忍がいた。
+<PAUSE>
+<ACTOR>0,chr_t0311a_r18,CENTER, CENTER, IN, linear, 1000
+<NAME_PLATE>
+　彼女は水城不知火（みずきしらぬい）。
+<PAUSE>
+//【背景：ヨミハラ＿裏通り＿昼夜共通】【時間：夜】
+//　※対魔忍紅_NC005aより流用
+<ACTOR_OUT>0,CENTER,linear,1000
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm509,1000
+<BG>nc062a,IN, 1000
+<ACTOR>0,chr_t0311a_r18,CENTER, CENTER, IN, linear, 1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0311_1_0000_r18
+<NAME_PLATE>不知火
+「はあっっ！」
+<PAUSE>
+//　※立ち絵
+//　　幻影不知火01(魔性ＳＲ)立ち絵
+//　　　　※カードイラスト表を流用
+<ACTOR_OUT>0,CENTER,linear,500
+<BG>ef004a,NONE
+<EFFECT_FLASH>WHITE, 1000
+<SE_PLAY>se027
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>
+　不知火の薙刀が鮮やかな弧を描いた。
+<PAUSE>
+<NAME_PLATE>
+　水遁が生み出す水飛沫がはらはらと煌めく。
+<PAUSE>
+<BG>ef005a,NONE
+<EFFECT_FLASH>WHITE, 1000
+<SE_PLAY>se031
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>
+　魔族の最後の一匹は、
+その煌めきを己の血で彩りながら、
+ゆっくりと倒れていった。
+<PAUSE>
+<BG>nc062a,IN, 500
+<ACTOR>0,chr_t0311a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0311_1_0001_r18
+<NAME_PLATE>不知火
+「任務終了ね、ふう」
+<PAUSE>
+<NAME_PLATE>
+　不知火は小さく息を吐いた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0002_r18
+<NAME_PLATE>不知火
+「思ったより時間がかかったわね。
+　早く帰らないと」
+<PAUSE>
+<NAME_PLATE>
+　裏路地には彼女がたった一人で倒した
+魔族の死体がいくつも転がっている。
+<PAUSE>
+<NAME_PLATE>
+　単身、ヨミハラに赴き、
+ターゲットである魔族たちを殲滅する。
+<PAUSE>
+<NAME_PLATE>
+　彼女にとってさして困難な任務ではない。
+<PAUSE>
+<NAME_PLATE>
+　事実、予定時間の半分もかかっていない。
+<PAUSE>
+<NAME_PLATE>
+　それでも気が急いているのは
+五車の家にいる幼い娘が心配だからだ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0003_r18
+<NAME_PLATE>不知火
+「ゆきかぜ、大丈夫かしら」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0004_r18
+<NAME_PLATE>不知火
+「あの人、ちゃんと
+　やってくれてるといいけど」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0005_r18
+<NAME_PLATE>不知火
+「男の人ってどうしても細かい所に
+　気が回らないから……はぁ」
+<PAUSE>
+<NAME_PLATE>
+　愛する、だが父親としては
+まだ不安な夫への愚痴を呟きつつ、
+路地を出ようとした不知火は、
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0006_r18
+<NAME_PLATE>不知火
+「……っ！」
+<PAUSE>
+<NAME_PLATE>
+　一瞬で母から対魔忍の顔へと変わって、
+背後を振り返った。
+<PAUSE>
+<NAME_PLATE>
+　なにかの気配を感じた気がしたのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0007_r18
+<NAME_PLATE>不知火
+「…………」
+<PAUSE>
+<NAME_PLATE>
+　だが誰もいない。
+<PAUSE>
+<NAME_PLATE>
+　感じたように思った気配もない。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0008_r18
+<NAME_PLATE>不知火
+「気のせいみたいね。
+　ゆきかぜが私を呼んだのかしらね」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0009_r18
+<NAME_PLATE>不知火
+「あの子、寂しがり屋だから
+　また夜泣きでもしてないといいけど」
+<PAUSE>
+<BGM_STOP>1000
+<ACTOR_OUT>0,CENTER,linear,500
+<SE_PLAY>se082
+<NAME_PLATE>
+　母親の顔に戻った不知火は
+足早に去っていった。
+<PAUSE>
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm314,1000
+<BG>nc062a,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　路地裏に静寂が戻り、
+そして―――
+<PAUSE>
+<ACTOR>0,ts_m255a_r18,CENTER, CENTER, IN, linear, 1000
+<NAME_PLATE>
+　闇より滲み出るように
+異形の女が現れた。
+<PAUSE>
+//　※立ち絵
+//　　(精神)イシュタル立ち絵
+//　　　　※モンスターイラストを流用
+<NAME_PLATE>
+　淫魔族、その名はイシュタル。
+<PAUSE>
+<VOICE_PLAY>chri_0311_1_0000_r18
+<NAME_PLATE>イシュタル
+「後始末もできないとは。
+　これだから人間は」
+<PAUSE>
+<NAME_PLATE>
+　イシュタルは不満げに呟くと、
+地面に落ちたその影がじわりと広がり、
+<PAUSE>
+<NAME_PLATE>
+　路地裏に転がっていた魔族の死体を
+一つ残らず呑み込んでいった。
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<NAME_PLATE>
+　彼女は綺麗になった地面に膝を突き、
+頭を垂れて、何者かに話し始める。
+<PAUSE>
+<VOICE_PLAY>chri_0311_1_0001_r18
+<NAME_PLATE>イシュタル
+「我が主よ。
+　水城不知火なる者の力、
+　確かに見届けました」
+<PAUSE>
+<VOICE_PLAY>chri_0311_1_0002_r18
+<NAME_PLATE>イシュタル
+「あれは対魔忍で御座います。
+　人間でありながらそれなりの力を
+　持っている様子」
+<PAUSE>
+<VOICE_PLAY>chri_0311_1_0003_r18
+<NAME_PLATE>イシュタル
+「ほんの一瞬とはいえ、
+　闇に潜んだ私の気配を感じ取るなど
+　魔族にもなかなかできぬこと」
+<PAUSE>
+<VOICE_PLAY>chri_0311_1_0004_r18
+<NAME_PLATE>イシュタル
+「ですが所詮は下賤な人間、
+　お気になさるようなことは何も―――」
+<PAUSE>
+<ACTOR>0,ts_m255a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chri_0311_1_0005_r18
+<NAME_PLATE>イシュタル
+「い、いまなんと？」
+<PAUSE>
+<NAME_PLATE>
+　イシュタルは驚きに顔を上げた。
+その視線の先には誰の姿もなく、
+何の声もしなかったが、
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<VOICE_PLAY>chri_0311_1_0006_r18
+<NAME_PLATE>イシュタル
+「いえ、御意のままに……」
+<PAUSE>
+<NAME_PLATE>
+　彼女は戸惑った表情を浮かべつつも、
+そう言って再び頭を垂れた。
+<PAUSE>
+//【黒画面】
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　―――
+<PAUSE>
+//【背景：五車町全景＿深夜】【時間：夜】
+//　※対魔忍アサギZERO_NC007dより流用
+<UI_DISP>OFF, 0
+<BG>nc297b,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　不知火がヨミハラの任務から帰還して
+二週間が経った。
+<PAUSE>
+//【背景：五車町-水城家外観＿深夜】【時間：夜】
+//　※対魔忍アサギZERO_NC049cより流用
+<UI_DISP>OFF, 0
+<BG>nc146c,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　その夜。
+<PAUSE>
+<NAME_PLATE>
+　草木も眠る丑三つ時。
+<PAUSE>
+<NAME_PLATE>
+　陰陽道における丑寅。
+鬼門から怪異が忍び寄る魔の時間。
+<PAUSE>
+//【背景：五車町-水城家夫婦の寝室＿深夜】【時間：夜】
+//　※監獄アカデミア_NC015bより流用
+<UI_DISP>OFF, 0
+<BG>chrnc0178a,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　水城家、その家族の寝室。
+<PAUSE>
+<NAME_PLATE>
+　キングベッドには不知火と彼女の夫が
+その傍らのベビーベッドには娘のゆきかぜが
+眠っていた。
+<PAUSE>
+<NAME_PLATE>
+　そこに魔の気配が微かに漂い始める。
+<PAUSE>
+//【黒画面】
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0311_1_0010_r18
+<NAME_PLATE>不知火
+（……！）
+<PAUSE>
+<NAME_PLATE>
+　不知火は闇の中で何かを自覚した。
+<PAUSE>
+<NAME_PLATE>
+　はっきり意識がある。
+<PAUSE>
+<NAME_PLATE>
+　けれど身体を自由に動かせない。
+<PAUSE>
+<NAME_PLATE>
+　夢の中で目覚めているのに
+夢を止められないような不自由な感覚。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0011_r18
+<NAME_PLATE>不知火
+（また今夜も……？）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0012_r18
+<NAME_PLATE>不知火
+（これは夢……？）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0013_r18
+<NAME_PLATE>不知火
+（私を呼ぶのは誰なの……？
+　私にいったい何を……？）
+<PAUSE>
+<BGM_PLAY>bgm725,1000
+<VOICE_PLAY>chr_0311_1_0014_r18
+<NAME_PLATE>不知火
+「はっ……！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0015_r18
+<NAME_PLATE>不知火
+（そうだ、思い出した……
+　これから……私はこれから……）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0016_r18
+<NAME_PLATE>不知火
+（昨日も一昨日も、その前も
+　ずっと……ずっと……ずっと……）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0017_r18
+<NAME_PLATE>不知火
+（なのに、
+　朝になるといつも忘れてしまう……）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0018_r18
+<NAME_PLATE>不知火
+（だめ、こんなことはもうだめ……
+　今日こそ拒まないと……）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0019_r18
+<NAME_PLATE>不知火
+（私には愛する夫がいて、
+　自分の命より大切な子がいるのだから……）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0020_r18
+<NAME_PLATE>不知火
+（いやよ……あんな夢……もう見たくない）
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0021_r18
+<NAME_PLATE>不知火
+（お願い……もう止めて……）
+<PAUSE>
+//【イベント絵：EV001a　 幻影不知火Ｈ１】【時間：夜】
+<EV>chr_0311_1a_r18,IN, 1000
+<VOICE_PLAY>chr_0311_1_0022_r18
+<NAME_PLATE>不知火
+「ああ……また……」
+<PAUSE>
+<NAME_PLATE>
+　闇の中にあった不知火の意識が
+ゆっくりと覚醒し始める。
+<PAUSE>
+<NAME_PLATE>
+　だがそれで覚めるわけではない。
+現実感の伴わない、夢現のような感覚が
+どこまでも続いている。
+<PAUSE>
+<NAME_PLATE>
+　そして眠っていた女の身体が
+はしたない官能だけでじわじわと
+勝手に起き上がってくる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0023_r18
+<NAME_PLATE>不知火
+「これは夢……夢なのよ……」
+<PAUSE>
+<NAME_PLATE>
+　隣には愛する夫が寝ている。
+<PAUSE>
+<NAME_PLATE>
+　可愛いゆきかぜの寝息も聞こえる。
+<PAUSE>
+<NAME_PLATE>
+　ここは家族の寝室。
+親子三人の安らぎの場所。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0024_r18
+<NAME_PLATE>不知火
+「なのに、こんな格好……
+　いくら夢だって……どうして、私……」
+<PAUSE>
+<NAME_PLATE>
+　パジャマで寝ていたはずの自分が
+対魔忍スーツなど着ているはずがない。
+<PAUSE>
+<NAME_PLATE>
+　まして手足を鎖で縛り付けられて、
+夫の前でもしたことがないような、
+こんな格好をしているはずがない。
+<PAUSE>
+<NAME_PLATE>
+　だからこれは夢。夢なのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0025_r18
+<NAME_PLATE>不知火
+「だけど……どうして……
+　こんな夢ばかり……毎晩……毎晩……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0026_r18
+<NAME_PLATE>不知火
+「まさか……私……
+　この人との夜の生活に
+　不満があるとでもいうの？」
+<PAUSE>
+<NAME_PLATE>
+　思わず出た呟きを
+不知火はすぐさま首を振って否定した。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0027_r18
+<NAME_PLATE>不知火
+「嘘よ……そんなことない……
+　私は満足してる……してるわ……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0028_r18
+<NAME_PLATE>不知火
+「あなただって、そうでしょ？」
+<PAUSE>
+<NAME_PLATE>
+　不知火は横で寝ている夫に話しかけた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0029_r18
+<NAME_PLATE>不知火
+「それとも、あなた、
+　もしかして私のために我慢しているの？」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0030_r18
+<NAME_PLATE>不知火
+「今まで一度もそんなこと言わなかったけれど
+　私をこんな風にしてみたいの？」
+<PAUSE>
+<NAME_PLATE>
+　夫は答えてくれない。
+<PAUSE>
+<NAME_PLATE>
+　この夢が始まってからずっとそうだ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0031_r18
+<NAME_PLATE>不知火
+「それとも、私自身がこの人に
+　こんなことをされたいと思ってるの？」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0032_r18
+<NAME_PLATE>不知火
+「分からない……
+　ああ、分からないわ……あなた……」
+<PAUSE>
+<NAME_PLATE>
+　答えの出ない自問自答を
+夢の中で繰り返す。
+<PAUSE>
+<NAME_PLATE>
+　確かにゆきかぜが産まれてから
+夫婦生活の回数そのものは減った。
+<PAUSE>
+<NAME_PLATE>
+　でもそれは無理のないことだ。
+二人にとって初めての子供、その世話。
+<PAUSE>
+<NAME_PLATE>
+　それは思いもかけないことばかりで
+魔族との闘いなんかとは
+比べ物にならないほどの苦労で、
+<PAUSE>
+<NAME_PLATE>
+　タフネスで知られた彼女が
+疲れ切ってしまうこともしばしばだった。
+<PAUSE>
+<NAME_PLATE>
+　そんな新米の母親である自分を
+やはり新米の父親である夫は
+優しく支えてくれた。
+<PAUSE>
+<NAME_PLATE>
+　そしてつかの間の二人だけの時間、
+夫は子供が生まれる前よりも
+優しく彼女を抱いてくれた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0033_r18
+<NAME_PLATE>不知火
+「私はそれに満足していたのに。
+　あなたは違うの？　違っていたの？」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0034_r18
+<NAME_PLATE>不知火
+「なにか言って。
+　なにか言ってちょうだい、あなた」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0035_r18
+<NAME_PLATE>不知火
+「あなたの妻がこんな格好をしてるのよ。
+　こんな淫らな格好を！」
+<PAUSE>
+<NAME_PLATE>
+　いくら訴えても夫は答えてくれない。
+<PAUSE>
+<NAME_PLATE>
+　これは彼女の夢だからだ。
+<PAUSE>
+<NAME_PLATE>
+　不知火の心の中での出来事だからだ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0036_r18
+<NAME_PLATE>不知火
+「うっ……くっ……始まる……また……」
+<PAUSE>
+<NAME_PLATE>
+　心臓の鼓動が速くなっていく。
+<PAUSE>
+<NAME_PLATE>
+　縛られた身体がジワジワと熱くなる。
+<PAUSE>
+<NAME_PLATE>
+　股間に強く食い込んだスーツの股布が
+どうしようもないほど気になる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0037_r18
+<NAME_PLATE>不知火
+「だめなのに……こんな疼き……」
+<PAUSE>
+<NAME_PLATE>
+　ずくん……ずくん……ずくん……
+<PAUSE>
+<NAME_PLATE>
+　子宮が疼く。
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜを産んだ子宮が疼く。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0038_r18
+<NAME_PLATE>不知火
+「はぁ……はぁ……ああ……ン」
+<PAUSE>
+<NAME_PLATE>
+　官能に火が点いていく。
+<PAUSE>
+<NAME_PLATE>
+　夫以外で感じるはずのない
+感じてはいけない淫らな女の官能。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0039_r18
+<NAME_PLATE>不知火
+「あなた……助けて……」
+<PAUSE>
+<NAME_PLATE>
+　けれど夫は助けてくれない。
+<PAUSE>
+<NAME_PLATE>
+　また始まる。
+<PAUSE>
+//【イベント絵：EV001b　 幻影不知火Ｈ１＿差分１】【時間：夜】
+<EV>chr_0311_1b_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0040_r18
+<NAME_PLATE>不知火
+「あ、ああっ……！」
+<PAUSE>
+<NAME_PLATE>
+　突然、対魔忍スーツが裂け始めた。
+<PAUSE>
+<NAME_PLATE>
+　股間に食い込んでいた股布が
+左右にぱっくりと。
+<PAUSE>
+<NAME_PLATE>
+　胸のあたりは左右の乳首のところから
+円形に拡がっていくように。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0041_r18
+<NAME_PLATE>不知火
+「いやっっ……」
+<PAUSE>
+<NAME_PLATE>
+　夫が綺麗な形だと褒めてくれた秘所が
+ひとりでに露わになる。
+<PAUSE>
+<NAME_PLATE>
+　夫が時に優しく、時に激しく
+揉みしだいてくれた乳房が
+勝手に曝け出される。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0042_r18
+<NAME_PLATE>不知火
+「ああ、やめて……」
+<PAUSE>
+<NAME_PLATE>
+　知らず知らずのうちに乳首は
+恥ずかしいほど勃起し、
+<PAUSE>
+<NAME_PLATE>
+　陰唇の肉ビラは真っ赤に充血して、
+べろんとはしたなく口を広げている。
+<PAUSE>
+<NAME_PLATE>
+　それが分かる。
+自分の身体だから。
+<PAUSE>
+<NAME_PLATE>
+　愛する夫によって
+女の悦びを教えられた身体だから。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0043_r18
+<NAME_PLATE>不知火
+「見ないで……あなた……」
+<PAUSE>
+<NAME_PLATE>
+　不知火は思わずそう言い、
+自分でも目をつぶっていた。
+<PAUSE>
+<NAME_PLATE>
+　夫が寝ている横で、
+一人で淫らに変貌している自分を
+見たくなかったから。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0044_r18
+<NAME_PLATE>不知火
+「はぁ、はぁ……はぁ……はぁ……
+　んっ……くっ……はうっ……くぅ……」
+<PAUSE>
+<NAME_PLATE>
+　そんな彼女の葛藤を嘲笑うかのように、
+乳首はますます硬く尖っていき、
+<PAUSE>
+<NAME_PLATE>
+　ピクピクと花心を震わせる秘裂からは
+淫らな愛液がこんこんと湧き出てくる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0045_r18
+<NAME_PLATE>不知火
+「だめえ……疼きが……止まらない
+　このままじゃ……また、また……」
+<PAUSE>
+<NAME_PLATE>
+　きっとあの声が聞こえてくる。
+<PAUSE>
+<NAME_PLATE>
+　深い闇の底から彼女を呼ぶ声が。
+<PAUSE>
+<NAME_PLATE>男の声
+『不知火……』
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0046_r18
+<NAME_PLATE>不知火
+「……っ！」
+<PAUSE>
+<NAME_PLATE>
+　聞こえてきた。あの声が。
+<PAUSE>
+<NAME_PLATE>
+　彼女の内側から
+聞こえてくるようなあの声が。
+<PAUSE>
+<NAME_PLATE>男の声
+『今夜も来たぞ』
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0047_r18
+<NAME_PLATE>不知火
+「だ、誰なのっ……！？
+　あなたは誰！？」
+<PAUSE>
+<NAME_PLATE>男の声
+『私は私だ』
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0048_r18
+<NAME_PLATE>不知火
+「なぜこんなことを！？
+　なにが目的なの！」
+<PAUSE>
+<NAME_PLATE>男の声
+『お前がそれを望むからだ』
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0049_r18
+<NAME_PLATE>不知火
+「ふざけないで！！
+　私はこんなこと望んでいない！」
+<PAUSE>
+<NAME_PLATE>男の声
+『夢はお前だけのもの。
+　夫では満たされぬ心と体の疼き。
+　お前が私を呼んだ』
+<PAUSE>
+<NAME_PLATE>男の声
+『私は淫らなお前自身だ』
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0050_r18
+<NAME_PLATE>不知火
+「違う！　違うわ！！」
+<PAUSE>
+<NAME_PLATE>男の声
+『今夜もたっぷり可愛がってやるぞ。
+　旦那の横でな……』
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0051_r18
+<NAME_PLATE>不知火
+「いや、やめて！」
+<PAUSE>
+<NAME_PLATE>
+　不知火は内なる声に必死に抗う。
+<PAUSE>
+<NAME_PLATE>
+　だが抗えば抗うほど身体の疼きは
+耐えがたいものになり、
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0052_r18
+<NAME_PLATE>不知火
+「あっ……っ……ううっ……
+　身体が……オマンコが……熱い……
+　またこんなに……疼くぅ……やあ」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0053_r18
+<NAME_PLATE>不知火
+「ああ、だめ……だめ……
+　なにもしないで……おねがい……
+　だめなの……私だめなのぉ……」
+<PAUSE>
+<NAME_PLATE>
+　その言葉とは裏腹に
+もう何も答えてくれない内なる声に
+ねだるように腰がヒクついている。
+<PAUSE>
+<NAME_PLATE>
+　いっそう淫らに拡がった秘唇からは
+ごぷごぷと愛液が溢れ出し、
+<PAUSE>
+<NAME_PLATE>
+　発情した人妻の匂いに誘われるように、
+どこからともなく男の手が出現した。
+<PAUSE>
+//【イベント絵：EV001c　 幻影不知火Ｈ１＿差分２】【時間：夜】
+<EV>chr_0311_1c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0054_r18
+<NAME_PLATE>不知火
+「んんんっっっ！」
+<PAUSE>
+<NAME_PLATE>
+　オマンコに指が触れた。
+<PAUSE>
+<NAME_PLATE>
+　知らない男の指だ。夫以外の男の指だ。
+<PAUSE>
+<NAME_PLATE>
+　それが分かる。
+<PAUSE>
+<NAME_PLATE>
+　なぜなら不知火は自分と夫の指の感触しか
+知らないから。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0055_r18
+<NAME_PLATE>不知火
+「やめ……てっ……
+　触らない……でっ……やっ……」
+<PAUSE>
+<NAME_PLATE>
+　触っているのがどんな男かも分からない。
+<PAUSE>
+<NAME_PLATE>
+　その顔も身体も判然としない。
+そこにいるのかもはっきりしない。
+<PAUSE>
+<NAME_PLATE>
+　ただ知らない手が、その指が
+彼女の秘唇を無遠慮に撫で回している。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0056_r18
+<NAME_PLATE>不知火
+「くうっ……ふっ……くうっ……」
+<PAUSE>
+<NAME_PLATE>
+　夫以外の男に触られている。
+<PAUSE>
+<NAME_PLATE>
+　その強烈な嫌悪感と、
+それを遙かに上回るはしたない快感に
+唇を強く噛みしめる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0057_r18
+<NAME_PLATE>不知火
+「ンンッくっ、くふう……うううっ……」
+<PAUSE>
+<NAME_PLATE>
+　熱く火照った肉ビラが指で摘ままれ、
+膣口を広げられ、弄り回される。
+<PAUSE>
+<NAME_PLATE>
+　割れ目から溢れ出た愛液を指で掬われ、
+何度も何度も擦りつけられる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0058_r18
+<NAME_PLATE>不知火
+「うっ……くっ……くううっ……
+　やあっ……そこ……いやぁっ……」
+<PAUSE>
+<NAME_PLATE>
+　夫がしない弄り方、夫とは違う刺激。
+<PAUSE>
+<NAME_PLATE>
+　意識してはいけないと思えば思うほど、
+その違う刺激が官能を埋め尽くしていく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0059_r18
+<NAME_PLATE>不知火
+「あうっ……っ……っ……だめぇ……
+　オマンコ……そんなに……クチクチ……
+　するの……らめぇ……やめてぇ……」
+<PAUSE>
+<NAME_PLATE>
+　誰とも知れない男、
+指しかその存在を感じられない男に
+許しを請うてしまう。
+<PAUSE>
+<NAME_PLATE>
+　もちろん指は止まってくれない。
+それどころか敏感になった割れ目にそって
+ツーッとせり上がっていく。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0060_r18
+<NAME_PLATE>不知火
+「ひあ、あっ、あっっ！
+　あっぁああああ～～～～～！」
+<PAUSE>
+<NAME_PLATE>
+　その先にあるのはぷっくりと膨らんだ陰核。
+快感の予感に背筋がぞわぞわとざわめく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0061_r18
+<NAME_PLATE>不知火
+「だ、だめっ、そこはダメっ、
+　お豆、触っちゃダメっ、よしてよして！」
+<PAUSE>
+<NAME_PLATE>
+　くちゅ。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0311_1_0062_r18
+<NAME_PLATE>不知火
+「ンンッ～～～～～～～～っっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　クリトリスが左右から強く
+指で押し潰された。
+<PAUSE>
+<NAME_PLATE>
+　一瞬、頭の中が真っ白になる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0063_r18
+<NAME_PLATE>不知火
+「すご……いいっ……っ……！！」
+<PAUSE>
+<NAME_PLATE>
+　こんな乱暴なこと夫はしない。
+したことがない。
+<PAUSE>
+<NAME_PLATE>
+　そんな想いが脳裏を駆け抜けるが、
+潰された陰核をさらにコリコリと捏ねられると
+もう自分ではどうにもできない。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0064_r18
+<NAME_PLATE>不知火
+「ひゃあっ、んっ、くああああんっ！！」
+<PAUSE>
+<NAME_PLATE>
+　みっともないポーズに縛られた身体が
+ブルブルと震えている。
+<PAUSE>
+<NAME_PLATE>
+　オマンコを乱暴に弄り回す指に向かって
+腰がひくひくと勝手に突き上がる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0065_r18
+<NAME_PLATE>不知火
+「はあんっ、あっあっ！
+　んっ、あんっ、やん、そんなっ、
+　お豆、乱暴にしないでっ、やあンっ！」
+<PAUSE>
+<NAME_PLATE>
+　残酷なまでのクリトリス刺激に
+そのすぐ下でパックリと口を開けた膣口から
+ビュビュッと愛液が噴き出した。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0066_r18
+<NAME_PLATE>不知火
+「あっあっっあああああんっ！！」
+<PAUSE>
+<NAME_PLATE>
+　こんな激しいオマンコの反応も
+夫を相手にしているときはなかった。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0067_r18
+<NAME_PLATE>不知火
+「だめぇ……そんなこと……
+　考えちゃっ……だめなのぉ……
+　どうして……どうして私ぃ……！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0068_r18
+<NAME_PLATE>不知火
+「だめよっ……この人と比べるなんて……
+　違うの、あなたっ……ああ、違うのぉ……
+　これはだだの夢なのぉ……」
+<PAUSE>
+<NAME_PLATE>
+　不知火は横で眠り続ける夫を意識しながら、
+イヤイヤを繰り返した。
+<PAUSE>
+<NAME_PLATE>
+　すると突然―――
+<PAUSE>
+<NAME_PLATE>
+　ずるううううううっ。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0069_r18
+<NAME_PLATE>不知火
+「んっひいいいいいいいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　喧しい人妻の口を塞ぐ代わりに
+下の口を塞いでやるとでも言いたげに、
+膣口に指が差し込まれた。
+<PAUSE>
+<NAME_PLATE>
+　気が遠くなるような強烈な快感。
+けれど、それだけではなかった。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0070_r18
+<NAME_PLATE>不知火
+「ま、まって？　どういうこと？
+　指が違う？　別の男？
+　もう一人いるの？　そこにいるの？」
+<PAUSE>
+<NAME_PLATE>
+　恐怖と快感に震えるその問いかけに
+もちろん答えはない。
+<PAUSE>
+<NAME_PLATE>
+　しかしはっきりと分かる。
+指が違う。感触が違う。弄り方が違う。
+男が増えている。一人から二人に。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0071_r18
+<NAME_PLATE>不知火
+「あっあっあああ～～～～～～っっ。
+　二人目の指ぃ、そんなあっ！」
+<PAUSE>
+<NAME_PLATE>
+　別の男が膣穴に埋め込んだ指を
+チュクチュクと弄り回している。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0072_r18
+<NAME_PLATE>不知火
+「ひあっ、あっ……んんっ……
+　男が……増える……なんてっ
+　いくら……夢だからって……」
+<PAUSE>
+<NAME_PLATE>
+　自分ではそんなことはないつもりだが、
+万が一、心の奥底で夫との夫婦生活に
+不満を感じていたとしても、
+<PAUSE>
+<NAME_PLATE>
+　クリトリスを乱暴に押し潰すようなことを
+夫に望んでいたとしても、
+<PAUSE>
+<NAME_PLATE>
+　同時に二人の男を相手にしたいなどとは
+妻として決して思わない。思うはずがない。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0073_r18
+<NAME_PLATE>不知火
+「こんなぁっ……ああっ……
+　どうして……こんなっ……ぁああっ！」
+<PAUSE>
+<NAME_PLATE>
+　四つの手がオマンコを弄り回す。
+<PAUSE>
+<NAME_PLATE>
+　充血した陰唇をぴらぴらと揺らされ、
+パンパンに膨らんだ陰核を捏ねられ、
+膣内の肉皺をちゅくちゅくと嬲られる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0074_r18
+<NAME_PLATE>不知火
+「んっっあっ、くううっ！！
+　くふうっ……あなた、あなたぁ……
+　お願い、起きて……たすけてえ……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0075_r18
+<NAME_PLATE>不知火
+「はぁっ、はあっン、あぅああっ！
+　このままじゃ、このままじゃ……わたし
+　あっ、ああっ、あなたぁあ……」
+<PAUSE>
+<NAME_PLATE>
+　この夢の中では無駄だと知りつつも、
+不知火は夫に助けを求めていた。
+<PAUSE>
+<NAME_PLATE>
+　だが夫が彼女を助けてくれることはなく、
+その代りに―――
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0076_r18
+<NAME_PLATE>不知火
+「おほおおおおおおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　お尻に強烈な異物感。
+<PAUSE>
+<NAME_PLATE>
+　また別の男だ。三人目だ。
+その指が肛門を押し広げている。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0077_r18
+<NAME_PLATE>不知火
+「さんっ……にんめぇっ……
+　お、お尻……にいっ………そんなあっ……
+　そこは……だめぇ……っ！」
+<PAUSE>
+<NAME_PLATE>
+　無論、対魔忍として
+アナルセックスの知識はあった。
+魔族に犯されるリスクも知っていた。
+<PAUSE>
+<NAME_PLATE>
+　けれど自分で肛門を弄ったことなどない。
+夫が触れてくることもなかった。
+<PAUSE>
+<NAME_PLATE>
+　そんなお尻の穴に見知らぬ男の指が
+ズブズブと入ってくる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0078_r18
+<NAME_PLATE>不知火
+「だ……めええっ……
+　お尻に……んんっ……指ぃ……
+　いれない……で……いやあ……」
+<PAUSE>
+<NAME_PLATE>
+　強烈な異物感、肛門が強引に広げられ、
+生温かい指を噛みしめている感覚に
+背筋が戦慄く。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0079_r18
+<NAME_PLATE>不知火
+「おほっおっ、んほおっ、
+　おおおおおおおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　なのに不知火自身の口からは
+野太い獣のような下品な呻きが漏れ、
+<PAUSE>
+<NAME_PLATE>
+　いくら括約筋を強く息ませても
+お尻はほとんど痛みもなく
+その指を咥えていくのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0080_r18
+<NAME_PLATE>不知火
+「わ、私の……お尻……お尻の穴……
+　どう……なってるのぉ……こんなぁ……
+　感じたく……ないのに……あっああっ！」
+<PAUSE>
+<NAME_PLATE>
+　膣と肛門が同時に穿られ、
+ネチャネチャと耳を塞ぎたくなるような
+下品な肉音が鳴りひびく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0081_r18
+<NAME_PLATE>不知火
+「ああ、ダメ……うごいちゃうっ……
+　腰が……やあんっ、恥ずかしいくらい……
+　震える……震えるぅう……ああっ」
+<PAUSE>
+<NAME_PLATE>
+　あまりにも異質な刺激、いや快感に
+人妻の身体がまた勝手に動き出す。
+<PAUSE>
+<NAME_PLATE>
+　股間に群がる男たちの手に向かって
+オマンコとお尻を恥ずかしいくらいに
+押し付けてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0082_r18
+<NAME_PLATE>不知火
+「ひああっ、ああっんんっ……
+　私、どうして……どうしてぁ……
+　ああんっ……だめぇ……とまらないぃ」
+<PAUSE>
+<NAME_PLATE>
+　膣も肛門もみっともなく拡がって、
+夫とは違う男の指をクチャクチャと
+嬉しそうに噛みしめている。
+<PAUSE>
+<NAME_PLATE>
+　二つの雌穴と指の隙間からは
+甘酸っぱい匂いの愛液と腸汁が
+垂れ流しになって止まらず、
+<PAUSE>
+<NAME_PLATE>
+　べろんべろんに捲れ返った陰唇と
+今にも弾けそうに勃起したクリトリスを
+どの指でもいいからとなすりつけている。
+<PAUSE>
+<NAME_PLATE>
+　夫には決して見せられない姿。
+妻としても、対魔忍としても許されない痴態。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0083_r18
+<NAME_PLATE>不知火
+「ひあっ、あっあああっ！
+　このままじゃっ、だめえっ、ほんとにっ！
+　わたしっ、だめになっちゃうっ！」
+<PAUSE>
+<NAME_PLATE>
+　けれど淫らな身体の震えが止まらない。
+気がつけば二穴を思いっきり息ませている。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0084_r18
+<NAME_PLATE>不知火
+「ああだ、だめえっ、私、イッちゃうっ、
+　夫が横で寝てるのにっ、それだけはっ、
+　それだけはっ、あっあっあ―――」
+<PAUSE>
+<NAME_PLATE>
+　絶望的なアクメの衝動が込み上げてくる。
+<PAUSE>
+//【イベント絵：EV001b　 幻影不知火Ｈ１＿差分１】【時間：夜】
+//※手を消すため、差分を戻してください。
+<EV>chr_0311_1b_r18,NONE
+<NAME_PLATE>
+　それが頂点に達しようとした瞬間、
+男たちの手がフッと穴から消えた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0085_r18
+<NAME_PLATE>不知火
+「はぁ、あはぁ、はぁはぁ……
+　え？　やめ……たの……？
+　はぁはぁン……どう……して？」
+<PAUSE>
+<NAME_PLATE>
+　それで良かったはずなのに、
+絶頂させられることなど望んでいないのに。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0086_r18
+<NAME_PLATE>不知火
+「う……ぅうん……はぁ、はぁン……」
+<PAUSE>
+<NAME_PLATE>
+　どうしようもなく切なくて、
+物足りない想いが不知火を満たす。
+<PAUSE>
+<NAME_PLATE>
+　その淫らな心の隙間を埋めるように、
+何人ものイヤらしい手よりもあからさまな
+一人の男の肉棒がいきなり不知火を貫いた。
+<PAUSE>
+//【イベント絵：EV001d　 幻影不知火Ｈ１＿差分３】【時間：夜】
+<EV>chr_0311_1d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0087_r18
+<NAME_PLATE>不知火
+「かはあっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　完全に油断していた状態での挿入。
+<PAUSE>
+<NAME_PLATE>
+　入ったのは先っぽだけだったが、
+不知火はどうしようもなく息を詰まらせた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0088_r18
+<NAME_PLATE>不知火
+「き、昨日よりも……おおきいっ……
+　やっぱりぃ……ううっ……」
+<PAUSE>
+<NAME_PLATE>
+　膣口が今にも裂けそうなほどに
+パンパンに拡がるこの感じ。
+<PAUSE>
+<NAME_PLATE>
+　間違いなく昨夜よりも太い。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0089_r18
+<NAME_PLATE>不知火
+「あっ……あっ……あああっ……」
+<PAUSE>
+<NAME_PLATE>
+　この淫らな夢が始まって数日。
+<PAUSE>
+<NAME_PLATE>
+　最初の夜は夫より少し
+大きいような気がしただけだった。
+でも気のせいだと思っていた。
+<PAUSE>
+<NAME_PLATE>
+　それが次の夜には一回り大きくなり、
+その次の夜にはもう一回り大きくなり、
+今夜のこれも昨夜より大きい。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0090_r18
+<NAME_PLATE>不知火
+「うっくっ……ううっ……あぁうう……
+　オマンコ……裂けちゃい……そうっ」
+<PAUSE>
+<NAME_PLATE>
+　もうはっきりと分かる。分かってしまう。
+オマンコの恥ずかしい広がりが教えてくれる。
+夫とは比べ物にならないくらい大きい。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0091_r18
+<NAME_PLATE>不知火
+「比べるなんて……だめなのに……
+　そんなこと……妻失格なのに……
+　あっ……ああ……」
+<PAUSE>
+<NAME_PLATE>
+　極太ペニスを先端だけ入れられた不知火は
+声と膣口を震わせながら
+その男を見ようとした。
+<PAUSE>
+<NAME_PLATE>
+　けれどさっきまで
+オマンコを玩具にしていた男たち同様、
+その姿を見ることはできない。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0092_r18
+<NAME_PLATE>不知火
+「ああ……誰なの……？
+　毎晩……チンポを大きくして……
+　私を犯すあなたは誰なの……？」
+<PAUSE>
+<NAME_PLATE>
+　男は答えない。姿も見せない。
+ただ大きくなっていくペニスを不知火に
+感じさせるだけ。
+<PAUSE>
+<NAME_PLATE>
+　不知火に必要なのはそれだけだと
+言わんばかりだ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0093_r18
+<NAME_PLATE>不知火
+「んっ……くうっ……お願い……
+　抜いて……これ以上、入れないで……」
+<PAUSE>
+<NAME_PLATE>
+　不知火はチンポしか
+感じることのできない男に頼み始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0094_r18
+<NAME_PLATE>不知火
+「こ、このままじゃ……私……
+　夫の感じを……この人のチンポを
+　ああ、忘れてしまう……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0095_r18
+<NAME_PLATE>不知火
+「この夢が……始まってから……
+　私……この人に抱かれてないの……
+　ずっとセックスしてないのよ……」
+<PAUSE>
+<NAME_PLATE>
+　先っぽだけ入れられたチンポを
+そのカリ首のあたりを膣口で
+キュッキュッと締め付けて、
+<PAUSE>
+<NAME_PLATE>
+　声でなくオマンコの震えで、
+気持ちを伝えようとするように訴える。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0096_r18
+<NAME_PLATE>不知火
+「だから、だから……
+　んっ、んんんっ……もうやめて……
+　夫のチンポを……忘れさせないでぇ」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0097_r18
+<NAME_PLATE>不知火
+「お願い……だからぁ……っ」
+<PAUSE>
+<NAME_PLATE>
+　無論、このチンポがそんな願いを
+聞いてくれるはずがない。
+<PAUSE>
+<NAME_PLATE>
+　不知火にもそれは分かっていた。
+だが頼まずにはいられなかった。
+<PAUSE>
+<NAME_PLATE>
+　人妻の切なる願いも空しく、
+昨日より太いチンポがめりこんできた。
+<PAUSE>
+//【イベント絵：EV001e　 幻影不知火Ｈ１＿差分４】【時間：夜】
+<EV>chr_0311_1e_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0098_r18
+<NAME_PLATE>不知火
+「ふんぎぃいいっ、だめええっ！！
+　チンポ入れちゃ……だめぇえ！！」
+<PAUSE>
+<NAME_PLATE>
+　昨日以上の挿入、いや快感の恐怖で
+膣道全体がきゅううっと窄まる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0099_r18
+<NAME_PLATE>不知火
+「んぐうううううううううううううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　そこを強引に押し広げるように、
+昨日よりも太い肉棒がズブズブと
+押し入ってくる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0100_r18
+<NAME_PLATE>不知火
+「オマンコッ、拡がるぅうっ！！
+　昨日よりもっと拡がってるぅう！！
+　だめ、だめ、だめえええっ！」
+<PAUSE>
+<NAME_PLATE>
+　ずぶっ、ずぶっ、ずぶずぶずぶっ！
+<PAUSE>
+<NAME_PLATE>
+　必死に歯を食いしばり、
+淫らな喘ぎを押し殺しても、
+身体ははしたない喜びに震えてしまう。
+<PAUSE>
+<NAME_PLATE>
+　極太チンポで拡がった膣口の隙間から、
+随喜の涙のように愛液が噴き出していた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0101_r18
+<NAME_PLATE>不知火
+「っ、ううっ、奥にっ……どんどん奥に
+　入って……くるっ……くるううっ……」
+<PAUSE>
+<NAME_PLATE>
+　たくさんの指でたっぷりと弄り回され、
+はずかしいくらい蕩けていた膣襞が
+今度は内側からパンパンに広げられていく。
+<PAUSE>
+<NAME_PLATE>
+　一欠片の優しさもいたわりもない、
+ただ大きいだけの雄肉の塊が
+不知火の心と体を揺さぶる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0102_r18
+<NAME_PLATE>不知火
+「ひっっ、あっ、ああっっ、
+　まだ？　まだ入るの？　まだ奥にっ？」
+<PAUSE>
+<NAME_PLATE>
+　そう、まだ入ってくるのだ。
+そうに決まってるのだ。
+<PAUSE>
+<NAME_PLATE>
+　毎晩毎晩、知らない場所まで、
+もう夫では到底たどり着くことのできない
+オマンコの深い場所まで。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0103_r18
+<NAME_PLATE>不知火
+「もうだめっ、だめっっ！！
+　お願いそれ以上はもうダメっっ！！
+　だめぇええっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ずずんっっっ！！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0104_r18
+<NAME_PLATE>不知火
+「くっひぃいいいいいいいいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　だけどチンポは入ってきた。
+<PAUSE>
+<NAME_PLATE>
+　昨日よりも深い場所まで。
+昨日よりも感じるところまで。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0105_r18
+<NAME_PLATE>不知火
+「はっ……ひっはひっ……ひっ……
+　だ、だめって……言ったのにい……」
+<PAUSE>
+<NAME_PLATE>
+　頭が真っ白になっていく。
+<PAUSE>
+<NAME_PLATE>
+　膣内を埋め尽くす男の存在感が
+愛する夫の肉の記憶をまた遠ざけていく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0106_r18
+<NAME_PLATE>不知火
+「あなたぁ……あな……たぁ……」
+<PAUSE>
+//【イベント絵：EV001d　 幻影不知火Ｈ１＿差分３】【時間：夜】
+//【イベント絵：EV001e　 幻影不知火Ｈ１＿差分４】【時間：夜】
+//※d、eを適宜切り換えて抽送描写としてください。切り替えのタイミングはお任せします。
+<VOICE_PLAY>chr_0311_1_0107_r18
+<NAME_PLATE>不知火
+「ひぁあああああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　大きなチンポはすぐに動き始めた。
+<PAUSE>
+<NAME_PLATE>
+　不知火は夫に許しを請う間も与えられない。
+<PAUSE>
+<EV>chr_0311_1d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0108_r18
+<NAME_PLATE>不知火
+「らめぇええええええええええええっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　チンポがものすごい勢いで外に出ていく。
+膣内の肉皺が一斉に引っ張られていく。
+<PAUSE>
+<NAME_PLATE>
+　オマンコを鷲づかみにされて、
+外まで引きずりだされそうな
+恐怖すら覚える快感。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0109_r18
+<NAME_PLATE>不知火
+「おっほぉおおおおっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　凶悪に張り出したカリ首が
+膣道いっぱいに溜まっていた愛液を
+一気に掻きだし、
+<PAUSE>
+<NAME_PLATE>
+　外までべろんと捲れた肉ビラの隙間から
+ぶびゅっとはしたなく噴き出す。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0110_r18
+<NAME_PLATE>不知火
+「んひぁあああああああああっ！！」
+<PAUSE>
+<NAME_PLATE>
+　腰は抜けていくチンポを反射的に追いかけ、
+ぎりぎりいっぱいまでせり上がったところで、
+すぐさまチンポがまた入ってくる。
+<PAUSE>
+<EV>chr_0311_1e_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0111_r18
+<NAME_PLATE>不知火
+「かっはぁああああああああああっ！！」
+<PAUSE>
+<NAME_PLATE>
+　外向きに捲れたばかりの膣襞が
+また内側にずるううっと激しく擦られて
+チンポの先が奥にガツンと当たる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0112_r18
+<NAME_PLATE>不知火
+「んくうううううううううう
+　うううううううっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　脳裏に快感の火花が飛び散り、
+自分でも何がなんだか分からなくなり、
+さらに激しくチンポを抜き差しされる。
+<PAUSE>
+<EV>chr_0311_1d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0113_r18
+<NAME_PLATE>不知火
+「ひっっ！　はっっ！　あひいっっ！！
+　ひゃめっっ！　らめええええっっ！！」
+<PAUSE>
+<EV>chr_0311_1e_r18,NONE
+<VOICE_PLAY>chr_0311_1_0114_r18
+<NAME_PLATE>不知火
+「しょんなっ、あっあっ、チンポっ！！
+　おおっ、じゅぼじゅぼしゅるのっっ！！
+　ほおおっ、ひゃめてぇえええっ！！」
+<PAUSE>
+<NAME_PLATE>
+　みっともなく腰を突き上げてしまう。
+オマンコをいっぱいに強く付けてしまう。
+裏返った雌声を上げてしまう。
+<PAUSE>
+<NAME_PLATE>
+　そう、夫に抱かれている時よりも
+ずっと、ずっと、ずっと。
+<PAUSE>
+<EV>chr_0311_1d_r18,NONE
+<VOICE_PLAY>chr_0311_1_0115_r18
+<NAME_PLATE>不知火
+「あへっっ、はひええっっ！！
+　んひっ、あっ、ひえあっっ！！
+　んひぃいいいっ、ひいいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　当たり前の抽送。
+ただチンポを抜き差ししているだけ。
+<PAUSE>
+<NAME_PLATE>
+　相手の顔も見えない、声も聞こえない。
+チンポしか感じることができない男。
+<PAUSE>
+<EV>chr_0311_1e_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0116_r18
+<NAME_PLATE>不知火
+「あっあっ、あっあっああっっっ！！
+　ああああああああああああああああっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ただ夫より大きいだけ、
+夫より太くて硬くて長くて激しいだけ。
+<PAUSE>
+<NAME_PLATE>
+　だけど、それが
+こんなに、こんなに、こんなに―――
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0117_r18
+<NAME_PLATE>不知火
+「気持ちよすぎるのっっっっ！！
+　このデカチンポきもちよすぎるのっっっ
+　許してあなたぁああああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　夫を愛する妻の心が快楽に屈していく。
+昨夜よりも早く、激しく。
+<PAUSE>
+<NAME_PLATE>
+　それを待っていたかのように、
+不知火を責め立てるチンポが勢いを増した。
+<PAUSE>
+//【イベント絵：EV001f　 幻影不知火Ｈ１＿差分５】【時間：夜】
+<EV>chr_0311_1f_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0311_1_0118_r18
+<NAME_PLATE>不知火
+「あっはぁあああああああんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　あからさまな嬌声が上がった。
+<PAUSE>
+<NAME_PLATE>
+　すぐ横で寝ている夫に、
+妻をこれほどには感じさせてくれない夫に
+聞かせるかのように。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0119_r18
+<NAME_PLATE>不知火
+「はああんっっ、すごい、すごいのっ！
+　このデカチンポすごいのぉおっっ！
+　ほら見て、起きて見て、あなたあっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0120_r18
+<NAME_PLATE>不知火
+「ひあっ、あんっ、ほらっっ！！
+　すごいでしょっ、このチンポ大きすぎてっ
+　オマンコ外まで出ちゃうのっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0121_r18
+<NAME_PLATE>不知火
+「でもそれが気持いいのっっ！！
+　オマンコ外にでちゃいそうなのもっ
+　奥までズボズボされるのもいいのおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　不知火は隣の夫をたっぷりと意識しつつ、
+はしたない快楽に身をくねらせた。
+<PAUSE>
+<NAME_PLATE>
+　昨日よりも大きいチンポは
+もうすっかりオマンコに馴染んでいる。
+<PAUSE>
+<NAME_PLATE>
+　そして膣肉を思いっきり締め上げて、
+夫とは比べ物にならないその雄肉を
+ありったけ感じようとしている。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0122_r18
+<NAME_PLATE>不知火
+「ひゃああんっ！　ああんっ！！
+　ああっイイッッ！！　すごいいっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0123_r18
+<NAME_PLATE>不知火
+「昨日よりも、その前よりも、その前よりも
+　今日のチンポずっとずっといいいいっ！！」
+<PAUSE>
+<NAME_PLATE>
+　不知火は手足を拘束された格好のまま
+快楽のままに身体をくねらせた。
+<PAUSE>
+<NAME_PLATE>
+　自慢の巨乳をブルンブルンと揺らし、
+敏感になった乳肉を自分自身にぶち当てて、
+浅ましい官能を加速させていく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0124_r18
+<NAME_PLATE>不知火
+「んふああっ、はあっ！
+　ああんっ、ああんっ、ああんっ！！
+　ひああああんっんっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　でもそれだけではもう我慢できない。
+自分でオッパイを揺らしているだけでは
+満足できない。
+<PAUSE>
+<NAME_PLATE>
+　もっと欲しい、もっと強い刺激が欲しい。
+夫が与えてくれない悦びが欲しい。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0125_r18
+<NAME_PLATE>不知火
+「ああっ、誰かお願いっっ！
+　オッパイが切ないのっ、弄ってっ！
+　誰でもいいから弄ってっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0126_r18
+<NAME_PLATE>不知火
+「もうあなたでもいいから
+　おっぱい弄ってぇえっ！！
+　それくらいしてぇええ！！」
+<PAUSE>
+<NAME_PLATE>
+　愛する夫すら
+快感のための道具にしようとする叫び。
+<PAUSE>
+<NAME_PLATE>
+　すると突然、男の手が二つ出現し、
+二つの乳房をぎゅっと握りしめた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0127_r18
+<NAME_PLATE>不知火
+「ひあああんっっ！　また出たあっっ！
+　オッパイ弄る手がまた出たあああっ！！」
+<PAUSE>
+<NAME_PLATE>
+　不知火はそれを驚きではなく、
+悦びで迎え入れる。
+<PAUSE>
+<NAME_PLATE>
+　はしたない乳振りの刺激で、
+乳房はパンパンに張り詰め、
+乳首は弾けそうなほどに勃起している。
+<PAUSE>
+<NAME_PLATE>
+　それを二つの手がぐりっ、ぐりっと乱暴に
+不知火の望み通り捏ね回していく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0128_r18
+<NAME_PLATE>不知火
+「んひいいいぅっっ！！
+　これええっ、これええええええっ！！」
+<PAUSE>
+<NAME_PLATE>
+　若妻の淫らな喘ぎが跳ねあがった。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0129_r18
+<NAME_PLATE>不知火
+「ひあああっ、すごっっ！
+　おおおおっ、おっぱい潰れちゃうっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0130_r18
+<NAME_PLATE>不知火
+「乳首もっ、ああ乳首もっ！
+　あんっ、すごい引っ張られてるううっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0131_r18
+<NAME_PLATE>不知火
+「あなた分かるっ、分かるっっ！？
+　こうして欲しかったのぉおっっ！
+　私こうして欲しかったのぉおおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　不知火は嬌声で夫に語りかけるが、
+その目はもう横を向いていない。
+<PAUSE>
+<NAME_PLATE>
+　快楽で蕩けきった妻の瞳は
+いくら見ようとしても見えない
+デカチンポの男に向けられている。
+<PAUSE>
+<NAME_PLATE>
+　その理由はただ一つ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0132_r18
+<NAME_PLATE>不知火
+「あっあっあああっ！！
+　チンポっ、すごいビクビクしてるっ！
+　ああんっ脈打ってるっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0133_r18
+<NAME_PLATE>不知火
+「ひああんっ、あんっ！！
+　射精するの？　するのねっっ？
+　これから私に射精するのねっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　唯一、感じることのできるチンポ。
+切羽詰ったその震えに不知火の声も
+わななき始める。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0134_r18
+<NAME_PLATE>不知火
+「だめだけどっ、だめだけどっ、
+　ああっ、わたしっ、わたしっ、ああっ！
+　欲しいっ、中に出してほしいっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0135_r18
+<NAME_PLATE>不知火
+「あなたっ、ごめんなさいあなたあっ！
+　もう私我慢できないッ、イキたいのっ！
+　このデカチンポでイキたいのっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　妻としての最後の理性を振り絞り、
+眠ったままの夫に謝りながら、
+<PAUSE>
+<NAME_PLATE>
+　同時に雌の本能に身を任せて、
+アクメ寸前の身体で自ら膣肉を締め上げる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0136_r18
+<NAME_PLATE>不知火
+「あっ、あっああっ、あなた、ダメッもうだめ
+　イクっ、ああん我慢できない、許して
+　あなたっ、ああイク、イク、イクイクっ」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0137_r18
+<NAME_PLATE>不知火
+「ああんっ、あなたっ、起きないでっ、今
+　起きないでっ、わたしがイクの見ないでっ、
+　おねがい、おねがい、おねがいおねがいっ」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0138_r18
+<NAME_PLATE>不知火
+「あっあっあっあっ
+　あああーーーーーーーーーーーーーっ！！」
+<PAUSE>
+//【イベント絵：EV001g　 幻影不知火Ｈ１＿差分６】【時間：夜】
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0311_1g_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chr_0311_1_0139_r18
+<NAME_PLATE>不知火
+「イクぅううううううううううううううううう
+　うううううううううううううっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　夫への想いを一欠片だけ残し、
+不知火に背徳の絶頂が訪れた。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ビュクッ、ビュクッ、ビュクビュクッ！！
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0140_r18
+<NAME_PLATE>不知火
+「あああんっっ！！
+　でてりゅうううっっ！！
+　デカチンポ射精ひてるうううっっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0141_r18
+<NAME_PLATE>不知火
+「ザーメンあたってるっ、あたってるうっ！！
+　子宮にびゅくびゅく当たってるううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　昨日よりも深い場所にチンポが突き刺さり、
+熱い精液が子宮を何度も打つ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0142_r18
+<NAME_PLATE>不知火
+「んひぃいいいいいいいいいいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　愛する夫では決して得られない刺激。
+子宮に精液を直出しされる快感。
+<PAUSE>
+<NAME_PLATE>
+　あさましいその悦びに
+不知火の身体はビクビクと震えた。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0311_1_0143_r18
+<NAME_PLATE>不知火
+「すごいすごいすごいいいいいいっっ！！
+　ンンンンンーーーーーーーーーッッ！！」
+<PAUSE>
+<NAME_PLATE>
+　夫以外の、誰とも知れぬ男のザーメン
+それを一滴でも逃すまいと、
+<PAUSE>
+<NAME_PLATE>
+　チンポの震えを全て感じ取ろうと
+ありったけの力で膣肉を締め上げる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0144_r18
+<NAME_PLATE>不知火
+「はあっっああっ、まだ出てる！
+　デカチンポ射精しっぱなしっ！！
+　まだ出てるっ、あんっまだあっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0145_r18
+<NAME_PLATE>不知火
+「知らないっっ、こんなチンポしらないっ
+　こんな射精知らないっ、夫よりすごいのっ！
+　やっぱりすごいのおおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　夫が寝ているすぐ横での種付け絶頂。
+だが妻の不知火はもうその虜だ。
+<PAUSE>
+<NAME_PLATE>
+　そして夫にも見せたことのない
+だらしないアヘ顔、本当の雌顔を晒す。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0146_r18
+<NAME_PLATE>不知火
+「ああっあっあっ！
+　ザーメンとまらないとまらないっ！
+　デカチンポまだ射精してるっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0147_r18
+<NAME_PLATE>不知火
+「ああんまたイクっ！
+　イッてるのにまたイクまたイクまたイク」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0311_1_0148_r18
+<NAME_PLATE>不知火
+「イクイクイクイクイクぅうううううううう
+　うううんんんんんんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　立て続けのアクメに
+夫への気持ちがまたごっそり削られていく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0149_r18
+<NAME_PLATE>不知火
+「ごめんなさいあなたっっ！！
+　続けてイッてごめんなさいあなたっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0150_r18
+<NAME_PLATE>不知火
+「でも我慢できないのっっ！
+　どうしてもイッてしまうのっっ！！
+　あああんっ許してぇええええええっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ついには夫に許しを請いながら
+次なる絶頂に叫ぶ不知火だった。
+<PAUSE>
+//【イベント絵：EV001h　 幻影不知火Ｈ１＿差分７】【時間：夜】
+<EV>chr_0311_1h_r18,NONE
+<VOICE_PLAY>chr_0311_1_0151_r18
+<NAME_PLATE>不知火
+「はぁはぁはぁ……はぁはぁ……はぁ……
+　チンポ……なくなってる……？」
+<PAUSE>
+<NAME_PLATE>
+　デカチンポは全ての精液を吐き出すと同時に
+なんの前触れもなく消えてしまった。
+<PAUSE>
+<NAME_PLATE>
+　あれだけ激しく乳房を揉みしだいた手も
+一緒に消えている。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0152_r18
+<NAME_PLATE>不知火
+「イカせるだけ……イカせて……
+　急に消えるなんて……ひどすぎよ……」
+<PAUSE>
+<NAME_PLATE>
+　オマンコを埋め尽くした巨根の感触
+乳房に強く食い込んだ指の感触が残っている。
+<PAUSE>
+<NAME_PLATE>
+　けれどその男はもういない。
+言いようのない切なさが込み上げてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0153_r18
+<NAME_PLATE>不知火
+「はぁはぁ……はぁ……
+　夫なら……ずっとチンポ入れて……
+　余韻……楽しませてくれるのに……」
+<PAUSE>
+<NAME_PLATE>
+　そこだけは夫の方が素敵だ。
+<PAUSE>
+<NAME_PLATE>
+　そんなことを考えながら、
+不知火は一人寂しくアクメの余韻に浸った。
+<PAUSE>
+<NAME_PLATE>
+　急になくなったチンポの代りに
+それが吐き出していったザーメンを
+怖いくらいに感じる。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0154_r18
+<NAME_PLATE>不知火
+「ああぁ……はあん……
+　オマンコも……子宮も……精液でいっぱい
+　こんなに……中出しして……ああ……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0155_r18
+<NAME_PLATE>不知火
+「まだ……中にこびり付いてる……
+　精液……べっとりして……すごい……」
+<PAUSE>
+<NAME_PLATE>
+　何度も何度もイキ続けた反動で
+縛られた身体がまだビクビクと痙攣している。
+<PAUSE>
+<NAME_PLATE>
+　オマンコなどチンポが抜かれたのに
+まだ気づいていないかのように、
+ポッカリと口を開けたままだ。
+<PAUSE>
+<NAME_PLATE>
+　激しい抽送でさっきからずっと
+外に捲れたままの肉ビラがヒクついていた。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0156_r18
+<NAME_PLATE>不知火
+「はぁ……はぁはぁ……
+　あなた……ごめんなさい……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0157_r18
+<NAME_PLATE>不知火
+「でもこれは……夢……
+　私の夢……だから……それだけだから……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0158_r18
+<NAME_PLATE>不知火
+「夢の中で……
+　身体が勝手に感じただけ……
+　それだけ……信じて……あなた……」
+<PAUSE>
+//【イベント絵：EV001i　 幻影不知火Ｈ１＿差分８】【時間：夜】
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0311_1i_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　ごぽっ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0159_r18
+<NAME_PLATE>不知火
+「はああんっ！」
+<PAUSE>
+<NAME_PLATE>
+　夫への言い訳を繰り返す妻を嘲笑うように
+オマンコから裏切りのザーメンが溢れ出す。
+<PAUSE>
+<NAME_PLATE>
+　ごぽっ、ごぽっ、ごぽごぽっ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0160_r18
+<NAME_PLATE>不知火
+「ああっ……でてるぅ……ザーメン……
+　すごいイヤらしい音……してるぅ……」
+<PAUSE>
+<NAME_PLATE>
+　まるでオマンコがザーメンを呑み過ぎて
+ゲップを繰り返しているようだ。
+<PAUSE>
+<NAME_PLATE>
+　逆流するザーメンのねばっこさも量も
+夫とは比較にならない。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0161_r18
+<NAME_PLATE>不知火
+「ひああっ……あっっ……はあっ……
+　ああんっ……これだけで……気持ちイイ……
+　ザーメンすごく感じるの……あなた……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0162_r18
+<NAME_PLATE>不知火
+「ごめん……なさい……
+　はしたない妻の私を……許してぇ……」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ごぽっ。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0163_r18
+<NAME_PLATE>不知火
+「ひあああんっっ」
+<PAUSE>
+<NAME_PLATE>
+　あまりにイキすぎて
+神経が剥き出しになったような膣口を
+ザーメンでジュルジュルと擦られ、
+<PAUSE>
+<NAME_PLATE>
+　不知火はまた夫への言い訳を始めながら、
+裏切りの余韻に浸っていく。
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0164_r18
+<NAME_PLATE>不知火
+「はぁ……はぁ……はぁ……
+　まだ……まだ続くのね……この夢……」
+<PAUSE>
+<VOICE_PLAY>chr_0311_1_0165_r18
+<NAME_PLATE>不知火
+「わたし……どうなってしまうの……
+　私、こわい……こわいの……あなた……」
+<PAUSE>
+<NAME_PLATE>
+　誰かが不知火を
+調教しようとしているのか。
+<PAUSE>
+<NAME_PLATE>
+　夫には満足できない不知火が
+自ら堕ちていこうとしているのか。
+<PAUSE>
+<NAME_PLATE>
+　いずれにしろ
+今夜の夢はまだ始まったばかりだった。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

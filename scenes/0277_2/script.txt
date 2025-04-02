@@ -1,0 +1,2216 @@
+//【黒画面】
+//【背景：見知らぬ部屋＿夜】【時間：夜】
+//　※監獄アカデミア_NC015aより流用
+<BGM_PLAY>bgm310,1000
+<BG>nc167a,IN, 1000
+<VOICE_PLAY>chr_0277_2_0000_01_r18
+<NAME_PLATE>ゆきかぜ
+「特別に私とセックスさせてあげる。
+　ふうまの童貞チンポを大人にしてあげる」
+<PAUSE>
+//※前ファイルのラストセリフ流用
+<NAME_PLATE>
+　その言葉を聞いた途端、
+<PAUSE>
+//【イベント絵：EV002a　 大人ゆきかぜＨ２】【時間：夜】
+<EV>chr_0277_2a_r18,IN, 1000
+<NAME_PLATE>俺
+「ゆきかぜっ！！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0000_r18
+<NAME_PLATE>ゆきかぜ
+「ひゃっ！？」
+<PAUSE>
+<NAME_PLATE>
+　俺はガバッと身体を起こして、
+股間に顔を埋めていたゆきかぜを
+仰向けに押し倒した。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0001_r18
+<NAME_PLATE>ゆきかぜ
+「ちょ、ちょっと！？
+　いきなり何してるのよ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「な、なにって、
+　俺の童貞チンポを大人にしてくれるんだろ？
+　ありがとう、ゆきかぜ、ありがとう！！」
+<PAUSE>
+<NAME_PLATE>
+　ものすごく早口で答えながら
+戸惑っているゆきかぜの両足を掴んで
+グイッと広げさせる。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0002_r18
+<NAME_PLATE>ゆきかぜ
+「あ、ありがとうじゃないわよ。
+　あんたが押し倒してどうするのよ！
+　私がリードするんだからっ！　待てこら！」
+<PAUSE>
+<NAME_PLATE>俺
+「ごめん。我慢できない！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0003_r18
+<NAME_PLATE>ゆきかぜ
+「ちょっ、まっ、バカっ！」
+<PAUSE>
+<NAME_PLATE>
+　俺はゆきかぜに覆い被さり、
+まずは対魔忍スーツの胸に手をやった。
+<PAUSE>
+<NAME_PLATE>
+　見た感じ、今とあまり変わらない
+けれど大人になったゆきかぜの乳房に
+対魔忍スーツ越しでも触れたかったのだが、
+<PAUSE>
+<SE_PLAY>se066
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>
+　ビリッッ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0004_r18
+<NAME_PLATE>ゆきかぜ
+「やあんっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「え？　破けた！？」
+<PAUSE>
+<NAME_PLATE>
+　未来の対魔忍スーツは
+あっさり破けてしまい、
+ゆきかぜはサッと手で胸を隠した。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0005_r18
+<NAME_PLATE>ゆきかぜ
+「もう、強引なんだから！
+　ちょっとは落ち着きなさいよ。
+　ムードが台無しでしょ、ばかふうま」
+<PAUSE>
+<NAME_PLATE>
+　胸を隠すついでに、自分で脚を押さえて、
+エッチな大股開きのポーズになってくれたが、
+俺を咎めるような目をしている。
+<PAUSE>
+<NAME_PLATE>俺
+「あ、ごめん。
+　でも結構簡単に破れるんだな、それ」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0006_r18
+<NAME_PLATE>ゆきかぜ
+「そっちの時代とは素材そのものが違うの。
+　こっちの方が薄くて動きやすいし、
+　私の能力を使えば強度も増すの」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0007_r18
+<NAME_PLATE>ゆきかぜ
+「今はシールドを完全に切ってただけ。
+　あーもうこんなにしちゃって。
+　これ結構直すの大変なんだから」
+<PAUSE>
+<NAME_PLATE>俺
+「ごめん……」
+<PAUSE>
+<NAME_PLATE>
+　俺が思わず項垂れてしまうと
+（チンポは勃ったままだが）
+<PAUSE>
+<NAME_PLATE>
+ゆきかぜは少し笑った。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0008_r18
+<NAME_PLATE>ゆきかぜ
+「でもまあ、それくらい私を欲しがって
+　くれてるのは嬉しいかな……女としては」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0009_r18
+<NAME_PLATE>ゆきかぜ
+「私をリードするつもりなら、
+　もっとちゃんとしなさいよね」
+<PAUSE>
+<NAME_PLATE>俺
+「が、頑張る」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0010_r18
+<NAME_PLATE>ゆきかぜ
+「ふふ、よろしい」
+<PAUSE>
+<NAME_PLATE>
+　いきなりフェラチオを仕掛けた時のように
+余裕のある大人の表情で俺を見る。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0011_r18
+<NAME_PLATE>ゆきかぜ
+「で、押し倒してこれからどうするの？」
+<PAUSE>
+<NAME_PLATE>俺
+「ええと、とりあえずその手をどけて
+　胸を見せて欲しいなと……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0012_r18
+<NAME_PLATE>ゆきかぜ
+「え……？
+　うん、まあ、いいけど……
+　あのさ……一つだけいい？」
+<PAUSE>
+<NAME_PLATE>俺
+「なに？」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは俺から目を逸らして、
+恥ずかしそうに、いや、すまなそうに言った。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0013_r18
+<NAME_PLATE>ゆきかぜ
+「胸はもうしょうがないけど、
+　他のとこは破かないで欲しいな。
+　……ごめんね」
+<PAUSE>
+<NAME_PLATE>
+　どこかに傷でもあるのだろうか。
+だがいくら俺でもそれを聞くほど
+無神経ではない。
+<PAUSE>
+<NAME_PLATE>俺
+「わかった」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0014_r18
+<NAME_PLATE>ゆきかぜ
+「……じゃあ、見ていいよ」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは胸から手をどけた。
+<PAUSE>
+<NAME_PLATE>
+　今と同じでやっぱり控えめだが、
+小さな桃色の乳首が眩しいくらいの
+おっぱいが露わになった。
+<PAUSE>
+<NAME_PLATE>俺
+「うわあ……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0015_r18
+<NAME_PLATE>ゆきかぜ
+「今と全然変わらないとか小さいとか
+　貧乳とか言ったら殺すから」
+<PAUSE>
+<NAME_PLATE>
+　まだ何も言っていないのに、
+すでにキレ気味のその口調は今と変わらない。
+<PAUSE>
+<NAME_PLATE>俺
+「言わないって。
+　すごく綺麗だ、ドキドキする」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0016_r18
+<NAME_PLATE>ゆきかぜ
+「優しいね、ふうま。
+　ありがと……すごく嬉しい」
+<PAUSE>
+<NAME_PLATE>
+　この口調はひょっとして
+俺が気を遣ったとでも思っているのだろうか。
+<PAUSE>
+<NAME_PLATE>
+　いや、確かに大きな胸は好きだが、
+こういう小さな胸だって嫌いなわけじゃない。
+<PAUSE>
+<NAME_PLATE>
+　というか、オッパイならなんでも好きだ。
+まして大人のゆきかぜのオッパイだ。
+好きに決まっている。
+<PAUSE>
+<NAME_PLATE>俺
+「触ってもいい？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0017_r18
+<NAME_PLATE>ゆきかぜ
+「ちょ、ちょっとだけならね……」
+<PAUSE>
+<NAME_PLATE>
+　控えめに答えるゆきかぜの控えめな胸を
+手のひらでふわりと掴んだ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0018_r18
+<NAME_PLATE>ゆきかぜ
+「んっっ……」
+<PAUSE>
+<NAME_PLATE>
+　手の真ん中に乳首がクニュッと当たり、
+緩やかだがびっくりするほど柔らかい
+乳房の感触が伝わってくる。
+<PAUSE>
+<NAME_PLATE>
+　俺はそのまま円を描くように
+ゆっくりとオッパイを捏ね始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0019_r18
+<NAME_PLATE>ゆきかぜ
+「ふあっ……んっ……あっ……
+　んっ……あ……ああっ……んっ……」
+<PAUSE>
+<NAME_PLATE>
+　いくらも力を込めていないのに、
+ゆきかぜの身体にキュッと力がこもり、
+その顔が切なそうに震えた。
+<PAUSE>
+<NAME_PLATE>俺
+「うわあ……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0020_r18
+<NAME_PLATE>ゆきかぜ
+「んっ……ふっ……くっ……
+　なによ……その……うわあって……」
+<PAUSE>
+<NAME_PLATE>俺
+「おっぱいって柔らかいんだなって」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0021_r18
+<NAME_PLATE>ゆきかぜ
+「あっ、あたり……まえっでしょっ……
+　そういう……ものっ……なのっ……
+　女のおっぱいって……あっ、ンンッ」
+<PAUSE>
+<NAME_PLATE>俺
+「大きいとか小さいとか関係ないな。
+　小さいからかえって敏感？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0022_r18
+<NAME_PLATE>ゆきかぜ
+「し、知らないわよっ……そんなことっ。
+　はぁ、はぁあっ、ンッッ、だめっ！
+　そんな強く揉まないでっ……」
+<PAUSE>
+<NAME_PLATE>
+　俺がちょっと力を込めただけで、
+ゆきかぜは眉をひそめて身を軽くよじる。
+<PAUSE>
+<NAME_PLATE>俺
+「あっ、ごめん」
+<PAUSE>
+<NAME_PLATE>
+　やっぱり相当に敏感なようだ。
+ちゃんとリードしろという言葉を思い出して、
+優しくおっぱいを刺激していく。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0023_r18
+<NAME_PLATE>ゆきかぜ
+「はあっ……んっ……あっんっ……
+　あ、ああ……そう、……んっ、そうそう」
+<PAUSE>
+<NAME_PLATE>俺
+「気持ちいい？」
+<PAUSE>
+<NAME_PLATE>
+　ちょっと力加減が変わっただけで、
+ゆきかぜは切なそうに何度も頷く。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0024_r18
+<NAME_PLATE>ゆきかぜ
+「うん……うんっ……すごくイイ……
+　ふうまに……触ってもらうの初めてだから、
+　余計……感じる……ああ、感じる……」
+<PAUSE>
+<NAME_PLATE>
+　あんなに強いゆきかぜが
+俺よりずっと年上のゆきかぜが
+こんなに可愛く身悶えしている。
+<PAUSE>
+<NAME_PLATE>
+　もう我慢できない。
+俺の童貞を早くもらって欲しくて、
+チンポは信じられないくらいにカチカチだ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0025_r18
+<NAME_PLATE>ゆきかぜ
+「はあぁ、はぁ……んっ……
+　もう……入れたいでしょ？
+　いいわよ……でもこれ使ってね」
+<PAUSE>
+<NAME_PLATE>
+　俺の欲望を全て見透かしたように
+ゆきかぜはそれを差し出した。
+<PAUSE>
+<NAME_PLATE>俺
+「コンドーム？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0026_r18
+<NAME_PLATE>ゆきかぜ
+「驚いた？
+　未来じゃ……結構、貴重なのよ……。
+　それで、ちゃんと避妊すること」
+<PAUSE>
+<NAME_PLATE>
+　ちゃんと避妊もなにも
+これは夢じゃないのかと
+また頭によぎったが、
+<PAUSE>
+<NAME_PLATE>
+　早くしろという股間の声の方が大きく、
+俺は慌ててそれを装着し、
+<PAUSE>
+<NAME_PLATE>
+　もうスーツは破かないでという
+ゆきかぜのさっきの言葉を思い出し、
+注意深く股布を横にズラした。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0027_r18
+<NAME_PLATE>ゆきかぜ
+「ああ……ふうまぁ……」
+<PAUSE>
+<NAME_PLATE>
+　一番大事な場所を晒した瞬間、
+ゆきかぜは羞恥に耐えかねたように
+俺の名を呼んだ。
+<PAUSE>
+<NAME_PLATE>俺
+「ごくっ……」
+<PAUSE>
+<NAME_PLATE>
+　そこにはただ一本の毛もなかった。
+綺麗な褐色の股間がぱっくりと割れ、
+<PAUSE>
+<NAME_PLATE>
+　今まで見たエロ動画などとは比較にならない
+鮮やかな肉色をしたオマンコがあった。
+<PAUSE>
+<NAME_PLATE>俺
+「すごく綺麗だ、ドキドキする」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0028_r18
+<NAME_PLATE>ゆきかぜ
+「……バ、バカ……
+　いちいち言わなくていいから……もう」
+<PAUSE>
+<NAME_PLATE>
+　胸を見たときと同じセリフ。
+けれど、ゆきかぜの返事は消え去りそうに
+震えていた。
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜのそんな姿に胸躍らせて、
+コンドームを付けたチンポを
+秘所にあてがった。
+<PAUSE>
+<NAME_PLATE>俺
+「いくよ、ゆきかぜ」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0029_r18
+<NAME_PLATE>ゆきかぜ
+「うん。きて……ふうま……」
+<PAUSE>
+<NAME_PLATE>
+　俺はもう一度唾を飲み込んで、
+腰をゆっくりと落としていった。
+<PAUSE>
+//【イベント絵：EV002b　 大人ゆきかぜＨ２＿差分１】【時間：夜】
+<EV>chr_0277_2b_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0030_r18
+<NAME_PLATE>ゆきかぜ
+「んんっっ―――」
+<PAUSE>
+<NAME_PLATE>
+　先っぽが秘唇を僅かに広げ、
+チンポが膣内に潜り込んだ瞬間、
+ゆきかぜは小さく息を詰まらせた。
+<PAUSE>
+<NAME_PLATE>俺
+「おふううっ……」
+<PAUSE>
+<NAME_PLATE>
+　俺もまた、自分で入れたというのに、
+そのままチンポが底なしの肉穴にズルズルと
+吸い込まれてしまいそうな初めての感覚に、
+<PAUSE>
+<NAME_PLATE>
+　本物のオマンコの怖いくらいの挿入感に
+息を詰まらせていた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0031_r18
+<NAME_PLATE>ゆきかぜ
+「ふう……まぁ……」
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜ……」
+<PAUSE>
+<NAME_PLATE>
+　この先を知ったら、
+童貞でなくなる、大人になる以上に
+俺が変わってしまいそうな。
+<PAUSE>
+<NAME_PLATE>
+　そんなゾクゾクする予感を抱きながら、
+ズブリ、ズブリとゆきかぜの中に
+自分自身を埋め込んでいく。
+<PAUSE>
+<NAME_PLATE>
+　膣襞がくぱぁ、くぱあっと広げられ、
+熱くてねっとりした雌肉がぬぷぬぷと、
+俺の根元に向かって咥え込む。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0032_r18
+<NAME_PLATE>ゆきかぜ
+「ふあっ……あっ……ああ……ひあんっ……」
+<PAUSE>
+<NAME_PLATE>
+　今までに聞いたことのないかすれ声が、
+ゆきかぜの口から漏れる。
+<PAUSE>
+<NAME_PLATE>
+　気が遠くなるほど色っぽいその顔が
+不意に強く顰められた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0033_r18
+<NAME_PLATE>ゆきかぜ
+「ンンンーーーッッ！！」
+<PAUSE>
+<NAME_PLATE>
+　目を閉じ、口を閉じて、
+何かの痛みにじっと耐えている。
+<PAUSE>
+<NAME_PLATE>
+　チンポを優しく包み込んでいた膣肉が
+急に怯えたようにギュッと窄まっていた。
+<PAUSE>
+<NAME_PLATE>俺
+「え？　な、なに？」
+<PAUSE>
+<NAME_PLATE>
+　突然のその変化に俺は驚いて
+また腰を止めてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0034_r18
+<NAME_PLATE>ゆきかぜ
+「なっ、なんでも……ないからっ……！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはそう返してきたが、
+プツプツと細かい汗の浮かんだその顔は
+とてもそうは思えない。
+<PAUSE>
+<NAME_PLATE>
+　なにか失敗してしまったのかと思って、
+股間を見ると、
+<PAUSE>
+<NAME_PLATE>
+　チンポでパックリと拡がった
+オマンコの隙間から少しだけだが
+赤いものが見えた。
+<PAUSE>
+<NAME_PLATE>俺
+「え？　血？　ゆきかぜ、お前―――」
+<PAUSE>
+<NAME_PLATE>
+　まさかこのゆきかぜも
+初めてだったのか？
+<PAUSE>
+<NAME_PLATE>
+　あんなすごいフェラチオをしてきたのに
+処女だったのか？
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0035_r18
+<NAME_PLATE>ゆきかぜ
+「か、勘違いしないで。違うから！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは急に慌てたように
+言い訳を始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0036_r18
+<NAME_PLATE>ゆきかぜ
+「な、なに感激してるの！？
+　誤解よ誤解！　処女のわけないでしょ。
+　彼氏の一人や二人いたんだから！」
+<PAUSE>
+<NAME_PLATE>俺
+「え？　で、でもこれ……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0037_r18
+<NAME_PLATE>ゆきかぜ
+「でもとかいいの。
+　さ、最近あんまりしてなかったからよ！
+　そういうことって結構あるの！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0038_r18
+<NAME_PLATE>ゆきかぜ
+「あと、ふうまのが大きすぎるから！
+　それでちょっと血が出ちゃったの。
+　それだけ！　それだけだから！」
+<PAUSE>
+<NAME_PLATE>
+　どういうつもりなのか、
+ゆきかぜは処女でないことを
+やたらと強調してくる
+<PAUSE>
+<NAME_PLATE>
+　本当にそうなのか、
+やっぱり処女で誤魔化しているだけなのか、
+俺には分らない。
+<PAUSE>
+<NAME_PLATE>俺
+「う、うん。
+　まあ、それならそれでいいけど……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0039_r18
+<NAME_PLATE>ゆきかぜ
+「そ、そうよ。それでいいのよ」
+<PAUSE>
+<NAME_PLATE>
+　なぜか威張った調子で頷き、
+ますます早口になって言ってきた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0040_r18
+<NAME_PLATE>ゆきかぜ
+「分ったなら、
+　もっとガーッて来たらどうなのよ！」
+<PAUSE>
+<NAME_PLATE>俺
+「はい？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0041_r18
+<NAME_PLATE>ゆきかぜ
+「さっきあんな強引に押し倒したくせに
+　いざ入れるとなったらすごい優しくして
+　わたし戸惑っちゃうじゃないのバカ」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0042_r18
+<NAME_PLATE>ゆきかぜ
+「ど、童貞くんを可愛がってあげるんだから
+　遠慮せずどんどん突きなさいよ！」
+<PAUSE>
+<NAME_PLATE>
+　言ってることがもうメチャクチャだ。
+<PAUSE>
+<NAME_PLATE>
+　しかし、この理不尽さ。
+どれだけ強くなっても、色っぽくなっても、
+やはりゆきかぜはゆきかぜだ。
+<PAUSE>
+<NAME_PLATE>俺
+「いいのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0043_r18
+<NAME_PLATE>ゆきかぜ
+「いいって言ってるでしょ。
+　もったいぶらないで一気に来なさいよ。
+　ほら、思いっきりちょうだい！」
+<PAUSE>
+<NAME_PLATE>俺
+「よ、よし、わかった」
+<PAUSE>
+<NAME_PLATE>
+　そうして欲しいならしょうがない。
+<PAUSE>
+<NAME_PLATE>
+　俺はまだ入れかけのチンポに力を入れ直し、
+ゆきかぜに深く覆い被さるようにして
+一気に挿入した。
+<PAUSE>
+//【イベント絵：EV002c　 大人ゆきかぜＨ２＿差分２】【時間：夜】
+<EV>chr_0277_2c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0044_r18
+<NAME_PLATE>ゆきかぜ
+「んぁああああああああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　甲高い叫びが上がった。
+<PAUSE>
+<NAME_PLATE>
+　痛がっているような、喜んでいるような
+雄の欲望をかきたてずにはいられない
+雌の声だった。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0045_r18
+<NAME_PLATE>ゆきかぜ
+「ああああああんんんっっ！！
+　ふうまっ、ふうまぁああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　もしかしてこの声を
+俺に聞かせたかったのか？
+<PAUSE>
+<NAME_PLATE>
+　そんなことさえ思わせながら、
+ゆきかぜのオマンコは優しく拡がって、
+<PAUSE>
+<NAME_PLATE>
+　強引にねじ込んだ俺のチンポを
+根元までみっちりと咥えて離さない。
+<PAUSE>
+<NAME_PLATE>俺
+「ああ、ゆきかぜ……」
+<PAUSE>
+<NAME_PLATE>
+　俺はゆきかぜに深く覆い被さり、
+股間が蕩けてしまいそうな一体感を
+しばし味わった。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0046_r18
+<NAME_PLATE>ゆきかぜ
+「うん……入ってる……
+　私のなかに……全部……入ってる……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0047_r18
+<NAME_PLATE>ゆきかぜ
+「ふうまが私の中にいるの……ふうまが……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0048_r18
+<NAME_PLATE>ゆきかぜ
+「ああ、うれしい……」
+<PAUSE>
+<NAME_PLATE>
+　喜びに満ちあふれたかのような
+かすかな呟きが聞こえた。
+<PAUSE>
+<NAME_PLATE>俺
+「え……？」
+<PAUSE>
+<NAME_PLATE>
+　俺がも思わず聞き咎めると、
+ゆきかぜはハッと我に返ったかのように、
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0049_r18
+<NAME_PLATE>ゆきかぜ
+「な、なんでもない！」
+<PAUSE>
+<NAME_PLATE>
+　すぐさま自分の言葉を否定したが、
+<PAUSE>
+<NAME_PLATE>俺
+「あのな、ゆきかぜ……」
+<PAUSE>
+<NAME_PLATE>
+　俺がゆきかぜの瞳をじっと見つめると、
+恥ずかしそうに口を尖らせる。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0050_r18
+<NAME_PLATE>ゆきかぜ
+「ちょ、ちょっと、なによ？」
+<PAUSE>
+<NAME_PLATE>俺
+「俺はすごく嬉しいぞ。
+　ゆきかぜに童貞を奪ってもらって。
+　ゆきかぜと一つになれて、最高だ」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0051_r18
+<NAME_PLATE>ゆきかぜ
+「ふわあ……」
+<PAUSE>
+<NAME_PLATE>
+　そう正直な気持ちを口にすると、
+真っ赤になって目を右にやったり左にやったり
+急にソワソワしだして、やがて、
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0052_r18
+<NAME_PLATE>ゆきかぜ
+「もう、バカ……
+　大人の女をあんまり恥ずかしがらせないで」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0053_r18
+<NAME_PLATE>ゆきかぜ
+「でも、やっぱりうれしい。
+　やっとふうまと一つになれたんだもの」
+<PAUSE>
+<NAME_PLATE>
+　そんな言葉と一緒にゆきかぜの
+オマンコまでもがまるで甘えるように
+キュウッと俺を締め付けた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0054_r18
+<NAME_PLATE>ゆきかぜ
+「ねえ、もうちょっとだけ、こうしてて」
+<PAUSE>
+<NAME_PLATE>俺
+「遠慮せずにどんどん突けじゃないのか？
+　言ってることがコロコロ変わりすぎだ」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0055_r18
+<NAME_PLATE>ゆきかぜ
+「女の気持ちは変わりやすいの。
+　特にずっと待たされた女の気持ちは……」
+<PAUSE>
+<NAME_PLATE>俺
+「そ、そうか……」
+<PAUSE>
+<NAME_PLATE>
+　別に好きで待たせたわけじゃないし、
+責任があるとしたら
+死んだ俺の方だよなと思ったが、
+<PAUSE>
+<NAME_PLATE>
+　大人になったゆきかぜの甘え声が
+心地よくて、言われたとおり、
+俺は少しじっとしていた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0056_r18
+<NAME_PLATE>ゆきかぜ
+「ハァ、はぁはぁ……ぁあ……ああン……」
+<PAUSE>
+<NAME_PLATE>
+　俺をうっとりと見上げるゆきかぜの吐息が
+どんどん熱っぽいものに変わっていく。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0057_r18
+<NAME_PLATE>ゆきかぜ
+「ふうまの……熱くて、硬くて……
+　わたしの中にいっぱい……素敵ぃ……」
+<PAUSE>
+<NAME_PLATE>
+　なにより少しも動かなくても、
+チンポを包み込んだ膣内の急かすような震えが
+徐々に早まっていく。
+<PAUSE>
+<NAME_PLATE>
+　蜜壺はトロットロのぬかるみも同然で
+結合部から愛液が止めどなく溢れ出している。
+<PAUSE>
+<NAME_PLATE>俺
+「くっ……すごい熱いな。
+　お漏らししたみたいになってるぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0058_r18
+<NAME_PLATE>ゆきかぜ
+「セックスになれてるから濡れやすいのよ。
+　別にあんただからって
+　わけじゃないんだから」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0059_r18
+<NAME_PLATE>ゆきかぜ
+「そろそろ動かしたくなってきた？
+　初めてだもの、もう我慢できないわよね？」
+<PAUSE>
+<NAME_PLATE>俺
+「それは、ゆきかぜもだろ？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0060_r18
+<NAME_PLATE>ゆきかぜ
+「ふふ、生意気言っちゃって。
+　―――ンッッッ」
+<PAUSE>
+<NAME_PLATE>
+　キュッ！
+<PAUSE>
+<NAME_PLATE>俺
+「おうっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　膣口が急に強く窄まり、
+蜜壺が俺を奥にギュルッと吸い込んだ。
+<PAUSE>
+<NAME_PLATE>
+　チンポを根元から引っこ抜かれそうな快感に
+とてもじっとしていられない。
+<PAUSE>
+//【イベント絵：EV002d　 大人ゆきかぜＨ２＿差分３】【時間：夜】
+<EV>chr_0277_2d_r18,NONE
+<NAME_PLATE>
+　グイッッ！！
+<PAUSE>
+<NAME_PLATE>
+　俺はほとんど反射的に腰を浮き上がらせ、
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0061_r18
+<NAME_PLATE>ゆきかぜ
+「ひあああんんっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「くああっっ！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜの甘い嬌声と
+チンポが一気にズル抜けていく強烈な刺激に
+身震いしながら、
+<PAUSE>
+<NAME_PLATE>
+　再びそれを思いきり、
+ゆきかぜの膣奥へと叩きつけていた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0062_r18
+<NAME_PLATE>ゆきかぜ
+「んんんんんんんんんんんっっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　膣肉全体がグチュッと窄まり、
+チンポの先が一番奥に当たった瞬間、
+ゆきかぜの身体が大きくうねった。
+<PAUSE>
+<NAME_PLATE>俺
+「くっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　一瞬も休むことなく、
+もう一度チンポをぐいと引き抜き、
+震えるオマンコにガツンと突き刺す。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0063_r18
+<NAME_PLATE>ゆきかぜ
+「ああっ！！　あああああんっ！！」
+<PAUSE>
+<NAME_PLATE>
+　一度動き出したらもう止められない。
+ピストンの勢いを弱めることさえ出来ない。
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜっ、ゆきかぜっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ただ名前を繰り返し呼びながら
+ありったけの力を込めて
+俺自身を抜き差しする。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0064_r18
+<NAME_PLATE>ゆきかぜ
+「あああんっんっ！！　
+　ひあっ、ああっ、ふうまああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜも繰り返し俺の名を呼ぶ。
+<PAUSE>
+<NAME_PLATE>
+　俺のチンポで感じているこの顔、この声。
+頭がどうにかなりそうなほど可愛らしい。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0065_r18
+<NAME_PLATE>ゆきかぜ
+「ひやああっ！！
+　あああンンっ！！　すごいっ！！
+　すごいのっ、ふうまああっっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0066_r18
+<NAME_PLATE>ゆきかぜ
+「当たってるっ、あなたのチンポがっ！
+　あっあっ、奥にっ、ああんっ奥にっっ、
+　すごいすごい当たってるぅううっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　オマンコはぐっちゃぐっちゃと
+まるで茹だったような淫音を奏でて、
+大量の蜜汁を外に撒き散らしていた。
+<PAUSE>
+<NAME_PLATE>
+　ペースもなにもない俺の抽送を
+まるで悶えるように受け止めて、
+しかも逆に自分からも絡みついてくる。
+<PAUSE>
+<NAME_PLATE>
+　これがゆきかぜのオマンコ。
+これが本物のオマンコ。
+すごすぎる。
+<PAUSE>
+<NAME_PLATE>俺
+「いっぱい突くからな、ゆきかぜ！」
+<PAUSE>
+<NAME_PLATE>
+　俺はゆきかぜに覆い被さり、
+欲望のままにペニスを抜き差しした。
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは快楽に顔を歪ませて、
+何度も何度も頷いた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0067_r18
+<NAME_PLATE>ゆきかぜ
+「うんっうんっ、いっぱい突いてっ。
+　あなたのチンポで、私をいっぱいにして！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0068_r18
+<NAME_PLATE>ゆきかぜ
+「これから一生忘れられないくらい突いてっ！
+　あああんっ！！
+　突いて突いて突いてえええっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　死んでしまった俺への想いが
+一気に溢れ出したようなゆきかぜに
+俺は渾身の力を込めてチンポを突き入れる。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0069_r18
+<NAME_PLATE>ゆきかぜ
+「あっあっあああああああああああ
+　んんんんんんんんんんんっっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　俺の下で、大人のゆきかぜの身体が
+ブルブルと身悶えしている。
+<PAUSE>
+<NAME_PLATE>
+　右に左にひっきりなしに身をよじり、
+ショートカットにした髪を激しく振り乱す。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0070_r18
+<NAME_PLATE>ゆきかぜ
+「ひあっ、やあんっ、すごいっ！！
+　本物のふうまがっ、こんなにこんなにっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0071_r18
+<NAME_PLATE>ゆきかぜ
+「ああっ、だめっ、すごいのっ。
+　気持ちよすぎてっ、あっ、あああっ！！
+　わたしっ、もうっ、おかしくなりそうっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「俺もだっ！！　ゆきかぜっっ！！
+　お前のオマンコ気持ちよすぎるっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0072_r18
+<NAME_PLATE>ゆきかぜ
+「ほんと！？　ほんとっ！？
+　ああっ、うれしいっ、うれしいよぉっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0073_r18
+<NAME_PLATE>ゆきかぜ
+「ふうまっ、もっとっ、ああんっ、もっとっ！
+　ヒアアアアッ！！　そうそうそうっ！！
+　ああンン、すごいすごいすごおおいっ！！」
+<PAUSE>
+<NAME_PLATE>
+　あられもないゆきかぜの痴態と
+大人オマンコの底なしの快感に
+射精衝動が一気に膨れ上がる。
+<PAUSE>
+<NAME_PLATE>
+　さっきのフェラチオと違って、
+ギリギリまで我慢する余裕などない。
+<PAUSE>
+<NAME_PLATE>
+　逆に一秒でも早くぶちまけたい一心で
+ただ力任せに腰を動かす。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0074_r18
+<NAME_PLATE>ゆきかぜ
+「ひああっ！　あっ、あんっんっ！！
+　ふうまっ、あもうダメ、ああイキそう、
+　わたしイキそう！　イキそうっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「くっ、俺もっ、もうっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0075_r18
+<NAME_PLATE>ゆきかぜ
+「なら一緒にイッて、おねがいっ、
+　一緒がいいのっ、ふうまっ、ふうまあっ！！
+　あなたと一緒にイキたいのぉっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　一緒にイッて。
+<PAUSE>
+<NAME_PLATE>
+　こんなにも可愛らしく
+こんなにもイヤらしいおねだりは
+聞いたことがない。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0076_r18
+<NAME_PLATE>ゆきかぜ
+「あっあっイクっ、あっイクッ、イクっ、
+　ああんっふうまイクッ、イクイク―――っ」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは切羽詰ったその喘ぎ声で
+初めての俺を二人同時の絶頂へと誘った。
+<PAUSE>
+<NAME_PLATE>
+　頭が真っ白になっていくその瞬間、
+コンドームを付けていたことを思い出し、
+<PAUSE>
+<NAME_PLATE>
+　俺はオマンコからチンポをズル抜きして、
+邪魔なそれを一気に取り去った。
+<PAUSE>
+//【イベント絵：EV002e　 大人ゆきかぜＨ２＿差分４】【時間：夜】
+<VOICE_PLAY>chr_0277_2_0077_r18
+<NAME_PLATE>ゆきかぜ
+「イクぅううううううっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「うううっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜの叫びを聞きながら、
+剥き出しにしたチンポから
+精液を一気にぶちまける。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0277_2e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　ビュルウウッ、ビュルウウウウウッッ！！
+びちゃびちゃびちゃあああっっ！！
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0078_r18
+<NAME_PLATE>ゆきかぜ
+「ああああああああんんんんんんんんっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜの嬌声がまた跳ねた。
+<PAUSE>
+<NAME_PLATE>
+　ゼリーのようにべっとりと濃い精液が
+オマンコから胸まで次々と付着していく。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0079_r18
+<NAME_PLATE>ゆきかぜ
+「えっ？　やあっっ、うそっ！
+　ああんっっ外に！？
+　外に出したのぉおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは俺のザーメンを受け止めて
+初めて膣外射精されたことに気づく。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0080_r18
+<NAME_PLATE>ゆきかぜ
+「あああんっ、ふうまあっっ！！
+　ならいっぱいかけてっ！！
+　ここぉ、ここにかけてええっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　驚き、戸惑い、そして喜びと
+表情を目まぐるしく変化させながら、
+躊躇うことなくその身を俺に晒す。
+<PAUSE>
+<NAME_PLATE>俺
+「くああああっ！！　ゆきかぜっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺は握ったチンポを全力で扱き立て、
+ありったけのザーメンをぶちまける。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　欲望の塊がビチャビチャと当たるたびに
+絶頂に震えるゆきかぜの身体が
+いっそう激しくよじれた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0081_r18
+<NAME_PLATE>ゆきかぜ
+「あついっ、あついのっ！！
+　ふうまの精液っ、ああんすごいっ！
+　ビチャビチャいっぱいかかってるぅっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「もっとだ、もっとだっっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0277_2_0082_r18
+<NAME_PLATE>ゆきかぜ
+「ひあああっあっあっああああああああ
+　んんんんんんんんんんっっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　チンポを抜いたばかりの
+ぱっくりと口を開けたオマンコに
+白濁液を容赦なく叩きつけ、
+<PAUSE>
+<NAME_PLATE>
+　俺に見られて恥ずかしそうにしていた
+今と変わらず控えめなオッパイを
+ザーメンでパックしてやる。
+<PAUSE>
+<NAME_PLATE>
+　未来技術を駆使した対魔忍スーツも
+ベトベトのドロドロだ。
+<PAUSE>
+<NAME_PLATE>
+　未来のゆきかぜの身体は
+あっという間に俺の欲望色に
+彩られていく。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0083_r18
+<NAME_PLATE>ゆきかぜ
+「はああんっ、イクぅう、イクぅぅっ……
+　んぅうん、イクぅうううううっ……」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはザーメンまみれの身体を
+ヒクヒクと小刻みにくねらせて、
+何度も何度もアクメを繰り返した。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0084_r18
+<NAME_PLATE>ゆきかぜ
+「はぁ、はぁん……
+　せっかくコンドームを用意したのに、
+　いきなりぶっかけるなんて……変態」
+<PAUSE>
+<NAME_PLATE>
+　俺の射精がようやく終わると、
+ゆきかぜは蕩けきった声でそう言った。
+<PAUSE>
+<NAME_PLATE>
+　言葉は俺を批難しているが、
+その瞳は怖いくらい淫らに潤みきっていて、
+<PAUSE>
+<NAME_PLATE>
+　べっとりと付着した俺の欲望の痕跡を
+愛おしむように撫で回している。
+<PAUSE>
+<NAME_PLATE>俺
+「俺のザーメンを直に
+　受け止めて欲しかったんだ」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0085_r18
+<NAME_PLATE>ゆきかぜ
+「だと思った……うふふ」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは非処女を思わせる笑みを浮かべ
+手にこびり付いた精液を迷うことなく
+舐め始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0086_r18
+<NAME_PLATE>ゆきかぜ
+「れろっ、れろれろっ……やっぱり。
+　二度目なのにさっきより濃い……
+　エッチなんだから……ぴちゃぴちゃ」
+<PAUSE>
+<NAME_PLATE>
+　精液と戯れるその痴態に
+またギリギリとチンポが熱り立っていく。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0087_r18
+<NAME_PLATE>ゆきかぜ
+「まだ出し足りなそう、そのチンポ」
+<PAUSE>
+<NAME_PLATE>俺
+「あ、ああ……
+　俺、まだまだ出来るから入れていい？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0088_r18
+<NAME_PLATE>ゆきかぜ
+「うん、いいよ……」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはこれも躊躇うことなく頷いたが、
+俺がそのまま挿入しようとすると、
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0089_r18
+<NAME_PLATE>ゆきかぜ
+「え？　あ、ちょっと待って。
+　ザーメンべっとりのそれ入れるつもり？　
+　避妊してないじゃない」
+<PAUSE>
+<NAME_PLATE>俺
+「また？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0090_r18
+<NAME_PLATE>ゆきかぜ
+「またじゃないの。
+　今日のために手に入れてあるから
+　ちゃんとコンドームしなさいよ」
+<PAUSE>
+<NAME_PLATE>
+　また新しいコンドームを取り出して
+俺にぐいと差し出す。
+<PAUSE>
+<NAME_PLATE>俺
+「でもやっぱり俺、
+　ちゃんとゆきかぜのオマンコを
+　生で感じたい」
+<PAUSE>
+<NAME_PLATE>俺
+「お前と肌と肌で触れあいたい。
+　ゴム越しなんて嫌だ。生でしたい！
+　お前と本当に一つになりたい！」
+<PAUSE>
+<NAME_PLATE>
+　目を真っ直ぐ見て畳みかけると、
+ゆきかぜはその勢いに負けたように
+目を逸らす
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0091_r18
+<NAME_PLATE>ゆきかぜ
+「も、もう……ほんとに……
+　童貞は押しばっかり強いんだから……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0092_r18
+<NAME_PLATE>ゆきかぜ
+「いい、絶対中に出したらダメだからね。
+　分ってると思うけど、
+　この世界のあんたはもう死んでるの」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0093_r18
+<NAME_PLATE>ゆきかぜ
+「それで私が妊娠したりしたら、
+　ものすごく面倒なことになるんだから。
+　わかった？　はい約束！」
+<PAUSE>
+<NAME_PLATE>俺
+「約束する！」
+<PAUSE>
+<NAME_PLATE>
+　俺は力強く頷いた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0094_r18
+<NAME_PLATE>ゆきかぜ
+「じゃ、じゃあ……生で、いいわよ。
+　でもほんと約束だからね！」
+<PAUSE>
+//【イベント絵：EV002f　 大人ゆきかぜＨ２＿差分５】【時間：夜】
+<NAME_PLATE>俺
+「よし、いくぞ！」
+<PAUSE>
+<NAME_PLATE>
+　ようやくゆきかぜの許しを得て、
+俺はますます硬くなっているチンポを
+オマンコに再び、いや初めて生で入れた。
+<PAUSE>
+<EV>chr_0277_2f_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0095_r18
+<NAME_PLATE>ゆきかぜ
+「ええっ！？
+　ふあああああんんっっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「おおおっ！？」
+<PAUSE>
+<NAME_PLATE>
+　先っぽを入れただけで分かる。
+<PAUSE>
+<NAME_PLATE>
+　チンポが蕩けそうな膣の熱さ。
+絡みついてくる肉襞の感触。
+<PAUSE>
+<NAME_PLATE>
+　これが生のおまんこ！
+違う！　違いすぎる！！
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0096_r18
+<NAME_PLATE>ゆきかぜ
+「ちょっとバカなにやってるのよ！」
+<PAUSE>
+<NAME_PLATE>
+　生でいいと言ったのに、
+俺が挿入するなり文句を言う
+<PAUSE>
+<NAME_PLATE>俺
+「え？　え？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0097_r18
+<NAME_PLATE>ゆきかぜ
+「え？　じゃないわよ。さっきの精液、
+　チンポに付いたままじゃない。
+　それごと一緒に挿入するとかもう」
+<PAUSE>
+<NAME_PLATE>俺
+「あぁ、ごめん。抜く？」
+<PAUSE>
+<NAME_PLATE>
+　確かにその通りだ。
+俺は思わず腰を引こうとしたが、
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0098_r18
+<NAME_PLATE>ゆきかぜ
+「ちょっ、あんっ、なにしてるの！」
+<PAUSE>
+<NAME_PLATE>俺
+「えええ？？」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは俺の腕を掴んでそれを阻止し、
+また文句を言った。
+<PAUSE>
+<NAME_PLATE>
+　い、一体どうしろと！？
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0099_r18
+<NAME_PLATE>ゆきかぜ
+「だめ……続けて……」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは恨めしそうな顔で
+だが声だけは甘えてねだってきた。
+<PAUSE>
+<NAME_PLATE>俺
+「え？　いいの？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0100_r18
+<NAME_PLATE>ゆきかぜ
+「よくないけど……
+　せっかく生で入れてくれたのに
+　すぐ抜くとか……台無しでしょ」
+<PAUSE>
+<NAME_PLATE>俺
+「た、確かに」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0101_r18
+<NAME_PLATE>ゆきかぜ
+「だからいいわよ。
+　このまま続けて、ばかふうま。
+　ンンッーーーーーーッ！！」
+<PAUSE>
+<NAME_PLATE>
+　配慮に欠ける俺をたしなめるように
+ゆきかぜはおまんこを強く締め上げた。
+<PAUSE>
+<NAME_PLATE>俺
+「おふうっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　チンポを絞り上げようとする
+膣襞のうねりがダイレクトに伝わってくる。
+<PAUSE>
+<NAME_PLATE>
+　ゴム一枚が無いだけでこの違い。
+俺は背筋をゾクゾクさせながら、
+今度は静かに抽送を開始した。
+<PAUSE>
+<NAME_PLATE>
+　さっきみたいにガンガン突いたら
+あっという間に出してしまいそうだ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0102_r18
+<NAME_PLATE>ゆきかぜ
+「ふあああっ、ああっ、あああっ……
+　んっ……ああっ、はあっ、ああんっ……」
+<PAUSE>
+<NAME_PLATE>
+　入れるときは
+キュウッと閉じた肉壺を
+亀頭でズブズブと押し拡げて、
+<PAUSE>
+<NAME_PLATE>
+　抜くときは
+肉柱で大きく拡がった膣襞を
+カリ首でゴリゴリと擦りながら、
+<PAUSE>
+<NAME_PLATE>
+　生おまんこの感触をしっかり確かめて、
+ゆっくり、ゆっくりチンポを出し入れする。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0103_r18
+<NAME_PLATE>ゆきかぜ
+「ひあっ……あっ……っ……んっ……
+　ああっ……ああんっ、あんっあんっ……」
+<PAUSE>
+<NAME_PLATE>
+　俺のスローペースな抽送にあわせて、
+ゆきかぜもさっきより緩やかに喘いでいる。
+<PAUSE>
+<NAME_PLATE>
+　だけど、さっきより
+感じていないわけではない。
+いや、ずっと感じている。分かる。
+<PAUSE>
+<NAME_PLATE>
+　俺の下で全身を小刻みに震えさせ、
+擦れたような甘い声を繰り返すその姿は
+気が遠くなるほど艶めかしい。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0104_r18
+<NAME_PLATE>ゆきかぜ
+「あっ、んっ……ああっ……
+　んっ、あっあっああ……ンンンッ！
+　ふうま……ふうまぁ……」
+<PAUSE>
+<NAME_PLATE>
+　まるで救いを求めるように俺を見つめ、
+もっと強く、もっと早くと急かすように、
+蜜壺全体を強くうねらせる。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……くうっっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0105_r18
+<NAME_PLATE>ゆきかぜ
+「ひぁっ……んっ、ああン……
+　そんなに……焦らさないでぇ……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0106_r18
+<NAME_PLATE>ゆきかぜ
+「こんな風に……あっ、ンぁああ…
+　優しく続けられたら……わたし、んんっ……
+　切なくて……どうにかなりそう……」
+<PAUSE>
+<NAME_PLATE>俺
+「わ、わかった！」
+<PAUSE>
+<NAME_PLATE>
+　焦らしているつもりはなかったが、
+ゆきかぜの可愛すぎるその哀願に応えて、
+少しずつ腰の動きを大きくしていく。
+<PAUSE>
+//【イベント絵：EV002g　 大人ゆきかぜＨ２＿差分６】【時間：夜】
+<EV>chr_0277_2g_r18,NONE
+<VOICE_PLAY>chr_0277_2_0107_r18
+<NAME_PLATE>ゆきかぜ
+「ひはあっ、アッっ、あンっ、アアッっ、
+　ひゃっ、ふああああああああっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜの嬌声が一気に高まった。
+<PAUSE>
+<NAME_PLATE>
+　今まで喘ぎつつも大人のクールさを
+どこかで保っていたその顔が崩れていく。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0108_r18
+<NAME_PLATE>ゆきかぜ
+「アアッっ、そこっ、ああンすごいっ！
+　ああッ、そうそうっ、そこもっとぉっ
+　んんーーーっ、もっと突いてぇえ！」
+<PAUSE>
+<NAME_PLATE>俺
+「え？　どこ？　ここ？」
+<PAUSE>
+<NAME_PLATE>
+　もっと突いてと言われても
+初めてなのでよく分からない。
+<PAUSE>
+<NAME_PLATE>
+　俺はチンポの先で
+膣内のそれっぽいあたりを
+ぐりぐりと刺激してみた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0109_r18
+<NAME_PLATE>ゆきかぜ
+「あっ、んっ、やあ、ちがっ。
+　もう少し、うえっ、うえだから。
+　そこが感じるの、やん焦らさないでェ」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはもどかしげに首を振り、
+自分から腰を小刻みに動かして
+俺に突かれる位置を調節していく。
+<PAUSE>
+<NAME_PLATE>俺
+「焦らしてなんかない。
+　どこだ？　ここ？　このへん？」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜの表情、声、身体の震え、
+全ての反応をしっかり確かめながら、
+その場所を探っていくと、突然。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0110_r18
+<NAME_PLATE>ゆきかぜ
+「ふあっあっあっああああーーーーーっ！！」
+<PAUSE>
+<NAME_PLATE>
+　膣内の他の場所と比べて襞が多いわけでも
+窄まっているわけでもないなんの
+変哲のないところで喘ぎが跳ね上がった。
+<PAUSE>
+<NAME_PLATE>俺
+「ここか！？　ここなんだな！？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0111_r18
+<NAME_PLATE>ゆきかぜ
+「ああん！　そこおおおっっ！！
+　そこそこそこおおおおおおおおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはますますだらしない顔になって
+首を激しく縦に振った。
+<PAUSE>
+<NAME_PLATE>
+　よし、分かった。
+この角度から、こんな感じに
+腰をズンズン動かせば―――
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0112_r18
+<NAME_PLATE>ゆきかぜ
+「アアアッ！　アッアアアアアアアッ！！！
+　あっダメッ、アアンッそんなダメっっ！！
+　いやあんダメダメらめぇええええっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ダメダメと口では言っているが、
+ゆきかぜがそうされるのを望んでいるのが、
+俺にもようやく分かってきた。
+<PAUSE>
+<NAME_PLATE>
+　ここが一番感じる場所か。弱点か。
+そうなんだな、ゆきかぜ！！
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0113_r18
+<NAME_PLATE>ゆきかぜ
+「アアンッッ！　すごいすごひっっ！！
+　こんらっ、信じられなひいっっ！！
+　アッアッアアアアアアアアンッ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはクールさをかなぐり捨てて
+淫らによがりまくっていた。
+<PAUSE>
+<NAME_PLATE>
+　心なしか胸も大きくなっている。
+桃色の乳首がぷっくりと勃起し。
+その周りの乳輪すら肥大していた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0114_r18
+<NAME_PLATE>ゆきかぜ
+「気持ちいいっ、しゅごく気持ひいいいっ！！
+　アアンッっ、こんらのっ、初めれえっ！！
+　ふうまあっ、ああっ、ふゅうまああっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜっ！　ゆきかぜっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜが感じてくれるのが嬉しくて
+俺はその弱点を徹底的に責めまくった。
+<PAUSE>
+<NAME_PLATE>
+　そうすることで、俺自身もさっき以上の
+強烈な射精衝動が込み上げてくる。
+<PAUSE>
+<NAME_PLATE>俺
+「くっっ……ゆきかぜっっ！！
+　こ、このまま出していいだろ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0115_r18
+<NAME_PLATE>ゆきかぜ
+「え？　あああんっっっ！
+　ま、待ってっ、らめえっっ！
+　中で出しちゃらめええっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0116_r18
+<NAME_PLATE>ゆきかぜ
+「妊娠ひちゃうからあっっ！！
+　赤ちゃんできちゃうからっっっ！！
+　だめっだめだめらめええっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはヨガリ顔のまま
+イヤイヤをするが、それはきっと
+未来人としての理性で、本心ではないはずだ。
+<PAUSE>
+<NAME_PLATE>
+　その証拠にオマンコはさっきから
+キュイキュイと収縮して俺に膣内射精を
+促している。
+<PAUSE>
+<NAME_PLATE>俺
+「なら抜いていいのか？
+　ここで抜いてもいいのか？
+　俺は嫌だ！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜに深く覆い被さりながら、
+知ったばかりの弱点をチンポの先で
+グリグリと抉り立てる。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0117_r18
+<NAME_PLATE>ゆきかぜ
+「アッアッアァアアアアアンンッッ！！
+　だめえっ抜かないで抜いちゃいやああ！！
+　そのままぁ、そのままぁあっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「なら中出しだ！
+　俺はお前の中に出したいんだ！！
+　ゆきかぜ！！」
+<PAUSE>
+<NAME_PLATE>
+　さらに弱点を擦りまくると、
+ゆきかぜはついに観念した。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0118_r18
+<NAME_PLATE>ゆきかぜ
+「んんっんっ、んんーーーーっ！！
+　な、ならっ、ふうまっっ！！
+　他にっ、女つくったらダメだからね！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0119_r18
+<NAME_PLATE>ゆきかぜ
+「そしたら、そしたらっっ！！
+　アアアッ、許してあげるっっ！！
+　中出しっ、なかだしぃいっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0120_r18
+<NAME_PLATE>ゆきかぜ
+「もしっ、できちゃってもっ、
+　ふうまの赤ちゃん産んであげるっ！
+　だって、だってっ―――」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0121_r18
+<NAME_PLATE>ゆきかぜ
+「あなたの女は
+　私だけだからああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは絶頂直前の声を張りあげて、
+もう逃がさないとチンポを絞り上げた。
+<PAUSE>
+//【イベント絵：EV002h　 大人ゆきかぜＨ２＿差分７】【時間：夜】
+<NAME_PLATE>俺
+「くううっっ！！
+　俺の赤ちゃん産んでくれっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　気がついた時にはそう答え、
+俺もチンポを思いきり膣奥に突き入れ、
+ありったけの欲望をぶちまけていた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0122_r18
+<NAME_PLATE>ゆきかぜ
+「ひあああああんんんっっ！！
+　イッくぅううううううううううううっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0277_2h_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　ドビュウッ、ドビュウッ、ドビュウッ！！
+<PAUSE>
+<NAME_PLATE>
+　子宮口に押し付けたチンポの先から
+怒濤の精子が噴出する。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0123_r18
+<NAME_PLATE>ゆきかぜ
+「出てる出てる出てるりゅううっっ！！
+　ふうまの精子当たってるっっ！！
+　わたしの中にっ、なかにぃいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは白目を向いて絶頂していた。
+<PAUSE>
+<NAME_PLATE>
+　チンポをみっちりと咥えた股間からは
+俺にお返しするかのように潮が噴き出す。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0277_2_0124_r18
+<NAME_PLATE>ゆきかぜ
+「ああイイッすごいすごいいっっ！！
+　しゅごひぃいいいいいいいいいいっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0125_r18
+<NAME_PLATE>ゆきかぜ
+「イッてるっイッてるうっ！！
+　ふうまに中出しされてイッてるっ！！
+　ビュクビュク精子浴びてりゅううっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜっ！！　ゆきかぜっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　今夜三発目とは思えない勢いで
+チンポは狂ったように脈打ち、
+精液をドクドクと吐き出していく。
+<PAUSE>
+<NAME_PLATE>
+　それを膣奥で受け止めるたびに
+ゆきかぜの嬌声が弾け、
+身体が大きくうねった。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0126_r18
+<NAME_PLATE>ゆきかぜ
+「ああんっ、ふうまっ、ふうまっっ！！
+　もっとちょうだいっ、もっと、もっとっ！！
+　絶対妊娠するくらいにいっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0127_r18
+<NAME_PLATE>ゆきかぜ
+「あなたの精子で私をいっぱいにしてっ！！
+　子宮の中まで全部あなただけにしてっ！！
+　してしてしてぇえええええっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「くああっっっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ドビュウウウッ、ドビュドビュウウウッ！！
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0128_r18
+<NAME_PLATE>ゆきかぜ
+「ひあああああああっっ！！
+　スゴイのまた来たッ、
+　ザーメン来たああああっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜが求めれば求めるだけ
+俺のチンポは精液を吐き出した。
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜのアクメも止まらず、
+俺からとことん子種汁を搾り出そうと、
+膣道全体が強烈にうねり続ける。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0129_r18
+<NAME_PLATE>ゆきかぜ
+「イクイクイクイクイクぅ
+　うううううううううううううっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　二人一緒になって
+何もかも溶けていくような絶頂が
+長く長く続いていった。
+<PAUSE>
+//【イベント絵：EV002i　 大人ゆきかぜＨ２＿差分８】【時間：夜】
+<EV>chr_0277_2i_r18,NONE
+<VOICE_PLAY>chr_0277_2_0130_r18
+<NAME_PLATE>ゆきかぜ
+「ハァ、ハァ、ハァ……はあン……
+　うふふ……ふうまぁ……」
+<PAUSE>
+<NAME_PLATE>
+　しばらくして、
+ゆきかぜがうっとりと俺を見上げていた。
+<PAUSE>
+<NAME_PLATE>
+　俺の射精もようやく治まって、
+二人でただ余韻に浸っている。
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜ……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0131_r18
+<NAME_PLATE>ゆきかぜ
+「身体……重い……
+　もう抜いて……お願い……」
+<PAUSE>
+<NAME_PLATE>俺
+「ご、ごめん……」
+<PAUSE>
+<NAME_PLATE>
+　正直、精根尽き果てていたが、
+俺は気力を振り絞って身体を起こした。
+<PAUSE>
+<NAME_PLATE>
+　ずるぅううううう。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0132_r18
+<NAME_PLATE>ゆきかぜ
+「あっあっ、あああ～～～～～～～～っ」
+<PAUSE>
+<NAME_PLATE>
+　ようやく萎え始めたチンポが
+絶頂直後のオマンコをズリ抜けていく刺激に
+ゆきかぜは切なそうに身をくねらせる。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0133_r18
+<NAME_PLATE>ゆきかぜ
+「ひゃんっっ」
+<PAUSE>
+<NAME_PLATE>
+　最後は甘えた声を裏返させ、
+チンポはようやくゆきかぜから離れた。
+<PAUSE>
+<NAME_PLATE>
+　ぽっかり空いたオマンコからは
+射精したばかりのまだドロリとした精液が
+溢れ出てくる。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0134_r18
+<NAME_PLATE>ゆきかぜ
+「すごい……
+　こんなにいっぱい出して
+　絶対妊娠した……わたし……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0135_r18
+<NAME_PLATE>ゆきかぜ
+「ふうまの赤ちゃん　
+　できちゃった……わたし……」
+<PAUSE>
+<NAME_PLATE>
+　その言葉とは裏腹に
+ゆきかぜは幸せそうな顔をしていた。
+<PAUSE>
+<NAME_PLATE>俺
+「う、うん……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0136_r18
+<NAME_PLATE>ゆきかぜ
+「なにその『うん』って……？」
+<PAUSE>
+<NAME_PLATE>俺
+「い、いや……なんとなく」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0137_r18
+<NAME_PLATE>ゆきかぜ
+「くくくっ」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは喉の奥で含み笑いをしてから、
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0138_r18
+<NAME_PLATE>ゆきかぜ
+「嫌じゃないよ……」
+<PAUSE>
+<NAME_PLATE>俺
+「え？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0139_r18
+<NAME_PLATE>ゆきかぜ
+「でも、私が一番じゃないと許さないから」
+<PAUSE>
+<NAME_PLATE>俺
+「う、うん」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0140_r18
+<NAME_PLATE>ゆきかぜ
+「うんうんってそればっかり」
+<PAUSE>
+<NAME_PLATE>俺
+「ごめん」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0141_r18
+<NAME_PLATE>ゆきかぜ
+「じゃあキスして」
+<PAUSE>
+<NAME_PLATE>俺
+「え……？」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0142_r18
+<NAME_PLATE>ゆきかぜ
+「今度はふうまからキス。
+　ね？　お願い」
+<PAUSE>
+<NAME_PLATE>俺
+「あ、ああ……」
+<PAUSE>
+<NAME_PLATE>
+　それならばお安い御用だ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0143_r18
+<NAME_PLATE>ゆきかぜ
+「目を閉じて……
+　今だけは、私のことだけ考えて……」
+<PAUSE>
+<NAME_PLATE>俺
+「うん……」
+<PAUSE>
+<BG_OUT>1000
+<VOICE_PLAY>chr_0277_2_0144_r18
+<NAME_PLATE>ゆきかぜ
+「ずっとずっと愛してる……ふうま……」
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜ……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0145_r18
+<NAME_PLATE>ゆきかぜ
+「んんっっ」
+<PAUSE>
+<NAME_PLATE>
+　あの時とは逆に
+俺からゆきかぜに口づけする。
+<PAUSE>
+<NAME_PLATE>
+　幸せが身体中を満たし、
+そして―――
+<PAUSE>
+//【黒画面】
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　急に意識が遠のき始めた。
+<PAUSE>
+<NAME_PLATE>
+　唇の感触がふいに消え、
+ゆきかぜの気配もなくなり、
+<PAUSE>
+<NAME_PLATE>
+　その代わりに誰かの声が聞こえてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0146_r18
+<NAME_PLATE>？？？
+「………ま！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0147_r18
+<NAME_PLATE>？？？
+「………ふうま！」
+<PAUSE>
+//【背景：五車町＿主人公の家＿朝】【時間：朝】
+//　※対魔忍アサギZERO_NC027aより流用
+<VOICE_PLAY>chr_0277_2_0148_r18
+<NAME_PLATE>ゆきかぜ
+「起きなさいよ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<BG>nc071a,IN, 500
+<SE_PLAY>se030_01
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>
+　バチイッ！！
+<PAUSE>
+<NAME_PLATE>俺
+「ぐっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　全身を強く引っぱたかれた気がした。
+<PAUSE>
+<NAME_PLATE>
+　ハッとして目を覚ますと、
+見たことのある天井、俺の部屋だ。
+<PAUSE>
+<NAME_PLATE>俺
+「えっ？？」
+<PAUSE>
+<BGM_PLAY>bgm604,1000
+<ACTOR>0,chr_t0112a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0277_2_0149_r18
+<NAME_PLATE>ゆきかぜ
+「『え？』じゃない！
+　いつまで寝てるのよ！」
+<PAUSE>
+//　※立ち絵
+//　　【雷撃の新学期】水城ゆきかぜ立ち絵
+//　　　＊対魔忍ＲＰＧカードイラストから流用
+<NAME_PLATE>
+　ゆきかぜがそこにいた。
+<PAUSE>
+<NAME_PLATE>
+　俺のよく知るゆきかぜ。
+大人ではないゆきかぜだ。
+<PAUSE>
+<NAME_PLATE>俺
+「ゆきかぜが元にもどった？」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0150_r18
+<NAME_PLATE>ゆきかぜ
+「はア！？」
+<PAUSE>
+<NAME_PLATE>俺
+「だ、だって大人のゆきかぜが……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0151_r18
+<NAME_PLATE>ゆきかぜ
+「私の夢を見たわけ！？」
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<NAME_PLATE>
+　夢……なのか？
+<PAUSE>
+<NAME_PLATE>
+　最初からあのゆきかぜは
+夢だと言っていたが、
+やっぱり本当にそうだったのか？
+<PAUSE>
+<NAME_PLATE>
+　いや、そう思わせて
+現実だったということにして欲しい。
+<PAUSE>
+<NAME_PLATE>
+　でないと俺は童貞のままだ。
+<PAUSE>
+<ACTOR>0,chr_t0112a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0277_2_0152_r18
+<NAME_PLATE>ゆきかぜ
+「もう！
+　なにボーッとしてんのよ！」
+<PAUSE>
+<NAME_PLATE>
+　ボーッとしたくもなる。
+もうわけが分からない。
+<PAUSE>
+<NAME_PLATE>
+　分かっているのは目の前にいるのが、
+いつものゆきかぜだということだけだ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0153_r18
+<NAME_PLATE>ゆきかぜ
+「今日一緒に限定グッズ買いに行く
+　約束したじゃない！」
+<PAUSE>
+<NAME_PLATE>俺
+「あ、うん……」
+<PAUSE>
+<NAME_PLATE>
+　そういや、いつも遊んでいるバトロワゲー
+『ＡＰＸ　Ｒｅｓｉｓｔａｎｃｅ』の
+限定グッズを、
+<PAUSE>
+<NAME_PLATE>
+　さくらと三人で買いに行く予定だったな。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0154_r18
+<NAME_PLATE>ゆきかぜ
+「わ、私の夢を見るのはうれしぃ……
+　じゃなくて！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0155_r18
+<NAME_PLATE>ゆきかぜ
+「さくらも爆睡してるし、
+　ふうままで寝坊してるって
+　どういう事なのよ！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0156_r18
+<NAME_PLATE>ゆきかぜ
+「いつまでも寝っ転がってないで
+　とっとと起きて準備してよ！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはまだ横になっていた俺の
+蒲団を引っぺがそうとした。
+<PAUSE>
+<NAME_PLATE>俺
+「わっ！？　今はやめろ！？」
+<PAUSE>
+<NAME_PLATE>
+　今は朝だ、寝起きだ。
+剥がされてはまずいことになる。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0157_r18
+<NAME_PLATE>ゆきかぜ
+「いいから布団から出ろ！」
+<PAUSE>
+<NAME_PLATE>俺
+「やめろって！！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0277_2_0158_r18
+<NAME_PLATE>ゆきかぜ
+「え？　ちょっなにっ！？
+　うわわわわわっ！！」
+<PAUSE>
+<BGM_STOP>1000
+<ACTOR_OUT>0,CENTER,linear,500
+<BG_OUT>1000
+<SE_PLAY>se010
+<NAME_PLATE>
+　ズシーーン！！
+<PAUSE>
+<NAME_PLATE>
+　俺と蒲団を引っ張り合い、
+ゆきかぜはバランスを崩して
+俺の上に倒れ込んだ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0159_r18
+<NAME_PLATE>ゆきかぜ
+「いたた……なんなのよあんた！
+　そんなに蒲団が恋しいの？
+　蒲団が恋人？」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜは立ち上がろうとして、
+床に手を突き、
+<PAUSE>
+<NAME_PLATE>
+　―――ぐにゅっ！
+<PAUSE>
+<NAME_PLATE>俺
+「おふうっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0160_r18
+<NAME_PLATE>ゆきかぜ
+「え？？」
+<PAUSE>
+<NAME_PLATE>
+　こともあろうに、
+そいつを握りしめた。
+<PAUSE>
+<NAME_PLATE>
+　夢か現実か、
+とにかくあの大人のゆきかぜの影響で
+フル勃起状態の朝立ちチンポをだ。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0161_r18
+<NAME_PLATE>ゆきかぜ
+「な、なにこれ……？」
+<PAUSE>
+<NAME_PLATE>
+　やはりあのゆきかぜとは違う。
+<PAUSE>
+<NAME_PLATE>
+　すぐにはそれが何か気づかずに
+強く握ったり扱いたりしてから、
+<PAUSE>
+<BGM_PLAY>bgm310,1000
+<VOICE_PLAY>chr_0277_2_0162_r18
+<NAME_PLATE>ゆきかぜ
+「あ………」
+<PAUSE>
+<NAME_PLATE>
+　ようやく正体が分かって
+カーッと火が付いたように赤くなった。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0163_r18
+<NAME_PLATE>ゆきかぜ
+「ななななな、な、なに私の夢見て
+　こんなにしてるのよ！
+　ばか！　変態！！」
+<PAUSE>
+<NAME_PLATE>俺
+「うう、い、いいから手を離せ。
+　そ、そんな握られてたらヤバイから！！
+　て、手を……うう、頼む」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0164_r18
+<NAME_PLATE>ゆきかぜ
+「あ、ああっ！　ご、ごめん……！」
+<PAUSE>
+<NAME_PLATE>
+　ゆきかぜはパッと手を離し、
+恥ずかしそうに俯いてしまった。
+<PAUSE>
+<NAME_PLATE>俺
+「ちょっと後ろ向いてろ。
+　着替えるから。
+　あとこれも大人しくさせるから」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0165_r18
+<NAME_PLATE>ゆきかぜ
+「う、うん……わかった……」
+<PAUSE>
+<BG>nc071a,IN, 500
+<NAME_PLATE>
+　耳まで赤くしたゆきかぜは
+やけに素直に俺に背を向けた。
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0166_r18
+<NAME_PLATE>ゆきかぜ
+「ええと、痛くなかった？」
+<PAUSE>
+<NAME_PLATE>俺
+「まあ、なんとか。
+　悪かったな。変なもん触らせて」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0167_r18
+<NAME_PLATE>ゆきかぜ
+「ん……男は、朝そうなるんでしょ。
+　知ってるから……まあ、いいわ。
+　よくないけど……」
+<PAUSE>
+<NAME_PLATE>俺
+「そ、そうか……」
+<PAUSE>
+<VOICE_PLAY>chr_0277_2_0168_r18
+<NAME_PLATE>ゆきかぜ
+「うん……」
+<PAUSE>
+<NAME_PLATE>
+　どうにも気まずい。
+色っぽいムードになどなりゃしない。
+<PAUSE>
+<NAME_PLATE>
+　このゆきかぜが、あのゆきかぜに
+繋がってるんだよな。
+<PAUSE>
+<NAME_PLATE>
+　いや、俺は死ななかったんだから、
+結局、繋がらないことになるのか。
+<PAUSE>
+<NAME_PLATE>
+　すると、あのゆきかぜが言った
+「他の女」には、このゆきかぜも
+含まれるのだろうか。
+<PAUSE>
+<NAME_PLATE>
+　ここにいるゆきかぜと
+ここにはいないゆきかぜを想いつつ、
+俺はそんなことを考えていた。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

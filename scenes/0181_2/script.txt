@@ -1,0 +1,1179 @@
+//【黒画面】
+<BG>black,IN, 1000
+<NAME_PLATE>
+　初めてのメスイキを経験させられてから、
+二週間後―――。
+<PAUSE>
+//【背景：アミダハラ監獄＿夜】【時間：夜】
+//　※免罪の皇女アリア＿nc007bより流用
+<BG>chrnc0181b,IN, 1000
+<NAME_PLATE>
+　アミダハラ監獄では
+鹿之助の苦難、あるいは悦楽が続いていた。
+<PAUSE>
+//【背景：アミダハラ監獄内＿夜】【時間：夜】
+//　※監獄アカデミア_NC012aより流用
+<BGM_PLAY>bgm509,1000
+<BG>nc103a,IN, 1000
+<NAME_PLATE>
+　闇に包まれた深夜の監房から
+どこか媚を含んだ声が聞こえてくる。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0000_r18
+<NAME_PLATE>鹿之助
+「お、俺は男なんだからな……！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0000_r18
+<NAME_PLATE>スネークレディ
+「そう？　よく似合ってるじゃない」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0001_r18
+<NAME_PLATE>鹿之助
+「だ、だから、
+　こんな格好おかしいだろ……！」
+<PAUSE>
+//【背景：アミダハラ監獄内監房＿夜】【時間：夜】
+//　※対魔忍紅_NC014aより流用
+<BG>nc214a,IN, 1000
+<ACTOR>0,sr_t003e_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chrsr_0181_2_0001_r18
+<NAME_PLATE>スネークレディ
+「本当にそう思っている？
+　一日中、この格好でいて
+　興奮してたじゃない？」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0002_r18
+<NAME_PLATE>鹿之助
+「そ、そんな事……あるもんか……」
+<PAUSE>
+<ACTOR>0,sr_t003g_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chrsr_0181_2_0002_r18
+<NAME_PLATE>スネークレディ
+「ウソばっかり。
+　さあ、今日も可愛がってあげるわ♪」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0003_r18
+<NAME_PLATE>鹿之助
+「あ、ああ……
+　きょ、今日も俺を調教するのか？」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0003_r18
+<NAME_PLATE>スネークレディ
+「貧相なおちんちんカチコチにしておいて
+　なに言ってるの？
+　もうすっかりメスガキよね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0004_r18
+<NAME_PLATE>鹿之助
+「ううっ……」
+<PAUSE>
+<BGM_STOP>1000
+<VOICE_PLAY>chrsr_0181_2_0004_r18
+<NAME_PLATE>スネークレディ
+「さあ、マゾのメス犬らしく
+　四つん這いになってお尻を向けなさい」
+<PAUSE>
+//【イベント絵：EV002a　上原鹿之助Ｈ２】【時間：夜】
+<ACTOR_OUT>0,CENTER,linear,1000
+<BGM_PLAY>bgm612,1000
+<EV>chr_0181_2a_r18,IN, 1000
+<VOICE_PLAY>chrsk_0181_2_0005_r18
+<NAME_PLATE>鹿之助
+「は、はい……」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助はもう自分ではどうにもならない
+はしたない衝動が込み上げるのを感じながら、
+監獄の冷たい床に四つん這いになった。
+<PAUSE>
+<NAME_PLATE>
+　今日、スネークレディに与えられた
+黒のマイクロビキニを着けた身体が
+プルプルと震える。
+<PAUSE>
+<NAME_PLATE>
+　まるで女の子が着るようなビキニの下で
+乳首も包茎チンポも恥ずかしいくらいに
+勃起している。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0005_r18
+<NAME_PLATE>スネークレディ
+「ほら！
+　もっとお尻を突き上げなさい！」
+<PAUSE>
+<NAME_PLATE>
+　主人が飼い犬のリードを引くように、
+スネークレディは鹿之助の長い髪を掴んで
+グイと引いた。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0006_r18
+<NAME_PLATE>鹿之助
+「あぐっっ！　ご、ごめんなさいっ！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助は反射的に謝ってしまい、
+お尻を精一杯突き上げる。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0007_r18
+<NAME_PLATE>鹿之助
+「ん～～～～～～～～～～っっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0006_r18
+<NAME_PLATE>スネークレディ
+「そう、それでいいのよ。
+　メス犬はメス犬らしくね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0008_r18
+<NAME_PLATE>鹿之助
+「は、はひぃ……」
+<PAUSE>
+<NAME_PLATE>
+　あれから二週間。
+<PAUSE>
+<NAME_PLATE>
+　昼も夜もなく犯され、
+もう逆らう気力はなくなっている。
+<PAUSE>
+<NAME_PLATE>
+　それどころか、
+女なのに自分とは比較にならないチンポを
+持ったスネークレディに犯されることに、
+<PAUSE>
+<NAME_PLATE>
+　男なのに貧相なチンポしか持たない
+メスガキの自分が征服されることに、
+マゾヒスティックな悦びすら感じ始めていた。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0007_r18
+<NAME_PLATE>スネークレディ
+「ウフフ、
+　もうお尻の穴がヒクヒクしてるわ。
+　期待してるの？」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディがいつものように
+雄々しく屹立した肉棒をゆったりと
+扱きながら言った。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0009_r18
+<NAME_PLATE>鹿之助
+「そ、そんなこと……ないです……」
+<PAUSE>
+<NAME_PLATE>
+　口ではそう言っても、
+すっかり柔らかくなった菊門から
+はしたない腸汁がじわりと溢れてくる。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0008_r18
+<NAME_PLATE>スネークレディ
+「こんなイヤらしいケツマンコになって、
+　あのふうまの坊やが知ったら
+　どう思うかしらね？」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0010_r18
+<NAME_PLATE>鹿之助
+「や、やめてっっ！」
+<PAUSE>
+<NAME_PLATE>
+　イヤらしいと言われたアナルが
+ヒュウッと窄まった。
+<PAUSE>
+<NAME_PLATE>
+　あれ以来、
+ふうまのことは考えないようにしていた。
+<PAUSE>
+<NAME_PLATE>
+　これ以上メスガキ調教されたら
+もうふうまに会えなくなる気がしていた。
+<PAUSE>
+<NAME_PLATE>
+　違う。そうじゃない。
+<PAUSE>
+<NAME_PLATE>
+　完全にメス化した自分が
+ふうまに犯されるのではないか？
+<PAUSE>
+<NAME_PLATE>
+　自分もそれを望むのではないか？
+それを想像するのが怖かった。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0011_r18
+<NAME_PLATE>鹿之助
+「お、お願い……やめて……
+　ふうまのことは……言わないで……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0009_r18
+<NAME_PLATE>スネークレディ
+「ウフフ、
+　まるで恋する乙女みたいに可憐な表情ね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0012_r18
+<NAME_PLATE>鹿之助
+「ああ……やめて……言わないで……」
+<PAUSE>
+<NAME_PLATE>
+　口から出てくる声も女のようだ。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0010_r18
+<NAME_PLATE>スネークレディ
+「その悩ましい顔、
+　さぞ人気が出るでしょうね。
+　みんなあなたを犯したがるわ」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0013_r18
+<NAME_PLATE>鹿之助
+「えっ！？
+　それってどういう意味！？」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助はゾッとして振り返った。
+<PAUSE>
+<NAME_PLATE>
+　フタナリチンポをガチガチに勃起させた
+スネークレディがサディスティックな笑みを
+浮かべている。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0011_r18
+<NAME_PLATE>スネークレディ
+「私だけの相手じゃ物足りないでしょ。
+　明日から男の看守が来るように依頼したわ」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chrsk_0181_2_0014_r18
+<NAME_PLATE>鹿之助
+「ひっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディだけではなく
+男に犯される！？
+<PAUSE>
+<NAME_PLATE>
+　本物の男に！！
+<PAUSE>
+<NAME_PLATE>
+　そんなことをされたら、
+もう本当に女の子になってしまう。
+<PAUSE>
+<NAME_PLATE>
+　男であることを忘れてしまう。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0015_r18
+<NAME_PLATE>鹿之助
+「や、やだ！　そんなのやだ！！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助はブルブルと首を振った。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0012_r18
+<NAME_PLATE>スネークレディ
+「駄目よ♪
+　バンビちゃんは看守に体を売って
+　たっぷり稼ぐのよ」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0013_r18
+<NAME_PLATE>スネークレディ
+「ここを出る頃には売りが大好きな
+　メスガキにしてあげる♪」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0016_r18
+<NAME_PLATE>鹿之助
+「売りなんかしたくない！！
+　もうメスになりたくないっ！！
+　ああ、許してっ、お願い許してっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助は涙を浮かべて
+イヤイヤと懇願した。
+<PAUSE>
+<NAME_PLATE>
+　自分では気づいていないが、
+その表情も声も女そのものだ。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0014_r18
+<NAME_PLATE>スネークレディ
+「聞き分けのないバンビちゃんね。
+　少し静かにしなさい」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディは怯えて縮こまったアナルに
+巨根をあてがい、グイッとねじ込んで来た。
+<PAUSE>
+//【イベント絵：EV002b　上原鹿之助Ｈ２＿差分１】【時間：夜】
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0181_2b_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chrsk_0181_2_0017_r18
+<NAME_PLATE>鹿之助
+「んひぁああああああああああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助の身体がピーンと強く突っ張った。
+<PAUSE>
+<NAME_PLATE>
+　その熱い肉の塊をお尻で感じた瞬間、
+ふうまのことも、明日から男に犯されることも
+頭から吹き飛んだ。
+<PAUSE>
+<NAME_PLATE>
+　はしたないメスの悦びだけが
+鹿之助をあっという間に満たした。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chrsk_0181_2_0018_r18
+<NAME_PLATE>鹿之助
+「あっあっ
+　あああああーーーーーーーーーっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　惨めたらしく勃っていた包茎チンポから
+ぴゅぴゅっと精液が噴き出す。
+<PAUSE>
+<NAME_PLATE>
+　もう男らしい射精などとは言えない。
+ただのメスの潮吹きだ。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0019_r18
+<NAME_PLATE>鹿之助
+「あぁあ、あぁぁ、しゅごいぃいい……
+　いっぱい、お尻の穴、いっぱいぃい……」
+<PAUSE>
+<NAME_PLATE>
+　ぱっくり広がったアナルが
+キュッキュッと小刻みに収縮して、
+チンポの根元を締め付けている。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0020_r18
+<NAME_PLATE>鹿之助
+（ああ……中に入ってるぅ……）
+<PAUSE>
+<NAME_PLATE>
+　いつも空になるよう心がけている直腸が
+カリ太チンポの形にゴリゴリ変わっている。
+<PAUSE>
+<NAME_PLATE>
+　鹿之助をメスにしたこの熱さも硬さも
+もうすっかり覚えてしまった。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0021_r18
+<NAME_PLATE>鹿之助
+「ひあぁあ……イイ……イイよぉ……」
+<PAUSE>
+<NAME_PLATE>
+　無意識に快楽の言葉が溢れてくる。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0015_r18
+<NAME_PLATE>スネークレディ
+「ウフフ、
+　私のチンポそんなにイイの？」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディの艶めかしい言葉が
+耳の奥をザワリとくすぐる。
+<PAUSE>
+<NAME_PLATE>
+　鹿之助はコクコクと首を縦に振った。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0022_r18
+<NAME_PLATE>鹿之助
+「すごく……いい……ですぅ……
+　これ好き……ダメって分かってるけど……
+　お尻にチンポ……ああ、好きぃ……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0016_r18
+<NAME_PLATE>スネークレディ
+「なのに、他の男のチンポはイヤなの？」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0023_r18
+<NAME_PLATE>鹿之助
+「だって、他の男とか……こ……怖い……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0017_r18
+<NAME_PLATE>スネークレディ
+「怖がりなバンビちゃんね。
+　大丈夫、すぐに慣れるわ」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディは優しく言うと、
+腰をゆっくりと引いていく。
+<PAUSE>
+//【イベント絵：EV002c　上原鹿之助Ｈ２＿差分２】【時間：夜】
+<EV>chr_0181_2c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chrsk_0181_2_0024_r18
+<NAME_PLATE>鹿之助
+「ひあっあっ、あっああああんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助はメス犬そのものの黄色い声を発し、
+チンポが抜けていく切なさにお尻をクイクイと
+突き上げてしまう。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0018_r18
+<NAME_PLATE>スネークレディ
+「ほらほら、しっかりアナルを締めないと、
+　バンビちゃんの大好きなチンポが
+　抜けちゃうわよ」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディは鹿之助を煽りながら、
+ずるっ、ずるっとチンポを引っ張っていく。
+<PAUSE>
+<NAME_PLATE>
+　肛門がベロンと外に捲れて、
+薄茶色の肉皺がチンポでさらに擦られる。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0025_r18
+<NAME_PLATE>鹿之助
+「ほああっ、んぅう！
+　くふう、んっんっんんん～～～～っっ！！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助は眉間に皺を寄せ
+必死になって肛門を息ませている。
+<PAUSE>
+<NAME_PLATE>
+　死にたくなるほど恥ずかしいのに、
+この二週間で覚え込まされたメスの快感に
+身体が勝手にそう反応する。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0026_r18
+<NAME_PLATE>鹿之助
+「んっんっ、
+　んんんーーーーーーーーーっっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　最初の頃よりすっかり柔らかくなった
+アナルがキュウッと淫らに締まっていくが、
+<PAUSE>
+<NAME_PLATE>
+　そこをチンポがズリズリする甘い刺激に
+どうやっても穴からは力が抜けて、
+全身がガクガク震える。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0027_r18
+<NAME_PLATE>鹿之助
+「ひあああっ、だめぇえっ！
+　そんなっ、チンポっ、ひあっああっ、
+　ゆっくり抜くのっ……ひあ、らめぇえ！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0019_r18
+<NAME_PLATE>スネークレディ
+「しょうがないバンビちゃんね♪」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0028_r18
+<NAME_PLATE>鹿之助
+「だって、だってえっ……
+　お尻っ、キモチよくてっ……
+　んぅうっ、力、入らないぃい……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0020_r18
+<NAME_PLATE>スネークレディ
+「そんなこと言ってるから、
+　ほら、大好きなチンポが今にも抜けそうよ」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディはカリ首を肛門に引っかけ、
+チンポが抜けるか抜けないかギリギリの所で、
+クチュクチュと鹿之助を焦らした。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0029_r18
+<NAME_PLATE>鹿之助
+「ひあっあっ、それらめえっ！
+　ギリギリのとこで、焦らすのだめえっ！」
+<PAUSE>
+<NAME_PLATE>
+　気が狂いそうな切なさに
+四つん這いの身体がワナワナと震え、
+肛門からは腸汁が止めどなく溢れ出す。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0021_r18
+<NAME_PLATE>スネークレディ
+「なにがダメなの？
+　ちゃーんと私に言いなさい」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0030_r18
+<NAME_PLATE>鹿之助
+「抜かないでぇ……抜いちゃやだあ……
+　お尻からチンポ抜くのやだぁあ……」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助は涙すら流しながら、
+メス顔をフルフルと振った。
+<PAUSE>
+//【イベント絵：EV002b　上原鹿之助Ｈ２＿差分１】【時間：夜】
+<VOICE_PLAY>chrsr_0181_2_0022_r18
+<NAME_PLATE>スネークレディ
+「そうそう。
+　そうやっていつも素直にしていれば、
+　ご褒美をあげるわ、バンビちゃん」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディは鹿之助の頭を撫でると、
+またチンポをズブリ、ズブリと
+埋め込んできた。
+<PAUSE>
+<EV>chr_0181_2b_r18,NONE
+<VOICE_PLAY>chrsk_0181_2_0031_r18
+<NAME_PLATE>鹿之助
+「うひああっ、あっあぁあっ！！
+　ああん！　入ってくるううっっ！！
+　チンポぉっ、またお尻に来るぅううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　熱くて硬いオス肉の塊が
+空っぽの直腸をグイグイと押し広げていく。
+<PAUSE>
+<NAME_PLATE>
+　鹿之助のメス声が歓喜によじれる。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chrsk_0181_2_0032_r18
+<NAME_PLATE>鹿之助
+「あっあっ
+　ああああああああああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　焦らされて中に溜まっていた腸汁が
+チンポに押されて肛門からビュッ、ビュッと
+水鉄砲のように吹き出した。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0033_r18
+<NAME_PLATE>鹿之助
+「ひあああんんんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　包茎チンポからもまたピュピュッと
+精液の潮を吹くが、
+もうオマケのようなものだ。
+<PAUSE>
+<NAME_PLATE>
+　自分の貧相なチンポで吐精する快感よりも
+アナルを肉根で埋め尽くされる悦びの方が
+遙かに大きい。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0023_r18
+<NAME_PLATE>スネークレディ
+「お尻がグイグイチンポを
+　呑み込んでいくわね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0034_r18
+<NAME_PLATE>鹿之助
+「うんっ、うんっ、そう、だからっ！
+　ああっ、もっと、もっと入れてっっ！！
+　奥まで入れて、チンポ入れてええ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0024_r18
+<NAME_PLATE>スネークレディ
+「これくらい？」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディはチンポを途中で止めて、
+グリグリと意地悪く鹿之助を焦らす。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0035_r18
+<NAME_PLATE>鹿之助
+「もっと、もっと、もっとおおっ！！
+　まだ入るからああっ！
+　お尻の奥までええっ！！」
+<PAUSE>
+<NAME_PLATE>
+　まだ腸の奥の方が切ない。
+もっともっと入る。身体が覚えている。
+<PAUSE>
+<NAME_PLATE>
+　チンポ欲しい。ミチミチにして欲しい。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0025_r18
+<NAME_PLATE>スネークレディ
+「そうね。まだ入るわね」
+<PAUSE>
+<NAME_PLATE>
+　ズブッ、ズブッ、ズブズブズブウ～～！！
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0036_r18
+<NAME_PLATE>鹿之助
+「ああっ、そうそう、そうそうおっ！！
+　ああっ、すごいすごいすごいぃいいい！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0026_r18
+<NAME_PLATE>スネークレディ
+「バンビちゃん、これで全部よ！！」
+<PAUSE>
+<NAME_PLATE>
+　最後の一突き。
+<PAUSE>
+<NAME_PLATE>
+　スネークレディはたっぷりと勢いを付けて、
+チンポの先でズンッッと
+胃の裏側を突き上げた。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chrsk_0181_2_0037_r18
+<NAME_PLATE>鹿之助
+「あっひぃいいいいいいいいいいいいいいいい
+　いいいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　甲高い悲鳴と共に、
+鹿之助の頭がガクンと跳ねた。
+<PAUSE>
+<NAME_PLATE>
+　尻を高く迫り上げると同時に、
+背骨が折れるかと思うほど弓なりに反って、
+四つん這いの身体をビクビクと痙攣させる。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0027_r18
+<NAME_PLATE>スネークレディ
+「しょうがないバンビちゃんね。
+　一回チンポを往復させただけで、
+　もうアクメを決めるなんて、ウフフ」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディは根元までたっぷりと
+チンポをアナルに埋め込んだまま、
+鹿之助の身体をゆさゆさと揺すった。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0038_r18
+<NAME_PLATE>鹿之助
+「ひあっ、ああっ、だってぇえっ……
+　チンポっ……ひゅごい奥までぇ……
+　キモチ……よすぎてぇ……恥ずかしいい」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0028_r18
+<NAME_PLATE>スネークレディ
+「あら、まだ恥ずかしいって気持ちが
+　残ってるのね？」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0039_r18
+<NAME_PLATE>鹿之助
+「は、恥ずかしい……でしゅう……
+　男なのに……メスイキ……して……
+　死にたいくらい……はずかしいぃ……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0029_r18
+<NAME_PLATE>スネークレディ
+「でも、それがいいのよね？」
+<PAUSE>
+<NAME_PLATE>
+　チンポをグリグリされながらの問いに、
+鹿之助は頬を染めて頷いてしまう。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0040_r18
+<NAME_PLATE>鹿之助
+「しゅごく……イイ……
+　恥ずかしい……けどぉ……
+　これ……キモチ……いい……ああ」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0030_r18
+<NAME_PLATE>スネークレディ
+「なら、もっと経験を積まないとね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0041_r18
+<NAME_PLATE>鹿之助
+「け……経験……？
+　……ど……どんな……？」
+<PAUSE>
+<NAME_PLATE>
+　メスの快楽に蕩けきった顔で
+鹿之助はスネークレディを振り返った。
+<PAUSE>
+//【イベント絵：EV002d　上原鹿之助Ｈ２＿差分３】【時間：夜】
+<EV>chr_0181_2d_r18,NONE
+<VOICE_PLAY>chrsr_0181_2_0031_r18
+<NAME_PLATE>スネークレディ
+「他の男の経験よ！！」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディはそう断言するなり、
+お喋りの間、ずっと止めていたチンポを
+激烈に抜き差しし始めた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chrsk_0181_2_0042_r18
+<NAME_PLATE>鹿之助
+「ンヒィイイイイイイイイイイイイイッ！！」
+<PAUSE>
+<NAME_PLATE>
+　しっとりと馴染んでいたチンポが
+いきなり激しくアナルを穿り出す。
+<PAUSE>
+<NAME_PLATE>
+　一気に一段も二段も跳ね上がった快感に
+鹿之助は為す術もなかった。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0043_r18
+<NAME_PLATE>鹿之助
+「あへっっ！　はへええええっっっ！
+　チンポしゅごいひゅごいっっっ！！
+　ンヒヒィイイイイイイイイイイッ！！」
+<PAUSE>
+<NAME_PLATE>
+　激しく肛門を突かれるままに、
+恥も外聞もない黄色いメス声を発する。
+<PAUSE>
+<NAME_PLATE>
+　鹿之助の一番弱い部分を抉りながら、
+スネークレディが命令する。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0032_r18
+<NAME_PLATE>スネークレディ
+「いいこと！
+　お前は明日から男にアナルを売るの！！
+　ケツ豚娼婦になるのよ！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0044_r18
+<NAME_PLATE>鹿之助
+「あへっっ、はえっっ、ふひええっっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0033_r18
+<NAME_PLATE>スネークレディ
+「どうしたの！　返事！！」
+<PAUSE>
+<NAME_PLATE>
+　ズボズボズボッッ！！！
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0045_r18
+<NAME_PLATE>鹿之助
+「は、はいっっ、なりますっっ！！
+　なりましゅうううううっっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0034_r18
+<NAME_PLATE>スネークレディ
+「“なります”ですって？
+　それは人間の返事よ。
+　ケツ豚は豚らしくブヒブヒ答えなさい！！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助は一瞬も抵抗できなかった。
+<PAUSE>
+<NAME_PLATE>
+　違う、気がついた時には
+口が勝手に豚の鳴き声を発していた。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0046_r18
+<NAME_PLATE>鹿之助
+「ブヒブヒブヒィイイイイイイイイイッ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0035_r18
+<NAME_PLATE>スネークレディ
+「アハハハハハハッッ！！
+　そうよ、それでいいのよ、バンビ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0036_r18
+<NAME_PLATE>スネークレディ
+「毎日沢山のオスに犯されて、
+　立派なケツ豚娼婦になるのよ！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0047_r18
+<NAME_PLATE>鹿之助
+「ぶひいいっ！！　ぶひっっっ！！
+　ぶっひいいいいいいいいいっっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　男としてだけではなく、人として蔑まれ、
+メスと化した豚穴を買われ、犯される。
+<PAUSE>
+<NAME_PLATE>
+　言い知れぬ興奮がぞわぞわと湧き上がる。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0048_r18
+<NAME_PLATE>鹿之助
+「ぶひいいっ、はひっ、ひっ、ぶ、ぶひっ！！
+　ひっっ、はっ、ぶひっ、ひぶっ、ぶっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0037_r18
+<NAME_PLATE>スネークレディ
+「ウフフ、マゾ豚バンビちゃん。
+　想像して興奮してきたのね？」
+<PAUSE>
+<NAME_PLATE>
+　まるで心の中が読めるかのように、
+スネークレディがチンポをケツ奥に
+押し込んでくる。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0049_r18
+<NAME_PLATE>鹿之助
+「ぶっ、ぶひっっ、しゅ、しゅごくっ！
+　興奮ひますうっ……ぶひぶひっ！！
+　ぶひいいいいいいいっっ！！
+<PAUSE>
+<NAME_PLATE>
+　鹿之助は豚声混じりの喘ぎを発しながら、
+尻尾が振れない代わりに、尻を激しく振った。
+<PAUSE>
+<NAME_PLATE>
+　チンポが尻の中でグリングリンと回転し、
+人間失格の悦楽がますます高まっていく。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chrsk_0181_2_0050_r18
+<NAME_PLATE>鹿之助
+「ひあああっ、あああ！！
+　ぶひっ！　あひっっ！！
+　ぶひあひあひぃいいいいいいいいいっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0038_r18
+<NAME_PLATE>スネークレディ
+「その調子その調子。
+　でも、ちょっとアナルが緩んできたわね」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0039_r18
+<NAME_PLATE>スネークレディ
+「ついこないだまで処女だったくせに
+　こんなヤリマン豚アナル、
+　ふうまの坊やに幻滅されて嫌われるわよ」
+<PAUSE>
+<NAME_PLATE>
+　ふうまの名前を出された途端、
+鹿之助はビクンと激しく反応した。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0051_r18
+<NAME_PLATE>鹿之助
+「ぶひっっ！！　やだっっ！！
+　ふうまに嫌われるなんてやだああっっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0040_r18
+<NAME_PLATE>スネークレディ
+「本当はあの坊やに犯されたいんでしょ？」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0052_r18
+<NAME_PLATE>鹿之助
+「そ、そ、そんなこと……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0041_r18
+<NAME_PLATE>スネークレディ
+「彼のチンポに犯されて、
+　彼のメス豚の一人になりたいのよね。
+　認めちゃいなさい」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0053_r18
+<NAME_PLATE>鹿之助
+「で、でもぉ……でもでもぉ……」
+<PAUSE>
+<NAME_PLATE>
+　尻の穴をズボズボと穿られ、
+うまく答えが出せない鹿之助に
+スネークレディが畳みかける。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0042_r18
+<NAME_PLATE>スネークレディ
+「こんな素敵なケツマンコだもの。
+　彼もきっと喜んでくれるわ」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0054_r18
+<NAME_PLATE>鹿之助
+「ほ、ほんとに…？
+　あっああっ……喜んで……くれるかな！？」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0043_r18
+<NAME_PLATE>スネークレディ
+「もちろん。
+　たっぷり可愛がってくれるわよ。
+　メス豚のバンビちゃんを、ウフフ」
+<PAUSE>
+<NAME_PLATE>
+　メス化した鹿之助の心に、
+スネークレディの悪魔の囁きが
+媚薬のようにしみこんでくる。
+<PAUSE>
+<NAME_PLATE>
+　アナルのチンポは今にも射精しそうで、
+メスアクメに向かって高まっていく快感が
+鹿之助を歪んだ願いに追い込んでいく。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0055_r18
+<NAME_PLATE>鹿之助
+「ふうまに、犯されてっっ……
+　メス豚にっ……メス豚にぃい……
+　ああ、いいかも、いいかもぉおっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0056_r18
+<NAME_PLATE>鹿之助
+「うん、それいいっっ！！
+　それすごくいいっっ！！　あっああっ！！
+　イイッ、ふうまのメス豚になりたいっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0044_r18
+<NAME_PLATE>スネークレディ
+「じゃあ、明日からいっぱい男に犯されて、
+　彼が喜ぶ最高の豚ケツマンコにしないとね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0057_r18
+<NAME_PLATE>鹿之助
+「そうするっっ！！　そうするっっ！！
+　ぶひっ、ぶひっ、そうしゅるうううっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0045_r18
+<NAME_PLATE>スネークレディ
+「そうしなさい！！　
+　なら、今どうすればいいか分かるわね！」
+<PAUSE>
+<NAME_PLATE>
+　もちろん、分かっていた。
+<PAUSE>
+<NAME_PLATE>
+　お尻をありったけ浮かせ、
+渾身の力で息んで、チンポを締め上げて、
+オスにおねだりするのだ。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0058_r18
+<NAME_PLATE>鹿之助
+「んんぐぅうぅううっ、
+　出してくだひゃいっっ！！
+　精液ぃいっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0059_r18
+<NAME_PLATE>鹿之助
+「イキましゅからっっ、
+　豚アクメきめましゅからあっ！！
+　精液おねがいしましゅううううううっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0060_r18
+<NAME_PLATE>鹿之助
+「ブヒブヒブヒッブヒィイイイイイイイイイイ
+　イイイイイッッ！！！！」
+<PAUSE>
+
+//【イベント絵：EV002e　上原鹿之助Ｈ２＿差分４】【時間：夜】
+<VOICE_PLAY>chrsr_0181_2_0046_r18
+<NAME_PLATE>スネークレディ
+「１００点満点よ。
+　マゾ豚バンビちゃんっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゴリュウウウウウッ！！！
+<PAUSE>
+<NAME_PLATE>
+　射精直前の膨れあがったチンポが
+豚ケツの一番奥に突き刺さった。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0181_2e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chrsk_0181_2_0061_r18
+<NAME_PLATE>鹿之助
+「んほぉおおおおおおおおおおおおおお
+　おおおっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　甲高いアクメの叫びと同時に、
+ドビュウウッ、ドビュウウッと熱い精液が
+爆発するように腸内に放出された。
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0062_r18
+<NAME_PLATE>鹿之助
+「豚ケチュイグぅうううううううううう
+　うううううっっ！！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ビュビュッ、ビュビュッ、ビュビュッ！！
+<PAUSE>
+<NAME_PLATE>
+　鹿之助の貧相なチンポもいつになく
+激しく射精していた。
+<PAUSE>
+<NAME_PLATE>
+　自らメス豚になろうとしている鹿之助を
+祝福する噴水のようだ。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0047_r18
+<NAME_PLATE>スネークレディ
+「ほらほらもっとイキなさい！！
+　ふうまの坊やにふさわしいケツ豚娼婦に
+　なりたければね！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0063_r18
+<NAME_PLATE>鹿之助
+「ぶひっ、ぶひっっ！！　イキましゅっっ！！
+　ケツ豚しょうふに、なりたいからイクっ、
+　イク、またイクまたイクまたイク―――」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chrsk_0181_2_0064_r18
+<NAME_PLATE>鹿之助
+「イイイッくぅ
+　ううううううううううっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アクメ中の鹿之助の声がさらに跳ね上がり、
+四つん這いの身体がピーンと突っ張った。
+<PAUSE>
+<NAME_PLATE>
+　肛門は処女のころを思い出したかのように
+ギュッと固く窄まり、しかも激しく収縮して、
+フタナリチンポから精液を絞り上げる。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0048_r18
+<NAME_PLATE>スネークレディ
+「いいわいいわっ！！！！
+　その調子よ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ドビュウウッ、ドビュドビュドビュッ！！
+ドッビュウウウウウウッ！！！
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0065_r18
+<NAME_PLATE>鹿之助
+「あっへぇ
+　ええええええええええええっっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0066_r18
+<NAME_PLATE>鹿之助
+「ひああ！！　でてりゅううっっ！
+　精液ぃっ、しゅごいっっ、
+　出てるでてりゅう！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0067_r18
+<NAME_PLATE>鹿之助
+「お腹のなかっ、焼けるぅうっっ！！
+　キモチいいっっ！　豚ケツキモチいいっ！！
+　豚ケツアクメとまらにゃいいいいっ！！」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助は四肢を突っ張らせたまま、
+気も狂わんばかりに髪を振り乱した。
+<PAUSE>
+<NAME_PLATE>
+　その蕩けきったヨガリ顔も
+黄色いアクメの叫びもすでに女そのもの。
+堕落したメスの悦びに満ちていた。
+<PAUSE>
+//【イベント絵：EV002f　上原鹿之助Ｈ２＿差分５】【時間：夜】
+<VOICE_PLAY>chrsr_0181_2_0049_r18
+<NAME_PLATE>スネークレディ
+「可愛いメス豚ちゃんの誕生祝いに
+　お化粧してあげるわ！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0068_r18
+<NAME_PLATE>鹿之助
+「お、おけひょおっ！？
+　なにっ！？　なにいいいっっ！？」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0050_r18
+<NAME_PLATE>スネークレディ
+「これよ！！」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディは射精中のペニスを
+ケツマンコから一気に引き抜いた。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0181_2f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chrsk_0181_2_0069_r18
+<NAME_PLATE>鹿之助
+「あひぃいいいいいいいいいいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　その刺激で鹿之助はまた絶頂する。
+<PAUSE>
+<NAME_PLATE>
+　ガクガクと痙攣する身体に向かって、
+途切れなく糸を引く特濃ザーメンが
+粘ついた音を立てて降り注ぐ。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ビチャビチャッ、ビチャビチャビビャッ！！
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0070_r18
+<NAME_PLATE>鹿之助
+「ひあっっ！！　あああっ！！　これが
+　おけしょうっ！　あああんっ！！　ザーメン
+　かかってるっ、かかってるぅ！！」
+<PAUSE>
+<NAME_PLATE>
+　背中と言わず、顔と言わず、
+メス豚と化した鹿之助の身体が
+べっとりと精液にまみれていく。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0051_r18
+<NAME_PLATE>スネークレディ
+「熱くてキモチいいでしょ？」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0071_r18
+<NAME_PLATE>鹿之助
+「はっ、はいっ！　ぶひっっ！！
+　キモチいい、でしゅうっ！　あっあっ！
+　もっと、もっと精液くださいっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0072_r18
+<NAME_PLATE>鹿之助
+「あったかいザーメンでっっ
+　メス豚の身体っ、あっあっンッ！
+　汚してくだひゃあいいいいいいいっ！！」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0052_r18
+<NAME_PLATE>スネークレディ
+「ウフフフフ」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディが余裕たっぷりに
+射精するその様は飼い主がメス豚に
+マーキングしているようだ。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chrsk_0181_2_0073_r18
+<NAME_PLATE>鹿之助
+「あっあっあああああああんんんんんっっ」
+<PAUSE>
+<NAME_PLATE>
+　鹿之助もまた恍惚に身を震わせて、
+スネークレディの精液を浴び続けている。
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0053_r18
+<NAME_PLATE>スネークレディ
+「さあ、バンビちゃん。
+　明日からここでなにをするか
+　言ってみなさい」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0074_r18
+<NAME_PLATE>鹿之助
+「ひあはぁ、はぁ……ケツ豚娼婦とひてぇ……
+　男の人にぃ……お尻を売りましゅう……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0054_r18
+<NAME_PLATE>スネークレディ
+「ふうまの坊やに自慢できるくらい
+　いっぱい稼がないとね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0075_r18
+<NAME_PLATE>鹿之助
+「ふぁ、ふぁひぃ……
+　わ、私のケツマンコれ
+　いっぱひかしぇぎまひゅ……ぅぅ……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0055_r18
+<NAME_PLATE>スネークレディ
+「どんな変態要求があっても
+　お応えできるように特訓しましょうね」
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0076_r18
+<NAME_PLATE>鹿之助
+「わかり……まひたぁ……
+　よろひく……おねがい……ひまちゅう……
+　すねーくれでぃ……ひゃまぁ……」
+<PAUSE>
+<VOICE_PLAY>chrsr_0181_2_0056_r18
+<NAME_PLATE>スネークレディ
+「まだまだ調教を楽しめそうね。
+　変わり果てたバンビちゃんを見たら
+　あの坊や、どんな顔するかしら、ウフフ」
+<PAUSE>
+<NAME_PLATE>
+　スネークレディがほくそ笑むが、
+<PAUSE>
+<VOICE_PLAY>chrsk_0181_2_0077_r18
+<NAME_PLATE>鹿之助
+「ひあぁあ……あぁ……
+　キモチ……いい……ああ、すごいぃ……」　
+<PAUSE>
+<NAME_PLATE>
+　鹿之助の耳にはもう聞こえていなかった。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

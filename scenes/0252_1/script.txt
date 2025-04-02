@@ -1,0 +1,2100 @@
+//【黒画面】
+//【背景：ヨミハラ＿町の広場＿昼夜共通】【時間：夜】
+//　※対魔忍アサギＺＥＲＯ_NC034aより流用
+//　※立ち絵
+//　　鬼崎きらら立ち絵＿対魔忍衣装
+<BGM_PLAY>bgm509,1000
+<BG>nc122a,IN, 1000
+<ACTOR>0,kr_t001a_r18,CENTER, CENTER, IN, linear, 1000
+<NAME_PLATE>
+　鬼崎きららは決意していた。
+<PAUSE>
+<NAME_PLATE>
+　今日こそ弱点を克服しようと！
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0000_r18
+<NAME_PLATE>きらら
+（やっぱりいつもコイツに責められっぱなしで
+　私が優位に立てないのがいけないのよね）
+<PAUSE>
+<ACTOR>0,kr_t001j_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0001_r18
+<NAME_PLATE>きらら
+（そりゃ初めての時は
+　二人ともすごい酔っ払ってたし）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0002_r18
+<NAME_PLATE>きらら
+（コイツが私のこと
+　処女だ処女だってうるさく言うから、
+　私もちょっと意地張っちゃって）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0003_r18
+<NAME_PLATE>きらら
+（じゃあ処女じゃないって証明してやるわ
+　みたいな感じで、なんかなし崩しに
+　そういう関係になっちゃったけど）
+<PAUSE>
+<ACTOR>0,kr_t001i_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0004_r18
+<NAME_PLATE>きらら
+（まあ、それはそれでいいのよ。
+　別に後悔してるわけじゃないし、
+　私もコイツのこと……嫌いじゃないし）
+<PAUSE>
+<ACTOR>0,kr_t001a_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0005_r18
+<NAME_PLATE>きらら
+（でもエッチのときにだけ
+　コイツに主導権を握られてるのは
+　やっぱり納得できないわ）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0006_r18
+<NAME_PLATE>きらら
+（前にコイツが媚薬にやられたときなんか
+　すごい苦しそうで可哀想だったから
+　ちょっと慰めてあげようとしたら）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0007_r18
+<NAME_PLATE>きらら
+（最初はすまなそうな顔してたくせに、
+　始まったらすごいグイグイ迫ってきて）
+<PAUSE>
+<ACTOR>0,kr_t001g_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0008_r18
+<NAME_PLATE>きらら
+（中に出したら絶対駄目って言ったのに
+　いざとなったら全然聞いてくれないし、
+　十二回も出すし、ほんと最悪）
+<PAUSE>
+<ACTOR>0,kr_t001j_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0009_r18
+<NAME_PLATE>きらら
+（そりゃ私も……すごく良かったけど、
+　それは当然って言うか。
+　それはそれ、これはこれよ！）
+<PAUSE>
+<ACTOR>0,kr_t001a_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0010_r18
+<NAME_PLATE>きらら
+（私は年上でオトナの女なんだから
+　エッチの時だってコイツの優位に
+　たってないと駄目なのよ！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0011_r18
+<NAME_PLATE>きらら
+（だから今日はその弱点を克服するわ！）
+<PAUSE>
+<ACTOR>0,kr_t001g_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0012_r18
+<NAME_PLATE>きらら
+（そのために強引に二人っきりの任務を
+　こなしたんだから！）
+<PAUSE>
+<ACTOR>0,kr_t001a_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0013_r18
+<NAME_PLATE>きらら
+（ううん、むしろこれからが
+　今回の任務の本番よ！）
+<PAUSE>
+<NAME_PLATE>ふうま
+「きらら先輩、なにやってんですか？
+　こんな街中で拳を握りしめて？
+　氷ができてますよ」
+<PAUSE>
+<NAME_PLATE>
+　きららの気などまったく知らずに、
+任務終わりでいつにも増して抜けた顔の
+ふうまが言った。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0014_r18
+<NAME_PLATE>きらら
+「別になんでもないわ。
+　今回敵が大したことなかったから、
+　ちょっと物足りないってだけ」
+<PAUSE>
+<NAME_PLATE>ふうま
+「そういう任務があってもいいですよ。
+　そこの酒場で一休みしてから帰りましょう」
+<PAUSE>
+<NAME_PLATE>
+　そこは二人が初めてエッチをした
+酒場兼宿屋だ。
+<PAUSE>
+<NAME_PLATE>
+　平気な顔をしてきららを
+そこに連れてくるあたりが
+また癪に障る。
+<PAUSE>
+<BGM_STOP>1000
+<ACTOR>0,kr_t001e_r18,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0015_r18
+<NAME_PLATE>きらら
+（一休みなんかじゃすまさないんだから！
+　見てなさいよ！）
+<PAUSE>
+//【背景：ヨミハラ＿酒場＿昼夜共通】【時間：夜】
+//　※対魔忍アサギＺＥＲＯ_NC045aより流用
+<ACTOR_OUT>0,CENTER,linear,1000
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm208,1000
+<BG>chrnc0101a,IN, 1000
+<ACTOR>0,sz_t003a_r18,CENTER, CENTER, IN, linear, 1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chrs_0252_1_0000_r18
+<NAME_PLATE>静流
+「いらっしゃい」
+<PAUSE>
+//　※立ち絵
+//　　静流通常立ち絵＿ホステス衣装
+//　　　　＊対魔忍ユキカゼ２の立ち絵より流用
+<NAME_PLATE>
+　あの一件のあと、
+前の店主にかわってここのオーナーになった
+高坂静流が二人を出迎えた。
+<PAUSE>
+<NAME_PLATE>
+　どう見ても水商売の女だが
+れっきとした五車学園の教師で、
+このヨミハラに潜入している。
+<PAUSE>
+<VOICE_PLAY>chrs_0252_1_0001_r18
+<NAME_PLATE>静流
+「二人ともお疲れさま。
+　これはサービスよ」
+<PAUSE>
+<NAME_PLATE>
+　静流は手慣れた仕草でシェイカーを扱って、
+綺麗な色のカクテルを出してくれた。
+<PAUSE>
+<NAME_PLATE>ふうま
+「あ、どうも」
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<ACTOR>0,kr_t001e,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0252_1_0016_r18
+<NAME_PLATE>きらら
+「ごちそうさまっ」
+<PAUSE>
+//　※立ち絵
+//　　鬼崎きらら立ち絵＿対魔忍衣装
+<ACTOR_OUT>0,CENTER,linear,1000
+<ACTOR>0,sz_t003b,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chrs_0252_1_0002_r18
+<NAME_PLATE>静流
+「アルコールは入ってないわよ。
+　噂によると、ふうま君はお酒が入ると、
+　女性に対してひどく凶暴になるらしいから」
+<PAUSE>
+<NAME_PLATE>ふうま
+「い、いやあ、そんなことは……」
+<PAUSE>
+<ACTOR>0,sz_t003a,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chrs_0252_1_0003_r18
+<NAME_PLATE>静流
+「あるのよね、鬼崎さん？」
+<PAUSE>
+<ACTOR>0,sz_t003a,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>1,kr_t001a,LEFT, LEFT, IN, linear, 1000
+<VOICE_PLAY>chr_0252_1_0017_r18
+<NAME_PLATE>きらら
+「もう別人です」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ま、まいったなあ……ははは」
+<PAUSE>
+<ACTOR_OUT>0,RIGHT,linear,1000
+<ACTOR>1,kr_t001a,LEFT, CENTER, NONE, linear, 1000
+<VOICE_PLAY>chr_0252_1_0018_r18
+<NAME_PLATE>きらら
+（なーにが『ははは』よ。
+　あんたは気づいてないだろうけど、
+　ほんとはあれは私の初体験で）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0019_r18
+<NAME_PLATE>きらら
+（別に恨んじゃいないけど、
+　私、絶対忘れてなんか
+　やらないからねっ！）
+<PAUSE>
+<NAME_PLATE>
+　という思いは顔に出さず、
+さらなる決意を固めつつ、
+サービスのカクテルを口に含む。
+<PAUSE>
+<ACTOR>1,kr_t001e,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chr_0252_1_0020_r18
+<NAME_PLATE>きらら
+「あ……美味しい」
+<PAUSE>
+<NAME_PLATE>ふうま
+「美味いですね。
+　なんてカクテルです？」
+<PAUSE>
+<ACTOR>1,kr_t001e,CENTER, LEFT, NONE, linear, 1000
+<ACTOR>0,sz_t003a,RIGHT, RIGHT, IN, linear, 1000
+<VOICE_PLAY>chrs_0252_1_0004_r18
+<NAME_PLATE>静流
+「シンデレラ。
+　素敵になりたい女性のための
+　おまじないってとこね」
+<PAUSE>
+<NAME_PLATE>
+　静流は意味深なセリフを口にしつつ、
+きららに小さくウィンクをした。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0021_r18
+<NAME_PLATE>きらら
+（準備オッケーってことね。
+　さっすが、静流先生）
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>1,LEFT,linear,1000
+<ACTOR_OUT>0,RIGHT,linear,1000
+</GROUP>
+<NAME_PLATE>
+　そう、彼女はきららの協力者だ。
+<PAUSE>
+<NAME_PLATE>
+　ふうまがここに来ることを見越して、
+色々と頼んでおいたのだ。
+<PAUSE>
+<ACTOR>0,sz_t003b,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chrs_0252_1_0005_r18
+<NAME_PLATE>静流
+「うふふ♪」
+<PAUSE>
+<NAME_PLATE>ふうま
+「今日はなんだか楽しそうですね」
+<PAUSE>
+<VOICE_PLAY>chrs_0252_1_0006_r18
+<NAME_PLATE>静流
+「とっても楽しいわ。
+　理由を知りたい、ふうま君？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「……ええ、知りたいです」
+<PAUSE>
+<BGM_STOP>1000
+<ACTOR>0,sz_t003c,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chrs_0252_1_0007_r18
+<NAME_PLATE>静流
+「じゃあ、部屋に行きましょうか？」
+<PAUSE>
+<NAME_PLATE>
+　静流がふうまの腕をとった。
+<PAUSE>
+<NAME_PLATE>ふうま
+「へ、部屋に？　え？　な、なんで？」
+<PAUSE>
+<NAME_PLATE>
+　ふうまはビクッとして
+途端に声を上擦らせる。
+<PAUSE>
+<ACTOR>0,sz_t003b,CENTER, CENTER, NONE, linear, 0
+<VOICE_PLAY>chrs_0252_1_0008_r18
+<NAME_PLATE>静流
+「鬼崎さんもいいわよね？」
+<PAUSE>
+<ACTOR>0,sz_t003b,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>1,kr_t001e,LEFT, LEFT, IN, linear, 1000
+<VOICE_PLAY>chr_0252_1_0022_r18
+<NAME_PLATE>きらら
+「もちろんです」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>ふうま
+「ええっ！？」
+<PAUSE>
+<NAME_PLATE>
+　きららは戸惑うふうまの
+反対側の腕をギュッと掴んで、
+静流と二人で部屋に連れていった。
+<PAUSE>
+//【黒画面】
+<GROUP>
+<ACTOR_OUT>1,LEFT,linear,1000
+<ACTOR_OUT>0,RIGHT,linear,1000
+</GROUP>
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm310,1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0252_1_0023_r18
+<NAME_PLATE>きらら
+（よ、よし、いくわよ！）
+<PAUSE>
+<NAME_PLATE>
+　ふうまは先に部屋で待っている。
+<PAUSE>
+<NAME_PLATE>
+　諸々の準備も静流がしてくれた。
+<PAUSE>
+<NAME_PLATE>
+　あとはとっておきの
+この悩殺コスに着替えたきららが入って、
+計画を遂行するだけだ。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0024_r18
+<NAME_PLATE>きらら
+（う～～～～～～
+　でもやっぱり恥ずかしいっ！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0025_r18
+<NAME_PLATE>きらら
+（なんか痴的にもほどがあるっていうか
+　馬鹿みたいなかっこだし）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0026_r18
+<NAME_PLATE>きらら
+（こんなのを喜ぶんだから
+　ほんと男ってしょうがない生き物よね！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0027_r18
+<NAME_PLATE>きらら
+（でもここが頑張りどころって
+　静流先生も言ってたし）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0028_r18
+<NAME_PLATE>きらら
+（そうよ、やるのよ！
+　弱点を克服するのよ！
+　頑張れ私！）
+<PAUSE>
+<NAME_PLATE>
+　様々な葛藤をそのへんに放り投げ、
+きららは意を決して扉を開けた。
+<PAUSE>
+//【背景：ヨミハラ＿酒場の宿の一室＿夜】【時間：夜】
+//　※対魔忍紅_NC012aより流用
+<SE_PLAY>se052
+<BG>nc125a,IN, 1000
+<ACTOR>0,chr_t0252a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0252_1_0029_r18
+<NAME_PLATE>きらら
+「待たせたわね、ふうま！！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>ふうま
+「き、きらら先輩！？」
+<PAUSE>
+<NAME_PLATE>
+　ふうまがきららを見上げた。
+<PAUSE>
+<NAME_PLATE>
+　部屋に置かれたソープマットの上で
+仰向けにひっくり返った無様な格好だ。
+<PAUSE>
+<NAME_PLATE>
+　しかも身体を起こすことができない。
+それも静流先生による仕込みだ。
+<PAUSE>
+<NAME_PLATE>ふうま
+「なんでそんな格好を！？
+　それにいきなり静流先生が俺にしびれ薬を。
+　もうなにがなんだか……？？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0030_r18
+<NAME_PLATE>きらら
+「私が頼んだのよ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「は？　なんで！？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0031_r18
+<NAME_PLATE>きらら
+「そんなの決まってるでしょ！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0032_r18
+<NAME_PLATE>きらら
+「あんたを実験台に男を翻弄する術を
+　身に付けてやるのよ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「そんな馬鹿な……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0033_r18
+<NAME_PLATE>きらら
+「そのために静流先生に
+　協力してもらったの。
+　つまりこれは先生のお墨付きよ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「………………」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0034_r18
+<NAME_PLATE>きらら
+「ふふん、驚きのあまり
+　言葉も出ないようね！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ええと……
+　じゃあ、その超エロいバニーは？」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0035_r18
+<NAME_PLATE>きらら
+「なっ！？
+　ちょ、ちょ、超エロいとか
+　そういう言い方しないでよバカ、変態！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「いやしかし……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0036_r18
+<NAME_PLATE>きらら
+「しかしもかかしもないわよ！
+　静流先生がこれ着たら効果的って
+　用意してくれただけよ！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0037_r18
+<NAME_PLATE>きらら
+「あんたがこういうの好きそうとか
+　そういうの全然関係ないんだから。
+　ちょ、調子に乗らないで！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「はあ……そうですか。
+　でもエロくていいですね。
+　似合ってますよ」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0038_r18
+<NAME_PLATE>きらら
+「く～～～～～～～～～～～っ！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0039_r18
+<NAME_PLATE>きらら
+（ああんもう。なんなのコイツ！？
+　動けないのに平気な顔して！
+　どういう神経してるの！？）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0040_r18
+<NAME_PLATE>きらら
+（だ、駄目よ、このままじゃ
+　またコイツのペースに乗せられちゃう！
+　今日は私が責めるんだから！！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0041_r18
+<NAME_PLATE>きらら
+「と、とにかく覚悟しなさい！！」
+<PAUSE>
+<NAME_PLATE>
+　きららは計画を進めようと、
+仰向けのふうまの腹にドスンと
+腰を落とした。
+<PAUSE>
+//【イベント絵：EV001a　【バニー】鬼崎きららＨ１】【時間：夜】
+<ACTOR_OUT>0,CENTER,linear,1000
+<EV>chr_0252_1a_r18,IN, 1000
+<NAME_PLATE>ふうま
+「ぐふっっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0042_r18
+<NAME_PLATE>きらら
+「あ、ごめん。
+　変なとこ当たっちゃった？」
+<PAUSE>
+<NAME_PLATE>
+　低く呻いたふうまに
+きららは反射的に謝ってしまい、
+それじゃ駄目だとハッとする。
+<PAUSE>
+<NAME_PLATE>ふうま
+「だ、大丈夫ですよ……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0043_r18
+<NAME_PLATE>きらら
+「な、ならいいのよ。
+　ていうか今日は私がアンタを
+　痛めつけてやるんだからね！」
+<PAUSE>
+<NAME_PLATE>
+　きららは頑張って意地悪な声を出し、
+ふうまの下着をパッと剥ぎ取った。
+<PAUSE>
+<NAME_PLATE>
+　すると、まだ何もしてないのに、
+ふうまの熱り立った肉根が姿を現した。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0044_r18
+<NAME_PLATE>きらら
+（うわ……すっごい……
+　オチンチン……こんなにガチガチ……）
+<PAUSE>
+<NAME_PLATE>
+　今まで何度となく
+きららを気持ちよくしてくれた物だ。
+<PAUSE>
+<NAME_PLATE>
+　その時の感覚が蘇ってきて、
+お腹の奥がキュンッとはしたなく疼いたが、
+グッと堪えてふうまを嘲笑する。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0045_r18
+<NAME_PLATE>きらら
+「なーにこれ？　ふん！」
+<PAUSE>
+<NAME_PLATE>
+　きららは人差し指の先で
+先っぽをピーンと弾いてやった。
+<PAUSE>
+<NAME_PLATE>ふうま
+「うっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ふうまが切なそうに呻き、
+弾かれた剛直がビクンビクンと脈打つ。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0046_r18
+<NAME_PLATE>きらら
+（あっ、ちょっと痛かった？
+　先っぽは一番敏感って言ってたものね。
+　悪いことしちゃったかな？）
+<PAUSE>
+<NAME_PLATE>
+　と、またちょっと思いかけた
+きららだったが、
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0047_r18
+<NAME_PLATE>きらら
+（ううん、いいのよ！
+　私の初めての時なんか
+　こんな痛みじゃなかったもの！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0048_r18
+<NAME_PLATE>きらら
+（今日の私は責める私。
+　ちょっと痛くするくらいで
+　ちょうどいいの！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0049_r18
+<NAME_PLATE>きらら
+「今日は媚薬も使われてないのに
+　もうこんなにしてるなんて
+　本当に節操がないわね！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「す、すいません……
+　でも、きらら先輩のバニー姿を見たら、
+　どうしても我慢できなくて……」
+<PAUSE>
+<NAME_PLATE>
+　きゅん☆
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0050_r18
+<NAME_PLATE>きらら
+（だ、だからそういうこと言うなっての！）
+<PAUSE>
+<NAME_PLATE>
+　申し訳なさそうなふうまの顔に
+またきららの乙女な部分が刺激されたが、
+なんとか顔に出さずに計画を進める。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0051_r18
+<NAME_PLATE>きらら
+「ふ、ふん。
+　そんな風に褒めたら私が喜んで
+　射精させてもらえると思ったら大間違いよ」
+<PAUSE>
+<NAME_PLATE>ふうま
+「そんなつもりは……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0052_r18
+<NAME_PLATE>きらら
+「問答無用。
+　たっぷり焦らして地獄の苦しみを
+　与えてあげるわ。これを使ってね！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ローション？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0053_r18
+<NAME_PLATE>きらら
+「ふふふん♪」
+<PAUSE>
+<NAME_PLATE>
+　きららは静流先生が用意してくれていた
+ローションをたっぷりと手に絞り出した。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0054_r18
+<NAME_PLATE>きらら
+「うわ……」
+<PAUSE>
+<NAME_PLATE>
+　そんな物を使うのは初めてだ。
+その想像を超えたヌメリ感にちょっと驚く。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0055_r18
+<NAME_PLATE>きらら
+（すっごいヌルヌル……で、素股だっけ？
+　これをつけて挿入させずに擦ればいいって
+　静流先生は言ってたけど……）
+<PAUSE>
+<NAME_PLATE>
+　とびっきりイヤらしい愛液のようなそれを
+自分に付けるのはちょっと抵抗があったが、
+ここまできてやめるわけにはいかない。
+<PAUSE>
+<NAME_PLATE>
+　怖々と後ろに手を伸ばして、
+ローションを割れ目からお尻のあたりに
+ヌルッと擦りつけてみた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0056_r18
+<NAME_PLATE>きらら
+「んっっっ……っ……！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0057_r18
+<NAME_PLATE>きらら
+（ちょっと……これやだ……
+　なんか……変な感じ……）
+<PAUSE>
+<NAME_PLATE>
+　ヒンヤリとしたローションが
+いつの間にか熱くなっていたアソコを刺激して
+思わず甘い声が出そうになる。
+<PAUSE>
+<NAME_PLATE>ふうま
+「きらら先輩、なにやってんですか？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0058_r18
+<NAME_PLATE>きらら
+「じゅ、準備よ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「なんの？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0059_r18
+<NAME_PLATE>きらら
+「ああもう！
+　ゴチャゴチャうるさいわね。
+　素股よ素股！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「素股！？」
+<PAUSE>
+<NAME_PLATE>
+　目を丸くするふうまの忌々しいオチンチンに
+ローションでヌルヌルになったアソコを
+擦りつける。
+<PAUSE>
+<NAME_PLATE>
+　じゅるうっっ☆
+<PAUSE>
+<NAME_PLATE>
+　冷たいローションの上から
+今度は焼けるように熱いおちんちんが
+ものすごい勢いで割れ目を擦った。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0060_r18
+<NAME_PLATE>きらら
+「ひゃんっ―――んんんっ」
+<PAUSE>
+<NAME_PLATE>ふうま
+「おっふううっっ！」
+<PAUSE>
+<NAME_PLATE>
+　きららも思わず声が出てしまったが、
+それ以上にみっともない声を
+ふうまが出したのでなんとか誤魔化す。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0061_r18
+<NAME_PLATE>きらら
+（あ、危ないとこだったわ。
+　そうよね。私のアソコにも触れるんだから
+　油断は禁物よ！！）
+<PAUSE>
+<NAME_PLATE>
+　そこで敏感な割れ目に直接当てるのはやめて
+おちんちんをお尻の間にちょっと挟む感じで、
+腰をゆっくりゆっくり動かしてみる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0062_r18
+<NAME_PLATE>きらら
+「んっ……んっ……んっっ……」
+<PAUSE>
+<NAME_PLATE>ふうま
+「あうっ……くっ……おふうっ……
+　くうっ……うううっっ……」
+<PAUSE>
+<NAME_PLATE>
+　それだけでも効果抜群。
+<PAUSE>
+<NAME_PLATE>
+　オチンチンがお尻の間で
+ジュルッジュルッと滑って、
+ふうまは切なそうに悶え始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0063_r18
+<NAME_PLATE>きらら
+（う、うん……大丈夫。
+　この程度なら……なんとかなるわ！）
+<PAUSE>
+<NAME_PLATE>
+　初めての素股の加減をはかりながら、
+きららはふうまを挑発するように
+オチンチンをさらに刺激してやる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0064_r18
+<NAME_PLATE>きらら
+「ほーらほら、この節操のないオチンチン、
+　私に入れれるものなら入れてみなさい！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「そ……そんな……無理です……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0065_r18
+<NAME_PLATE>きらら
+「あはは、そうよね！！　今のあんたは
+　自分じゃ動けない。おちんちんを
+　ビクビクさせるのが関の山ね！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「きらら……先輩……
+　お、俺……もう……くうっっ……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまが射精を必死に我慢している。
+<PAUSE>
+<NAME_PLATE>
+　その切なそうな顔を見ていると、
+きららのちょっとＳな部分が刺激されて、
+身体がゾクゾクしてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0066_r18
+<NAME_PLATE>きらら
+（うわあ、気持ちイイ！！
+　男を責めるのってこういう感じなのね。
+　これって癖になっちゃいそう！）
+<PAUSE>
+<NAME_PLATE>
+　だけど油断は禁物。
+さっき自分でそう思ったばかりなのに、
+調子に乗ったきららの腰が強くうねった。
+<PAUSE>
+<NAME_PLATE>
+　あるいは自分でも気づかないうちに
+ふうまを欲しがってしまったのか、
+アソコに先っぽがピタッと触れた。
+<PAUSE>
+//【イベント絵：EV001b　【バニー】鬼崎きららＨ１＿差分１】【時間：夜】
+<EV>chr_0252_1b_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0067_r18
+<NAME_PLATE>きらら
+「ああんっっ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「おふううっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　アソコから頭のてっぺんまで
+キューンと突き上げるような強い快感。
+<PAUSE>
+<NAME_PLATE>
+　いままでおちんちんが触れないように、
+わざと割れ目をよけて腰を動かしていたから、
+その刺激もひとしおだ。
+<PAUSE>
+<NAME_PLATE>
+　きららは亀頭が割れ目にくっついた状態、
+というより、おちんちんが入りそうで入らない
+ギリギリのポーズから動けなくなってしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0068_r18
+<NAME_PLATE>きらら
+「ああ……熱い……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0069_r18
+<NAME_PLATE>きらら
+（アソコが広がってる……
+　オチンチンが今にも入りそう……）
+<PAUSE>
+<NAME_PLATE>ふうま
+「き、きらら先輩……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまに下から声をかけられて、
+蕩けそうな気持ちからハッと我に返る。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0070_r18
+<NAME_PLATE>きらら
+「ちょ、ちょっと！
+　なにやってんのよ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「なにって……俺はなにも？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0071_r18
+<NAME_PLATE>きらら
+「あんたのおちんちんの先っぽが
+　私のアソコにぴ、ぴったりくっついてる
+　じゃないの！！」
+<PAUSE>
+<NAME_PLATE>
+　きららがちょっと腰を落とせば、
+もう口を開いたアソコがぱっくりと
+おちんちんを咥えてしまう。
+<PAUSE>
+<NAME_PLATE>ふうま
+「そ、そんなあ……
+　きらら先輩が自分でやったんですよ。
+　その……チンポとオマンコのキス……」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0072_r18
+<NAME_PLATE>きらら
+「んなあっ！？」
+<PAUSE>
+<NAME_PLATE>
+　想像の限度を超えた恥ずかしい言葉に
+頭がカーッと火照る。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0073_r18
+<NAME_PLATE>きらら
+「な、な、なにがチンポとオマンコのキスよ！
+　どこひっくり返せばそんなセリフが
+　出てくるのよ！　バカ！　変態！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「す、すいません……
+　ええと……それで、どうするんですか？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0074_r18
+<NAME_PLATE>きらら
+「ど、どうするって？　なにがよ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「いや、ずっとこのポーズのままって
+　わけにもいかないでしょうし……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0075_r18
+<NAME_PLATE>きらら
+「く～～～～～～～～～～～っっ！！
+　そんなことわかってるわよ！」
+<PAUSE>
+<NAME_PLATE>
+　腰をほんの少し動かしてやれば、
+すぐに今の状態から解放される。
+でもそれができない。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0076_r18
+<NAME_PLATE>きらら
+（だって、こんなにピッタリ
+　くっついちゃってるし……うう）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0077_r18
+<NAME_PLATE>きらら
+「はぁはぁ……ああ……うううっ……」
+<PAUSE>
+<NAME_PLATE>
+　熱く震えるふうまの亀頭を直に感じて、
+きららのアソコがヒクヒクと脈打っている。
+<PAUSE>
+<NAME_PLATE>
+　ふうまでちょっぴり広がった膣口から
+ローションよりもヌルヌルのイヤらしい汁が
+とぷとぷと溢れ出しているのが分かる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0078_r18
+<NAME_PLATE>きらら
+（やだ……私の身体……
+　コイツのこと欲しがってる……
+　ああんダメ……すごく切ない……）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0079_r18
+<NAME_PLATE>きらら
+（もう……静流先生……
+　素股なら大丈夫って言ってたのに、
+　ちっとも大丈夫じゃないじゃない！）
+<PAUSE>
+<NAME_PLATE>ふうま
+「きらら先輩、大丈夫ですか？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0080_r18
+<NAME_PLATE>きらら
+「大丈夫じゃないわよ！
+　大丈夫なわけないでしょ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「え……？」
+<PAUSE>
+<NAME_PLATE>
+　思わず正直に答えてしまい、
+ついでに下から見上げるふうまと
+目と目が合って離せなくなった。
+<PAUSE>
+//【イベント絵：EV001c　【バニー】鬼崎きららＨ１＿差分２】【時間：夜】
+<EV>chr_0252_1c_r18,NONE
+<VOICE_PLAY>chr_0252_1_0081_r18
+<NAME_PLATE>きらら
+「あ……だ、だからあ……」
+<PAUSE>
+<NAME_PLATE>
+　心の奥まで見透かされているようで、
+それが悔しいような嬉しいような、
+<PAUSE>
+<NAME_PLATE>
+　自分でもよく分からない気持ちで
+きららの口が勝手に喋り始める。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0082_r18
+<NAME_PLATE>きらら
+「ねぇ、ふうま…このまま私に入れたい？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ええっ？」
+<PAUSE>
+<NAME_PLATE>
+　自分だとは思えないような
+しおらしい声が出た。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0083_r18
+<NAME_PLATE>きらら
+（やだ、なんて声出してるのよ。
+　ううん、ファイトよ、きらら！
+　ここが頑張りどころよ！！）
+<PAUSE>
+<NAME_PLATE>
+　恥ずかしくて身悶えしそうだが、
+このままなんとなく入れるのはイヤだ。
+それではいつもと同じになってしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0084_r18
+<NAME_PLATE>きらら
+「わ、私に入れたいかって聞いてるのよ。
+　は、早く答えなさいよ、バカ！」
+<PAUSE>
+<NAME_PLATE>
+　などと口では文句を言いつつ、
+なぜか身体は小刻みに動いてしまい、
+先っぽを割れ目でチクチクと刺激している。
+<PAUSE>
+<NAME_PLATE>ふうま
+「うっっ……くっっ……
+　ものすごく入れたいです……
+　もう……我慢できませんっ……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまはしびれ薬で動けないはずの身体を
+精一杯ひくつかせて、１ミリでも深く肉棒を
+きららのアソコに押し付けてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0085_r18
+<NAME_PLATE>きらら
+「んっ……くっ……だ、だったら……
+　も、もうちょっとなんかしなさいよ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「え？　な、なにを？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0086_r18
+<NAME_PLATE>きらら
+「あんた、気づいてる？
+　こ、こういうことする前に
+　大事なことしてないの……」
+<PAUSE>
+<NAME_PLATE>ふうま
+「え？　前戯ですか？
+　それはもう、きらら先輩が十分……」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0087_r18
+<NAME_PLATE>きらら
+「ぶあかあっ！！
+　違うわよおっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0088_r18
+<NAME_PLATE>きらら
+（なんなのよ、この鈍感男！！
+　っていうか、別に私は
+　前戯してたわけじゃないわよ！！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0089_r18
+<NAME_PLATE>きらら
+「そ、そうじゃなくて……
+　あの……あれよっ……せ……せ…」
+<PAUSE>
+<NAME_PLATE>ふうま
+「セックス？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0090_r18
+<NAME_PLATE>きらら
+「せっぷんっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　つい自分で答えを言ってしまう。
+<PAUSE>
+<NAME_PLATE>
+　だって、このままでは
+１００年待っても気がつきそうにない。
+<PAUSE>
+<NAME_PLATE>ふうま
+「ああ、キスですか……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0091_r18
+<NAME_PLATE>きらら
+「『ああ』じゃないわよ！　バカ！
+　わたしたちまだ
+　ちゃんとしたことないのよ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「え？　そうでしたっけ？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0092_r18
+<NAME_PLATE>きらら
+「そうよ覚えてないの！
+　最初にしたとき次はちゃんとキスからって
+　言ったのに全然守ってくれないし！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0093_r18
+<NAME_PLATE>きらら
+「あんたいつもダメって言ってるのに
+　ナマで入れてっ！　中で出してっ！
+　ほんとデリカシーがないんだから！」
+<PAUSE>
+<NAME_PLATE>
+　喚いていたらなんだか悲しくなってきて、
+涙がじわっと溢れてきた。
+<PAUSE>
+<NAME_PLATE>
+　それを見た鈍感男は
+急にアタフタと言い訳を始める。
+<PAUSE>
+<NAME_PLATE>ふうま
+「うわっ、す、すいません。
+　別にキスするのを忘れてたわけじゃなくて、
+　その、いざとなると緊張してしまって……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0094_r18
+<NAME_PLATE>きらら
+「なにが緊張よ。
+　ちっとも言い訳になってないわよ。
+　バカ、鈍感、もう死んじゃえ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「そ、そうですね……じゃあ」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0095_r18
+<NAME_PLATE>きらら
+「じゃあ？」
+<PAUSE>
+<NAME_PLATE>
+　きららはふくれっ面でじろっと睨む。
+<PAUSE>
+<NAME_PLATE>ふうま
+「あ、いや、そうじゃなく、ええと、俺、
+　きらら先輩にキスしたいです。ちゃんと
+　キスさせてくださいお願いします！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0096_r18
+<NAME_PLATE>きらら
+「したいの？　そんなに？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「したいです！」
+<PAUSE>
+<NAME_PLATE>
+　ふうまは必死に訴えてくる。
+<PAUSE>
+<NAME_PLATE>
+　相変わらず先っぽでアソコを
+クイクイしてるのは気になるし、
+<PAUSE>
+<NAME_PLATE>
+　射精したい一心という気が
+しないでもないけれど、
+<PAUSE>
+<NAME_PLATE>
+　初めてふうまとのエッチで
+主導権を握っている気がした。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0097_r18
+<NAME_PLATE>きらら
+（一応反省してるみたいだし
+　そろそろ許してあげようかな……）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0098_r18
+<NAME_PLATE>きらら
+「……じゃあ、していいわよ」
+<PAUSE>
+<NAME_PLATE>ふうま
+「あ……はい……」
+<PAUSE>
+<NAME_PLATE>
+　していいと言っているのに、
+ふうまは動こうとはしない。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0099_r18
+<NAME_PLATE>きらら
+「なにしてんのよ。
+　したいんでしょ、私とキス」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ええと、それは山々なんですが
+　しびれ薬で身体が動かないので」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0100_r18
+<NAME_PLATE>きらら
+「あ……」
+<PAUSE>
+<NAME_PLATE>
+　それをすっかり忘れていた。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0101_r18
+<NAME_PLATE>きらら
+（静流先生の作戦って本当にあってるの？
+　なんかいちいちズレてる気がするんだけど、
+　ああもう、しょうがないわね！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0102_r18
+<NAME_PLATE>きらら
+「じゃあ、目とじて」
+<PAUSE>
+<NAME_PLATE>ふうま
+「は、はい……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまは目を閉じた。
+<PAUSE>
+<NAME_PLATE>
+　その仕草にまたキュンとしてしまい、
+きららは自分もゆっくり目を閉じながら、
+ふうまに初めてのキスをした。
+<PAUSE>
+//【イベント絵：EV001d　【バニー】鬼崎きららＨ１＿差分３】【時間：夜】
+<EV>chr_0252_1d_r18,NONE
+<VOICE_PLAY>chr_0252_1_0103_r18
+<NAME_PLATE>きらら
+「ちゅっ」
+<PAUSE>
+<NAME_PLATE>
+　見た目よりずっと柔らかい
+ふうまの男の唇をはっきり感じる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0104_r18
+<NAME_PLATE>きらら
+（うわあ……これって……）
+<PAUSE>
+<NAME_PLATE>
+　触れているのはほんの少しなのに、
+全身でギューッとしがみついているような
+深い深ーい一体感がある。
+<PAUSE>
+<NAME_PLATE>
+　初めてのその感じがとっても嬉しくて、
+何度も何度も唇を押し付けてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0105_r18
+<NAME_PLATE>きらら
+「ちゅっ、ちゅっ、ちゅっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0106_r18
+<NAME_PLATE>きらら
+（私……ふうまとキスしてる……
+　キスしちゃってる……
+　これって……完全に恋人よね……）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0107_r18
+<NAME_PLATE>きらら
+「んっ……んっ……んっんっ……」
+<PAUSE>
+<NAME_PLATE>
+　映画で見たときのように首を振って、
+互いの唇をちょっと深く絡みつかせてみた。
+<PAUSE>
+<NAME_PLATE>
+　二つの唇同士が複雑にくねって、
+溢れ出した唾液がピチャピチャと
+卑猥な音を鳴らす。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0108_r18
+<NAME_PLATE>きらら
+（すっごいエッチな音がしてる……
+　こっちでもセックスしてるみたい
+　キスって気持ちいい……素敵）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0109_r18
+<NAME_PLATE>きらら
+「んっんっ……んんっ……んっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0110_r18
+<NAME_PLATE>きらら
+（こんな気持ちイイこと、
+　なんでもっと早くしてくれなかったのよ。
+　ほんとバカなんだからぁ……）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0111_r18
+<NAME_PLATE>きらら
+「んっちゅっ……んちゅっ……んんっ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「き、きらら先輩の唇……
+　すごく……柔らかいですね」
+<PAUSE>
+<NAME_PLATE>
+　ふうまがモニョモニョと唇を
+動かして言った。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0112_r18
+<NAME_PLATE>きらら
+「ンッッ！」
+<PAUSE>
+<NAME_PLATE>
+　キスしながらの甘い言葉。
+それも褒め言葉に背筋がゾワゾワした。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0113_r18
+<NAME_PLATE>きらら
+「よ、余計なこと言わないの！
+　あんたは黙ってじっとしてなさい！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「は、はい……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまがピタッと口を閉じる。
+今やきららのなすがままだ。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0114_r18
+<NAME_PLATE>きらら
+（うふ、なんか嬉しい。
+　それと、ちょっと可愛い♪）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0115_r18
+<NAME_PLATE>きらら
+「ちゅっ……んっちゅ……んっんっ……
+　ねえ……舌……出して……」
+<PAUSE>
+<NAME_PLATE>ふうま
+「し、した……？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0116_r18
+<NAME_PLATE>きらら
+「ほらあ、早くぅ……
+　んあ……れろっ……れろれろ♪」
+<PAUSE>
+<NAME_PLATE>ふうま
+「れろれろっ……
+　れろっちゅっれろぉ～～～っ」
+<PAUSE>
+<NAME_PLATE>
+　きららの言いつけ通りに
+ふうまが舌だけをヌルヌルと動かし始めた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0117_r18
+<NAME_PLATE>きらら
+「んんっ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0118_r18
+<NAME_PLATE>きらら
+（えっ？　ちょっ、うそっ！？
+　なにこれっ！？　ええええっ！？）
+<PAUSE>
+<NAME_PLATE>
+　失敗したと思う暇もなかった。
+<PAUSE>
+<NAME_PLATE>
+　見よう見まねのきららとは比べ物にならない
+艶めかしくてイヤらしくて気持ちいい動きに
+身体が一瞬で蕩けそうになる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0119_r18
+<NAME_PLATE>きらら
+（やだ……コイツ……すごい上手……
+　なんでキスだけでこんなに気持ちよく……
+　頭がボーッとしてきちゃう……）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0120_r18
+<NAME_PLATE>きらら
+「ああんっ、んっ……ああっんっ……
+　んぱっ、ちゅぱ……んぉあ、れろちゅぱ……
+　ふうまぁ……あん、ふうまぁ……」
+<PAUSE>
+<NAME_PLATE>
+　初めてのキスの喜びと、
+ふうまのテクニックのすごさに、
+つい腰がふにゃっと砕けてしまい―――
+<PAUSE>
+<NAME_PLATE>
+　ずるううううっっ！！
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0121_r18
+<NAME_PLATE>きらら
+（あっ、ダメッッ！！
+　おちんちん入っちゃうっ！！）
+<PAUSE>
+<NAME_PLATE>
+　と気づいた時にはもう遅かった。
+きららの身体の方がそれを迎え入れていた。
+<PAUSE>
+//【イベント絵：EV001e　【バニー】鬼崎きららＨ１＿差分４】【時間：夜】
+<EV>chr_0252_1e_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0122_r18
+<NAME_PLATE>きらら
+「ああああああんんんんっ！！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「くううっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　裏返った二人の声が絡み合う。
+<PAUSE>
+<NAME_PLATE>
+　きららのアソコがぱっくりと広がって、
+ふうまのオチンチンを咥えてしまっている。
+<PAUSE>
+<NAME_PLATE>
+　まだほんの先っぽだけだが、
+焼けるように熱いふうまの雄肉と
+そのビクンビクンという震えが伝わってくる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0123_r18
+<NAME_PLATE>きらら
+「はあ……あぁ……んっ……あぁ……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0124_r18
+<NAME_PLATE>きらら
+（結局……入っちゃった……
+　でも……やっぱりこれ……気持ちイイ……）
+<PAUSE>
+<NAME_PLATE>ふうま
+「うっ……くうっ……
+　入っちゃいましたね……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまが切なそうに呻きながら、
+その肉棒をわざとか無意識か知らないが
+グッグッと強く脈打たせる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0125_r18
+<NAME_PLATE>きらら
+「は、入っちゃった……じゃ……
+　ない……わよぉ……ばかぁ……」
+<PAUSE>
+<NAME_PLATE>
+　真ん丸に広がった肉ビラが内側から
+ギュッギュッと押し上げられて
+声がどうしようもなく震えてしまう。
+<PAUSE>
+<NAME_PLATE>ふうま
+「す、すいません……でもっ……くっ……
+　まだ……先っぽだけですから……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0126_r18
+<NAME_PLATE>きらら
+「ぜ、全然……フォローになって……
+　ない……わよぉ……はぁ、はぁ……」
+<PAUSE>
+<NAME_PLATE>
+　どんどん息が荒くなる。
+どんどんオチンチンが欲しくなる。
+<PAUSE>
+もっと深く、もっと奥まで入れたい。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0127_r18
+<NAME_PLATE>きらら
+「はぁはぁはぁ……ああ……はぁっ……」
+<PAUSE>
+<NAME_PLATE>
+　先っぽだけなんて耐えられない。
+ふうまのこと全部感じたい。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0128_r18
+<NAME_PLATE>きらら
+（だけど、すぐそうしたら、
+　コイツ絶対調子に乗るわ！
+　今日は私がリードするんだから！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0129_r18
+<NAME_PLATE>きらら
+「で……ど、どうしたいのこのあと？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「こ、このあと？」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0130_r18
+<NAME_PLATE>きらら
+「わたしにどうして欲しいか、
+　ちゃ、ちゃんと言いなさい……
+　でないと、やってあげないんだから！」
+<PAUSE>
+<NAME_PLATE>
+　それだけ言うのに
+かなりの克己心を必要とした。
+<PAUSE>
+<NAME_PLATE>
+　これ以上は奥に入らないように
+必死に浮かせている腰が実はヒクヒクと
+みっともなく震えている。
+<PAUSE>
+<NAME_PLATE>ふうま
+「ええと……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0131_r18
+<NAME_PLATE>きらら
+「ええとじゃなくて！　おねだり！
+　早くしなさい！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0132_r18
+<NAME_PLATE>きらら
+（早くしないと
+　こっちが限界なのよ！　バカふうま！）
+<PAUSE>
+<NAME_PLATE>ふうま
+「奥まで全部入れてください！」
+<PAUSE>
+<NAME_PLATE>
+　ふうまが真っ赤な顔をして答えた。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0133_r18
+<NAME_PLATE>きらら
+「しょ、しょうがないわね。
+　そ、そんなに言うなら、ふ、ふん。
+　入れてあげるわ、奥まで」
+<PAUSE>
+<NAME_PLATE>ふうま
+「あっ、で、でも！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0134_r18
+<NAME_PLATE>きらら
+「でもなに！？」
+<PAUSE>
+<NAME_PLATE>
+　いそいそと腰を落とそうとしたのを
+急に止められ、きららの声が尖る。
+<PAUSE>
+<NAME_PLATE>ふうま
+「なるべくゆっくりお願いします。
+　もう、結構……限界なんで。
+　先輩さっき中で出したら駄目だって」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0135_r18
+<NAME_PLATE>きらら
+「あ、当たり前でしょ！
+　中出しとかもう絶対許さないんだから！
+　しっかり我慢するのよ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「は、はい！　……ぐっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ふうまは深い挿入に備えて、
+歯を食いしばった。
+<PAUSE>
+<NAME_PLATE>
+　その反動かなにか知らないが、
+先っぽだけ入っているオチンチンが
+またグググッと反り返る。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0136_r18
+<NAME_PLATE>きらら
+「はうっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆっくりどころか早く入れろすぐ入れろと
+訴えかけてくるようなオチンチンのうねりに、
+こっちも我慢ぎりぎりのきららの息が詰まる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0137_r18
+<NAME_PLATE>きらら
+（もう、こいつ！
+　わざと情けないふりしてるんじゃないの？
+　なんでもいいわ、私だってもう限界！！）
+<PAUSE>
+//【イベント絵：EV001f　【バニー】鬼崎きららＨ１＿差分５】【時間：夜】
+<EV>chr_0252_1f_r18,NONE
+<VOICE_PLAY>chr_0252_1_0138_r18
+<NAME_PLATE>きらら
+「じゃ、じゃあ……入れるわよ……んっっ」
+<PAUSE>
+<NAME_PLATE>
+　きららはゆっくりと腰を落としていく。
+<PAUSE>
+<NAME_PLATE>
+　ふうまを射精させないためというより、
+もう自分が感じすぎないようにするためだ。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0139_r18
+<NAME_PLATE>きらら
+「んっんんっ……ああんっ……ぁああ……」
+<PAUSE>
+<NAME_PLATE>
+　熱く火照ったきららの雌肉をかき分けて、
+ズブリ、ズブリと奥に進んでくる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0140_r18
+<NAME_PLATE>きらら
+（ああ……気持ちいい……
+　悔しいけど……やっぱりふうまのこれ
+　気持ちいい……大好き……）
+<PAUSE>
+<NAME_PLATE>
+　きららはふうましか知らない。
+<PAUSE>
+<NAME_PLATE>
+　どう言いつくろうとも、
+彼のおちんちんの感触が
+オマンコに刻み込まれている
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0141_r18
+<NAME_PLATE>きらら
+「あぅんっ……んっ……ああっ……
+　んっ……ふっ……くっ……ああっ……」
+<PAUSE>
+<NAME_PLATE>
+　しかも普段は強引なおちんちんが、
+今日はきららのペースで優しく、だけど力強く
+膣内を埋め尽くしていく。
+<PAUSE>
+<NAME_PLATE>
+　その女の悦びに心が、身体が
+どうしようもなく震えて止まらない。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0142_r18
+<NAME_PLATE>きらら
+「はあんっ……んっ……
+　ああっ……うっ……んっ……ああっ……」
+<PAUSE>
+<NAME_PLATE>ふうま
+「おふうっ……くっ……
+　うう……きらら……先輩っ……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまもこれ以上ないくらい切なそうに
+ひくひくと震えている。
+<PAUSE>
+<NAME_PLATE>
+　とろとろの膣肉でたっぷりと包み込んだ
+おちんちんがもう切羽詰った感じで
+脈打っている
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0143_r18
+<NAME_PLATE>きらら
+「ま、まだ……我慢するのよ……
+　そんなすぐ……出したら……駄目だから、
+　ゆ、許さないんだからぁ……はあん」
+<PAUSE>
+<NAME_PLATE>ふうま
+「は、はい……くっっ……
+　きらら先輩のオマンコ……
+　すごく気持ちイイです」
+<PAUSE>
+<NAME_PLATE>
+　ふうまがギュッと抱きしめたくなるような
+可愛い顔できららに告げた。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0144_r18
+<NAME_PLATE>きらら
+「わ、私も……すごく―――
+　あっ、じゃなくて……あたりまえでしょ！
+　私の……なんだからぁ……」
+<PAUSE>
+<NAME_PLATE>ふうま
+「は、はいっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0145_r18
+<NAME_PLATE>きらら
+（でも……すごく嬉しい……
+　やっぱり相性ぴったりなのよね……
+　私とコイツ……）
+<PAUSE>
+<NAME_PLATE>
+　今やふうまのオチンチンは根元まで完全に
+きららの中に埋まっている。
+<PAUSE>
+<NAME_PLATE>
+　恥ずかしいくらいの愛液でトロトロになった
+膣粘膜は剛直を優しく、そして残酷に包み込み
+射精を促すように小刻みに脈打っている。
+<PAUSE>
+<NAME_PLATE>ふうま
+「うっ……くっ……ううっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0146_r18
+<NAME_PLATE>きらら
+「いい？　これから動くわよ……
+　もう駄目ってなったら、ちゃんと言うのよ。
+　わかった？　わかった？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「分かりましたッ！」
+<PAUSE>
+<NAME_PLATE>
+　ふうまはコクコクと頷いた。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0147_r18
+<NAME_PLATE>きらら
+「素直でいいわね……ちゅっ♪」
+<PAUSE>
+<NAME_PLATE>
+　きららはご褒美のキスをしてあげてから、
+腰を静かにスライドさせ始めた。
+<PAUSE>
+<NAME_PLATE>
+　ずるううっ、ずるううっ、ずるううっ！！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0148_r18
+<NAME_PLATE>きらら
+「はぁあああああっっ！
+　あっあっ、あぁああああああっっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　ほんのちょっと動かしただけなのに、
+きららの中でオチンチンが大きく前後する。
+<PAUSE>
+<NAME_PLATE>
+　ぼっこりと膨れあがったカリ首が
+いつも以上に敏感な膣襞をズルズルと擦って、
+愛液が恥ずかしいくらいに噴き出す。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0149_r18
+<NAME_PLATE>きらら
+（う、うそぉっ……！
+　自分で動くのって……
+　こんなに凄いの……？）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0150_r18
+<NAME_PLATE>きらら
+（そっか……自分で動けるってことは……
+　気持ちイイとこ……自分で選んで
+　刺激できるってことだからあ……）
+<PAUSE>
+<NAME_PLATE>
+　そんな意識が頭の片隅を流れていくが、
+初めての自分のペースでの抽送の快感に
+それもすぐ泡のように蕩けてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0151_r18
+<NAME_PLATE>きらら
+「んっあっ……ああんっ、んっっ……！
+　あはあんっ！　んっっ……あああっ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ううっ……くっ、すごいっ……」
+<PAUSE>
+<NAME_PLATE>
+　ふうまの眉間の皺が深くなった。
+射精を必死に堪えているのが分かる。
+<PAUSE>
+<NAME_PLATE>
+　それでいて腰を必死に突き上げ、
+グチュリグチュリと抜き差しされる肉穴を
+肉棒で追いかけようとしている。
+<PAUSE>
+<NAME_PLATE>
+　その一生懸命さがとっても可愛い。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0152_r18
+<NAME_PLATE>きらら
+「はあんっ、ああんっ……そんなにすごい？
+　今日の私……気持ちイイ？　感じる？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ううっ……最高ですっ……
+　先輩のオマンコっ……キュウキュウに
+　絡みついてきて……くうっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0153_r18
+<NAME_PLATE>きらら
+「あん、もう……ばかぁん……
+　そういうこと……言わなくて……
+　いいからあっ……あっああんっ！」
+<PAUSE>
+<NAME_PLATE>
+　恥ずかしがるきららだが、
+卑猥な言葉でふうまに褒められると、
+もうオマンコはキュンキュンに疼いてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0154_r18
+<NAME_PLATE>きらら
+「ならっ、もっと、気持ちよくしてあげる
+　ほら、ほらあっ、ほらああっっ！！
+　ンッンッンッ、ンーーーーーッ！！！」
+<PAUSE>
+<NAME_PLATE>
+　じゅっぼ、じゅっぼ、じゅぼじゅぼっ！！
+<PAUSE>
+<NAME_PLATE>
+　自分で腰を振るのは初めてだが、
+ふうまの抽送のリズムは身体が覚えている。
+<PAUSE>
+<NAME_PLATE>
+　きららは自分では気づかないうちに、
+彼が一番好きな動きで
+剛直を抜き差ししていた。
+<PAUSE>
+<NAME_PLATE>
+　同時にそれはきららが一番感じる
+オチンチンとオマンコのリズムなのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0155_r18
+<NAME_PLATE>きらら
+「はあんっ！　あんっ、ひゃああんっっ！！
+　んっんぅ！！　ああイイ、気持ちいいっ！！
+　すごくいい、いいのぉ！　オマンコいい！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「おっ、おっ、おおおおおおおおっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ふうまの身体がピーンと突っ張った。
+<PAUSE>
+<NAME_PLATE>
+　上下に激しく出し入れされる肉棒が
+今にもはち切れんばかりに膨れあがる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0156_r18
+<NAME_PLATE>きらら
+「イキそう？　もうイキそう？
+　でも、まだイッたら駄目なんだからねっ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「くっ……で、でも……
+　ううっ……き、きらら先輩……
+　お、俺……もうっ……くうっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0157_r18
+<NAME_PLATE>きらら
+「だめっ、私がッ、イッていいって言うまでっ
+　がまんっ、がまんするのよ、いい？
+　わかった？　わかったっ？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「き、きらら……せん……ぱいっ……！！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0158_r18
+<NAME_PLATE>きらら
+「あっああんっ！　はあんんっ！！
+　んはあっ、ああっ、んっ、ああああっ！！
+　あんあんっ、あんあんっあんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　きららのペースがまた上がった。
+<PAUSE>
+<NAME_PLATE>
+　もうふうまを責めてやるというより
+ただ二人で気持ちよくなりたいだけだった。
+<PAUSE>
+//【イベント絵：EV001g　【バニー】鬼崎きららＨ１＿差分６】【時間：夜】
+<NAME_PLATE>ふうま
+「くううっ、きらら先輩ッッ！！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0159_r18
+<NAME_PLATE>きらら
+「ふうまっ、ふうまあっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0252_1g_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　どびゅうっ、どびゅどびゅうううっ！！
+<PAUSE>
+<NAME_PLATE>
+　その瞬間。
+<PAUSE>
+<NAME_PLATE>
+　頭の中が真っ白になった。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0160_r18
+<NAME_PLATE>きらら
+「あっあっあああんんっっっっっっ！！
+　すごいすごい
+　すごおおおおおいいいっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0161_r18
+<NAME_PLATE>きらら
+「ああんっ！　あたってるっっ！！
+　当たってるぅうううっっ！！
+　熱いのどくどく当たって―――え？」
+<PAUSE>
+<NAME_PLATE>
+　蕩けるような絶頂の最中、ふと気づいた。
+<PAUSE>
+<NAME_PLATE>
+　これってふうまが射精してる？
+<PAUSE>
+<NAME_PLATE>
+　もしかして中で出してる？
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0162_r18
+<NAME_PLATE>きらら
+「あっああっ！　うそお！
+　中に射精しちゃったの！？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「くっ……すいませんっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0163_r18
+<NAME_PLATE>きらら
+「すいませんじゃないわよおっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0164_r18
+<NAME_PLATE>きらら
+（は、早くおちんちん抜かなきゃ！
+　早く、早くっ！！）
+<PAUSE>
+<NAME_PLATE>
+　僅かに残った理性がそう訴えかけるが、
+ふうまは射精中、きららもアクメ中、
+できるわけがない。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　どびゅっ、どびゅどびゅどびゅっ！！
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0165_r18
+<NAME_PLATE>きらら
+「えっ？　ああんっ、ちょっとお！
+　どうしよう、ああんっ、どうしようっ！！」
+<PAUSE>
+<NAME_PLATE>
+　最大ペースの腰ふりは全く止まらず、
+膣肉はキュイキュイと激しくうねって、
+肉棒から精液を絞り出している。
+<PAUSE>
+<NAME_PLATE>ふうま
+「ああっ……きらら先輩っ……！」
+<PAUSE>
+<NAME_PLATE>
+　なにより、恍惚としている
+ふうまの顔を見てしまうと、
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0166_r18
+<NAME_PLATE>きらら
+（うう～～～～っっ！！
+　人の気も知らないで！！
+　気持ちよさそうにしてっ！！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0167_r18
+<NAME_PLATE>きらら
+（でも抜いたらガッカリするわよね。
+　それも可哀想だし！　私も無理だし！
+　ああんもう！　ほんとにコイツはっ！）
+<PAUSE>
+//【イベント絵：EV001h　【バニー】鬼崎きららＨ１＿差分７】【時間：夜】
+<EV>chr_0252_1h_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0252_1_0168_r18
+<NAME_PLATE>きらら
+「もうっ！　もうっっ！！
+　入れていいとは言ったけど！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0169_r18
+<NAME_PLATE>きらら
+「中出ししていいとは
+　言ってないんだからねっ！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「す、すいませんっっ！！
+　先輩の中ッ、気持ちよすぎてっっ！！
+　どうしても我慢できなくてっ！！」
+<PAUSE>
+<NAME_PLATE>
+　謝る言葉も途切れ途切れだ。
+<PAUSE>
+<NAME_PLATE>
+　なにしろその合間も
+おちんちんはドックンドックンと
+絶え間なく射精し続けているのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0170_r18
+<NAME_PLATE>きらら
+「はぁっ……！
+　結局こうなっちゃうんだからっ
+　バカふうまっ……！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0171_r18
+<NAME_PLATE>きらら
+「わ、私だって、
+　イッてる最中だったのに
+　もう興醒めでしょっっ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「すいませんっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0172_r18
+<NAME_PLATE>きらら
+「それはもういいからっ！！
+　私があんたをイカせたんだからっ
+　もっと私をイカせなさいよバカあっ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「くっっ、は、はいっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ふうまがグイッと突き上げてきた。
+<PAUSE>
+<NAME_PLATE>
+　まだ激しい射精中のおちんちんが
+膣奥にドビュドビュずずーんと
+ぶつかってきた。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0252_1_0173_r18
+<NAME_PLATE>きらら
+「ひゃあああああああんんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　きららの嬌声がきゅんと裏返った。
+<PAUSE>
+<NAME_PLATE>
+　今のドタバタで引きかけたアクメの波が
+再び大きく跳ね上がる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0174_r18
+<NAME_PLATE>きらら
+「あああんっ！！　そう、そうよおっ！
+　ああそこっ！　そこそこおおおおっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0175_r18
+<NAME_PLATE>きらら
+「そこに当ててっっ！！　そこに射精してっ！
+　そこにザーメンどくどくぶつけてえっ！！
+　オチンチンもぶつけてええっ！！」
+<PAUSE>
+<NAME_PLATE>ふうま
+「先輩ッ、センパイッッ！！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ズズズンッ！！　どびゅどびゅっっ！！
+ズンズンッッ！　どびゅうううっ！！
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0176_r18
+<NAME_PLATE>きらら
+「ひああっッ！！　イイッすごいっ！！
+　ああイクッ、またイクっ、ちゃんとイクっ！
+　イクイクイクッ～～～～～ッ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0252_1_0177_r18
+<NAME_PLATE>きらら
+「イイッくくうううううううううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　きららの絶叫がまた響きわたった。
+<PAUSE>
+<NAME_PLATE>
+　結局、全ての射精を
+膣内で受け止める覚悟を決めた
+心からの中出しアクメだった。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0178_r18
+<NAME_PLATE>きらら
+「ああん、もっと、もっとぉおお！！」
+<PAUSE>
+<NAME_PLATE>
+　きららは射精が終わるまで腰を密着させ、
+甘えるように膣内射精を楽しむのだった。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0179_r18
+<NAME_PLATE>きらら
+（なんかまたこうなっちゃったけど……私が
+　ふうまをイカせたんだし……いいわよね。
+　それにやっぱりこれ……気持ちイイ……）
+<PAUSE>
+//【イベント絵：EV001i　【バニー】鬼崎きららＨ１＿差分８】【時間：夜】
+<EV>chr_0252_1i_r18,NONE
+<VOICE_PLAY>chr_0252_1_0180_r18
+<NAME_PLATE>きらら
+「んっ、んんん～～～～～～～～、あぁあん」
+<PAUSE>
+<NAME_PLATE>
+　長い長い射精が終わり、
+きららはゆっくりと腰を引いていった。
+<PAUSE>
+<NAME_PLATE>
+　結局、一滴残らずもらってしまった。
+絶頂直後のとろっとろの膣内から
+大量の白濁液が溢れてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0181_r18
+<NAME_PLATE>きらら
+「はぁ……はぁ……
+　またナマで、こんなに中に出してぇ……☆」
+<PAUSE>
+<NAME_PLATE>
+　きららはふうまに文句を言ったが、
+自分じゃないような声になっている。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0182_r18
+<NAME_PLATE>きらら
+（ちょっとダメダメ！
+　こんなみっともない声出したら
+　またコイツが調子に乗るわ！）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0183_r18
+<NAME_PLATE>きらら
+「んんっ……ゴホン。
+　いい？　今日はまた膣内で許しちゃったけど
+　ほんとは怒ってるんだからね」
+<PAUSE>
+<NAME_PLATE>ふうま
+「はい、反省してます」
+<PAUSE>
+<NAME_PLATE>
+　たっぷり出してスッキリ顔のふうまが
+テカテカした顔で言う。
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0184_r18
+<NAME_PLATE>きらら
+「なんか嘘くさい」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ほ、本当ですよ」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0185_r18
+<NAME_PLATE>きらら
+「どう反省してるの？」
+<PAUSE>
+<NAME_PLATE>ふうま
+「ええと、今度はちゃんと最後まで我慢して、
+　きらら先輩の許可を得てから中出しします」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0186_r18
+<NAME_PLATE>きらら
+「は～～～～～～～～～～～。
+　まあ、いいわ。私も気持ちよかったし」
+<PAUSE>
+<NAME_PLATE>ふうま
+「よかった。
+　やっぱり二人で一緒にイッた方が
+　いいですものね、きらら先輩」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0187_r18
+<NAME_PLATE>きらら
+「ま、まあね……。
+　それだけは褒めてあげる……」
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0188_r18
+<NAME_PLATE>きらら
+（あーあ、
+　なんかまたズルズルって感じだけど、
+　でも今日は私がふうまをイカせたんだし）
+<PAUSE>
+<VOICE_PLAY>chr_0252_1_0189_r18
+<NAME_PLATE>きらら
+（うん、それで満足しなきゃ。
+　いくらエッチでリードできても
+　自分が気持ちよくなきゃ意味ないものね）
+<PAUSE>
+<NAME_PLATE>
+　とにもかくにも勝利の満足感とともに
+余韻に浸るきららだった。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

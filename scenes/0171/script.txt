@@ -1,0 +1,1401 @@
+//■R-ev001a：蓮魔セルフ目隠しＭ字開脚ディルドオナニー
+//【背景は昼間の五車学園教室】
+<BG>nc079a,IN, 1000
+<GROUP>
+<ACTOR>0,chr_t0172a_r18,RIGHT, RIGHT, IN, linear, 1000
+<ACTOR>1,chr_t0171a_r18,LEFT, LEFT, IN, linear, 1000
+</GROUP>
+<VOICE_PLAY>chrt_0171_0000_r18
+<NAME_PLATE>巴
+「来月は、毎年恒例の強化合宿ですね」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0000_r18
+<NAME_PLATE>蓮魔
+「ああ、そうだな」
+<PAUSE>
+<NAME_PLATE>
+　放課後の人気ない教室。
+<PAUSE>
+<NAME_PLATE>
+　遠くにグラウンドで、
+鍛錬に勤しむ生徒達の声を聞きながら
+巴と蓮魔は穏やかに話していた。
+<PAUSE>
+<NAME_PLATE>
+　一聞すると、二人の会話は
+優等生と教師が、合宿について
+話し合っているように聞こえる。
+<PAUSE>
+<NAME_PLATE>
+　だが、巴の発言で
+場の雰囲気は一変した。
+<PAUSE>
+<BGM_PLAY>bgm310,1000
+<VOICE_PLAY>chrt_0171_0001_r18
+<NAME_PLATE>巴
+「去年の合宿の最終日に、
+　先生と初めて結ばれたこと……
+　今でも夢みたいです……」
+<PAUSE>
+<NAME_PLATE>
+　生徒としてあるまじき発言。
+<PAUSE>
+<NAME_PLATE>
+　しかしながら教師である蓮魔の方も
+平然としてそれを聞いている。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0002_r18
+<NAME_PLATE>巴
+「あの夜の事は私にとって全く色褪せず……
+　昨日のことのように思い出せる。
+　とても素敵な夜だった……」
+<PAUSE>
+<NAME_PLATE>
+　巴はうっとりと瞳を潤ませて、
+熱い吐息を漏らした。
+<PAUSE>
+<NAME_PLATE>
+　その様子を見て、蓮魔はクスリと笑う。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0001_r18
+<NAME_PLATE>蓮魔
+「……それにしても
+　あの夜からこの一年で
+　お前がここまで変態の淫乱になるとはなぁ」
+<PAUSE>
+<NAME_PLATE>
+　蓮魔はねっとりと欲情に塗れた視線で
+巴を上から下まで舐めるように見つめる。
+<PAUSE>
+<NAME_PLATE>
+　その淫猥な視線は、教師が
+生徒に向けるべきものでは決してない。
+<PAUSE>
+<NAME_PLATE>
+　しかし巴は
+嫌悪の感情等一切見せずに微笑む。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0003_b_r18
+<NAME_PLATE>巴
+「それはこっちのセリフです。
+　まさか先生があんなにエッチで変態だなんて
+　思いもしませんでした」
+<PAUSE>
+<NAME_PLATE>
+　悪戯っぽく首を傾げる巴に、
+蓮魔は『ハハハッ』と大きく笑う。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0002_r18
+<NAME_PLATE>蓮魔
+「あの頃は互いに
+　性欲旺盛なフタナリではなかったと
+　いうのになぁ……」
+<PAUSE>
+<NAME_PLATE>
+　蓮魔は思い出に浸るように、
+巴に、どこか懐かしい視線を向けた。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0003_r18
+<NAME_PLATE>蓮魔
+「……お前のこと、一目見た時から……
+　素質があると感じていたんだ。
+　だから、誘った……」
+<PAUSE>
+<NAME_PLATE>
+　蓮魔の言葉に
+ゾクリと身体を震わせながら、
+巴はあの夜のことを思い出す。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0004_r18
+<NAME_PLATE>巴
+（そう、全ては……一年前のあの日。
+　私が蓮魔先生に呼び出された、
+　強化合宿の最終日の夜から始まった――）
+<PAUSE>
+//【黒画面】
+<GROUP>
+<ACTOR_OUT>1,LEFT,linear,1000
+<ACTOR_OUT>0,RIGHT,linear,1000
+</GROUP>
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　……
+<PAUSE>
+<VOICE_PLAY>chr_0171_0003_01_r18
+<NAME_PLATE>？？？
+「んおぉおおおぉおぉ！　おほぉおぉぉぉ！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0005_r18
+<NAME_PLATE>巴
+「……んぅ？」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0003_02_r18
+<NAME_PLATE>？？？
+「んぎいいいぃいぃ！　おひぃっ！
+　おひぃいいぃ！」
+<PAUSE>
+<NAME_PLATE>
+　耳に、得も言えぬ音が入り込んで
+私は目を覚ました。
+どうやら眠ってしまっていたらしい。
+<PAUSE>
+<NAME_PLATE>
+　私はぼんやりした頭を軽く振り
+目をこすりながら起こす。
+<PAUSE>
+<NAME_PLATE>
+　そして私は、音の方向を振り向いた。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0006_r18
+<NAME_PLATE>巴
+「ひ……っ！」
+<PAUSE>
+<NAME_PLATE>
+　目の前に広がる光景に
+私は息を呑んで絶句した。
+<PAUSE>
+//【R-ev001a　蓮魔セルフ目隠しＭ字開脚ディルドオナニー】
+<BGM_PLAY>bgm311,1000
+<EV>chr_0171a_r18,IN, 1000
+<VOICE_PLAY>chrt_0171_0007_r18
+<NAME_PLATE>巴
+（こ、これは――夢？）
+<PAUSE>
+<NAME_PLATE>
+　私の視界いっぱいに広がるのは、夢……
+いや、悪夢の続きなのではと思う程
+現実とは思えないあまりに卑猥な光景だった。
+<PAUSE>
+<NAME_PLATE>
+　ジュポォオオオォォ！　ズポォオオォオォ！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0171_0004_r18
+<NAME_PLATE>蓮魔
+「あぁあぁぁ、チンポ入れるなぁ……！
+　もう射精……ダメェ！　んぐうぅうぅ！
+　け、ケツにまでぇ……んごおおおぉおぉ！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0008_r18
+<NAME_PLATE>巴
+（蓮魔先生……！？）
+<PAUSE>
+<NAME_PLATE>
+　蓮魔先生が、ベッドの上でオナニーに
+興じている。それは指先でそっと秘所を
+撫でて、などそんな生易しいものではない。
+<PAUSE>
+<NAME_PLATE>
+　濡れてぱっくりひらいたオマンコに、
+極太のディルドーを突き入れ、それを掴んで
+激しく動かすことで膣内を掻き回している。
+<PAUSE>
+<NAME_PLATE>
+　それだけではない。先生のお尻の穴には
+アナルパールが挿入されている。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0009_r18
+<NAME_PLATE>巴
+（う、嘘でしょう……？
+　な、何が起こって……）
+<PAUSE>
+<NAME_PLATE>
+　呆然とする私の前で、先生は激しく喘ぐ。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0005_r18
+<NAME_PLATE>蓮魔
+「んっごぉおぉぉおぉ！　ケツが！
+　ケツがぁ！　……ま、マンコぉおおぉぉ！
+　マンコが壊れるぅううぅうぅ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0006_r18
+<NAME_PLATE>蓮魔
+「んひっ！　んひぃいいぃ！
+　げ、ゲスなオーク共め！　んぼぉおぉぉ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0007_r18
+<NAME_PLATE>蓮魔
+「お……お前らなんかの……
+　チンポ専用便器になるくらいなら……殺せ！
+　殺せぇええぇぇ！　んおおぉおぉおぉ！」
+<PAUSE>
+<NAME_PLATE>
+　グジュルゥゥ……ジュポォォ！
+ジュポォォオ！　ジュボォオオォォオォ！
+<PAUSE>
+<NAME_PLATE>
+　オークへの抵抗の言葉を叫びながら、
+先生のディルドーを動かす手は止まらない。
+<PAUSE>
+<NAME_PLATE>
+　先生の目隠しをした豊満な肢体が
+派手にくねる様子に視線を奪われたまま、
+私は目覚めるまでのことを思い出していく。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0010_r18
+<NAME_PLATE>巴
+（確か……蓮魔先生に
+　「後で部屋に来い」と言われて……）
+<PAUSE>
+<VOICE_PLAY>chr_0171_0008_r18
+<NAME_PLATE>蓮魔
+「んぎいいいぃいぃぃ！　オークチンポめぇ！
+　私をアクメさせる気かぁ！　そんなことは
+　……んっほぉおおぉおぉおぉぉ！」
+<PAUSE>
+<NAME_PLATE>
+　目の前の痴態に気を取られながらも
+私は必死で記憶を辿る。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0011_r18
+<NAME_PLATE>巴
+（先生の部屋に呼び出された私は……そうだ。
+　怒られるんじゃないかってドキドキしてた。
+　でも、そんなことなくて……）
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0012_r18
+<NAME_PLATE>巴
+（むしろ、合宿中の態度や成績を褒められた。
+　普段、生徒を褒める事なんてない先生に
+　褒められて……）
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0013_r18
+<NAME_PLATE>巴
+（憧れてた先生に褒められて
+　本当に、本当に嬉しくて……）
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0014_r18
+<NAME_PLATE>巴
+（そして
+　部屋に先生と二人きりって状況に、
+　とても緊張して喉がカラカラで……）
+<PAUSE>
+<NAME_PLATE>
+　ゴクリ……
+<PAUSE>
+<NAME_PLATE>
+　私は口の中の生唾を飲み込む。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0015_r18
+<NAME_PLATE>巴
+（だから私は……
+　先生に淹れて頂いたお茶を、
+　一気に飲んで……）
+<PAUSE>
+<NAME_PLATE>
+　――それからの意識がまるでない。
+<PAUSE>
+<NAME_PLATE>
+　目覚める前の記憶を
+思い出している間にも、
+先生の自慰は止まらない。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0009_r18
+<NAME_PLATE>蓮魔
+「んおぉおぉ！　オークチンポ太すぎるぅ♪
+　バッキバキの血管が、堪んないぃいぃぃ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0010_r18
+<NAME_PLATE>蓮魔
+「おおおぉぉおぉん！　うほぉおぉお！
+　マンコがぁああぁあぁ！　ぐふぅうぅ！
+　マンコ……開きっぱなしになるぅううぅ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0011_r18
+<NAME_PLATE>蓮魔
+「ま、マン汁垂れっぱなしの……
+　ゆるゆるマンコになるぅううぅぅ！
+　くっはぁぁああぁぁ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0012_r18
+<NAME_PLATE>蓮魔
+「抜いてぇ！　……抜いてくれぇえぇ！　こ、
+　このままじゃ……オークチンポじゃなきゃ
+　イケないガバガバマンコになるぅうぅう！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0013_r18
+<NAME_PLATE>蓮魔
+「教師なのにぃぃ！　私は教師なのにぃいぃ！
+　生徒の目の前でオークチンポにレイプされて
+　ザーメン便器にされてしまうなんてぇえ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0014_r18
+<NAME_PLATE>蓮魔
+「ああぁぁあぁ！　皆ぁ、見ないでくれぇ！
+　私がザーメン排泄されている姿を見るなぁ！
+　憐れみと軽蔑の視線を向けるなぁああぁ！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0016_r18
+<NAME_PLATE>巴
+（先、生……）
+<PAUSE>
+<NAME_PLATE>
+とめどなく上がる嬌声の内容から、先生が
+生徒達である自分達の前でオークに敗北し、
+レイプされる妄想で自慰をしていると分かる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0017_r18
+<NAME_PLATE>巴
+（しかも……そのシチュエーションの為に、
+　生徒である私にわざわざ薬を盛って……？）
+<PAUSE>
+<NAME_PLATE>
+　私は信じられなかった。
+<PAUSE>
+<NAME_PLATE>
+　憧れ、尊敬していた先生が、
+私を利用してまで、マゾ妄想に浸りながら
+快楽を貪る、変態オナニーを楽しんでいる。
+<PAUSE>
+<NAME_PLATE>
+　股間から愛液をだらだら溢れさせて
+卑猥な言葉をわめき散らしながら
+だらしなく下品な姿を晒す先生。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0018_r18
+<NAME_PLATE>巴
+（先生がこんな…………
+　こんな、変態だったなんて……）
+<PAUSE>
+<NAME_PLATE>
+　私の全身は震え
+心臓が大きく高鳴っていた。
+<PAUSE>
+<NAME_PLATE>
+　私の胸に
+色々な感情が渦巻いて流れていく。
+<PAUSE>
+<NAME_PLATE>
+　驚愕。動揺。嫌悪。拒否。
+不快。高揚。軽蔑……。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0019_r18
+<NAME_PLATE>巴
+（……素敵）
+<PAUSE>
+<NAME_PLATE>
+　しかし、胸に最後に残った感情は
+ときめきであった……。
+<PAUSE>
+//【R-ev001b　蓮魔セルフ目隠しＭ字開脚ディルドオナニー＿激しくなる】
+<NAME_PLATE>
+　私は自分の本心を自覚し
+改めて先生の、恥ずかしく卑しい姿に
+視線を向ける。
+<PAUSE>
+<EV>chr_0171b_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0171_0015_r18
+<NAME_PLATE>蓮魔
+「んおおぅうぅ！
+　おぅうぅ！　おおぉおぉ！」
+<PAUSE>
+<NAME_PLATE>
+　喘ぎというよりも咆哮に近い声を上げて
+ディルドーを使って膣をいじめる先生に、
+私は興奮して背筋がゾクゾクした。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0016_r18
+<NAME_PLATE>蓮魔
+「く……黒田……っ」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0020_r18
+<NAME_PLATE>巴
+「ぇ……？」
+<PAUSE>
+<NAME_PLATE>
+　名前を呼ばれて反射的に返事をしそうになり
+私は慌てて口を押える。
+<PAUSE>
+<NAME_PLATE>
+　私は心臓を高鳴らせながら、
+先生の濡れた唇を見つめ、次の言葉を待つ
+<PAUSE>。
+<VOICE_PLAY>chr_0171_0017_r18
+<NAME_PLATE>蓮魔
+「黒田……み、見ないでくれ……！
+　私の敗北の姿を……みっともなく
+　恥ずかしい姿を見ないでくれぇ！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0021_r18
+<NAME_PLATE>巴
+（先生……。
+　名前を……私の名前を、呼んでくれた……）
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0022_r18
+<NAME_PLATE>巴
+（じゃあ、私は……私は、今、
+　先生の変態妄想の中にいるんですね……！）
+<PAUSE>
+<VOICE_PLAY>chr_0171_0018_r18
+<NAME_PLATE>蓮魔
+「黒田っ！　お願いだ、私はこれ以上は……
+　先生で、いさせてくれ……。
+　尊敬される存在で、いさせてくれぇえぇ！」
+<PAUSE>
+<NAME_PLATE>
+　私は歯を食いしばって声を殺す。
+<PAUSE>
+<NAME_PLATE>
+　先生が私の事を考えてくれている、
+そんな至福の時間を
+終わらせるわけにはいかない。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0023_r18
+<NAME_PLATE>巴
+（先生……見せて下さい……）
+<PAUSE>
+<NAME_PLATE>
+　私は息を殺し、歓喜に震えながら強く願う。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0024_r18
+<NAME_PLATE>巴
+（先生、もっともっとです……！
+　先生がオークチンポの奴隷になるところ
+　見せてぇ……！）
+<PAUSE>
+<NAME_PLATE>
+　ジュッポ！　ジュッポ！　ジュポォォォォ！
+<PAUSE>
+<NAME_PLATE>
+　私の期待が届いたかのように
+先生のディルドーの動きは激しくなり
+愛液が溢れだす。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0019_r18
+<NAME_PLATE>蓮魔
+「んごおおおぉおぉ！　マンコ抉れるぅうぅ！
+　オークチンポで、ぶっ壊れマンコになるぅ！
+　見るなぁ！　黒田！　見るなぁぁ！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0025_r18
+<NAME_PLATE>巴
+（あぁ、先生……！
+　ち、乳首が……触ってもいないのに
+　あんなに勃ち上がって……！）
+<PAUSE>
+<NAME_PLATE>
+　濃く色付いて勃起した乳首を見て、
+先生がどれだけ快感に溺れているか分かる。
+<PAUSE>
+<NAME_PLATE>
+　私は無意識に
+自分の股間に手を伸ばしていた。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0026_r18
+<NAME_PLATE>巴
+「ぁ……」
+<PAUSE>
+<NAME_PLATE>
+　ヌチャァァァ……
+<PAUSE>
+<NAME_PLATE>
+　分かっていた。
+<PAUSE>
+<NAME_PLATE>
+　もう私のオマンコは、先生のオマンコと
+同じ位、どろどろに蕩けていたことを。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0027_r18
+<NAME_PLATE>巴
+「はぁ……くぅ……ん……」
+<PAUSE>
+<NAME_PLATE>
+　一度触れてしまえば
+止められる筈がない。
+<PAUSE>
+<NAME_PLATE>
+　私は先生の痴態を凝視しながら、
+激しく自分の股間をまさぐる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0028_r18
+<NAME_PLATE>巴
+「んふぅ……ほぉ、んくぅうぅ……」
+<PAUSE>
+<NAME_PLATE>
+　必死で堪えてはいるが
+私の口や鼻からは
+甘い吐息が零れてしまっている。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0020_r18
+<NAME_PLATE>蓮魔
+「おっひぃいぃぃ！　おっひぃいぃいぃぃ！
+　もう限界だぁ！
+　オークザーメンに欲情する！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0021_r18
+<NAME_PLATE>蓮魔
+「臭いチンポ汁に、
+　排卵誘発されるぅううぅぅ！」
+<PAUSE>
+//↑カット
+<NAME_PLATE>
+　先生の身体が不規則に痙攣している。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0029_r18
+<NAME_PLATE>巴
+（……あぁ、先生、イくんですか？
+　じゃあ私も……私も、一緒に……！
+　私、先生とイきたい……！）
+<PAUSE>
+<NAME_PLATE>
+　私は膣内に入れていた指を
+激しく出し入れする。
+<PAUSE>
+<NAME_PLATE>
+　グチュゥウゥ……グチュッ……
+グチュゥ……
+<PAUSE>
+<VOICE_PLAY>chr_0171_0022_r18
+<NAME_PLATE>蓮魔
+「んごぉおぉ！　黒田に……オークの生射精で
+　だだ開きになった子宮口にキンタマ精液
+　流し込まれるの見せたくないぃ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0023_r18
+<NAME_PLATE>蓮魔
+「極太チンポで感じまくってる淫乱マンコに
+　オークの孕み汁入れるなぁああぁぁ！
+　黒田の前で……オークと受精するぅうぅ！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>
+　ドキン……
+<PAUSE>
+<NAME_PLATE>
+　先生にまた名前を呼ばれて、
+私の胸がときめいてしまう。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0030_r18
+<NAME_PLATE>巴
+「あぁ、せんせぇ……」
+<PAUSE>
+<NAME_PLATE>
+　とうとう私は声を漏らしてしまった。
+<PAUSE>
+<NAME_PLATE>
+　しかし、私の呟きを掻き消すように、
+ディルドーと先生の結合部は
+大きな水音を立てる。
+<PAUSE>
+<NAME_PLATE>
+　ジュボォオォォ！　グボォオォォ！
+グポポォォォオオォ……！
+<PAUSE>
+<VOICE_PLAY>chr_0171_0024_r18
+<NAME_PLATE>蓮魔
+「おぉおぉおぉぉ……限界、だ……。
+　便器に、される……黒田に見られながら……
+　オーク達の精液便所になるぅぅ……！」
+<PAUSE>
+<NAME_PLATE>
+　先生の絶頂が近いことを感じ、
+私は反射的に大きく膨らんでいた
+クリトリスを摘まむ。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0031_r18
+<NAME_PLATE>巴
+「んんんんぅうううぅううぅ……！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0032_r18
+<NAME_PLATE>巴
+（見ています、先生っ！　イッて下さい！
+　先生がオークの便所になるところを……
+　私に全部見せてぇええぇぇ！）
+<PAUSE>
+<NAME_PLATE>
+　心の中で絶叫しながら
+私は自分が、先生に負けない程の
+変態だったことに気付く。
+<PAUSE>
+<NAME_PLATE>
+　しかしそれは
+私を絶頂へ導く
+最高のスパイスでしかなかった。
+<PAUSE>
+//【R-ev001c　蓮魔セルフ目隠しＭ字開脚ディルドオナニー＿絶頂】
+<VOICE_PLAY>chr_0171_0025_r18
+<NAME_PLATE>蓮魔
+「黒田！　黒田ぁ！　見てくれ……！
+　私が無様に、ぶっといオークチンポで
+　マンコイきするの見てくれぇえぇ！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0171c_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　プシャァアアァァァ……！
+<PAUSE>
+<NAME_PLATE>
+　先生のオマンコから
+大量の愛液が吹き出した。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0026_r18
+<NAME_PLATE>蓮魔
+「んほぉおぉ！　いいっ！　イってるぅうぅ！
+　子宮が震えるぅ！　んぼぉおおぉ！
+　け、ケツもぉおおぉお！　んごぉおぉお！」
+<PAUSE>
+<NAME_PLATE>
+　達した勢いで
+肛門に嵌っていたアナルパールが
+先生の中から飛び出していた。
+<PAUSE>
+<NAME_PLATE>
+　先生の肛門は、ぱっくりと開いたまま
+濡れた内臓を晒している。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0027_r18
+<NAME_PLATE>蓮魔
+「イってる……ま、まだ、イってる……。
+　ああぁ、オークチンポで連続絶頂しながら
+　オークザーメンで、孕まされるぅううぅ！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+プシャッ……プシャアアァァ……
+<PAUSE>
+<NAME_PLATE>
+　先生の割れ目から
+愛液が噴水の様に上がっている。
+<PAUSE>
+<NAME_PLATE>
+　絶頂する先生の姿を見て、
+もう私は我慢が出来ない。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0033_r18
+<NAME_PLATE>巴
+「んおおおぉおぉおぉ！　先生！　先生ぃぃ！
+　素敵ですぅうぅうぅぅ！　マンコとケツで
+　イきまくってる先生、素敵ぃいいぃぃ！」
+<PAUSE>
+<NAME_PLATE>
+　私は先生と同じく、
+激しい嬌声を上げながら絶頂する。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　プシュゥウウゥゥ……！　プシャッ！
+プシュゥウゥゥ……！
+<PAUSE>
+<NAME_PLATE>
+　私の割れ目からも、大量の潮が吹き出す。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0034_r18
+<NAME_PLATE>巴
+「んおおおぉおぉ！　先生ぃ！　私も先生と
+　同じぃいいぃぃ！　マンコイきしてるぅ！
+　マン汁吹き出しながら、イってますぅ！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0035_r18
+<NAME_PLATE>巴
+「エロい先生、好きぃいぃぃ！　大好きぃぃ！
+　マンコ疼くのぉ！　んほぉおおぉおぉぉ！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0036_r18
+<NAME_PLATE>巴
+「先生をオカズにしたオナニー、
+　最っ高に感じるぅうぅうううぅ！　んぼぉ！
+　おぼぉおおおぉおぉおおぉ！」
+<PAUSE>
+<NAME_PLATE>
+　今この瞬間、憧れの存在であった先生と
+同じ様に嬌声を上げて、同じ様に
+絶頂に達している、この事実が堪らない。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0037_r18
+<NAME_PLATE>巴
+「先生ぇ……！　先生……好きぃぃいぃ！
+　マンコいじるの、止められないぃいぃいぃ！
+　先生をオカズに、無限にオナるぅうぅぅ！」
+<PAUSE>
+<NAME_PLATE>
+　先生の涎が垂れた
+だらしなくも美しい口元を見て
+より強い快感が私の中に生じる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0038_r18
+<NAME_PLATE>巴
+（私もきっと……先生と同じ……ううん！
+　もっともっと……無様な顔を晒してるんだ。
+　先生と同じ……ああぁ、嬉しいよぉおぉ！）
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chrt_0171_0039_r18
+<NAME_PLATE>巴
+「んおおおぉおぉ！　先生ぃいいぃぃ！
+　マンコいじりで何度でもイけるのぉおおぉ！
+　先生のエッチな姿見てたら何度でもぉお！」
+<PAUSE>
+<NAME_PLATE>
+　湧き上がる快感に夢中になった私は、
+先生の絶頂が治まっていたことに
+気付かずにいた……。
+<PAUSE>
+//【R-ev001d　蓮魔セルフ目隠しＭ字開脚ディルドオナニー＿誘う蓮魔】
+<EV>chr_0171d_r18,NONE
+<VOICE_PLAY>chr_0171_0028_r18
+<NAME_PLATE>蓮魔
+「ふふ、何て淫らな姿を晒しているんだ？
+　お前は……」
+<PAUSE>
+<NAME_PLATE>
+　突然部屋に響いた
+先生の落ち着いた声に
+私はビクリと肩を震わせる。
+<PAUSE>
+<NAME_PLATE>
+　いつの間にか目を閉じてオナニーを
+していたので気が付かなかった。
+<PAUSE>
+<NAME_PLATE>
+　先生はいつの間にか目隠しを外し、
+眼鏡をかけて私の痴態を観察している。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0040_r18
+<NAME_PLATE>巴
+「あ……あぁ……先生ぇ……」
+<PAUSE>
+<NAME_PLATE>
+　大きく開いた股の間から
+こちらを見る先生の視線は
+普段とは全く違う。
+<PAUSE>
+<NAME_PLATE>
+　先生の視線は
+ゾクリとするほどの妖艶さをもって
+私にねっとり絡みつく。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0041_r18
+<NAME_PLATE>巴
+「す、すみません……！」
+<PAUSE>
+<NAME_PLATE>
+　咄嗟に謝ってしまったが
+本当はそんな必要はない。
+<PAUSE>
+<NAME_PLATE>
+　そもそも私は先生に騙され、
+薬を飲まされここにいるのだ。
+<PAUSE>
+<NAME_PLATE>
+　しかし、そんなこと忘れてしまう程、
+先生の情熱的な視線には
+有無を言わさぬ迫力が伴っていた。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0042_r18
+<NAME_PLATE>巴
+「……あ」
+<PAUSE>
+<NAME_PLATE>
+　私は、先生の私を見据える視線が
+あまりに真っ直ぐであることに
+気付いてしまった。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0043_r18
+<NAME_PLATE>巴
+（この状況……
+　先生は最初から予期していたんだ……）
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0044_r18
+<NAME_PLATE>巴
+（先生は、自分の被虐妄想しながらの
+　変態露出オナニーを私に見せつければ、
+　私がオナニーする事をお見通しだったんだ）
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0045_r18
+<NAME_PLATE>巴
+（……先生は、私を……）
+<PAUSE>
+<NAME_PLATE>
+　ゴクリ……
+<PAUSE>
+<NAME_PLATE>
+　私は思わず生唾を飲み込む。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0046_r18
+<NAME_PLATE>巴
+（私を、同じ世界に……
+　引きずり込もうとしているの……？）
+<PAUSE>
+<VOICE_PLAY>chr_0171_0029_r18
+<NAME_PLATE>蓮魔
+「では！」
+<PAUSE>
+<NAME_PLATE>
+　先生の凛とした声が部屋に響き渡り、
+私は反射的に背筋を伸ばした。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0030_r18
+<NAME_PLATE>蓮魔
+「勉強の時間だ。……私はオーク達に
+　弄ばれて精液便所になってしまったよ。
+　さあ、お前はどうする？」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0047_r18
+<NAME_PLATE>巴
+「え？　えっと……あの……」
+<PAUSE>
+<NAME_PLATE>
+　戸惑う私に、先生は問いを畳みかける。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0031_r18
+<NAME_PLATE>蓮魔
+「もっと具体的に言おうか？　一生オークの
+　チンポにイキ狂い、魔族の子を産む便器を
+　見つけました。対魔忍ならどうしますか？」
+<PAUSE>
+<NAME_PLATE>
+　先生の冷静な声色につられて
+私の頭はごく自然に
+これが授業であると切り替わる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0048_r18
+<NAME_PLATE>巴
+（……例え仲間であっても……敗残者を
+　助けるより悪を討つのが対魔忍の使命……）
+<PAUSE>
+<NAME_PLATE>
+　これが、教師である蓮魔先生に教えられ
+私の胸に刻み込まれている、
+対魔忍の心得である。
+<PAUSE>
+<NAME_PLATE>
+　任務の為には自分の命をも投げ出す
+覚悟を説いた、先生のその言葉に
+授業中、私は胸が熱くなる程の感銘を受けた。
+<PAUSE>
+<NAME_PLATE>
+　しかしながら、私の口を衝いて出たのは
+自分でも想像しない言葉であった。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0049_r18
+<NAME_PLATE>巴
+「……先生、ごめんなさい。
+　私は……私は、対魔忍失格です！」
+<PAUSE>
+<NAME_PLATE>
+　先生の眉がピクリと動く。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0050_r18
+<NAME_PLATE>巴
+「私も一緒に堕ちます！　先生と一緒に……
+　私、先生と一緒にオークの子を孕みます！」
+<PAUSE>
+<NAME_PLATE>
+　今まで
+先生の期待に応えたい一心で
+必死で頑張ってきた。
+<PAUSE>
+<NAME_PLATE>
+　それなのに
+こんな解答を出してしまっては、
+先生に受けた教えに背いてしまう。
+<PAUSE>
+<NAME_PLATE>
+　先生に、失望されて落胆されたとしても
+……私は、どうしても
+胸にある気持ちに嘘をつけなかった。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0032_r18
+<NAME_PLATE>蓮魔
+「……馬鹿な子だ」
+<PAUSE>
+<NAME_PLATE>
+　私は驚きに、大きく瞬きをする。
+<PAUSE>
+<NAME_PLATE>
+　先生の、苦笑交じりのその言葉は
+今まで聞いた事のない程に
+優しいものだったからだ。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0051_r18
+<NAME_PLATE>巴
+「先生……ごめんなさい。私、先生の前では
+　優秀な生徒でいたかったのに……
+　でも、やっぱり私は……！」
+<PAUSE>
+<NAME_PLATE>
+　謝る私に、先生は
+指で大きく開いた
+濡れたオマンコを見せつける。
+<PAUSE>
+<NAME_PLATE>
+　ぐじょぉおおぉぉぉ……
+<PAUSE>
+<NAME_PLATE>
+　先生のぱっくり開かれたオマンコは
+赤黒い肉が、ヒクヒク蠢いていた。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0033_r18
+<NAME_PLATE>蓮魔
+「ほら、おいで……」
+<PAUSE>
+<NAME_PLATE>
+　先生の穏やかな声と誘惑する膣肉に、
+私は逆らうことが出来ず
+一歩を踏み出した。
+<PAUSE>
+//【R-ev001e　蓮魔セルフ目隠しＭ字開脚ディルドオナニー＿巴クンニー】
+<EV>chr_0171e_r18,NONE
+<VOICE_PLAY>chr_0171_0034_r18
+<NAME_PLATE>蓮魔
+「おほぉおぉおぉ！　いいっ！
+　生徒のマンコしゃぶり、最高ぉおおぉぉ！」
+<PAUSE>
+<NAME_PLATE>
+　先生の下品な嬌声を聞きながら、
+私は先生の
+びっしょり濡れた柔らかな股間に顔を埋める。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0052_r18
+<NAME_PLATE>巴
+「じゅるるぅ……ちゅぱぁ、れろれろぉ……
+　先生のオマンコ汁、美味しい……じゅるっ
+　もっと、もっと……飲みたいぃいぃ……」
+<PAUSE>
+<NAME_PLATE>
+　私は先生の膣を激しく舐め回しながら、
+自分の蕩けた股間にも手を伸ばす。
+<PAUSE>
+<NAME_PLATE>
+　私は先生をクンニしながら
+オナニーを始めた。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0053_r18
+<NAME_PLATE>巴
+「んぅぅ……先生、クリトリスぅ……れろぉ
+　ちゅぱぁ……乳首と同じくらい、膨らんで
+　ビンビンに勃ってますよぉ……じゅるるぅ」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0054_r18
+<NAME_PLATE>巴
+「クリを舌でぺろぺろするとぉ……んふぅ、
+　はぁ、あったかいオマンコ汁が……
+　いっぱい溢れて……はぁ……エッチな味ぃ」
+<PAUSE>
+<NAME_PLATE>
+　当たり前だけれど、先生の膣穴には、
+オークのザーメンなど入っていない。
+<PAUSE>
+<NAME_PLATE>
+　だけれども私は、極太ディルドーで
+びらびらに開き切ったこの穴から、先生の
+妄想の痕跡を全て舐め尽くそうと舌を動かす。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0171_0035_r18
+<NAME_PLATE>蓮魔
+「うぉおおぉぉ！　クリ舐めぇ！
+　処女の教え子に勃起クリ舐め回されてるぅ！
+　クリチンポフェラされてるぅうぅぅ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0036_r18
+<NAME_PLATE>蓮魔
+「おおぉおぉ！　生徒にマンコ吸われてるぅ！
+　使い込んだオナニーしたてのグロマンコ！
+　マンコの臭いきついのバレるぅううぅぅ！」
+<PAUSE>
+<NAME_PLATE>
+　私のクンニに喘ぐ先生の声は甘く震え、
+表情もとても人には見せられないほど
+だらしなく歪んでいた。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0055_r18
+<NAME_PLATE>巴
+（あぁ、先生……
+　なんていやらしい顔……！
+　大好き！　大好きですぅううぅぅ！）
+<PAUSE>
+<NAME_PLATE>
+　興奮した私の舌はさらに激しく蠢き、
+同時に私の股間を弄る指の動きも
+それに同調する。
+<PAUSE>
+<NAME_PLATE>
+　ぐじゅるるぅうぅ！　ぐちゅぐちゅぅ！
+びじゃぁぁあぁ！　ぐじゅぅうぅうぅ！
+<PAUSE>
+<NAME_PLATE>
+　不意に先生の手が
+私の髪を優しく撫でた。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0037_r18
+<NAME_PLATE>蓮魔
+「はぁ……はぁ、こんなに気持ちいいのなら
+　本当にオークに捕まって……
+　犯されるのも良いかもしれないな……」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0056_r18
+<NAME_PLATE>巴
+「じゅるるぅ……オークは……はぁ、こっちも
+　……犯していましたよね？　れろぉ」
+<PAUSE>
+<NAME_PLATE>
+　私は
+先生のぽっかり開いたままのアナルに
+舌先をねじ込む。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0038_r18
+<NAME_PLATE>蓮魔
+「おほぉおおぉぉ！　ケツ穴ぁ！　んくぅ！
+　気持ちぃいいぃいぃ！　お、教え子に……
+　排泄穴しゃぶられるの、良すぎるぅうぅ！」
+<PAUSE>
+<NAME_PLATE>
+　太腿をビクビク震わせて
+悦びの声を上げる先生に
+私は一つ質問をする。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0057_r18
+<NAME_PLATE>巴
+「先生……じゅるるぅ……さっきのお話……」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0039_r18
+<NAME_PLATE>蓮魔
+「んぅ……？」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0058_r18
+<NAME_PLATE>巴
+「オークに捕まって
+　犯されてもいいって話です。
+　……あれは、私も一緒ですか？」
+<PAUSE>
+<NAME_PLATE>
+　私のひどく下らない質問に、
+先生はクスクス笑いながら口を開く。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0040_r18
+<NAME_PLATE>蓮魔
+「勿論だとも……。
+　共に、オーク共の精液便所になるのさ」
+<PAUSE>
+<NAME_PLATE>
+　私の頭を優しく撫でる仕草に
+まるでそぐわない卑猥な言葉が
+先生の口から歌うように流れ始める。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0041_r18
+<NAME_PLATE>蓮魔
+「オーク達に、マンコにもケツマンコにも
+　たっぷり精液を注がれて……」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0042_r18
+<NAME_PLATE>蓮魔
+「鼻が曲がる程くっさいオークザーメンを
+　二人で仲良く啜りあうんだ……」
+<PAUSE>
+<NAME_PLATE>
+　言いながら、先生は興奮したのか
+膣が震えて愛液をさらに滲ませている。
+<PAUSE>
+<NAME_PLATE>
+　私はというと、先生の下卑た妄想に
+感動さえしながら、賛成を伝える為に
+先生の膣を、尻穴を舐め回す。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0043_r18
+<NAME_PLATE>蓮魔
+「おおぉおぉぉおん！　マンコもケツもぉ！
+　丁寧にペロペロされて、敏感になるぅうぅ！
+　もぉ……駄目だ。教え子クンニでイく……」
+<PAUSE>
+<NAME_PLATE>
+　先生の淫肉の痙攣が、舌に直接伝わる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0059_r18
+<NAME_PLATE>巴
+（いつか……今私がしているみたいに……
+　先生にも、私の膣とか……お尻の穴まで……
+　舐めてほしいな……）
+<PAUSE>
+<NAME_PLATE>
+　私はまだ処女で、男性経験もない。
+<PAUSE>
+<NAME_PLATE>
+　それなのに私の心は既に
+先生と一緒に
+オークの肉便器になることに夢を見ていた。
+<PAUSE>
+<NAME_PLATE>
+　そんな愚かな私を
+先生は見透かしているのか
+愛おしむような甘く優しい声で囁く。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0044_r18
+<NAME_PLATE>蓮魔
+「イクよ……巴」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>
+　ドキン……！
+<PAUSE>
+<NAME_PLATE>
+　苗字ではなく下の名前で呼ばれたその瞬間、
+私の頭は真っ白に弾け
+全身が燃え上がるような感覚に襲われた。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0060_r18
+<NAME_PLATE>巴
+（わ、私……もうタダの生徒ではなくなった。
+　先生のモノに……
+　先生の……メス奴隷になったんだ！）
+<PAUSE>
+//【R-ev001f　蓮魔セルフ目隠しＭ字開脚ディルドオナニー＿絶頂２】
+<VOICE_PLAY>chr_0171_0045_r18
+<NAME_PLATE>蓮魔
+「んっひぃいいぃぃいぃいぃ！
+　イくイくイくぅうぅぅ！　マン汁啜られて
+　イっくぅううぅうぅ！　んほおおぉおぉ！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0171f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　プッシャァアアァァァ……！
+<PAUSE>
+<NAME_PLATE>
+　先生の膣穴から愛液が吹き出し
+私の顔にぶっかかる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0061_r18
+<NAME_PLATE>巴
+「んじゅるうぅうぅ……
+　先生、じゅるるうぅ」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　プシュルゥゥゥ！　プシュゥゥ！
+<PAUSE>
+<NAME_PLATE>
+　私の股間も絶頂に達していた。
+<PAUSE>
+<NAME_PLATE>
+　しかし私は、先生の股間へと這わせる
+舌の動きを止めずに
+溢れ出る愛液を全て飲み尽くそうとする。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0046_r18
+<NAME_PLATE>蓮魔
+「おおぉおぉ！　巴！　巴！　巴ぇ……！
+　お前は変態だ！　イきながら私のマンコ汁を
+　飲むなんて……んごぉおぉぉおぉ！」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0047_r18
+<NAME_PLATE>蓮魔
+「巴、お前はぁ……はぁああぁぁ！
+　救いようのないド変態だよ！
+　おぼぉおぉ！」
+<PAUSE>
+<NAME_PLATE>
+　白目を剥きながら
+先生は私の名前を連呼する。
+<PAUSE>
+<NAME_PLATE>
+　私の興奮が増幅に増幅を重ねる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0062_r18
+<NAME_PLATE>巴
+「じゅるぅ、せんせぇ……せんせ……れろぉ！
+　せんせぇええぇえぇ……！　んじゅるるぅ」
+<PAUSE>
+<NAME_PLATE>
+　名を呼ばれる度に、私は全身を震わせて
+絶頂を繰り返し、むしゃぶりついた膣穴から
+溢れる愛液を啜った。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0048_r18
+<NAME_PLATE>蓮魔
+「おほぉ！　おほぉおぉぉ！　お、お前は
+　最高だよ……巴……」
+<PAUSE>
+<NAME_PLATE>
+　荒い呼吸を繰り返しながら、
+先生は言葉を続ける。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0049_r18
+<NAME_PLATE>蓮魔
+「今度は私が……
+　巴のマンコ穴を、沢山舐めてやる。
+　お前がイっても止めないよ」
+<PAUSE>
+<VOICE_PLAY>chr_0171_0050_r18
+<NAME_PLATE>蓮魔
+「そして、イきまくった蕩けマンコに
+　さっきまで私を掻き回していた
+　極太ディルドーで処女を奪ってあげようね」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0063_r18
+<NAME_PLATE>巴
+「はぁ……あ、先生……先生ぇ……！」
+<PAUSE>
+<NAME_PLATE>
+　私の声が、歓喜に震える。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0051_r18
+<NAME_PLATE>蓮魔
+「それだけじゃない。巴の処女膜を
+　ぶち破った後は……可愛いケツ穴も
+　犯してやるよ。泣いても、止めてやらない」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0064_r18
+<NAME_PLATE>巴
+「ああぁ、先生！　なんて素晴らしい！」
+<PAUSE>
+<NAME_PLATE>
+　夢に見た……いや、それ以上の提案に
+私は天にも昇る気持ちになる。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0065_r18
+<NAME_PLATE>巴
+「嬉しい！　嬉しいです、先生！
+　オマンコもお尻も……
+　私の全部の処女穴を先生に捧げます！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0066_r18
+<NAME_PLATE>巴
+「先生の手で、お好きに凌辱して下さい！　
+　私のピンクの処女マンコを、
+　先生の色に染めてぇ！」
+<PAUSE>
+<NAME_PLATE>
+　私の下品なおねだりに
+呆れているのだろうか。
+先生はにんまりと微笑みを浮かべた。
+<PAUSE>
+//【黒画面】
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　……
+<PAUSE>
+//【背景は昼間の五車学園教室】
+<BGM_PLAY>bgm310,1000
+<BG>nc079a,IN, 1000
+<NAME_PLATE>
+　一年前のことを懐かしく思い出し、
+二人は微笑み合う。
+<PAUSE>
+<GROUP>
+<ACTOR>0,chr_t0172a_r18,RIGHT, RIGHT, IN, linear, 1000
+<ACTOR>1,chr_t0171a_r18,LEFT, LEFT, IN, linear, 1000
+</GROUP>
+<VOICE_PLAY>chrt_0171_0067_r18
+<NAME_PLATE>巴
+「それにしても……まさかあの後、
+　先生が本当に敵に捕まってしまうなんて……
+　あの時は思っていませんでしたよ」
+<PAUSE>
+<NAME_PLATE>
+　巴の言葉に、蓮魔は苦笑いを浮かべる。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0052_r18
+<NAME_PLATE>蓮魔
+「私だって、まさかお前まで
+　肉便器になるとは思ってなかった……」
+<PAUSE>
+<NAME_PLATE>
+　敵に捕まった時のことに思いを馳せながら、
+蓮魔は物憂げな表情を浮かべる。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0053_r18
+<NAME_PLATE>蓮魔
+「フタナリ奴隷にされた時は……
+　流石のお前でも……」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0068_r18
+<NAME_PLATE>巴
+「私が先生を捨てる……なんて
+　思いました？」
+<PAUSE>
+<NAME_PLATE>
+　自分の言葉を言い終わる前に
+声を被せてきた巴に、
+蓮魔は少々面食らう。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0054_r18
+<NAME_PLATE>蓮魔
+「あぁ、まあ……な」
+<PAUSE>
+<NAME_PLATE>
+　少々言葉を濁しながらも肯定した蓮魔に
+巴は一歩近づいて距離を詰める。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0069_r18
+<NAME_PLATE>巴
+「そんな事は絶対に、ぜーったいに……
+　あ・り・え・ま・せ・ん！」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0070_r18
+<NAME_PLATE>巴
+「今後先生がどんな変態になろうとも、私は
+　ずっとずっとずーっと一緒ですからね♪」
+<PAUSE>
+<NAME_PLATE>
+　そう言って、巴は笑った。
+その顔はどこか嬉しそうでもある。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0055_r18
+<NAME_PLATE>蓮魔
+「あぁ、そうだな……。
+　私は馬鹿なことを言った。……ありがとう」
+<PAUSE>
+<NAME_PLATE>
+　蓮魔の穏やかな声には、
+安堵の響きが混ざっていた。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0071_r18
+<NAME_PLATE>巴
+「勿論今度の強化合宿も一緒ですよ！
+　毎晩二人きりで
+　たっぷりエッチしましょうね？」
+<PAUSE>
+<NAME_PLATE>
+　巴からのとんでもない提案に、
+蓮魔は動じることなく
+微笑んで問いかける。
+<PAUSE>
+<VOICE_PLAY>chr_0171_0056_r18
+<NAME_PLATE>蓮魔
+「ほう……二人きりでか？」
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0072_r18
+<NAME_PLATE>巴
+「はい！」
+<PAUSE>
+<NAME_PLATE>
+　巴は元気よく返事をするが、
+蓮魔の浮かべた悪戯っぽい表情に、
+すぐにその質問の裏の意味に気付く。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0073_r18
+<NAME_PLATE>巴
+「あぁ……」
+<PAUSE>
+<NAME_PLATE>
+　巴の顔が、淫猥に歪んだ。
+<PAUSE>
+<VOICE_PLAY>chrt_0171_0074_r18
+<NAME_PLATE>巴
+「全員の前で……ですね♪」
+<PAUSE>
+<NAME_PLATE>
+　楽しげに言い直した巴に、
+蓮魔もにっこりと笑みを浮かべた。
+<PAUSE>
+//【ＥＮＤ】
+<GROUP>
+<ACTOR_OUT>1,LEFT,linear,1000
+<ACTOR_OUT>0,RIGHT,linear,1000
+</GROUP>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

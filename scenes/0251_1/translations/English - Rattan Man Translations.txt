@@ -1,0 +1,1355 @@
+<BG>chrnc0226a,IN, 1000
+<NAME_PLATE>
+　The Demon Capital, Tokyo―――
+<PAUSE>
+<BG>chrnc0226b,IN, 1000
+<NAME_PLATE>
+　300 metres below that, there was a city.
+<PAUSE>
+<NAME_PLATE>
+　The lawless city of Yomihara.
+<PAUSE>
+<NAME_PLATE>
+　In that place, which surged with human and demonic desires, every conceivable kind of thing was bought and sold.
+<PAUSE>
+<NAME_PLATE>
+　Human lives were one of the most common commodities.
+<PAUSE>
+<NAME_PLATE>
+　Not to mention women's bodies.
+<PAUSE>
+<NAME_PLATE>
+　But even so―――
+<PAUSE>
+<ACTOR>0,ts_m176a_r18,CENTER, CENTER, IN, linear, 1000
+<NAME_PLATE>Slave Trader
+（Something weird's started catching on.）
+<PAUSE>
+<NAME_PLATE>
+　The orc slave trader couldn't help but be bewildered once again, in the face of today's trafficker and their merchandise.
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm509,1000
+<BG>chrnc0226c,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　An event that occured at a certain brothel.
+<PAUSE>
+<BG>chrne0082a,IN, 1000
+<ACTOR>1,ts_m176a_r18,CENTER, CENTER, IN, linear, 1000
+<NAME_PLATE>Slave Trader
+「Um...... Are you serious?」
+<PAUSE>
+<NAME_PLATE>
+　The orc slave trader asked back to a woman, while thinking, 『They said the same thing before, too.』
+<PAUSE>
+<NAME_PLATE>
+　She was a visitor who had come in with a strange request, different from, but similar to, the one who had showed up a few days
+<PAUSE>
+<NAME_PLATE>
+earlier.
+<PAUSE>
+<ACTOR>1,ts_m176a,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ma_t001a_r18,LEFT, LEFT, IN, linear, 1000
+<VOICE_PLAY>chr_0251_1_0000_r18
+<NAME_PLATE>Maika
+「Don't make me say it over an' over again! Surely you're not gonna turn me down?!」
+<PAUSE>
+<NAME_PLATE>
+　That woman―Kamimura Maika―raised her voice in anger, as if he were being unreasonable for asking.
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「D, don't be absurd.」
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「It would be a dream come true if the famous “Pyro Taimanin”-sama could work for me part-time, but......」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0001_r18
+<NAME_PLATE>Maika
+「But what?!」
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「Um, I do get strange requests from time to time, but voluntarily wanting to do part-time work at my brothel......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0002_r18
+<NAME_PLATE>Maika
+「What's the big deal?! You got a problem or somethin'?! Eh?」
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「It's a very hard job, so it's normally done by Slave Prostitutes. Um...... You're really all right with that, then?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0003_r18
+<NAME_PLATE>Maika
+「I told'ja it's fine, didn't I?! I'll kill you!!」
+<PAUSE>
+<NAME_PLATE>
+　She made a fierce look, as though she were going to fire off the frightening artillery under her arm at any time.
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「Uh, um, yes! I'll take you on! But!!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0004_r18
+<NAME_PLATE>Maika
+「What?!」
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「Working would mean being my slave.」
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「For the duration of your part-time job, you will be a slave. That's all right, yes?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0005_r18
+<NAME_PLATE>Maika
+「Tch! I get it! But I have one condition.」
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「What would that be?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0006_r18
+<NAME_PLATE>Maika
+「Film me doing my job.」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>Slave Trader
+「Film?! Again?!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0007_r18
+<NAME_PLATE>Maika
+「Again?」
+<PAUSE>
+<NAME_PLATE>
+　Maika made a very puzzled-looking face.
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「Ih, it's just, I have had similar requests before.」
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「Sorry, it's my own problem. I need to film you, yes? Understood.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0008_r18
+<NAME_PLATE>Maika
+「We got a deal.」
+<PAUSE>
+<NAME_PLATE>
+　Suddenly thinking of it, the slave trader said to Maika, who finally made a satisfied-looking face,
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「Um...... By any chance, am I meant to send the recorded data somewhere?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0009_r18
+<NAME_PLATE>Maika
+「Oh. I forgot to mention that. Isn't that thoughtful? Yeah, send it here.」
+<PAUSE>
+<NAME_PLATE>
+　Maika handed the orc a note. The address was the same as with the previous visitors.
+<PAUSE>
+<NAME_PLATE>Slave Trader
+「Understood.」
+<PAUSE>
+<ACTOR_OUT>1,RIGHT,linear,1000
+<ACTOR>0,ma_t001a_r18,LEFT, CENTER, NONE, linear, 1000
+<VOICE_PLAY>chr_0251_1_0010_r18
+<NAME_PLATE>Maika
+（Keh, you think I'm some crazy pervert lady or something, don'tcha? It's no wonder, though.）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0011_r18
+<NAME_PLATE>Maika
+（Still, I've got my reasons.）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0012_r18
+<NAME_PLATE>Maika
+（It's to save that idiot. Seriously... It's 'cuz he rushed in headlong even though he's weak. Getting taken hostage...）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0013_r18
+<NAME_PLATE>Maika
+（Thanks to him, I'm gonna be working part-time in a shitty brothel, and video recording it. That's a seriously messed-up demand.）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0014_r18
+<NAME_PLATE>Maika
+（But no one can do this but me, after all. Only me, who you called 『my woman』...... Heheh.）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0015_r18
+<NAME_PLATE>Maika
+（Hold on. While I'm putting my body on the line to buy you time, the other Taimanin'll come and save you for sure.）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0016_r18
+<NAME_PLATE>Maika
+（Hang in there a little longer, Fuuma.）
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<UI_DISP>OFF, 0
+<BGM_STOP>1000
+<BG_OUT>1000
+<WAIT>1000
+<UI_DISP>ON, 0
+<NAME_PLATE>
+　―――
+<PAUSE>
+<BGM_PLAY>bgm314,1000
+<BG>nc094a,IN, 1000
+<ACTOR>1,chr_t0251a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0251_1_0017_r18
+<NAME_PLATE>Maika
+「W, welcome!」
+<PAUSE>
+<NAME_PLATE>
+　Maika made an awkward smile, dressed as a bunny.
+<PAUSE>
+<NAME_PLATE>
+　This was the main floor of the brothel where she had arranged to do her part-time job.
+<PAUSE>
+<NAME_PLATE>
+　It usually operated as a nightclub, and right now, Maika was a hostess there.
+<PAUSE>
+<NAME_PLATE>
+　In other words, a high-class Slave Prostitute, who would perform any kind of service for the right price.
+<PAUSE>
+<NAME_PLATE>
+　Only a week since she debuted. Fuuma still hadn't been rescued.
+<PAUSE>
+<NAME_PLATE>
+　On the other hand, Maika had already had every one of her holes put to use for her customers' desires, and had even gotten some
+<PAUSE>
+<NAME_PLATE>
+regulars.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0018_r18
+<NAME_PLATE>Maika
+（He turned up again......）
+<PAUSE>
+<ACTOR>1,chr_t0251a_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Orc Regular
+「Yo, Maika. Oji-san's here again! I'm gonna give you some love again today, okay?」
+<PAUSE>
+<NAME_PLATE>
+　Said one of those regular customers, an orc who was a frequent patron of the slave trader, and who came here every day because
+<PAUSE>
+<NAME_PLATE>
+he could do as he liked with the “Pyro Taimanin”.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0019_r18
+<NAME_PLATE>Maika
+（Die, ya shitty orc!!!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Did you say something?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0020_r18
+<NAME_PLATE>Maika
+「N, no, nothing......」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<ACTOR>0,ts_m176a_r18,CENTER, CENTER, IN, linear, 1000
+<NAME_PLATE>Slave Trader
+「Oi! You're forgetting the hot towel for the customer.」
+<PAUSE>
+<ACTOR_OUT>0,CENTER,linear,1000
+<NAME_PLATE>
+　The hot towel. (TL: The widespread hospitality practice in bars, restaurants, etc., of giving customers a hot, moist towel
+<PAUSE>
+<NAME_PLATE>
+to wash their hands.)
+<PAUSE>
+<NAME_PLATE>
+　In the jargon of this establishment, that meant the complimentary service of giving a cleaning blowjob to the cocks of the
+<PAUSE>
+<NAME_PLATE>
+customers who came by.
+<PAUSE>
+<ACTOR>1,chr_t0251a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0251_1_0021_r18
+<NAME_PLATE>Maika
+（On top of that...... I'm gonna do that “sokushabu” thing again......?）(TL: The act of a prostitute giving fellatio, without
+<PAUSE>
+<NAME_PLATE>
+the formality of the customer taking a bath or shower first.)
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0022_r18
+<NAME_PLATE>Maika
+（This guy's dick cheese sucks, 'cuz there's a ton of it, and it stinks.）
+<PAUSE>
+<ACTOR>1,chr_t0251a_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m176a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Slave Trader
+「Maika, what are you doing?!」
+<PAUSE>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Orc Regular
+「My hot towel, please.」
+<PAUSE>
+<NAME_PLATE>
+　The orc took out his huge, erect, warty, smegma-covered cock.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0023_r18
+<NAME_PLATE>Maika
+「Y, yes, with pleasure♪ Uh, um......」
+<PAUSE>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>0,ts_m176a_r18,LEFT, LEFT, IN, linear, 1000
+<BGM_STOP>1000
+<NAME_PLATE>Slave Trader
+「I'll be filming, okay? I'm going to capture it in detail once again today, so do your hot towel quickly!」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm510,1000
+<EV>chr_0251_1a_r18,IN, 1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0251_1_0024_r18
+<NAME_PLATE>Maika
+「Thank you for your patronage.」
+<PAUSE>
+<NAME_PLATE>
+　Maika squatted down in a bowlegged ero-sonkyo, a standard pose in this place. (TL: Sonkyo is a formal sitting pose, squatting
+<PAUSE>
+<NAME_PLATE>
+with one's upper body straight, and their buttocks resting on their raised heels.)
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Banzai pose, with both hands behind your head. Service me with just your tongue, not using your hands.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0025_r18
+<NAME_PLATE>Maika
+「Un...... Understood......」
+<PAUSE>
+<NAME_PLATE>
+　Maika put both hands together behind her, as she was told.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0026_r18
+<NAME_PLATE>Maika
+（Gettin' carried away all the time...!）
+<PAUSE>
+<NAME_PLATE>
+　His hideous cock (which had veins bulging out on the surface, not to mention countless warts of all sizes) was arching back in front
+<PAUSE>
+<NAME_PLATE>
+of her eyes.
+<PAUSE>
+<NAME_PLATE>
+　Furthermore, it was a pungent cock, which glue-like dick cheese was sticking to surprisingly thickly, from the bulging glans
+<PAUSE>
+<NAME_PLATE>
+to the crown.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0027_r18
+<NAME_PLATE>Maika
+（How come there's so much after a day, when I just sucked it yesterday?!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0028_r18
+<NAME_PLATE>Maika
+「Uuhh......」
+<PAUSE>
+<NAME_PLATE>
+　Trying not to show any sign of disliking it, she somehow, through willpower, held back from turning her face away, although she did
+<PAUSE>
+<NAME_PLATE>
+reflexively hold her breath due to the immense stench.
+<PAUSE>
+<NAME_PLATE>
+　Taking advantage of that, the shitty orc immediately gave an order.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「First off, why don't you take a deep breath? Breathe in plenty of Oji-san's cock smell.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0029_r18
+<NAME_PLATE>Maika
+（You asshole......!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0030_r18
+<NAME_PLATE>Maika
+「Un, understood......」
+<PAUSE>
+<NAME_PLATE>
+　Maika resolved herself, and breathed in.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0031_r18
+<NAME_PLATE>Maika
+「Ffffffff...」
+<PAUSE>
+<NAME_PLATE>
+　A repulsive smell, which seemed like all the odours of a public restroom condensed into one, filled her nasal cavity.
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0032_r18
+<NAME_PLATE>Maika
+（It reeeeks! What're ya eatin' to make it like this?!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0033_r18
+<NAME_PLATE>Maika
+「Uuh...... kuh...... geho...... uu, uuuh......」
+<PAUSE>
+<NAME_PLATE>
+　No matter how hard she held back her revulsion and humiliation, which were strong enough for her to pass out, tears ended up
+<PAUSE>
+<NAME_PLATE>
+coming to her eyes.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Isn't that a nice smell?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0034_r18
+<NAME_PLATE>Maika
+「Y...... Yes...... It's an extremely...... good smell......」
+<PAUSE>
+<NAME_PLATE>
+　Maika painfully answered, while glaring at the orc.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Good. Start the hot towel.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0035_r18
+<NAME_PLATE>Maika
+「Y...... Yes......」
+<PAUSE>
+<NAME_PLATE>
+　While repeating in her mind that this was to save Fuuma, she reached her tongue out to the smegma pole.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0036_r18
+<NAME_PLATE>Maika
+「......Reroh.」
+<PAUSE>
+<NAME_PLATE>
+　Smegma covered the tip of her tongue from just one lick.
+<PAUSE>
+<NAME_PLATE>
+　Her tongue tingled from the plentiful ammonia. Despite harbouring disgust strong enough to make her shudder, she slurped it
+<PAUSE>
+<NAME_PLATE>
+off.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0037_r18
+<NAME_PLATE>Maika
+「Reroh...... juru...... beroh...... erooh...」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Whatever's wrong, Maika? Aren't you going to report to your boyfriend today?」
+<PAUSE>
+<NAME_PLATE>
+　She was being goaded by this orc, who, although she hadn't told him the details, had been in these videos many times now.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0038_r18
+<NAME_PLATE>Maika
+「I, I am going to do it...... Starting now.」
+<PAUSE>
+<NAME_PLATE>
+　Even though she realized it would please this shitty orc, Maika had no choice but to give a report while sucking cock.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0039_r18
+<NAME_PLATE>Maika
+「Mmh...... reroreronchu...... Nhaah, Fuuma, you watshin'?」
+<PAUSE>
+<NAME_PLATE>
+　While twisting her extended tongue around his cock, she talked to the camera in a sticky voice.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0040_r18
+<NAME_PLATE>Maika
+「Once again today...... njubochuu...... reoreo...... npuu...... Ah'm workin' part-time, to meet the demands of the pieche of
+<PAUSE>
+<NAME_PLATE>
+shit who captured you...」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0041_r18
+<NAME_PLATE>Maika
+「Nju, rerorero...... Ih's seriousleh the worsht. Nchuu, jubojuu...... Workin' ah a whorehoushe...... foh a monf...」
+<PAUSE>
+<NAME_PLATE>
+　Drool spilled out endlessly due to her humiliating words, dripping down onto the pillar of flesh that was having its dick
+<PAUSE>
+<NAME_PLATE>
+cheese cleaned off.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「She's even gotten regulars like Oji-san. You know that, Fuuma-kun?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0042_r18
+<NAME_PLATE>Maika
+（You asshole!）
+<PAUSE>
+<NAME_PLATE>
+　With Fuuma's name spoken by the shitty orc, she firmly held her head back from almost boiling over with rage.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0043_r18
+<NAME_PLATE>Maika
+（I'll turn this guy to charcoal later. I'll bear any humiliation, Fuuma.）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0044_r18
+<NAME_PLATE>Maika
+「Juru...... Thah's righ, he...... likes me...... so much, he's coming for me every deh, rero...... reroreroh...」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0045_r18
+<NAME_PLATE>Maika
+「I'm in this mess...... njuu, chupu, npuu...... becaushe o' you, shooo...... juru......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0046_r18
+<NAME_PLATE>Maika
+「Onshe you're releashed...... reroreronjuuu, buy meh...... some Inageya ice cream, okay......?!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「It's not ice cream you're licking right now, though, is it? Let's see you stretch out your tongue.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0047_r18
+<NAME_PLATE>Maika
+「Yehsh. Eroooooohhhhh!」
+<PAUSE>
+<NAME_PLATE>
+　Maika stuck out her tongue to show him, as she was told.
+<PAUSE>
+<NAME_PLATE>
+　The dick cheese that she had carefully, thoroughly scraped off was thickly covering her extended tongue.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Yeah, yeah. You can eat it. Chew it up and gulp it down, okay?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0048_r18
+<NAME_PLATE>Maika
+「Undahshooh. Kuchakuchakuchakuchakucha―――Gokkun.」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Is it tasty?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0049_r18
+<NAME_PLATE>Maika
+「It is...... tasty......」
+<PAUSE>
+<NAME_PLATE>
+　Maika judiciously answered, the thick smell of cock wafting from her mouth.
+<PAUSE>
+<NAME_PLATE>
+　Thanks to this, no matter whether she tried to breathe or speak, she would be with this stinky cock smell all day today.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0050_r18
+<NAME_PLATE>Maika
+（Uuuh...... It stinks...... The only consolation's that the smell's not gonna show up on camera...... Shit...）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「All right, since you've finished eating your hors d'ouevre, next, why don't you enjoy eating up my cock?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0051_r18
+<NAME_PLATE>Maika
+（What hors d'ouevre? Is this damn orc tryin' to joke around with me?）
+<PAUSE>
+<NAME_PLATE>
+　She desperately held back the insulting words that almost came out by reflex, and opened her mouth for his shining-wet penis.
+<PAUSE>
+<EV>chr_0251_1b_r18,NONE
+<VOICE_PLAY>chr_0251_1_0052_r18
+<NAME_PLATE>Maika
+「Nnaaahh―――Hapuhh!」
+<PAUSE>
+<NAME_PLATE>
+　Even though Maika spread her mouth open as wide as it could go, she could just barely take in the tip of the orc cock, which was
+<PAUSE>
+<NAME_PLATE>
+exceedingly huge compared to a human's.
+<PAUSE>
+<NAME_PLATE>
+　However, with his glans enveloped by Maika's hot oral cavity, the orc made his huge body twitch slightly.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Uuhh......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0053_r18
+<NAME_PLATE>Maika
+（Heheh...... This asshole's shuddering.）
+<PAUSE>
+<NAME_PLATE>
+　Deceiving herself with that token level of superiority, she licked all over the glans she held in her mouth.
+<PAUSE>
+<NAME_PLATE>
+　In quick, simple licks, she picked off the smegma that was still, persistently sticking to his cock, with a tongue covered by plenty
+<PAUSE>
+<NAME_PLATE>
+of saliva.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0054_r18
+<NAME_PLATE>Maika
+「Nboh...... juboh, nnh...... buh...... eboh, jubonboh......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0055_r18
+<NAME_PLATE>Maika
+（It tastes deathly awful, but if I imagine it's your cock...... then it's totally fine......）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Yeah...... Good, just like that.」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0056_r18
+<NAME_PLATE>Maika
+（Shuddup! You keep quiet and get your dick sucked!）
+<PAUSE>
+<NAME_PLATE>
+　Maika was trying to deceive herself in any way she could, but the obnoxious orc was butting in.
+<PAUSE>
+<NAME_PLATE>
+　Maika's expression was becoming increasingly stern in irritation over that, and the movement of her tongue was also
+<PAUSE>
+<NAME_PLATE>
+becoming rougher.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0057_r18
+<NAME_PLATE>Maika
+「Juboh...... Reroh, juboreroh! Juruboh...... Nbojuboh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Oh, ohh...... Nice, nice. You've grown pretty skilled, haven't you? Gotten used to Oji-san's cock, huh?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0058_r18
+<NAME_PLATE>Maika
+（Shit...... What a pain in the ass!）
+<PAUSE>
+<NAME_PLATE>
+　While making his meat pole throb, the irritating orc was asking her questions. She had no choice but to reply.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0059_r18
+<NAME_PLATE>Maika
+「Yehhsh...... Juboh, nboh! You come...... jubo...... every day, so! Nbojuboh...... I've godden ushed to ih!」
+<PAUSE>
+<NAME_PLATE>
+　Maika answered almost desperately, while making cock-sucking noises.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「There's a good answer. But not just the tip. You have to get used to going deeper.」
+<PAUSE>
+<NAME_PLATE>
+　The orc made a grin, and put strength into his hips.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0060_r18
+<NAME_PLATE>Maika
+「Kuhh......!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0061_r18
+<NAME_PLATE>Maika
+（You wanna plunge it in all the way again?!）
+<PAUSE>
+<NAME_PLATE>
+　She knew what this guy wanted to do, because he had done it many times already.
+<PAUSE>
+<NAME_PLATE>
+　Which was why she hadn't done it herself.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0062_r18
+<NAME_PLATE>Maika
+（Here it comes!!）
+<PAUSE>
+<NAME_PLATE>
+　Maika's body firmly stiffened up.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「All right, here we go!!」
+<PAUSE>
+<NAME_PLATE>
+　The orc thrust his hips out as hard as he could.
+<PAUSE>
+<EV>chr_0251_1c_r18,NONE
+<NAME_PLATE>
+　Guboohh!!
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0063_r18
+<NAME_PLATE>Maika
+「Geoeeeeeeeeeeeeeeh!!」
+<PAUSE>
+<NAME_PLATE>
+　Her mouth, which she had thought was spread as wide as it could be, had been forced open even wider.
+<PAUSE>
+<NAME_PLATE>
+　The brutal mass of flesh instantly filled her oral cavity right up, and bored all the way to the back of her throat in one go.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0064_r18
+<NAME_PLATE>Maika
+「Ogohh...... oh, oh...... gohh...... egoh...... oooohhhh...... gebohh...」
+<PAUSE>
+<NAME_PLATE>
+　A powerful shock, which felt like she had been impaled on the cock, right through to the back of her head.
+<PAUSE>
+<NAME_PLATE>
+　She almost lost consciousness, and, beyond her control, tears flooded out.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0065_r18
+<NAME_PLATE>Maika
+「Mubobo...... gogoggo...... uguuu......」
+<PAUSE>
+<NAME_PLATE>
+　This pain, this humiliation.
+<PAUSE>
+<NAME_PLATE>
+　Even though she had been prepared to suffer it, there was no getting used to it.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0066_r18
+<NAME_PLATE>Maika
+（D...... Dammit......!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Gooood, good. It's filled you up snugly, right to the back.」
+<PAUSE>
+<NAME_PLATE>
+　The orc said in satisfaction, and gently rocked his hips.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0067_r18
+<NAME_PLATE>Maika
+「Obooohh...... geboh...... gubeh...... ueh...... oeogemuooohh!!」
+<PAUSE>
+<NAME_PLATE>
+　Having had a cock buried deep into her throat, Maika's head swayed back and forth, glued to the orc's loins.
+<PAUSE>
+<NAME_PLATE>
+　Drool overflowed from the edges of her lips, which had been spread so as to cling to the base of his cock.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0068_r18
+<NAME_PLATE>Maika
+「Mugu...... mugugugugu...... uguu......」
+<PAUSE>
+<NAME_PLATE>
+　Maika scowled at the blasted orc, with eyes that wouldn't stop tearing up.
+<PAUSE>
+<NAME_PLATE>
+　The enormous, warty cock was tightly buried all the way inside, as if putting a cork in her throat.
+<PAUSE>
+<NAME_PLATE>
+　Maika, who was putting both hands behind her head, couldn't even pull it out by herself now.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0069_r18
+<NAME_PLATE>Maika
+「Muguu...... fuuuu, mufuuuuu, gufuuuuuu...」
+<PAUSE>
+<NAME_PLATE>
+　The only things she could do were breathe, indecently wheezing through her nose, and move her tongue slightly inside her mouth,
+<PAUSE>
+<NAME_PLATE>
+which was filled to bursting with cock.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0070_r18
+<NAME_PLATE>Maika
+「Uju...... ju...... ruh...... ero...... nbu...... rero...... eroh......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Good girl, good girl. No matter how painful it is, you've gotta make sure to move your tongue and service me, right?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0071_r18
+<NAME_PLATE>Maika
+（Shuddup!! I'm doin' this BECAUSE it's painful, you damn asshole!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0072_r18
+<NAME_PLATE>Maika
+「Nbu...... uuh...... beroh...... uuh...... gubu...... reobero...... uuh...... uuh......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Are we still recording a video for your boyfriend?」
+<PAUSE>
+<NAME_PLATE>
+　The orc asked, to tease Maika, while rocking the camera back and forth.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0073_r18
+<NAME_PLATE>Maika
+「Huee...... hiww...... ih ahh...」
+（Please...... film...... it all...）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Eh? Wha'd you say? I can't hear ya that well. Have you gotten tongue-tied all of a sudden?」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0074_r18
+<NAME_PLATE>Maika
+「Fuguhh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0075_r18
+<NAME_PLATE>Maika
+（Shit! It's not like I could talk properly with such a huge dick in my mouth, is it?!!）
+<PAUSE>
+<NAME_PLATE>
+　Through stubbornness, Maika forcibly spread her mouth, which had been plugged up by his huge cock, and said it again.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0076_r18
+<NAME_PLATE>Maika
+「Bleahe vilm ih aaawww!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Ahh! 『Please film it all,』 huh? I get it, I get it!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Let's have him see plenty of you being intimate with Oji-san, okay?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0077_r18
+<NAME_PLATE>Maika
+「Ubuuuuuuuuuu!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0078_r18
+<NAME_PLATE>Maika
+（Shuddup and die!!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0079_r18
+<NAME_PLATE>Maika
+（I'll definitely kill you, asshole!! I'll turn you to ashes, this cock and all!!）
+<PAUSE>
+<NAME_PLATE>
+　As if to scoff at Maika's murderous impulses, the orc began thrusting.
+<PAUSE>
+<EV>chr_0251_1d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0080_r18
+<NAME_PLATE>Maika
+「Gebouomugoooohhh!!」
+<PAUSE>
+<NAME_PLATE>
+　The tip of the cock stuck into the back of her throat.
+<PAUSE>
+<NAME_PLATE>
+　Over and over and over again.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0081_r18
+<NAME_PLATE>Maika
+「Uebeboh!! Geboboooh!! Ogeehh, eboboooohhhh!!」
+<PAUSE>
+<NAME_PLATE>
+　It was tough to even breathe. It was all she could do to try not to faint.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「What's the matter? Your tongue's not moving! Hora, hora!」
+<PAUSE>
+<NAME_PLATE>
+　Gatsun gatsun gatsun!!
+<PAUSE>
+<NAME_PLATE>
+　With his meat pole still buried all the way into her throat, the orc was thrusting violently, even further and further ahead.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0082_r18
+<NAME_PLATE>Maika
+「Muguguguuuuuuuhh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0083_r18
+<NAME_PLATE>Maika
+（Shiiiit!! Don't underestimate Kamimura Maika!! I'll do it! I'm gonna move my tongue!）
+<PAUSE>
+<NAME_PLATE>
+　Almost obstinately, Maika twisted her own tongue around the pillar of flesh, which was being thrust back and forth.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0084_r18
+<NAME_PLATE>Maika
+「Nboh, juburoh! Uboboboh!! Bebohh, bubyu, bobyuuuuhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Saliva was flooding the inside of her mouth, about as much as her tears of chagrin were leaking out.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0085_r18
+<NAME_PLATE>Maika
+「Bubyuru!! Bobuyuu!! Bubobubohhh! Bobooooohhh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Good, good! Right, keep it up!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0086_r18
+<NAME_PLATE>Maika
+（Shut up and be quiet!! You shitty orc!! Shitty huge cock!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0087_r18
+<NAME_PLATE>Maika
+「Gubohh! Bubohhh!! Beroberoberobubohhh!! Oboboboh, nboooohhhh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0088_r18
+<NAME_PLATE>Maika
+（Dammit! Again!! It's here again!!）
+<PAUSE>
+<NAME_PLATE>
+　Her body was uncontrollably hot.
+<PAUSE>
+<NAME_PLATE>
+　Her whole body was burning hotter than when she used her Fire Escape Arts.
+<PAUSE>
+<NAME_PLATE>
+　Whenever her throat was fiercely gouged into by the extra-thick cock, and whenever she twisted her tongue around it, shameful
+<PAUSE>
+<NAME_PLATE>
+urges were building up.
+<PAUSE>
+<NAME_PLATE>
+　The aphrodisiac contained in the orc's precum was making Maika irresistibly horny.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0089_r18
+<NAME_PLATE>Maika
+「Nboh jubohhh! Jubonbohh, bobyuu!! Bobyubobyujubuuuuu!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0090_r18
+<NAME_PLATE>Maika
+（Because of a mere...... aphrodisiac like this...! Pathetic! Shiiit!!）
+<PAUSE>
+<NAME_PLATE>
+　She may have been thinking that in her head, but her body trembled with pleasure, her tongue wouldn't stop, and female juices
+<PAUSE>
+<NAME_PLATE>
+dripped down from her groin.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Well done, well done. This is 'cause Oji-san's developed Maika's throat pussy, right?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0091_r18
+<NAME_PLATE>Maika
+「Jubooohh!! Nboh nbohh! Gobogobojubojubonbooohh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Yeah, yeah, open up your throat like that. Right, at the back. That feels nice.」
+<PAUSE>
+<NAME_PLATE>
+　The orc's chatter grew restless, and not just his huge cock, but his entire body began quivering.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika feels good too, right? I'll train it thoroughly by the time you go back to your boyfriend.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0092_r18
+<NAME_PLATE>Maika
+（Shudduuuup!! If you're gonna cum, cum quickly!! You shitty-dicked orc!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0093_r18
+<NAME_PLATE>Maika
+「Jubbon bon boh!! Nbonjubonbojuboooohhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Even Maika couldn't stop herself anymore.
+<PAUSE>
+<NAME_PLATE>
+　The pain, which was so great that she couldn't even breathe, was fading away, and a vulgar urge for pleasure was filling her
+<PAUSE>
+<NAME_PLATE>
+mouth and tongue.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0094_r18
+<NAME_PLATE>Maika
+「Jubo nboh!! Jubojubonbonbonboohhh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0095_r18
+<NAME_PLATE>Maika
+（Ahh, this is bad! If it's let out now, I'll cum, I'm gonna cum for sure! But I can't stop suckin' cock!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0096_r18
+<NAME_PLATE>Maika
+（Fuuma, I'm sorry!! I'm not betraying you! That's not it! Ah, ah, aaahhh!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0097_r18
+<NAME_PLATE>Maika
+「Nbojubojubonbohh jubuoooooooooohhhhhhh!!!」
+<PAUSE>
+<NAME_PLATE>
+　The inside of her head went blank from her urge to orgasm, and that instant, Maika sucked on the orc cock as hard as she could.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0098_r18
+<NAME_PLATE>Maika
+「Fuguuuhhhh!!!」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0251_1e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　Dobyuuuuuuuu!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0099_r18
+<NAME_PLATE>Maika
+（It's heeeere!!）
+<PAUSE>
+<NAME_PLATE>
+　A more-than-usually powerful ejaculation struck Maika.
+<PAUSE>
+<NAME_PLATE>
+　Burning-hot, extra-thick, glue-like orc semen was being shot out.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0100_r18
+<NAME_PLATE>Maika
+「Gobugubumububuuuuuuuuhhh!!」
+<PAUSE>
+<NAME_PLATE>
+　It splashed against the back of her throat, and immediately flowed backwards, not just into her mouth, which had only a little free
+<PAUSE>
+<NAME_PLATE>
+space, but even into her nostrils.
+<PAUSE>
+<NAME_PLATE>
+　The inside of her nose stung, semen burst out of it, and she became unable to even breathe.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0101_r18
+<NAME_PLATE>Maika
+「Buufuufubuguguguh uuuhhh!! Mubu uuh, fugugufuuuuuu!!」
+<PAUSE>
+<NAME_PLATE>
+　In the midst of agony that felt like she was going to choke to death on cum, Maika's body was trembling slightly from the pleasure
+<PAUSE>
+<NAME_PLATE>
+of the aphrodisiac-filled semen hitting the back of her throat.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0102_r18
+<NAME_PLATE>Maika
+（Kuuh, it's spraying it!! Amazin' orc semen's splashing against me!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0103_r18
+<NAME_PLATE>Maika
+「Fugungufugugugumubuuuuuu!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Oh, looks like you're gonna cum, eh, Maika? Good, good! Please, do cum from Oji-san's semen!」
+<PAUSE>
+<NAME_PLATE>
+　The shitty orc (who, although thickheaded about other things, was keenly aware when it came to things like this) thrust his
+<PAUSE>
+<NAME_PLATE>
+ejaculating cock even further in.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0104_r18
+<NAME_PLATE>Maika
+「Mugoh, gubohh, ogogogogohh!! Geboeboguboooohhhh!!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0105_r18
+<NAME_PLATE>Maika
+（Shut up and let it out!! Hey, don't thrust while you ejaculaaate!!）
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　Dobyuuu!! Dobyuuu!! Dobyudobyudobyuuuu!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0106_r18
+<NAME_PLATE>Maika
+「Nguh, fuguh!! Bubuguguguguuuuhhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Gracelessly regurgitating semen snot, Maika's breathing became uncontrollably ragged.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0107_r18
+<NAME_PLATE>Maika
+（Shiiit, even though I don't wanna cum! Even though it's not Fuuma's dick!! Dammit, it's no use, it's no use anymooorrre!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0108_r18
+<NAME_PLATE>Maika
+（Fuuma! I'm sorry!! Please, shut your eyes!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Heeere!! Here's a throat pussy orgasm, Maika!!」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　Dobyuuuuuuu!!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0109_r18
+<NAME_PLATE>Maika
+「Fuguuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuhhh!!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0110_r18
+<NAME_PLATE>Maika
+（Cummmiiiiiinnnnng!!!）
+<PAUSE>
+<NAME_PLATE>
+　Maika's pleasure, which she had been just barely enduring, erupted into pure white.
+<PAUSE>
+<NAME_PLATE>
+　Her fiery eyes rolled back, and her body twisted and shuddered from an oral ejaculation orgasm.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0111_r18
+<NAME_PLATE>Maika
+「Muguuh, nguguguuuh, fubuh, buh, ububububuuuuhh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0112_r18
+<NAME_PLATE>Maika
+（I'm cumming! Cummin' hard!! It feels good, shiiiiiit!!）
+<PAUSE>
+<NAME_PLATE>
+　She hadn't been able to resist an orgasm today either.
+<PAUSE>
+<NAME_PLATE>
+　Feeling so pathetic that she wanted to die, she surrendered herself to her uncouth cum-drinking climax.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0113_r18
+<NAME_PLATE>Maika
+（Get a move on...... Fuuma...... Otherwise, I'm...... gonna fall...... Is that okay......? Are you okay with that?!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0114_r18
+<NAME_PLATE>Maika
+「Uuh, guh, muguh, uuh!! Nguuh, gubu, uuh, uuuhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Not even knowing herself whether it was from humiliation or ecstasy, Maika shed tears as she gulped down the orc cum.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0115_r18
+<NAME_PLATE>Maika
+「Nguh nguh, gokuh, gokun. Gokugoku...... nnh gogyuh, gogun...」
+<PAUSE>
+<NAME_PLATE>
+　The sound of her throat gulping it down, plugged up by the extra-thick cock, rang out disgustingly loudly.
+<PAUSE>
+<EV>chr_0251_1f_r18,NONE
+<NAME_PLATE>Orc Regular
+「Fuuuuh, it's out. A lot came out again today, eh, Maika?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0116_r18
+<NAME_PLATE>Maika
+「Uuh...... gu...... uuh......」
+<PAUSE>
+<NAME_PLATE>
+　Having finished his plentiful ejaculation, the orc looked down at Maika in apparent satisfaction.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Oh, no words of thanks, then?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0117_r18
+<NAME_PLATE>Maika
+「Han you...... ereh...... mush...... Thang you...... for the...... delicioush...... shemen......」
+<PAUSE>
+<NAME_PLATE>
+　Maika mumbled in an indecent voice, with his cock, which hadn't withered at all, still held inside her mouth.
+<PAUSE>
+<NAME_PLATE>
+　The semen that still remained in her mouth leaked out from the border between the cock and her lips.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika already knows what her regular, Oji-san, is gonna do next, right?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0118_r18
+<NAME_PLATE>Maika
+「Yessh, Ah...... know......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0119_r18
+<NAME_PLATE>Maika
+（Again, you asshole?! At least go to the bathroom beforehand!!）
+<PAUSE>
+<NAME_PLATE>
+　Despite cursing at him in her mind, Maika replied, with a mouth that couldn't taste anything but orc cum anymore,
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0120_r18
+<NAME_PLATE>Maika
+「Pleashe...... make...... my mouf...... a toileh......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0121_r18
+<NAME_PLATE>Maika
+「Please...... let out a lot...... oh pee...... I'll drink...... it all......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Right, right. Well remembered. Oji-san's pleased.」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0122_r18
+<NAME_PLATE>Maika
+「Kuhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika glared at the orc, who jiggled his belly in delight.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0123_r18
+<NAME_PLATE>Maika
+（Of course I remember!! You piss it out every single time!!）
+<PAUSE>
+<NAME_PLATE>
+　She cursed inside her mind, and that moment,
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<SE_PLAY>se068
+<NAME_PLATE>
+　Joboboboboboboboboboboboh!!
+<PAUSE>
+<NAME_PLATE>
+　Not semen, but overwhelmingly pungent urine streamed into her mouth.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0124_r18
+<NAME_PLATE>Maika
+（Shiiiit!!）
+<PAUSE>
+<NAME_PLATE>
+　Maika had no choice but to drink it down as soon as it was urinated.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0125_r18
+<NAME_PLATE>Maika
+「Goguhh, gogyu, gokugoku, nnh, nnh, nnnh, gogyuhh...」
+<PAUSE>
+<NAME_PLATE>
+　His urine rinsed off the semen that still stuck to the inside of her cheeks and the underside of her tongue, but that was no
+<PAUSE>
+<NAME_PLATE>
+consolation.
+<PAUSE>
+<NAME_PLATE>
+　The more that her oral ejaculation orgasm died down, the more she realized her own extreme wretchedness right now, and she
+<PAUSE>
+<NAME_PLATE>
+started really wanting to cry.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0126_r18
+<NAME_PLATE>Maika
+「Mm, mmh, mmmh, gokun, goku, gokugokuhhh...」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Good, good! You've gotten better at drinking it, haven't you, Maika?」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<SE_PLAY>se068
+<NAME_PLATE>
+　Joboooh, jobojoboooohhh～～～～～!!
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Does Oji-san's pee taste good?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0127_r18
+<NAME_PLATE>Maika
+「Nguh, nguh...... It'sh...... dewicioush...... gokugoku...」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Aren'tcha happy? Hora hora, this is Oji-san's gift to Maika!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0128_r18
+<NAME_PLATE>Maika
+（Shut up, ya pissin' orc bastard!! Let it all out quickly, dammit!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0129_r18
+<NAME_PLATE>Maika
+「Goku, goku, goku...... nnh nnh gokugoku, goku, gokun......」
+<PAUSE>
+<NAME_PLATE>
+　This was also for the sake of saving Fuuma.
+<PAUSE>
+<NAME_PLATE>
+　Telling herself that repeatedly, Maika continued her humiliating urine swallowing.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0130_r18
+<NAME_PLATE>Maika
+「Nnh nh...... nnh nnh...... nguh...... nh...... nnhh...... nkuh...」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Fuuh...... That's one load for starters. I'm finally warmed-up.」
+<PAUSE>
+<EV>chr_0251_1g_r18,NONE
+<NAME_PLATE>
+　The orc finally slid his cock out from Maika's mouth.
+<PAUSE>
+<NAME_PLATE>
+　Indeed, the oral ejaculation and urination were just a how-do-you-do, nothing more than preparations for the full-blown service that
+<PAUSE>
+<NAME_PLATE>
+would start after this.
+<PAUSE>
+<NAME_PLATE>
+　Naturally, the cock was shining wet, and harder than before he let it out.
+<PAUSE>
+<NAME_PLATE>
+　While cleaning that annoying thing with her tongue, Maika began her usual speech.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0131_r18
+<NAME_PLATE>Maika
+「Rero...... rero, rerorero...... Thank you...... vereh much...... reroh, foh visiding...... todeh...... reroreroh...」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0132_r18
+<NAME_PLATE>Maika
+「I'm gradefuh...... to Okyaku-hyama...... jureroh, foh always askin foh meh...... beroreroh...」
+<PAUSE>
+<NAME_PLATE>
+　She was seething with anger, but she had already gotten used to these lines, and the flirtatious smile.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0133_r18
+<NAME_PLATE>Maika
+「Today...... beron...... Ah'll go all oud...... rerorero, ta serviche you...... juruu...」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0134_r18
+<NAME_PLATE>Maika
+「Please fulleh enjoy Slave Prostitute Maika'sh dirty bodeh...... rerorero......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Of course I will, Maika! Let's surprise your boyfriend by making your cunt the shape of Oji-san's cock, okay?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0135_r18
+<NAME_PLATE>Maika
+「Y...... Yes...... Pleashe do......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0136_r18
+<NAME_PLATE>Maika
+（Is this asshole nuts?!! My pussy's long been a perfect fit for Fuuma!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0137_r18
+<NAME_PLATE>Maika
+（I'll remember this, asshole! Once Fuuma's released, I'll definitely kill you!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0138_r18
+<NAME_PLATE>Maika
+（I'll burn this damned cock off from the hilt and shove it in your mouth! Then roast you to death with the fires of hell!!）
+<PAUSE>
+<NAME_PLATE>
+　Contrary to what was inside her mind, Maika finished her cleanup by planting a kiss on his cock.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0139_r18
+<NAME_PLATE>Maika
+「Okyaku-sama, chuu♪」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Let's take a commemorative shot with Oji-san. To tell your beloved boyfriend, “Starting now, I'm going to work hard as a
+<PAUSE>
+<NAME_PLATE>
+Slave Whore again today,” okay?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0140_r18
+<NAME_PLATE>Maika
+「Y, yes......」
+<PAUSE>
+<NAME_PLATE>
+　The orc grabbed hold of Maika's head, and yanked her downcast face upwards.
+<PAUSE>
+<EV>chr_0251_1h_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_1_0141_r18
+<NAME_PLATE>Maika
+「Guhh!」
+<PAUSE>
+<NAME_PLATE>
+　And then, he pushed his readied cock against Maika's cheek.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「All right, Maika. Say something to your boyfriend. While doing a peace sign, okay?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0142_r18
+<NAME_PLATE>Maika
+（Shiiit!）
+<PAUSE>
+<NAME_PLATE>
+　Even so, Maika pointed a stiff smile at the camera, and showed a peace sign.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0143_r18
+<NAME_PLATE>Maika
+「F...... Fuuma...... From this point on, I'm gonna give plenty of service to this old guy's cock again today.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0144_r18
+<NAME_PLATE>Maika
+「Of course, I'm gonna have it all recorded on video. C, closely watch me, your woman, bein' a Slave Whore, okay? Heh heh...」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Well done. Now, Maika, shall we go to a seat?」
+<PAUSE>
+<NAME_PLATE>
+　The orc said, while slapping Maika's face with his cock.
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0145_r18
+<NAME_PLATE>Maika
+「Yes...... This way, please......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0146_r18
+<NAME_PLATE>Maika
+（Shit...... Fuuma, don't go thinkin' these are my real feelings!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0147_r18
+<NAME_PLATE>Maika
+（I'm doin' it for you, ya know. I'm putting up with a cock like this!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_1_0148_r18
+<NAME_PLATE>Maika
+（Whatever, just come back safe quickly, moron!!）
+<PAUSE>
+<NAME_PLATE>
+　While holding back words that she couldn't say, Maika guided the orc to the guest seating.
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

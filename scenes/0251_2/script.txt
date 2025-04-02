@@ -1,0 +1,1417 @@
+//【黒画面】
+//【背景：ヨミハラ＿ある娼館＿夜】【時間：夜】
+//　※対魔忍ユキカゼ_nc014aより流用
+<BG>chrnc0226c,IN, 1000
+<NAME_PLATE>
+　屈辱の即しゃぶおしぼりから
+数十分後―――。
+<PAUSE>
+//【背景：ヨミハラ＿ある娼館内大フロア＿夜】【時間：夜】
+//　※対魔忍アサギZERO_NC040aより流用
+<BGM_PLAY>bgm510,1000
+<BG>nc094a,IN, 1000
+<NAME_PLATE>
+　舞華は常連のオークが持ち込んだ
+特注衣装に着替えさせられていた。
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0251_2_0000_r18
+<NAME_PLATE>舞華
+「………ぅぅ」
+<PAUSE>
+//　※立ち絵
+//　　神村舞華立ち絵＿逆バニー衣装
+//　　　　＊対魔忍ＲＰＧ-神村舞華03イラスト裏より流用
+<VOICE_PLAY>chr_0251_2_0001_r18
+<NAME_PLATE>舞華
+（くそ、なんなんだ。
+　このイカれた格好はよ！）
+<PAUSE>
+<NAME_PLATE>
+　最近流行の逆バニーとかいう代物で、
+要するに胸から股間だけが
+露出した変態衣装だ。
+<PAUSE>
+<NAME_PLATE>
+　念の入ったことにウサギの尻尾と称して、
+白いふわふわがついたアナルビーズまで
+付けさせられていた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0002_r18
+<NAME_PLATE>舞華
+（ここだけちょっと可愛いのが
+　ムカつくぜ、畜生！）
+<PAUSE>
+<NAME_PLATE>
+　もちろん舞華のその様は、
+引き続き奴隷商人が撮影している。
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m176a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>奴隷商人
+「豚にも衣装だな。
+　よく似合ってるじゃないか」
+<PAUSE>
+//　※立ち絵
+//　　オークの奴隷商人
+//　　　　＊決戦アリーナのイラストより流用
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>常連オーク
+「舞華嬉しいだろ？　ほら、彼氏に笑顔」
+<PAUSE>
+//　※立ち絵
+//　　オーク
+//　　　　＊決戦アリーナのイラストより流用
+<VOICE_PLAY>chr_0251_2_0003_r18
+<NAME_PLATE>舞華
+「あ、あは……」
+<PAUSE>
+<NAME_PLATE>
+　舞華はカメラに向かって
+引きつった笑みを浮かべた。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「笑顔だけじゃ寂しいなあ。
+　もうちょっとウサギらしくしてみようか。
+　両手を頭にガニ股でピョンってしてごらん」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0004_r18
+<NAME_PLATE>舞華
+「は、はあ？」
+<PAUSE>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>0,ts_m176a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>奴隷商人
+「舞華、お客様のご要望だぞ。
+　両手を頭にガニ股でピョンだ」
+<PAUSE>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>1,chr_t0251b_r18,RIGHT, CENTER, NONE, linear, 1000
+<VOICE_PLAY>chr_0251_2_0005_r18
+<NAME_PLATE>舞華
+（なにがピョンだ！？
+　脳みそまでチンカス詰まってんのか！）
+<PAUSE>
+<NAME_PLATE>
+　しかし、ふうまを助けるためだ。
+<PAUSE>
+<NAME_PLATE>
+　対魔忍として、女として、
+誇りとか理性とかをそのへんに放り投げて、
+言われたとおりにする。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0006_r18
+<NAME_PLATE>舞華
+「ぴょ、ぴょん、ぴょん♪」
+<PAUSE>
+<NAME_PLATE>
+　頭の耳と一緒にひょこひょこ揺れ、
+アナルビーズのふわふわ尻尾が
+カチャカチャと間抜けな音を立てた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0007_r18
+<NAME_PLATE>舞華
+「ぴょん、ぴょん♪」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0008_r18
+<NAME_PLATE>舞華
+（くそぉ……死にてえ……）
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>常連オーク
+「あはあは、いいよ。
+　可愛いウサギちゃんだ、舞華」
+<PAUSE>
+<ACTOR_OUT>1,RIGHT,linear,1000
+<ACTOR>1,ts_m176a_r18,RIGHT, RIGHT, IN, linear, 1000
+<NAME_PLATE>奴隷商人
+「なかなかだな」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<ACTOR>1,chr_t0251b_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0251_2_0009_r18
+<NAME_PLATE>舞華
+「あ、ありがとうございます……ぴょん」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0010_r18
+<NAME_PLATE>舞華
+（このクソキモ野郎どもが。
+　絶対殺してやる……！！！）
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>常連オーク
+「それじゃあ、舞華ウサギちゃんに
+　セックス奉仕をお願いしようかな」
+<PAUSE>
+<BGM_STOP>1000
+<VOICE_PLAY>chr_0251_2_0011_r18
+<NAME_PLATE>舞華
+「わかりました……
+　よろしく……お願いします」
+<PAUSE>
+//【イベント絵：EV002a　【バニー】神村舞華Ｈ２】【時間：夜】
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm510,1000
+<EV>chr_0251_2a_r18,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>常連オーク
+「んーーーー。
+　今日は後ろからにするかな」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0012_r18
+<NAME_PLATE>舞華
+「ふあっっ！」
+<PAUSE>
+<NAME_PLATE>
+　オークはその馬鹿力を発揮して、
+舞華の身体を軽々と抱え上げると、
+<PAUSE>
+<NAME_PLATE>
+　ベッドにごろんと寝転んで、
+自分の上に彼女を仰向けに乗せた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0013_r18
+<NAME_PLATE>舞華
+「あんっ！」
+<PAUSE>
+<NAME_PLATE>
+　次いで舞華の両足をガバッと広げさせ、
+デカい手で両の乳房を鷲づかみにする。
+<PAUSE>
+<NAME_PLATE>
+　さらに熱り立ったイボチンポで
+割れ目から下腹をミシッと押さえつけて、
+彼女を動けないようにさせた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0014_r18
+<NAME_PLATE>舞華
+「はうっっ！」
+<PAUSE>
+<NAME_PLATE>
+　戦闘のときは雑な動きしかしないくせに
+こういうときだけ流れるように巧みだ。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0015_r18
+<NAME_PLATE>舞華
+（これだから生殖猿のオークはよ！
+　こんちくしょう！）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0016_r18
+<NAME_PLATE>舞華
+「は、はは……」
+<PAUSE>
+<NAME_PLATE>
+　ともすれば出かかる悪態を呑み込み、
+舞華は作り笑顔を浮かべるので精一杯だ。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「ほら、彼氏にビデオで
+　語りかけなくちゃならないんだろ？」
+<PAUSE>
+<NAME_PLATE>
+　オークは舞華の耳たぶの辺りを
+べろんべろんと薄汚く舐めながら言った。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0017_r18
+<NAME_PLATE>舞華
+「ううっ……は、はい……」
+<PAUSE>
+<NAME_PLATE>
+　全身にぞわぞわと鳥肌が立つのを感じながら
+オーナーが構えたビデオに語りかける。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0018_r18
+<NAME_PLATE>舞華
+「ふうま……み、見てるか？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0019_r18
+<NAME_PLATE>舞華
+「今から常連のお客さんと……
+　せ、セックスするけど……気にするなよ。
+　俺が好きでやってんだ」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0020_r18
+<NAME_PLATE>舞華
+（ふうま、俺がそんな女じゃねえのは
+　分かってんだろ！
+　違うからな！　演技だからな！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「そうそう♪
+　舞華はオジサンとセックスするのが
+　大好きだからね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0021_r18
+<NAME_PLATE>舞華
+（馬鹿野郎！　好きじゃねえよッ！！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「だから見てごらんよ。
+　オジサンに抱きしめられただけで
+　オマンコがもうこんなだ」
+<PAUSE>
+<NAME_PLATE>
+　オークはイボチンポをグイッグイッと反らせ
+舞華の割れ目を縦に刺激しながら言った。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0022_r18
+<NAME_PLATE>舞華
+「くっ……ぅう……ううっ……」
+<PAUSE>
+<NAME_PLATE>
+　たったそれだけの刺激でも
+媚薬ザーメンをこってりと飲まされた身体は
+イヤになるほど敏感に反応してしまう。
+<PAUSE>
+<NAME_PLATE>
+　舞華は息をキュウッと詰まらせ、
+その代わりにパックリ空いた下の口が
+クチャクチャと卑猥な音を鳴らした。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0023_r18
+<NAME_PLATE>舞華
+「ひあ……あ……くっ……ぁあ……」
+<PAUSE>
+<NAME_PLATE>
+　抱きしめられた身体がヒクヒクと震え、
+溢れ出した愛液が脈打ちチンポにねっちょりと
+絡みついていく。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0024_r18
+<NAME_PLATE>舞華
+（ち、畜生っっ！！
+　濡れすぎだろ、俺の身体ぁ！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「ガハハ！
+　そんなに震えて嬉しいなあオジサン。
+　今日も期待してくれてるんだよね」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「いつもいつも
+　熱いセックス見せちゃってるから。
+　彼氏ヤキモチだねえ」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0025_r18
+<NAME_PLATE>舞華
+（な、なに言ってんだこの野郎！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「舞華、彼氏が見ている前で
+　オジサンに今日もいっぱい愛してください
+　って言ってごらん」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0026_r18
+<NAME_PLATE>舞華
+「なっ！？」
+<PAUSE>
+<NAME_PLATE>
+　その舐めきった要望は
+さすがにすぐには応じかねたが、
+<PAUSE>
+<NAME_PLATE>常連オーク
+「言うんだ」
+<PAUSE>
+<NAME_PLATE>
+　下種な本性を現したオークは
+ドスの効いた声で囁きながら、
+鷲づかみにした乳房にグリッと力を込める。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0027_r18
+<NAME_PLATE>舞華
+「うぐっっ！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「今日もいっぱい愛してくださいね。
+　ほら」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0028_r18
+<NAME_PLATE>舞華
+「は、はい……」
+<PAUSE>
+<NAME_PLATE>
+　両乳を握りつぶされる痛みよりも、
+ふうまを助けたい一心で舞華は声を絞り出す。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0029_r18
+<NAME_PLATE>舞華
+「きょ、きょうも……い、いっぱい……
+　舞華を……あ、愛してくださいね♪」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「こういうことだよ。
+　舞華はすっかりオジサンの恋人なんだ。
+　いやあ、まいったなあ」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0030_r18
+<NAME_PLATE>舞華
+（勝手な解釈してんじゃねえ！
+　死ね死ね死ねえええ！！！）
+<PAUSE>
+//【イベント絵：EV002b　【バニー】神村舞華Ｈ２＿差分１】【時間：夜】
+<NAME_PLATE>常連オーク
+「それじゃあ、オジサンのチンポを
+　舞華のオマンコに入れようかな」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0031_r18
+<NAME_PLATE>舞華
+「は、はい……お願いします」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0032_r18
+<NAME_PLATE>舞華
+（うるせえ！
+　余計な能書き垂れてねえで、
+　さっさと入れて終わらしやがれ！）
+<PAUSE>
+<NAME_PLATE>
+　そう反射的に
+頭の中で悪態を吐く舞華だったが、
+<PAUSE>
+<EV>chr_0251_2b_r18,NONE
+<NAME_PLATE>
+　ぐぱあっ！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0033_r18
+<NAME_PLATE>舞華
+「かはっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　焼けるように熱いイボチンポが
+膣口を大きく拡げると心が挫けそうになる。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0034_r18
+<NAME_PLATE>舞華
+（ま、待てよコラ！！
+　畜生、やっぱりデカすぎんだろ！！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「ほらほら。
+　オジサンのデカチンポが舞華のオマンコに
+　入っていくよ！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0035_r18
+<NAME_PLATE>舞華
+「ううっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0036_r18
+<NAME_PLATE>舞華
+（んなこたあ……
+　わ、分かってんだよぉ……！！）
+<PAUSE>
+<NAME_PLATE>
+　ズブッ、ズブッ、ズブズズッ！
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0037_r18
+<NAME_PLATE>舞華
+（入って……くるうっ……
+　でけえのが……俺の中に……
+　オマンコ……拡がってる……くそお……）
+<PAUSE>
+<NAME_PLATE>
+　強大な肉塊が膣襞を押し広げながら
+奥へ奥へと強烈に突き進んでくる。
+<PAUSE>
+<NAME_PLATE>
+　悲しいかな、ここ一週間の奴隷娼婦暮らしで
+オマンコは犯されることに慣れ始めていた。
+<PAUSE>
+<NAME_PLATE>
+　しかもオークの媚薬ザーメンで
+蜜壺は悲しいくらいに愛液でグチョ濡れだ。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0038_r18
+<NAME_PLATE>舞華
+「うっ……くっ……あっ……ああ……
+　くうっ……ふっ……ううっ……くうう……」
+<PAUSE>
+<NAME_PLATE>
+　強烈な雄を埋め込まれる刺激に
+雌の身体がビクビクとみっともなく震える。
+<PAUSE>
+<NAME_PLATE>
+　極太チンポを嬉しそうに咥え込んだ膣口から
+膣内に溜まりに溜まっていたメス汁が
+ブヂュブチュと溢れて止まらない。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0039_r18
+<NAME_PLATE>舞華
+「ううっ……くっ……ぅう……
+　かふっ……うっく……くううっっ……」
+<PAUSE>
+<NAME_PLATE>
+　舞華は眉間にギュッと皺を寄せ、
+歯を食いしばって、みっともない喘ぎが
+口から漏れないようにしていた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0040_r18
+<NAME_PLATE>舞華
+（これも……ふうまが見るんだ……
+　こんなクソオーク相手に……
+　感じてる顔なんか……見せたくねえ）
+<PAUSE>
+<NAME_PLATE>
+　だが、そうやって
+快楽を抑えようとすればするほど、
+自分を犯しているチンポを意識してしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0041_r18
+<NAME_PLATE>舞華
+「うっ……くっ……うううっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0042_r18
+<NAME_PLATE>舞華
+（ちっくしょうっっ！！
+　なんでこんなに……でけえんだよ！
+　なんでこんなに……熱いんだよおっ！！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「うふふ、舞華。
+　一日ぶりのオジサンのチンポはどうだい？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0043_r18
+<NAME_PLATE>舞華
+「で、でかくて……熱い……です」
+<PAUSE>
+<NAME_PLATE>
+　僅かな心の隙、それとも身体の隙を突かれ、
+舞華は蕩け声でそう返事をしてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0044_r18
+<NAME_PLATE>舞華
+「はっ！？　ち、ちがっ―――」
+<PAUSE>
+<NAME_PLATE>
+　カメラに向かって否定しようとしたが
+もう遅かった。
+<PAUSE>
+<NAME_PLATE>
+　ずぼおおおっっ！！！
+<PAUSE>
+<NAME_PLATE>
+　忌々しい極太チンポが根元まで一気に
+突き刺さったのだ。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0045_r18
+<NAME_PLATE>舞華
+「おっうっふううーーーーーーーーっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　舞華はふうまに言い訳しようとした口を閉じ
+浅ましい喘ぎを噛み殺すことしかできない。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0046_r18
+<NAME_PLATE>舞華
+（ぜんぶ……入ってやがる……
+　でけえチンポが……ちくしょう……
+　オマンコが……震えてやがる……）
+<PAUSE>
+<NAME_PLATE>
+　とば口から子宮口まで拡張された膣道が
+まるでチンポにお帰りなさいを言うように
+ヒクヒクと小刻みにうねっている。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0047_r18
+<NAME_PLATE>舞華
+「あっ……あっ……ああっ……
+　うっ……くっ……ふう……あぁ……」
+<PAUSE>
+<NAME_PLATE>
+　頭よりも先に身体で分かってしまう。
+<PAUSE>
+<NAME_PLATE>
+　このオークに毎日毎日通われて、
+舞華の肉体が徐々に馴染み始めている。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「オマンコが喜んでるね。
+　奥までビクビク震えてるよ」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0048_r18
+<NAME_PLATE>舞華
+（余計なこと……言うんじゃねえ……
+　この……クソオークがあ……）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0049_r18
+<NAME_PLATE>舞華
+「くううっ……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「おや、返事がないなあ。
+　ひょっとしてまだ彼氏のことでも
+　考えてるのかな？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0050_r18
+<NAME_PLATE>舞華
+（あ、当たりめえだろ！！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「よし、わかった。
+　舞華の身体がどれだけ開発されたのか、
+　彼氏にゆっくり教えてあげようね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0051_r18
+<NAME_PLATE>舞華
+「なにいっ！？」
+<PAUSE>
+<NAME_PLATE>
+　舞華は思わず素の言葉で返してしまう。
+<PAUSE>
+<NAME_PLATE>
+　そんな彼女を嘲笑うかのように、
+常連のオークはチンポを全部埋め込んだまま
+乳房を捏ね回し始めた。
+<PAUSE>
+//【イベント絵：EV002c　【バニー】神村舞華Ｈ　　　　２＿差分２】【時間：夜】
+<EV>chr_0251_2c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0052_r18
+<NAME_PLATE>舞華
+「ひゃうううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　舞華の声がキュンとよじれる。
+<PAUSE>
+<NAME_PLATE>
+　今までただ強く握られていて、
+なんとかその刺激を我慢できていた乳房が
+ギュウッと揉み寄せられた。
+<PAUSE>
+<NAME_PLATE>
+　胸の谷間がなくなるほどに
+左右から強く押し潰され、
+さらに乳首に向かって絞り上げられる。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0053_r18
+<NAME_PLATE>舞華
+「ま、待てっ！！
+　はうっ、うっっ、くうううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　切ないようなもどかしいような
+柔肉の淫らなうねりに息が詰まる。
+<PAUSE>
+<NAME_PLATE>
+　身体がキュッとすくんでしまい、
+背中にぞわぞわと甘い快感が駆け上がって、
+どうしても声を抑えられない。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0054_r18
+<NAME_PLATE>舞華
+「んっ、くっ……ぅううっ……
+　あうっ……くっ……ああんっっ……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「舞華はオジサンにオッパイを揉まれるのが
+　大好きになったんだよね？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0055_r18
+<NAME_PLATE>舞華
+「そ、そんな……ことっ……」
+<PAUSE>
+<NAME_PLATE>
+　ぐにゅううううっ！！
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0056_r18
+<NAME_PLATE>舞華
+「ひゃふうううううっ！！」
+<PAUSE>
+<NAME_PLATE>
+　オークの煽り文句を否定しようとしても、
+それより先に乳房をギュウッと揉み寄せられ、
+言葉は黄色い喘ぎに変わってしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0057_r18
+<NAME_PLATE>舞華
+「んっ……くっ……ああっ……
+　だ、駄目……そんな……あっ……んっ……
+　おっぱ……強く……もんだら……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「彼氏が見てるのに感じちゃうもんね」
+<PAUSE>
+<NAME_PLATE>
+　むびゅっ、むぎゅっっ、
+むぎゅむぎゅむぎゅっ！！
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0058_r18
+<NAME_PLATE>舞華
+「へああっ！　あっあっ！！
+　ひゃあああんんっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「可愛いよ、舞華。
+　オジサンで感じてるところを
+　彼氏にもっと見せてあげようね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0059_r18
+<NAME_PLATE>舞華
+「そ、そんな……ことっ……！！
+　かはっ……ひゃっ……あっ、らめっ……！
+　あっんっ……ひあっ、ひゃあああんっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「舞華はほんとうに感じやすいなあ。
+　オジサン大好きだよ」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0060_r18
+<NAME_PLATE>舞華
+（くっそおっ！　この野郎っ！！
+　人の胸を玩具にしやがってっっ！！）
+<PAUSE>
+<NAME_PLATE>
+　悪態を吐く胸の内とは裏腹に、
+オークに抱きしめられた身体はワナワナと
+みっともなく震えて止まらない。
+<PAUSE>
+<NAME_PLATE>
+　しかもその震える身体を
+もっともっととねだるように、
+自分からオークに押し付けてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0061_r18
+<NAME_PLATE>舞華
+「ひゃあっ！　んっあ、ああっ！！
+　やあん、だめっ、そんな、ああんっ！！
+　んっ、あっっ、んっんーーーーーーっ！！」
+<PAUSE>
+<NAME_PLATE>
+　もう一瞬も口を閉じていられない。
+ヨガリながらイヤイヤをするように
+首を振ってしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0062_r18
+<NAME_PLATE>舞華
+（感じたく……ねえのにぃ……
+　こんなに弄られたら……畜生……
+　欲しくなっちまうだろ……くそお……）
+<PAUSE>
+<NAME_PLATE>
+　子宮のあたりがキュンキュンと
+まるで啜り泣くように疼いてきている。
+<PAUSE>
+<NAME_PLATE>
+　胸を玩具にされて感じれば感じるほど、
+さっき根元まで入れられて動いていない
+チンポを強く意識してしまう。
+<PAUSE>
+<NAME_PLATE>
+　動かして欲しい。掻き回して欲しい。
+胸だけでなくオマンコも感じさせて欲しい。
+それしか考えられなくなる。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0063_r18
+<NAME_PLATE>舞華
+（くそっ……こんな切ない感じ……
+　ふうまにしか……感じた事ねえのに……
+　なんで……こんなクソオークに……）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「おやあ、胸だけじゃ物足りないのかな？
+　もうオマンコを
+　ズボズボして欲しいのかな？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0064_r18
+<NAME_PLATE>舞華
+「はっっ！！
+　そ、そんなこと……思って……ないっ……」
+<PAUSE>
+<NAME_PLATE>
+　グニュウウウウウウウウッ！！
+<PAUSE>
+<NAME_PLATE>
+　嘘を吐いた子供を咎めるように、
+オークは両手で両の乳房を強く押し潰した。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0065_r18
+<NAME_PLATE>舞華
+「ひやあああああああああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　舞華は言い訳もできずに
+みっともない嬌声を上げるしかない。
+<PAUSE>
+//【イベント絵：EV002d　【バニー】神村舞華Ｈ２＿差分３】【時間：夜】
+<NAME_PLATE>常連オーク
+「誤魔化してもダメダメ。
+　オジサンにはすべてお見通しだよ。
+　ほら！！」
+<PAUSE>
+<EV>chr_0251_2d_r18,NONE
+<NAME_PLATE>
+　ズンッ！！
+<PAUSE>
+<NAME_PLATE>
+　オークが軽く腰を突き上げた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0066_r18
+<NAME_PLATE>舞華
+「んほおおっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ほんの僅かな動きだったのに、
+舞華の身体がビクンと強くうねった。
+<PAUSE>
+<NAME_PLATE>
+　膣口がキュウウッと窄まって、
+焦らされて膣内に溜まりまくっていた
+愛液がブビュッと噴き出す。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「ほーら、オマンコが喜んだよ」
+<PAUSE>
+<NAME_PLATE>
+　わかりきったことをわざと口にして
+オークがまた腰を動かす。
+<PAUSE>
+<NAME_PLATE>
+　ズンッ、ズンッッ！！
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0067_r18
+<NAME_PLATE>舞華
+「ひああんっ！！　あああんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　今度は二回だ。
+<PAUSE>
+<NAME_PLATE>
+　さっきより力を込めて、
+膣奥をチンポで押し上げられた。
+<PAUSE>
+<NAME_PLATE>
+　膣内の肉皺がイボチンポで
+ズルッ、ズルッと強く擦られて
+気が遠くなるほど感じてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0068_r18
+<NAME_PLATE>舞華
+（や……べえ……
+　このままじゃ……俺……また……
+　ふうまが……後で見るのに……）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0069_r18
+<NAME_PLATE>舞華
+「だ……めえ……
+　チンポ……動かしたら……だめぇ……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「こっちの口はそうは言ってないなあ」
+<PAUSE>
+<NAME_PLATE>
+　ずっぼ、ずっぼ、ずっぼ、ずっぼっ！！
+グッチュ、グッチュ、グッチュ、グッチュ！！
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0070_r18
+<NAME_PLATE>舞華
+「んほおおっ！！　おっっ！　おおおおっ！！
+　らめええ、それらめええええっっ！！
+　ズボズボしゅるのらめええっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　悔しいがオークの言う通りだ。
+<PAUSE>
+<NAME_PLATE>
+　リズミカルな抽送が始まると、
+舞華のオマンコはそれと息を合わせて
+イヤらしい雌音を鳴らしてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0071_r18
+<NAME_PLATE>舞華
+「ひああっ、ああんっ！！
+　あっあっあ、はあっ、
+　ふああああんっｌ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0072_r18
+<NAME_PLATE>舞華
+（ちくしょう、まただあっっ！！
+　ふうま、すまねえっ！
+　どうしても我慢できねえんだよおっ！！）
+<PAUSE>
+<NAME_PLATE>
+　極太チンポが抜き差しされるたび、
+発情したオマンコが外までベロベロとめくれ、
+それをビデオで全部撮られてしまう。
+<PAUSE>
+<NAME_PLATE>
+　みっともない喘ぎも我慢できない。
+ふうまに見られ、聞かれると分かっていても、
+チンポと一緒によがるしかない。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0073_r18
+<NAME_PLATE>舞華
+「へああっ、あああっ！！
+　ふうまに……見られるのにいっ……
+　くそお感じるっ……感じるぅうっ……！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「ひょっとして舞華は
+　自分が堕ちていくところを
+　彼氏に見せたいのかな？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0074_r18
+<NAME_PLATE>舞華
+「はあっ！？
+　そんなわけっっ！！
+　ね、ねえだろおっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　思いもよらないオークの言葉に
+舞華はハッとなって激しく首を振った。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「どうかな？
+　じゃあ、彼氏が見ている前で
+　舞華のここをグリグリすると」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0075_r18
+<NAME_PLATE>舞華
+「ひああっっ！！
+　やめっ、そこだめえええっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　オークはふうましか知らなかった
+舞華の一番敏感な部分を亀頭で刺激し始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0076_r18
+<NAME_PLATE>舞華
+「ちょっ、まてえっ、やあんっ！！
+　そ、そこは、すげえ弱いからあっ！
+　グリグリしたら感じるからあっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「うんうん、分かってるよ。
+　オジサンは毎日かよって舞華の弱点を
+　覚えたからね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0077_r18
+<NAME_PLATE>舞華
+「ふざけんなこらああああっ！！
+　ひああっああっ、
+　ひゃああああああああ！！」
+<PAUSE>
+<NAME_PLATE>
+　快感がきゅんと一気に跳ね上がり、
+全身の震えが止まらなくなる。
+<PAUSE>
+<NAME_PLATE>
+　オマンコが甘い悲鳴を上げている。
+蜜壺がさっきよりも強く窄まって、
+弱点を責めるチンポを絞っている。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「ほら、こんなに喜んでる」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0078_r18
+<NAME_PLATE>舞華
+「よ、喜んでる……わけじゃっ……！！
+　弱いとこ……ひ、刺激……ひゃれたら
+　だ、だ、誰らってえ……あああっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「違う違う。相手がオジサンだからだよ。
+　オジサン相手に
+　堕ちたところを見せたいんだ」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0079_r18
+<NAME_PLATE>舞華
+「ちち、違うっていってんらろおおっ！！
+　くひょおおおおおおおおおおおっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　もう奴隷娼婦らしい
+言葉遣いをする余裕もなくなり、
+舞華は裏返った声で必死に抗う。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「舞華は強情だなあ」
+<PAUSE>
+<NAME_PLATE>
+　オークはニヤニヤと笑いながら、
+左右から胸を押し潰していた指を
+不意にツツーッと乳首に移動させた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0080_r18
+<NAME_PLATE>舞華
+「ちょっ、まてっ、ひゃめろっ！！」
+<PAUSE>
+<NAME_PLATE>
+　なにをするつもりか分かって、
+舞華は悲鳴を上げた。
+<PAUSE>
+//【イベント絵：EV002e　【バニー】神村舞華Ｈ２＿差分４】【時間：夜】
+<NAME_PLATE>常連オーク
+「ダーメ」
+<PAUSE>
+<NAME_PLATE>
+　オークのぶっとい指が舞華の乳首を
+二つまとめて摘まみあげた。
+<PAUSE>
+<EV>chr_0251_2e_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0081_r18
+<NAME_PLATE>舞華
+「ンッヒィイイイイイイイイイイイイッ！！」
+<PAUSE>
+<NAME_PLATE>
+　舞華は甲高い叫びを上げて、
+顎をガクンと仰け反らせていた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0082_r18
+<NAME_PLATE>舞華
+（ちっくしょおっっ！！
+　乳首はメチャクチャ弱えんだよおっ！！）
+<PAUSE>
+<NAME_PLATE>
+　今は付けていないが、
+初めてふうまに抱かれた時に
+ピアスの穴を開けられた乳首だ。
+<PAUSE>
+<NAME_PLATE>
+　それ以来、どうしようもないくらい
+敏感になってしまったエロ乳首だ。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0083_r18
+<NAME_PLATE>舞華
+「ひゃめめっっ！　しょこはらめえっ！
+　ち、ち、乳首は弄るにゃああああっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「そう言われると、
+　オジサンは弄りたくなっちゃうんだよねえ」
+<PAUSE>
+<NAME_PLATE>
+　オークは楽しそうに言いながら、
+左右の敏感乳首をコリコリ、コリコリと捻る。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0084_r18
+<NAME_PLATE>舞華
+「あひっ！　あっあっあああっ！！
+　やあんっ、あんあんっ、ふああああんっ！」
+<PAUSE>
+<NAME_PLATE>
+　残酷なコリコリのリズムに合わせて
+舞華の身体がバネ仕掛けのように
+悦びに弾んだ。
+<PAUSE>
+<NAME_PLATE>
+　デカチンポをすっかり咥え込んだ雌穴からは
+小さな潮がピュピュッと噴き上がる。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0085_r18
+<NAME_PLATE>舞華
+「ちょっ、まてっ！
+　ひゃんっ、とめりょおっ！
+　乳首そんなクリクリしゅりゅなあっ！！」
+<PAUSE>
+<NAME_PLATE>常連
+「おやあ、乳首にピアスの穴が空いてるねえ」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0086_r18
+<NAME_PLATE>舞華
+「はっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0087_r18
+<NAME_PLATE>舞華
+（この野郎っ、気づきやがったっっ！！）
+<PAUSE>
+<NAME_PLATE>常連オーク
+「誰のために開けたのかな？
+　ひょっとしてオジサンのためかな？」
+<PAUSE>
+<NAME_PLATE>
+　普通なら絶対に分からないピアス穴を
+爪の先でグリグリと穿りながら聞いてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0088_r18
+<NAME_PLATE>舞華
+「ンなっ！　わけっっ、ね、ねえだろおっ！！
+　あいつに開けられたんらおおおっっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「やっぱりそうだよね。
+　でも、なにもついてないのは寂しいな。
+　今度新しいのを持ってきてあげるね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0089_r18
+<NAME_PLATE>舞華
+「い、い、いらねええっっ！
+　そんなもんっ、いらねええっっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「遠慮しない遠慮しない」
+<PAUSE>
+<NAME_PLATE>
+　オークは弄られまくって
+もうクリトリスよりも敏感になってしまった
+二つのポッチを執拗に捏ねくり回した。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0090_r18
+<NAME_PLATE>舞華
+「ひゃっ、バカッ、アアンッ！　そんなっ！！
+　やめっ、乳首っ、おかしくなるらろっ！
+　アアだめっ、これらめ、らみぇええっ！！」
+<PAUSE>
+<NAME_PLATE>
+　頭の中がジワジワと焼けていくような、
+気が狂いそうなほど切ない衝動が舞華を襲う。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0091_r18
+<NAME_PLATE>舞華
+「へあっ！！　あへっ、はひええっ！！
+　俺っ、も、もう、くそおっ！！
+　我慢できない、できないいいっ！！」
+<PAUSE>
+<NAME_PLATE>
+　身体がイキたがっている。
+<PAUSE>
+オマンコが精液を思いきり欲しがっている。
+<PAUSE>
+<NAME_PLATE>
+　相手はこんなオークなのに。
+これをふうまが見ることになるのに。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「オマンコがすごい痙攣してるよ。
+　ひょっとしてイキたくなったのかな？」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0092_r18
+<NAME_PLATE>舞華
+「ちっ、ちがうっ、イキたくなんかないっ！
+　お、俺はっ、あああ俺はイキたくないっ！！
+　ちがうちがうひがううううううっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「残念だなあ。
+　オジサンはイキたくなっちゃったよ。
+　じゃあ一人でイクことにしようかな」
+<PAUSE>
+<NAME_PLATE>
+　オークはわざとらしく言うと、
+フィニッシュに向けてさらに強く
+チンポを奥に突き上げ始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0093_r18
+<NAME_PLATE>舞華
+「おふぉおおおおおおっっっ！！
+　ま、まてっ、やめりょっ、イクなっっ！
+　いまイクなっ、らめえイクなああっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0094_r18
+<NAME_PLATE>舞華
+「へあっ、ひあっ、ひゃああんっっ！
+　お前がイッたら、ああんっ我慢できないっっ
+　イッちゃうっおれも絶対イッちゃうっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「やっぱりイキたいんだ。
+　じゃあオジサンと一緒にキメようね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0095_r18
+<NAME_PLATE>舞華
+「ちち、違うっていってんりょおおっっ！！
+　んほっ、おほおっ、とめりょおおおっ！
+　チンポとめりょばかあああアアア！！」
+<PAUSE>
+//【イベント絵：EV002f　【バニー】神村舞華Ｈ２＿差分５】【時間：夜】
+<NAME_PLATE>常連オーク
+「舞華はワガママだなあ。
+　よしわかった。じゃあここでストップだ」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0251_2f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　ごぼぉおおおおっ！！！
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0096_r18
+<NAME_PLATE>舞華
+「おっほぉおおおおおおおおおおおおお
+　おおおおおおおおおおおおっおおおっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0097_r18
+<NAME_PLATE>舞華
+（こ、こ、この野郎ッッ！！！）
+<PAUSE>
+<NAME_PLATE>
+　オークは確かにチンポを止めた。
+<PAUSE>
+<NAME_PLATE>
+　トドメとばかりに深く突き上げて、
+子宮口をみっちり串刺しにして止めたのだ。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0098_r18
+<NAME_PLATE>舞華
+「イィイイイイイイイイイイイイ
+　イイイイイイイイイイイッッッ！！！」
+<PAUSE>
+<NAME_PLATE>
+　何もかも吹き飛ぶような快感に
+舞華の子宮口がキュウッと強く窄まって、
+亀頭のくびれを完全に咥え込む。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0099_r18
+<NAME_PLATE>舞華
+（この感じ、やべえ、やべえよおぉ！！
+　ああくそっ、も、もうだめっ―――！！）
+<PAUSE>
+<NAME_PLATE>
+　そこから焼けるように熱いザーメンが
+子宮に向かって直出しされた。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ドビュウウウッ、ドビュウウッ、
+ドビュドビュドッビュウウウッ！！！
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0100_r18
+<NAME_PLATE>舞華
+（だめぇえええええええええええっ！！！）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0101_r18
+<NAME_PLATE>舞華
+「イグイグイグイグイグ
+　イグゥうううううううううううっっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　一瞬も耐えられなかった。
+<PAUSE>
+<NAME_PLATE>
+　舞華は敗北の嬌声をあげて絶頂する。
+<PAUSE>
+<NAME_PLATE>
+　ドクンドクンと子宮に精液がぶち当たり、
+真っ白なアクメに全てが蕩けていく。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0102_r18
+<NAME_PLATE>舞華
+「あああっ！！！
+　あたってりゅううっ！！
+　熱いのしゅごく当たってるううっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0103_r18
+<NAME_PLATE>舞華
+「もうらめ子宮溶けるううっっ！！
+　あっちゅいザーメンで
+　ぜんぶとけりゅうううううううっっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0104_r18
+<NAME_PLATE>舞華
+「ンヒィイイイイイイイイッ！！
+　いくいくひくぅうううううううううっ！！」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「舞華のアクメは本当に可愛いな。
+　もっとオジサンを感じてごらん」
+<PAUSE>
+<NAME_PLATE>
+　オークは子宮口を完全に貫いたまま、
+射精チンポでその奥をグリグリと抉った。
+<PAUSE>
+<NAME_PLATE>
+　全く勢いの治まらない射精の濁流が
+さらに激しく舞華に叩きつけられる。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0105_r18
+<NAME_PLATE>舞華
+「ひゃんっ！　あんっあんっっ！！
+　ザーメンチンポグリグリしゅごいっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0106_r18
+<NAME_PLATE>舞華
+「イッてるのにまたイクっ！！
+　またしゅごいイクっっ！！
+　またイクまたイクまたイクぅうっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0107_r18
+<NAME_PLATE>舞華
+「イクぅううううううううううう
+　うううううううううっっっ！！！！」
+<PAUSE>
+<NAME_PLATE>
+　舞華はもうヨガリ狂うことしか出来ない。
+<PAUSE>
+<NAME_PLATE>
+　子宮口は甘い悲鳴をあげ、
+膣道全部が狂ったように痙攣して、
+オークチンポから精液を搾り上げる。
+<PAUSE>
+<NAME_PLATE>
+　その代わり小便を漏らしたような
+激しい潮が噴き上がり、
+<PAUSE>
+<NAME_PLATE>
+　舞華の醜態を全て撮影しているカメラを
+ビチャビチャに濡らしていく。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0108_r18
+<NAME_PLATE>舞華
+「あっあっあっあっああああああああああああ
+　んんんんんんんんんんんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　だが連続アクメ中の舞華の頭からは
+ビデオ撮影のことも、ふうまのことも
+完全に消し飛んでいた。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0109_r18
+<NAME_PLATE>舞華
+「イクぅううイクぅううっ！！
+　イクぅううんんんんんンンンンン！！！」
+<PAUSE>
+//【イベント絵：EV002g　【バニー】神村舞華Ｈ２＿差分６】【時間：夜】
+<BGM_STOP>1000
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm510,1000
+<EV>chr_0251_2g_r18,IN, 1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0251_2_0110_r18
+<NAME_PLATE>舞華
+「はひっ……ひゃひ……はあ……
+　へぁあ……あぁ……はぁ……はぁぁ……」
+<PAUSE>
+<NAME_PLATE>
+　長い長いオークの一発目の射精が終わった。
+<PAUSE>
+<NAME_PLATE>
+　舞華からようやくチンポがズル抜かれ、
+パックリと口を開けたオマンコからは
+ゴプリゴプリと濃い精液が逆流している。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0111_r18
+<NAME_PLATE>舞華
+「あへっ……はひえ……あぇ……ひゃぁ……」
+<PAUSE>
+<NAME_PLATE>
+　ただ一回の中出しで舞華は正体をなくし、
+顔は蕩けきったまま元に戻らない。
+<PAUSE>
+<NAME_PLATE>
+　喘ぎすぎて緩んでしまった口は半開きで、
+唇の端から舌がだらしなく垂れていた。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「オジサンの射精一回で
+　舞華は何回くらいイッたかな？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0112_r18
+<NAME_PLATE>舞華
+「ひょんらの……わかんねえ……よぉ……
+　いっぱい……ひっぱい……いっらのぉ……」
+<PAUSE>
+<NAME_PLATE>
+　舞華は呂律の回らなくなった声で答えた。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「カメラの向こうで彼氏が見てるよ。
+　今日もオジサンのチンポで
+　いっぱいイッたって報告しようね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0113_r18
+<NAME_PLATE>舞華
+「は、はひぃ……」
+<PAUSE>
+<NAME_PLATE>
+　舞華は霞がかかったような目を
+カメラに向けた。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0114_r18
+<NAME_PLATE>舞華
+「ふ……ふうまぁ……見てりゅ……かあ……
+　俺……今日もまた……オジサンのチンポれえ
+　ひゅっげえ……イッちゃったろお……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「気持ちよかった？」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0115_r18
+<NAME_PLATE>舞華
+「とっれも……きもち……よかっらぁ……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「ならピースだよ、舞華」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0116_r18
+<NAME_PLATE>舞華
+「ぴ、ぴーしゅ……ぴーすぅ♪」
+<PAUSE>
+<NAME_PLATE>
+　舞華はぷるぷると手を震わせて、
+オークに言われるがまま両手でピースをした。
+<PAUSE>
+<NAME_PLATE>
+　相手の言うことに返すのが精一杯で
+自分の言動を恥と思う余裕などもうない。
+<PAUSE>
+<NAME_PLATE>常連オーク
+「今日はこれからもっといっぱい
+　オジサンに奉仕してくれるんだよね？」
+<PAUSE>
+<NAME_PLATE>
+　舞華はアヘ顔のままコクコクと頷く。
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0117_r18
+<NAME_PLATE>舞華
+「そうらろ……こりぇからぁ……
+　もっといっぱい……おじひゃんに……
+　ほ、ほうし……しゅるんらぁ……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「全部見て欲しいよね」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0118_r18
+<NAME_PLATE>舞華
+「ぜんぶ……見て……
+　おれが……しゅるとこ……
+　ぜんぶ……見て……ふうまぁ……」
+<PAUSE>
+<NAME_PLATE>常連オーク
+「舞華は本当に可愛いなあ」
+<PAUSE>
+<NAME_PLATE>
+　オークはずっと摘まみっぱなしだった乳首を
+キューッと絞り上げる。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0119_r18
+<NAME_PLATE>舞華
+「ひゃぁあああああああんんんんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　舞華の甘えたような嬌声がまた弾けた。
+<PAUSE>
+<NAME_PLATE>
+　今日の奉仕は始まったばかり。
+<PAUSE>
+<NAME_PLATE>
+　そして、ふうまが助けられるまで
+今日と同じ、いやそれ以上の恥辱の日々が
+続いていくのだ。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

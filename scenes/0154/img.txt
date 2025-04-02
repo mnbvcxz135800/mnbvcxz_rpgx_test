@@ -1,0 +1,28 @@
+{
+  "pairList": [
+    {
+      "parent": "chr_0154a_r18",
+      "child": "chr_0154b_r18"
+    },
+    {
+      "parent": "chr_0154a_r18",
+      "child": "chr_0154c_r18"
+    },
+    {
+      "parent": "chr_0154a_r18",
+      "child": "chr_0154d_r18"
+    },
+    {
+      "parent": "chr_0154a_r18",
+      "child": "chr_0154e_r18"
+    },
+    {
+      "parent": "chr_0154a_r18",
+      "child": "chr_0154f_r18"
+    },
+    {
+      "parent": "chr_0154a_r18",
+      "child": "chr_0154g_r18"
+    }
+  ]
+}

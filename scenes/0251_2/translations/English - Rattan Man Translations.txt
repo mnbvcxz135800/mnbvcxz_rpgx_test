@@ -1,0 +1,1164 @@
+<BG>chrnc0226c,IN, 1000
+<NAME_PLATE>
+　A few dozen minutes after the humiliating sokushabu hot towel―――
+<PAUSE>
+<BGM_PLAY>bgm510,1000
+<BG>nc094a,IN, 1000
+<NAME_PLATE>
+　Maika had been made to change into a custom-made costume that her orc regular had brought in.
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0251_2_0000_r18
+<NAME_PLATE>Maika
+「.........uu...」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0001_r18
+<NAME_PLATE>Maika
+（Shit, what's with this crazy outfit?!）
+<PAUSE>
+<NAME_PLATE>
+　It was something called a reverse bunny, which was in fashion these days―In short, a perverted costume where only the area from
+<PAUSE>
+<NAME_PLATE>
+her chest to her groin was exposed.
+<PAUSE>
+<NAME_PLATE>
+　For detail, she was even forced to wear anal beads with white fluff on them, purporting to be a rabbit's tail.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0002_r18
+<NAME_PLATE>Maika
+（It pisses me off that it's kinda cute just in this one place! Dammit!）
+<PAUSE>
+<NAME_PLATE>
+　Of course, the slave trader was continuously filming Maika looking like this.
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m176a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Slave Trader
+「Now there's an outfit for a pig. It looks good on her, doesn't it?」
+<PAUSE>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Orc Regular
+「Aren't you happy, Maika? Hora, smile for your boyfriend!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0003_r18
+<NAME_PLATE>Maika
+「A, aha......」
+<PAUSE>
+<NAME_PLATE>
+　Maika made a stiff smile at the camera.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「It's lacking with just a smile. Could you try acting a little more rabbity? Go boing, with your legs bent and both hands on your
+<PAUSE>
+<NAME_PLATE>
+head.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0004_r18
+<NAME_PLATE>Maika
+「H, huh?」
+<PAUSE>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>0,ts_m176a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Slave Trader
+「Maika, this is your customer's request. Hands on head, bandy legs, boing.」
+<PAUSE>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR>1,chr_t0251b_r18,RIGHT, CENTER, NONE, linear, 1000
+<VOICE_PLAY>chr_0251_2_0005_r18
+<NAME_PLATE>Maika
+（Whaddya mean, boing?! Is your brain clogged with dick cheese too?!）
+<PAUSE>
+<NAME_PLATE>
+　However, this was to save Fuuma.
+<PAUSE>
+<NAME_PLATE>
+　She threw aside her pride and reason as a Taimanin, as a woman, and did as she was told.
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0006_r18
+<NAME_PLATE>Maika
+「B, boing, boing♪」
+<PAUSE>
+<NAME_PLATE>
+　The fluffy tail on the anal beads swayed in time with the ears on her head,  making stupid-sounding clacking noises.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0007_r18
+<NAME_PLATE>Maika
+「Boing, boing♪」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0008_r18
+<NAME_PLATE>Maika
+（Shit...... I wanna die......）
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Orc Regular
+「Aha, aha, good! You're a cute bunny, Maika.」
+<PAUSE>
+<ACTOR_OUT>1,RIGHT,linear,1000
+<ACTOR>1,ts_m176a_r18,RIGHT, RIGHT, IN, linear, 1000
+<NAME_PLATE>Slave Trader
+「Not bad.」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<ACTOR>1,chr_t0251b_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0251_2_0009_r18
+<NAME_PLATE>Maika
+「Th, thank you very much...... Boing!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0010_r18
+<NAME_PLATE>Maika
+（You damn gross bastards! I'm definitely gonna kill you......!!!）
+<PAUSE>
+<ACTOR>1,chr_t0251b_r18,CENTER, RIGHT, NONE, linear, 1000
+<ACTOR>0,ts_m036a_r18,LEFT, LEFT, IN, linear, 1000
+<NAME_PLATE>Orc Regular
+「Well then, I suppose I'll request some sex service from Maika Bunny-chan.」
+<PAUSE>
+<BGM_STOP>1000
+<VOICE_PLAY>chr_0251_2_0011_r18
+<NAME_PLATE>Maika
+「Understood...... Thank you...... very much...」
+<PAUSE>
+<GROUP>
+<ACTOR_OUT>0,LEFT,linear,1000
+<ACTOR_OUT>1,RIGHT,linear,1000
+</GROUP>
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm510,1000
+<EV>chr_0251_2a_r18,IN, 1000
+<UI_DISP>ON, 0
+<NAME_PLATE>Orc Regular
+「Mmmmm. I think I'll do it from behind today.」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0012_r18
+<NAME_PLATE>Maika
+「Huahh!」
+<PAUSE>
+<NAME_PLATE>
+　Demonstrating his ridiculous strength, the orc easily lifted Maika's body up into his arms, then plopped down on a bed and placed
+<PAUSE>
+<NAME_PLATE>
+her on top of himself, facing upward.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0013_r18
+<NAME_PLATE>Maika
+「Anh!」
+<PAUSE>
+<NAME_PLATE>
+　Next, he suddenly spread Maika's legs, and grabbed hold of both breasts with his huge hands.
+<PAUSE>
+<NAME_PLATE>
+　Furthermore, he pinned down everything from her cleft to her stomach with his raging, warty cock, making it so that she couldn't
+<PAUSE>
+<NAME_PLATE>
+move.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0014_r18
+<NAME_PLATE>Maika
+「Hauhh!」
+<PAUSE>
+<NAME_PLATE>
+　They made nothing but crude movements during combat, yet just at times like these, their movements were skillful and fluid.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0015_r18
+<NAME_PLATE>Maika
+（This is why orcs are called breeding monkeys! Goddammit!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0016_r18
+<NAME_PLATE>Maika
+「Ha, haha......」
+<PAUSE>
+<NAME_PLATE>
+　Holding back the insulting words that were about to come out, Maika did her best to make a fake smile.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Hora, you have to talk to your boyfriend on the video, don't you?」
+<PAUSE>
+<NAME_PLATE>
+　The orc said, while licking filthily around Maika's earlobe.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0017_r18
+<NAME_PLATE>Maika
+「Uuh...... Y, yes......」
+<PAUSE>
+<NAME_PLATE>
+　While feeling goosebumps rising across her entire body, she started talking into the camera that the owner manned.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0018_r18
+<NAME_PLATE>Maika
+「Fuuma...... A, are you watching?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0019_r18
+<NAME_PLATE>Maika
+「Starting now, I'm going to have...... s, sex with my regular customer, but...... Don't worry! I'm doing it 'cuz I like it.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0020_r18
+<NAME_PLATE>Maika
+（Fuuma, you know I'm not that kinda woman, right?! It's not true! It's acting!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Right, right♪ Maika loves having sex with Oji-san, after all.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0021_r18
+<NAME_PLATE>Maika
+（Moron! I don't like it!!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「So please watch. Her cunt's like this already, just from Oji-san holding her close.」
+<PAUSE>
+<NAME_PLATE>
+　The orc said, as he made his warty cock arch backwards to vertically stimulate Maika's cleft.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0022_r18
+<NAME_PLATE>Maika
+「Kuh...... uu...... uuh......」
+<PAUSE>
+<NAME_PLATE>
+　Her body, which had been made to chug aphrodisiac semen, reacted disgustingly sensitively, even to that little stimulation.
+<PAUSE>
+<NAME_PLATE>
+　Maika became choked for breath, and in exchange, her lower mouth gaped open and made obscene squelching noises.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0023_r18
+<NAME_PLATE>Maika
+「Hiah...... ah...... kuh...... ahh......」
+<PAUSE>
+<NAME_PLATE>
+　Her body, which had been held tight, shivered, and the love juices that flowed out of it slimily twisted around his throbbing
+<PAUSE>
+<NAME_PLATE>
+cock.
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0024_r18
+<NAME_PLATE>Maika
+（D, dammit!! My body's too wet!!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Gahaha! You're so happy you're shaking, huh, Maika? You've been looking forward to it today too, haven't you?」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「We're always, always showing him our passionate sex, so your boyfriend's gonna be jealous, isn't he?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0025_r18
+<NAME_PLATE>Maika
+（Wh, what're you saying, you bastard?!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika, tell Oji-san, “Please give me lots of love again today,” while your boyfriend's watching.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0026_r18
+<NAME_PLATE>Maika
+「Wha?!」
+<PAUSE>
+<NAME_PLATE>
+　Understandably, she found herself unable to immediately comply with that utterly contemptuous demand, but
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Say it.」
+<PAUSE>
+<NAME_PLATE>
+　The orc, who had revealed his true, scummy nature, whispered in a threatening tone, while firmly putting strength into her
+<PAUSE>
+<NAME_PLATE>
+breasts, which he had grabbed hold of.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0027_r18
+<NAME_PLATE>Maika
+「Uguhh!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「“Please give me lots of love again today.” Hora!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0028_r18
+<NAME_PLATE>Maika
+「Y, yes......」
+<PAUSE>
+<NAME_PLATE>
+　Maika squeezed her voice out, less from the pain of having her breasts crushed than from her wholeheartedly wanting to save Fuuma.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0029_r18
+<NAME_PLATE>Maika
+「P, please...... g, give Maika...... lots of l-love...... today, too♪」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「So that's how it is. Maika is Oji-san's lover, through and through. All right, I give in.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0030_r18
+<NAME_PLATE>Maika
+（Don't interpret that however you like! Die die diiieee!!!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Well, I suppose Oji-san'll put his cock in Maika's cunt, then.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0031_r18
+<NAME_PLATE>Maika
+「Y, yes...... Please do.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0032_r18
+<NAME_PLATE>Maika
+（Shuddup! Don't give me this needless boasting! Put it in quick, and get it over with!）
+<PAUSE>
+<NAME_PLATE>
+　Maika reflexively spit out insults inside her head, but
+<PAUSE>
+<EV>chr_0251_2b_r18,NONE
+<NAME_PLATE>
+　Gupaah!
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0033_r18
+<NAME_PLATE>Maika
+「Kahahhh!!」
+<PAUSE>
+<NAME_PLATE>
+　His burning-hot, warty cock spread her vaginal entrance out wide, and she almost lost her nerve.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0034_r18
+<NAME_PLATE>Maika
+（W, wait, hey!! Dammit, it really is way too big!!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Look, look! Oji-san's big cock is going inside Maika's pussy!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0035_r18
+<NAME_PLATE>Maika
+「Uuhh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0036_r18
+<NAME_PLATE>Maika
+（I, I know...... that much......!!）
+<PAUSE>
+<NAME_PLATE>
+　Zubu, zubu, zubuzuzu!
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0037_r18
+<NAME_PLATE>Maika
+（Somethin' huge...... coming...... inside meee...... Stretching out...... my pussy...... Shiiit......）
+<PAUSE>
+<NAME_PLATE>
+　His mighty mass of flesh pushed her vaginal folds apart as it aggressively plunged deeper and deeper.
+<PAUSE>
+<NAME_PLATE>
+　Sadly, due to living as a Slave Prostitute this past week, her pussy had started getting used to being violated.
+<PAUSE>
+<NAME_PLATE>
+　Moreover, thanks to the orc's aphrodisiac semen, her honey pot was pitifully sopping with love juices.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0038_r18
+<NAME_PLATE>Maika
+「Uuh...... kuh...... ah...... ahh...... kuuh...... fuh...... uuh...... kuuu......」
+<PAUSE>
+<NAME_PLATE>
+　Her female body was shamelessly trembling from the stimulation of having his powerful malehood buried inside her.
+<PAUSE>
+<NAME_PLATE>
+　The bitch juices that had been building up inside her vagina, which had happily taken the extra-thick cock inside, wouldn't stop
+<PAUSE>
+<NAME_PLATE>
+overflowing from its entrance.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0039_r18
+<NAME_PLATE>Maika
+「Uuh...... kuh...... uuu...... kafuh...... uuku...... kuuuhh......」
+<PAUSE>
+<NAME_PLATE>
+　Maika was tightly furrowing her brow and clenching her teeth, trying not to let shameful moans escape from her mouth.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0040_r18
+<NAME_PLATE>Maika
+（Fuuma's gonna see...... this, too...... I don't wanna show him... my face, gettin' off from...... a shitty orc like this......!）
+<PAUSE>
+<NAME_PLATE>
+　However, the more she tried to suppress the pleasure like that, the more conscious she became of the cock that was violating her.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0041_r18
+<NAME_PLATE>Maika
+「Uuh...... kuh...... uuuh......」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0042_r18
+<NAME_PLATE>Maika
+（Dammit!! Why's it so...... huge?! Why's it so...... hot?!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Ufufu, Maika. What do you think of Oji-san's cock, after missing it for a whole day?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0043_r18
+<NAME_PLATE>Maika
+「Ih, it's big...... and...... hot......」
+<PAUSE>
+<NAME_PLATE>
+　Her mind and body were caught slightly off guard, and Maika automatically answered that in an enraptured voice.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0044_r18
+<NAME_PLATE>Maika
+「Huh?! Th, that's not―――」
+<PAUSE>
+<NAME_PLATE>
+　She tried to deny it to the camera, but it was already too late.
+<PAUSE>
+<NAME_PLATE>
+　Zuboooohh!!!
+<PAUSE>
+<NAME_PLATE>
+　The detestable, extra-thick cock had plunged in all the way to the hilt in one go.
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0045_r18
+<NAME_PLATE>Maika
+「Ohuuh fuuuuuuuuuuuhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika could do nothing but close her mouth, which had tried to make excuses to Fuuma, and stifle her shameful moans.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0046_r18
+<NAME_PLATE>Maika
+（His entire...... huge cock...... going in...... Dammit...... My pussy's...... trembling......）
+<PAUSE>
+<NAME_PLATE>
+　Her vaginal canal, which had been stretched out all the way from the entrance to her cervix, was twitching and twisting slightly,
+<PAUSE>
+<NAME_PLATE>
+as if to tell his cock, “Welcome home.”
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0047_r18
+<NAME_PLATE>Maika
+「Ah...... ah...... ahhh...... uuh...... kuh...... fuu...... ahh......」
+<PAUSE>
+<NAME_PLATE>
+　Her body understood that even before her head.
+<PAUSE>
+<NAME_PLATE>
+　Maika was visited by this orc day after day, and her body was gradually starting to adapt itself to him.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Your cunt's happy, isn't it? It's shaking all the way to the back.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0048_r18
+<NAME_PLATE>Maika
+（Don't say...... what doesn't need to be said...... you...... damn orc......）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0049_r18
+<NAME_PLATE>Maika
+「Kuuuh......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Oh, no response, huh? Could it be that you're still thinking about your boyfriend or something?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0050_r18
+<NAME_PLATE>Maika
+（Of, of course I am!!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Okay, I understand. Let's show your boyfriend how much I've developed Maika's body, then.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0051_r18
+<NAME_PLATE>Maika
+「Whaaat?!」
+<PAUSE>
+<NAME_PLATE>
+　Maika accidentally ended up replying in her own, natural speech.
+<PAUSE>
+<NAME_PLATE>
+　As if to ridicule her, her orc regular began to knead her breasts, with his whole cock still buried inside her.
+<PAUSE>
+<EV>chr_0251_2c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0052_r18
+<NAME_PLATE>Maika
+「Hyauuuh!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika's voice twisted.
+<PAUSE>
+<NAME_PLATE>
+　Her breasts―which had merely been firmly gripped up until now, and had been bearing with the stimulation from that―were tightly
+<PAUSE>
+<NAME_PLATE>
+squeezed together.
+<PAUSE>
+<NAME_PLATE>
+　They were powerfully squashed from both sides, to the point where their cleavage disappeared, and, furthermore, were being
+<PAUSE>
+<NAME_PLATE>
+squeezed in the direction of her nipples.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0053_r18
+<NAME_PLATE>Maika
+「W, wait!! Hauh, uuhh, kuuuuh!!」
+<PAUSE>
+<NAME_PLATE>
+　She fought for breath due to the indecent twisting of her soft flesh, which seemed both painful and tantalizing.
+<PAUSE>
+<NAME_PLATE>
+　Her body froze, tingling pleasure ran up her back, and she became unable to control her voice, no matter what she did.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0054_r18
+<NAME_PLATE>Maika
+「Nh, kuh...... uuuh...... auh...... kuh...... aanhh......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika's come to love having her tits rubbed by Oji-san, right?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0055_r18
+<NAME_PLATE>Maika
+「Ih, it's not...... like......」
+<PAUSE>
+<NAME_PLATE>
+　Gunyuuuuu!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0056_r18
+<NAME_PLATE>Maika
+「Hyafuuuuuu!!」
+<PAUSE>
+<NAME_PLATE>
+　Even though she tried to deny the orc's inflammatory remark, before she could do so, her breasts were tightly rubbed together, and
+<PAUSE>
+<NAME_PLATE>
+her words ended up turning into high-pitched moans.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0057_r18
+<NAME_PLATE>Maika
+「Mmh...... kuh...... ahh...... D, don't...... rub...... ah...... mmh...... my tits...... thad...... hard......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「It's 'cuz you get off when your boyfriend's watching, right?」
+<PAUSE>
+<NAME_PLATE>
+　Mubyu, mugyuhh, mugyumugyumugyu!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0058_r18
+<NAME_PLATE>Maika
+「Heaah! Ah ah!! Hyaaaannh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「That's cute, Maika. Let's show your boyfriend more of you getting off from Oji-san!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0059_r18
+<NAME_PLATE>Maika
+「Th, that's...... not......!! Kahah...... hyah...... Ah, don'd......! Ah nnh...... hiah, hyaaaanh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika really is sensitive, huh? Oji-san loves that.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0060_r18
+<NAME_PLATE>Maika
+（Shiiiit! You asshole!! Making a person's breasts your playthings...!!）
+<PAUSE>
+<NAME_PLATE>
+　Contrary to the inside of her mind, where she spit out abuse, her body, which was held tight by the orc, wouldn't stop gracelessly
+<PAUSE>
+<NAME_PLATE>
+trembling.
+<PAUSE>
+<NAME_PLATE>
+　Furthermore, she unconsciously pushed that shaking body against the orc by herself, as if begging, “More, more!”
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0061_r18
+<NAME_PLATE>Maika
+「Hyaah! Nnah, ahh!! Yaan, don't, that's, aanh!! Nnh, ahhh, nnh nnnnnnnh!!」
+<PAUSE>
+<NAME_PLATE>
+　She couldn't keep her mouth closed for even a moment anymore. She ended up shaking her head as she got off, as if saying “No, no!”
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0062_r18
+<NAME_PLATE>Maika
+（Even though I...... don't wanna get off...... When I'm played with like this...... Dammit...... I start cravin'
+<PAUSE>
+<NAME_PLATE>
+it...... Shiiit......）
+<PAUSE>
+<NAME_PLATE>
+　The area around her uterus twinged, as if it were sobbing.
+<PAUSE>
+<NAME_PLATE>
+　The harder she got off from having her chest toyed with, the more keenly aware she became of the cock, which had been inserted
+<PAUSE>
+<NAME_PLATE>
+to the hilt a moment ago, and hadn't moved.
+<PAUSE>
+<NAME_PLATE>
+　She wanted him to move. She wanted him to churn her around. She wanted him to not just make her breasts get off, but her pussy, too.
+<PAUSE>
+<NAME_PLATE>
+　She could no longer think about anything but that.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0063_r18
+<NAME_PLATE>Maika
+（Shit...... It's such a bitter feeling...... I've only ever gotten off...... from Fuuma, and yet...... Why...... from a shitty orc
+<PAUSE>
+<NAME_PLATE>
+like this......）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Oh dear, I wonder if you're not satisfied with just your breasts? Do you want me to pound your cunt already?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0064_r18
+<NAME_PLATE>Maika
+「Hahh!! I, I'm not thinking...... anything...... like that......」
+<PAUSE>
+<NAME_PLATE>
+　Gunyuuuuuuuuu!!
+<PAUSE>
+<NAME_PLATE>
+　As if reprimanding a fibbing child, the orc firmly squashed both of her breasts in his hands.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0065_r18
+<NAME_PLATE>Maika
+「Hiyaaaaaaaaaahhhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Unable to even make an excuse, Maika could do nothing but raise an uncouth slutty cry.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「You can't fool me. Oji-san sees through everything. Hora!!」
+<PAUSE>
+<EV>chr_0251_2d_r18,NONE
+<NAME_PLATE>
+　Zunnh!!
+<PAUSE>
+<NAME_PLATE>
+　The orc lightly thrust his hips upward.
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0066_r18
+<NAME_PLATE>Maika
+「Nhooohhh!!」
+<PAUSE>
+<NAME_PLATE>
+　It was just a slight movement, but Maika's body sharply twisted.
+<PAUSE>
+<NAME_PLATE>
+　Her vaginal opening tightly contracted, and the love juices inside it, which had been building up and up from being teased, spurted
+<PAUSE>
+<NAME_PLATE>
+out.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「See, your cunt is happy!」
+<PAUSE>
+<NAME_PLATE>
+　The orc deliberately said the obvious, and moved his hips again.
+<PAUSE>
+<NAME_PLATE>
+　Zun, zunnn!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0067_r18
+<NAME_PLATE>Maika
+「Hiaanh!! Aaanhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Twice this time.
+<PAUSE>
+<NAME_PLATE>
+　Putting more force into it than before, he had pushed on the back of her vagina with his cock.
+<PAUSE>
+<NAME_PLATE>
+　The flesh creases inside her vagina were firmly rubbed by the warty cock, and she ended up getting off hard enough to faint.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0068_r18
+<NAME_PLATE>Maika
+（C......rap...... If this keeps up...... once again...... I'm gonna...... Even though Fuuma's...... gonna see this later......）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0069_r18
+<NAME_PLATE>Maika
+「Don......'t...... Don't...... move...... your dick......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「This mouth isn't saying that, now is it?」
+<PAUSE>
+<NAME_PLATE>
+　Zubbo, zubbo, zubbo, zubbo!! Gucchu, gucchu, gucchu, gucchu!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0070_r18
+<NAME_PLATE>Maika
+「Nhooohh!! Ohhh! Ooohhh!! Noohhh, nod thaaaaah!! Don' thrusht iiiihhht!!」
+<PAUSE>
+<NAME_PLATE>
+　Annoyingly, it was like the orc said.
+<PAUSE>
+<NAME_PLATE>
+　Once his rhythmical thrusting began, Maika's pussy involuntarily made obscene bitch sounds in sync with it.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0071_r18
+<NAME_PLATE>Maika
+「Hiaah, aanh!! Ah ah ah, haah, huaaaanh!!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0072_r18
+<NAME_PLATE>Maika
+（Son of a bitch! Again!! I'm sorry, Fuuma! I can't hold back, no matter what!!）
+<PAUSE>
+<NAME_PLATE>
+　Every time the extra-thick cock was sent back and forth, her horny pussy got pulled inside-out, and the whole thing was captured
+<PAUSE>
+<NAME_PLATE>
+on video.
+<PAUSE>
+<NAME_PLATE>
+　She couldn't even hold back her shameful moans. Even though she knew she was going to be seen and heard by Fuuma, she could do
+<PAUSE>
+<NAME_PLATE>
+nothing but feel good along with the cock.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0073_r18
+<NAME_PLATE>Maika
+「Heaah, ahhh!! Even though...... it's gonna be seen by Fuuma...... Shiiit, I'm gettin' off...... Gettin' oooffff......!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Could it be that Maika wants to have her boyfriend watch her fall?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0074_r18
+<NAME_PLATE>Maika
+「Haah?! It's not!! L, like thaaat!!」
+<PAUSE>
+<NAME_PLATE>
+　With a start, Maika shook her head wildly at the orc's unexpected words.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「I wonder? Then, what if I grind Maika here, in front of her watching boyfriend?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0075_r18
+<NAME_PLATE>Maika
+「Hiaahh!! Stop, not theeerrrre!!」
+<PAUSE>
+<NAME_PLATE>
+　The orc had started using his glans to stimulate Maika's most sensitive part, which had no experience with anyone but Fuuma.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0076_r18
+<NAME_PLATE>Maika
+「Hey, wait, yaanh!! Th, that place is, super-weak! If you grind it, I'll get off!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Yeah, yeah, I know. Oji-san comes here every day, so he's learned Maika's weak points.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0077_r18
+<NAME_PLATE>Maika
+「Hey! Don't screw arooouuund!! Hiaah ahh, hyaaaaaahhh!!」
+<PAUSE>
+<NAME_PLATE>
+　The pleasure immediately skyrocketed, and the trembling of her entire body would no longer stop.
+<PAUSE>
+<NAME_PLATE>
+　Her pussy was making a sweet whine. Her honey pot was clenching even harder than before, squeezing the cock that went after
+<PAUSE>
+<NAME_PLATE>
+her weak point.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「See? You're so happy!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0078_r18
+<NAME_PLATE>Maika
+「Th, that doesn't mean...... I'm happy......!! If they had their...... w, weak point...... shtimulated, a, a, anyone
+<PAUSE>
+<NAME_PLATE>
+wouh...... Ahhh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Not at all. It's because Oji-san's your partner. You want to show off that you're being degraded by an old man.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0079_r18
+<NAME_PLATE>Maika
+「I-I, I'm tellin' you, thah's wooonng!! Shiiiiiihhhhhd!!!」
+<PAUSE>
+<NAME_PLATE>
+　No longer even having the composure to speak in the manner of a Slave Prostitute, Maika frantically denied it in a high-pitched
+<PAUSE>
+<NAME_PLATE>
+voice.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika's stubborn, isn't she?」
+<PAUSE>
+<NAME_PLATE>
+　The orc smirked as he suddenly moved his fingers, which had been squashing her breasts from the left and right, to her nipples.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0080_r18
+<NAME_PLATE>Maika
+「Hey, wait, shtop!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika screamed, knowing what he planned to do.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Nooope!」
+<PAUSE>
+<NAME_PLATE>
+　The orc's thick fingers had pinched both of Maika's nipples at once.
+<PAUSE>
+<EV>chr_0251_2e_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0081_r18
+<NAME_PLATE>Maika
+「Nnh hiiiiiiiiiiiiiiiiih!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika made a shrill scream, and jerked her head back.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0082_r18
+<NAME_PLATE>Maika
+（Dammit!! My nipples are crazy-weeeak!!）
+<PAUSE>
+<NAME_PLATE>
+　Although she didn't have anything on them right now, her nipples had been pierced when she was first made love to by Fuuma.
+<PAUSE>
+<NAME_PLATE>
+　Ever since that, they had become dirty, helplessly sensitive nipples.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0083_r18
+<NAME_PLATE>Maika
+「Shdohb! Noh theyaaah! D, d, don't play wif my nippllllesh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「If he's told that, Oji-san is gonna start wanting to play with them, you know?」
+<PAUSE>
+<NAME_PLATE>
+　The orc said happily, as he rolled and twisted the sensitive nipples on both sides.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0084_r18
+<NAME_PLATE>Maika
+「Ahih! Ah ah aaahhh!! Nooh, ananh, huaaaanh!」
+<PAUSE>
+<NAME_PLATE>
+　Matching the rhythm of his merciless grinding, Maika's body bucked with delight like a spring-action toy.
+<PAUSE>
+<NAME_PLATE>
+　She squirted a little from her bitch hole, which had taken his entire huge cock inside.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0085_r18
+<NAME_PLATE>Maika
+「Hey, wait! Hyanh, shtop iiit! Don't roll my nipplesh like thaaah!!」
+<PAUSE>
+<NAME_PLATE>Regular
+「Oh, you have piercing holes in your nipples, eh?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0086_r18
+<NAME_PLATE>Maika
+「Hahh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0087_r18
+<NAME_PLATE>Maika
+（This bastard... He realized!!）
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「I wonder who you pierced them for? Could it be for Oji-san?」
+<PAUSE>
+<NAME_PLATE>
+　He asked, while using the tips of his nails to dig into her piercings, which one would normally never have known about.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0088_r18
+<NAME_PLATE>Maika
+「It's! Noh, l, like thaaat!! They were pierced bah hiiimmm!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「I thought so. But they're lonely without anything on them, aren't they? I'll bring you some new ones next time, okay?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0089_r18
+<NAME_PLATE>Maika
+「D, d, don't wannemmm! I don't want stuff like thaaat!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Don't be shy, don't be shy!」
+<PAUSE>
+<NAME_PLATE>
+　The orc persistently kneaded the two bumps, which had now become more sensitive than her clitoris due to being constantly fiddled
+<PAUSE>
+<NAME_PLATE>
+with.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0090_r18
+<NAME_PLATE>Maika
+「Hya, moron, aanh! No way!! Quit it! My nipples, I'm gonna go crazhy, ya know?! Ahh, don't, not thish, nyoooo!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika was attacked by maddeningly needful urges, like the inside of her head was being slowly roasted.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0091_r18
+<NAME_PLATE>Maika
+「Heah!! Aheh, hahieeeh!! I, c, can't... Shiiit! I can't hold on, I caaannn't!!」
+<PAUSE>
+<NAME_PLATE>
+　Her body was itching to cum.
+<PAUSE>
+　Her pussy was emphatically craving semen.
+<PAUSE>
+<NAME_PLATE>
+　Even though her partner was an orc like this. Even though Fuuma was going to watch this.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Your cunt is really twitching. I don't suppose you've started wanting to cum?」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0251_2_0092_r18
+<NAME_PLATE>Maika
+「Wr, wrong, I don't wanna cum! I, I, aaahh, I don't wanna cum!! Not true not true noh truuuuuue!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「What a shame, eh? Oji-san's started wanting to cum. Well, shall I cum all by myself, then?」
+<PAUSE>
+<NAME_PLATE>
+　The orc said theatrically, and started thrusting his cock at the back even harder, heading for the finish.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0093_r18
+<NAME_PLATE>Maika
+「Ohooooohhhhh!! W, wait, shtop, don't cum! Don't cum now, nooo, don' cuuummm!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0094_r18
+<NAME_PLATE>Maika
+「Heah, hiah, hyaaanhh! If you cum, aanh, I won't be able to hold back! I'm gonna cum, I'm definitely gonna cum too!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「So you do want to cum. Then, orgasm together with Oji-san, all right?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0095_r18
+<NAME_PLATE>Maika
+「I-I, I'm tellin you, thah's wrooonnng!! Nhoh, ohooh, shtooohhp! Stop yoh cock, moroooonnnnn!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika's selfish, huh? Okay, I get it. Then I'll stop here.」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0251_2f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　Gobooooohhh!!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0096_r18
+<NAME_PLATE>Maika
+「Oh hooooooooooooooooohhhhhhhhhhhh ohhhh!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0097_r18
+<NAME_PLATE>Maika
+（Y, y, you bastard!!!）
+<PAUSE>
+<NAME_PLATE>
+　The orc had indeed stopped his cock.
+<PAUSE>
+<NAME_PLATE>
+　He had thrust it deep to finish her off, fully skewering her cervix, and then stopped there.
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0098_r18
+<NAME_PLATE>Maika
+「Iiiiiiiiiiiiiiiiiiiiiiiiihhh!!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika's cervix firmly contracted from the pleasure, which seemed to blow everything away, and brought the crown of the glans
+<PAUSE>
+<NAME_PLATE>
+fully inside.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0099_r18
+<NAME_PLATE>Maika
+（This feeling, crap, craaap!! Ahh, shit, n, no use anymooore!!）
+<PAUSE>
+<NAME_PLATE>
+　Burning-hot semen had been shot out from it, straight into her womb.
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　Dobyuuuu, dobyuuu, dobyudobyudobbyuuuu!!!
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0100_r18
+<NAME_PLATE>Maika
+（Nooooooooooooo!!!）
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0101_r18
+<NAME_PLATE>Maika
+「Gumming gumming gumming gumming gumming guuuummmmmiiiiiinnnnnnng!!!」
+<PAUSE>
+<NAME_PLATE>
+　She hadn't been able to resist for even a moment.
+<PAUSE>
+<NAME_PLATE>
+　Maika climaxed, making a slutty cry of defeat.
+<PAUSE>
+<NAME_PLATE>
+　Cum sprayed against her womb, and everything melted away into a pure-white orgasm.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0102_r18
+<NAME_PLATE>Maika
+「Ahhhh!!! It'sh sprayin iiiht!! Hot stuff'sh sprayin it haaarrrd!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0103_r18
+<NAME_PLATE>Maika
+「No use anehmore, my womb's meltiiing!! Everehthing's meltin from the hot shemeeennnn!!」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0104_r18
+<NAME_PLATE>Maika
+「Nhiiiiiiiiiiih!! Cumming cumming cummiiiiiiihhhhh!!」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika's orgasms really are adorable. Please, feel Oji-san more.」
+<PAUSE>
+<NAME_PLATE>
+　Still sticking right through the mouth of her womb, the orc ground into the back of it with his ejaculating cock.
+<PAUSE>
+<NAME_PLATE>
+　The murky stream of his ejaculation, which hadn't decreased in force at all, was sprayed at Maika even harder.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0105_r18
+<NAME_PLATE>Maika
+「Hyan! Anh anhh!! Semen cock grinding's aweshome!!」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0106_r18
+<NAME_PLATE>Maika
+「Even though I'm cummin', I'm gonna cum again!! Gohha cum hard again!! Cumming again cumming again cumming agaaainnn!!」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0107_r18
+<NAME_PLATE>Maika
+「Cuuuummmmmmiiiiiinnnnnnng!!!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika could no longer do anything but go mad exclaiming her pleasure.
+<PAUSE>
+<NAME_PLATE>
+　Her cervix made a sweet whine, and her entire vaginal canal convulsed like crazy, milking the cum out of the orc cock.
+<PAUSE>
+<NAME_PLATE>
+　In exchange for that, a fierce spray squirted out as if she had wet herself, splashing the camera that was recording all
+<PAUSE>
+<NAME_PLATE>
+of Maika's shameful behaviour.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0108_r18
+<NAME_PLATE>Maika
+「Ah ah ah ah aaaaaaaaaaaannnnnnnnnnnnnnhh!!」
+<PAUSE>
+<NAME_PLATE>
+　However, the matter of the video recording, and Fuuma, had completely vanished from the head of Maika, who was in the midst of
+<PAUSE>
+<NAME_PLATE>
+continuous orgasms.
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0109_r18
+<NAME_PLATE>Maika
+「Cummiiiiing, cummiiiing!! Cummiiiing, mmmmmmmmm!!!」
+<PAUSE>
+<BGM_STOP>1000
+<UI_DISP>OFF, 0
+<BG_OUT>1000
+<WAIT>1000
+<BGM_PLAY>bgm510,1000
+<EV>chr_0251_2g_r18,IN, 1000
+<UI_DISP>ON, 0
+<VOICE_PLAY>chr_0251_2_0110_r18
+<NAME_PLATE>Maika
+「Hahih...... hyahi...... haah...... heaah...... ahh...... hahh...... haaah......」
+<PAUSE>
+<NAME_PLATE>
+　The orc's first long, long ejaculation had ended.
+<PAUSE>
+<NAME_PLATE>
+　His cock finally slid out of Maika, and thick, sludgy cum was flowing back out from her gaping pussy.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0111_r18
+<NAME_PLATE>Maika
+「Aheh...... hahieh...... aeh...... hyaah......」
+<PAUSE>
+<NAME_PLATE>
+　Maika had lost her senses from just a single creampie. Her face was thoroughly melty, and wouldn't go back to normal.
+<PAUSE>
+<NAME_PLATE>
+　Having gone slack from gasping too much, her mouth was half-open, and her tongue was dangling loosely from the edges of her lips.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「I wonder how many times Maika came from Oji-san's one ejaculation?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0112_r18
+<NAME_PLATE>Maika
+「Ah...... dunno...... that...... I came...... loadsh...... an loadsh......」
+<PAUSE>
+<NAME_PLATE>
+　Maika answered, in a voice that was no longer articulate.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Your boyfriend's watching on the other side of the camera. Report that you came a lot from Oji-san's cock again today, all right?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0113_r18
+<NAME_PLATE>Maika
+「Y, yehsh......」
+<PAUSE>
+<NAME_PLATE>
+　Maika pointed hazy-looking eyes at the camera.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0114_r18
+<NAME_PLATE>Maika
+「Fu...... Fuumaaa...... Awe you...... watchinnng......? I...... came hard...... from Oji-san'sh cog...... again todeh......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Did it feel good?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0115_r18
+<NAME_PLATE>Maika
+「Ih feld...... really...... gooh......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「In that case, do peace signs, Maika.」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0116_r18
+<NAME_PLATE>Maika
+「P, peache...... Peace♪」
+<PAUSE>
+<NAME_PLATE>
+　As she was told by the orc, Maika made peace signs with both of her trembling hands.
+<PAUSE>
+<NAME_PLATE>
+　It was all she could do to respond to what her partner said, and she no longer had any scope to find her own words and actions
+<PAUSE>
+<NAME_PLATE>
+embarrassing.
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「And you're gonna give Oji-san lots more service today, right?」
+<PAUSE>
+<NAME_PLATE>
+　Maika nodded, still with an ahegao.
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0117_r18
+<NAME_PLATE>Maika
+「Hah's righ...... Avtah thiiis...... I'm gonna...... serviche...... O, Oji-hyan...... a lod moah......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「You want him to watch it all, yes?」
+<PAUSE>
+<VOICE_PLAY>chr_0251_2_0118_r18
+<NAME_PLATE>Maika
+「Watch...... it all...... Watch...... everyfin...... I'm gonna...... do...... Fuuma......」
+<PAUSE>
+<NAME_PLATE>Orc Regular
+「Maika really is adorable, isn't she?」
+<PAUSE>
+<NAME_PLATE>
+　The orc tightly squeezed her nipples, which he had been pinching nonstop all this time.
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0251_2_0119_r18
+<NAME_PLATE>Maika
+「Hyaaaaaaaaannnnn!!」
+<PAUSE>
+<NAME_PLATE>
+　Maika's fawning, coquettish voice burst out again.
+<PAUSE>
+<NAME_PLATE>
+　Today's service had only just begun.
+<PAUSE>
+<NAME_PLATE>
+　And so, like today (no, even worse), her days of humiliation would continue, until Fuuma was saved.
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

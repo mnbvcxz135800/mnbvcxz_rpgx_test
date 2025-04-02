@@ -1,0 +1,964 @@
+<BG>black,IN,3000
+//【黒画面】
+<NAME_PLATE>
+　俺とアルカは本部に帰り、
+アルカの出力を調整するために
+メンテナンスルームに向かった。
+<PAUSE>
+//【a差分】
+<BGM_PLAY>bgm315,1000
+<VOICE_PLAY>chr_0015_2_0000_r18
+<NAME_PLATE>アルカ
+「ん、んん……っ」
+<PAUSE>
+<NAME_PLATE>
+　アルカの息は再び荒くなり、
+体の温度は上がり続けていた。
+<PAUSE>
+<NAME_PLATE>
+　路地裏でのセックスで一時的には
+収めたものの、アルカの興奮状態は
+まだ完全に収まってはいなかった。
+<PAUSE>
+<NAME_PLATE>俺
+「アルカ、大丈夫か」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0001_r18
+<NAME_PLATE>アルカ
+「……はい、主……ですが……
+　早く、調整しないと……」
+<PAUSE>
+<NAME_PLATE>
+　俺に支えられたアルカは息を荒げ、
+その全身は紅潮し高い熱を発していた。
+<PAUSE>
+<NAME_PLATE>
+　その熱はアルカの肉体でなく、
+体内のリアクターが暴走寸前で
+放出しているものに違いなかった。
+<PAUSE>
+<NAME_PLATE>俺
+「もうすぐメンテナンスルームだ、
+　持ちこたえろ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0002_r18
+<NAME_PLATE>アルカ
+「は……い……う、う……」
+<PAUSE>
+<NAME_PLATE>
+　俺はアルカの体を支え、
+やっとの事でメンテナンスルームに
+辿り着いた。
+<PAUSE>
+<NAME_PLATE>
+　そこは周囲を様々な用途不明の
+メカニズムに囲まれた小部屋。
+<PAUSE>
+<NAME_PLATE>
+　そして部屋の中央にはアルカ専用の
+メカニカルな整備ベッドが
+据え付けられていた。
+<PAUSE>
+<NAME_PLATE>俺
+「俺は使い方がわからないんだが、
+　どうしたらいい」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0003_r18
+<NAME_PLATE>アルカ
+「ベッドに寝かせてください……そうすれば、
+　後はオートでセッティングされます」
+<PAUSE>
+<NAME_PLATE>俺
+「わかった」
+<PAUSE>
+<NAME_PLATE>
+　俺はアルカをベッドに寝かせた。
+<PAUSE>
+<EV>chr_0015_2a_r18,IN, 3000
+<NAME_PLATE>
+　すると、アルカの体を感知したベッドから
+起動アラームが発せられた。
+<PAUSE>
+<NAME_PLATE>
+『認証開始……ユニット名アルカ、
+　生体反応確認しました、
+　セッティングします』
+<PAUSE>
+<NAME_PLATE>
+　感情のない自動音声が鳴り響くと同時に、
+ベッドの周囲にあった各種装置が
+同時に動き出した。
+<PAUSE>
+<NAME_PLATE>
+　腕と足には金属製の拘束具がはめられ、
+頭にはヘッドバイザーが被せられて
+視覚を遮断される。
+<PAUSE>
+<NAME_PLATE>
+　そして胸装備が外され、股間のモジュールが
+アームによって無造作に引き抜かれる。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_2_0004_r18
+<NAME_PLATE>アルカ
+「ん、んんっ……！」
+<PAUSE>
+<NAME_PLATE>
+　アルカはモジュールが乱暴に外された
+刺激に、小さく呻きを漏らした。
+<PAUSE>
+<NAME_PLATE>
+　そしてベッド上にアルカの全身が
+完全に固定された後。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0005_r18
+<NAME_PLATE>アルカ
+「主……お願いします……コンソールの
+　右端にある、赤いスイッチを
+　入れてください」
+<PAUSE>
+<NAME_PLATE>
+　ベッド脇のコンソールを見ると、
+多くのスイッチやゲージが並んでいる端に
+一際大きな赤いスイッチがあった。
+<PAUSE>
+<NAME_PLATE>俺
+「これか……入れるぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0006_r18
+<NAME_PLATE>アルカ
+「は、い……」
+<PAUSE>
+<NAME_PLATE>
+　俺がスイッチを入れると、起動アラームと
+共にベッドが微かなモーター音を上げて
+作動を開始した。
+<PAUSE>
+<NAME_PLATE>
+『スイッチ確認、メンテナンス開始します』
+<PAUSE>
+<NAME_PLATE>
+　自動音声がそう告げると、
+股間のすぐ下から女性器を覆う装置が現れた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<NAME_PLATE>
+　ぷしゅっ！
+<PAUSE>
+<NAME_PLATE>
+　密閉されるような音を
+立ててアルカの股間に装着される。
+<PAUSE>
+<NAME_PLATE>
+　同時に自動音声が無感情に告げた。
+<PAUSE>
+<NAME_PLATE>
+『ブラシ、バイブレーター、作動開始します』
+<PAUSE>
+//【b差分】
+<EV>chr_0015_2b_r18,NONE
+<VOICE_PLAY>chr_0015_2_0007_r18
+<NAME_PLATE>アルカ
+「う、ぐぅっ！！！」
+<PAUSE>
+<NAME_PLATE>
+　その瞬間、
+アルカは激しいうめき声を上げて
+ベッドから飛び上がりそうになる。
+<PAUSE>
+<NAME_PLATE>俺
+「お、おい！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0008_r18
+<NAME_PLATE>アルカ
+「大丈夫……です……んっ、んんっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ベッドの横にあるモニターに、
+アルカの性器の図がＣＧで映し出される。
+<PAUSE>
+<NAME_PLATE>
+　その図の中で、アルカのクリトリスを
+繊細なブラシが激しく責め立てていた。
+<PAUSE>
+<NAME_PLATE>
+　そして更に尿道には極細のバイブが
+挿入され、モーター音を立てながら
+強烈に振動している。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0009_r18
+<NAME_PLATE>アルカ
+「ん、んっ、んっ……んんっ、ん……！」
+<PAUSE>
+<NAME_PLATE>
+　アルカは股間に与えられる強烈な刺激に、
+最初はただ我慢するがごとく乱れる息を
+押し殺そうとする。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0010_r18
+<NAME_PLATE>アルカ
+「うぐ、ぐぅぅぅ……う、うううう！！」
+<PAUSE>
+<NAME_PLATE>
+　その表情は快感を耐える様に歪み、
+歯はギリギリと音を立てるが
+ごとく強く食いしばられていた。
+<PAUSE>
+<NAME_PLATE>
+　だが、少しの後。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0011_r18
+<NAME_PLATE>アルカ
+「う、ぐぅぅ、ふぁ、
+　あ、はぁぁ、ああああ……」
+<PAUSE>
+<NAME_PLATE>
+　だが、やがて苦しげに乱れた
+息の下から断続的に嬌声を上げ始める。
+<PAUSE>
+<NAME_PLATE>
+　そして同時に下半身がガクガクと
+強く痙攣を始めた。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_2_0012_r18
+<NAME_PLATE>アルカ
+「……く、あ、あ、あああ……
+　うああああ！！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ぷしゃあああああっ！！！
+<PAUSE>
+<NAME_PLATE>
+　そして遂に耐えられなくなったのか、
+股間の装置の隙間から透明な液体を
+吹き出した。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0013_r18
+<NAME_PLATE>アルカ
+「ふぁ、く、ふぅぅ、はぁぁぁ……」
+<PAUSE>
+<NAME_PLATE>
+　ベッドの股間の下が身体からの汗と
+股間からの液体でぐっしょりと濡れる。
+<PAUSE>
+<NAME_PLATE>
+　だが、潮を出し尽くした後も股間の装置が
+動き続け、アルカの脚はガクガクと
+震え続けている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0014_r18
+<NAME_PLATE>アルカ
+「う…あ……ふぅぅ……クリトリス……
+　尿道……気持ち……い……
+　く、うぁぁ……！」
+<PAUSE>
+<NAME_PLATE>
+　モニターを見ると、股間の装置は
+依然クリトリスと尿道を責め続けていた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0015_r18
+<NAME_PLATE>アルカ
+「う……う……う……あ、ああ……
+　いい……い……！」
+<PAUSE>
+<NAME_PLATE>俺
+「アルカ、大丈夫か」
+<PAUSE>
+<NAME_PLATE>
+　俺はアルカの耳元で訊いてみる。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0016_r18
+<NAME_PLATE>アルカ
+「……ある、じ……」
+<PAUSE>
+<NAME_PLATE>
+　バイザーに隠れて分からないものの、
+アルカの目は確実に快楽に蕩けているだろう。
+<PAUSE>
+<NAME_PLATE>
+　そして少し前まで歯を食いしばっていた
+口は、今は半開きになって震え続けている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0017_r18
+<NAME_PLATE>アルカ
+「う、ああ……大丈夫……で……す……」
+<PAUSE>
+<NAME_PLATE>
+　快感に呑まれかけた意識を何とか繋ぎ止め、
+俺に答えた。
+<PAUSE>
+<NAME_PLATE>俺
+「ずいぶん強烈な愛撫みたいだ……
+　これで興奮は抑えられたのか？」
+<PAUSE>
+<NAME_PLATE>
+　すると再びアラームが鳴り響く。
+<PAUSE>
+<NAME_PLATE>
+『メンテナンス２０％完了、
+　フェーズ２に移行します』
+<PAUSE>
+<NAME_PLATE>
+　まだ２０％なのか？
+いったいこれからどんな愛撫が始まるんだ？
+<PAUSE>
+<NAME_PLATE>
+　驚く俺の前で、
+ベッドの上にあるユニットのハッチが
+開かれる。
+<PAUSE>
+<NAME_PLATE>
+『胸部アーム、セットします』
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0018_r18
+<NAME_PLATE>アルカ
+「はぁ、はぁ……ああ、ふぅぅぅぅ、
+　んぅ……！」
+<PAUSE>
+<NAME_PLATE>
+　だが、アルカは音声には何の反応もせず、
+ベッド上であえぎ続けていた。
+<PAUSE>
+<NAME_PLATE>
+　その足は疲れたのか弛緩して
+投げ出されていたが、
+時折ガタガタと震えていた。
+<PAUSE>
+//【c差分】
+<NAME_PLATE>
+　開かれたハッチの中からゲームセンターの
+ＵＦＯキャッチャーのような三本の指がついた
+二本のマニュピレーターが伸びる。
+<PAUSE>
+<NAME_PLATE>
+　そしてそれはアルカの豊満な両胸を
+無造作に、機械的に鷲づかみにした。
+<PAUSE>
+<EV>chr_0015_2c_r18,NONE
+<NAME_PLATE>
+　ぎちっ、ぐいっ、むにゅっ……！
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0019_r18
+<NAME_PLATE>アルカ
+「んっ、くぁ……！」
+<PAUSE>
+<NAME_PLATE>
+　きゅぽっ……
+<PAUSE>
+<NAME_PLATE>
+　そしてアームの指の付け根部分に
+乳首がはまる。
+<PAUSE>
+<NAME_PLATE>
+『乳首セット完了、胸部愛撫開始します』
+<PAUSE>
+<NAME_PLATE>
+　キュオオオオオーーーーー！
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0020_r18
+<NAME_PLATE>アルカ
+「ん、くぅ、ああああっ、
+　乳首……乳首が……！！」
+<PAUSE>
+<NAME_PLATE>
+　モニター上の映像はアルカの乳首が強烈な
+バキュームで吸われる様を映し出している。
+<PAUSE>
+<NAME_PLATE>
+　見ているだけでもわかる強烈な刺激に、
+アルカが胸を何度も跳ね上がらせる。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_2_0021_r18
+<NAME_PLATE>アルカ
+「ん、くあああああ！、あ……乳首…が
+　……吸われて……うあああっ！！」
+<PAUSE>
+<NAME_PLATE>
+　びく、びくん！！
+<PAUSE>
+<NAME_PLATE>
+　あまりの刺激に、
+アルカの体は上にそらされたまま硬直し、
+ガタガタ震えている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0022_r18
+<NAME_PLATE>アルカ
+「あ、や、うあああああ、あああ、
+　胸が……乳首がァァァァッ！！！」
+<PAUSE>
+<NAME_PLATE>
+　もみっ、むにゅっ、ふに、
+ぐいいいいっ！！　きゅいいいいいい！！
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0023_r18
+<NAME_PLATE>アルカ
+「あっ……うぐああああ……
+　いい……胸……気持ち、い……！！」
+<PAUSE>
+<NAME_PLATE>
+　普通ならほとんど表情を変える事もない
+アルカが、今は強烈な快感に体全体を
+震わせ続けている。
+<PAUSE>
+<NAME_PLATE>
+　感情こそ見せないものの、女としては
+この上なく魅力的な肉体を持ったアルカが、
+整備ベッドの上で乱れ続けている……。
+<PAUSE>
+<NAME_PLATE>
+　その様を見て、既に一戦終えて
+まだ回復していないはずの俺のペニスも
+敏感に反応した。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……く……」
+<PAUSE>
+<NAME_PLATE>
+　何とか自分を抑えようとする俺の前で、
+再びアルカが激しく乱れた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0025_r18
+<NAME_PLATE>アルカ
+「う、ふぅぅぅ……
+　うあ、やあぁぁぁぁぁ！！」
+<PAUSE>
+<NAME_PLATE>
+　普通の人間なら痛みと感じるだろう
+強烈な刺激を、アルカは快感として感じ、
+受け止め続けていた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0026_r18
+<NAME_PLATE>アルカ
+「はぁ、はぁ、はああ……
+　あ、あ、あああ……は、あああ……！」
+<PAUSE>
+<NAME_PLATE>
+　やがてアルカは一際強烈な快感に
+襲われたのか、アームから逃れようとするかの
+ように必死に体をよじらせる。
+<PAUSE>
+<NAME_PLATE>
+　だが、アームはそんなアルカの動きに
+構わず、胸をがっちり掴んだままで
+激しく二つの乳房を揉み続けた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0027_r18
+<NAME_PLATE>アルカ
+「ん、んんっ、ふぅぅぅ……
+　はぁ、はぁ、はぁぁ……」
+<PAUSE>
+<NAME_PLATE>
+　更にアラームが鳴り、
+続いて無感情な自動音声が鳴り響いた。
+<PAUSE>
+<NAME_PLATE>
+『メンテナンス率４０％、
+　フェーズ３開始します』
+<PAUSE>
+<NAME_PLATE>
+　まだ４０％なのか、
+と驚く一方で、更に自動音声が続く。
+<PAUSE>
+<NAME_PLATE>
+『バイブレーター、挿入開始します』
+<PAUSE>
+//【d差分】
+<NAME_PLATE>
+　瞬間、ビクンとアルカの全身が硬直する。
+<PAUSE>
+<EV>chr_0015_2d_r18,NONE
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_2_0028_r18
+<NAME_PLATE>アルカ
+「……あ！」
+<PAUSE>
+<NAME_PLATE>
+　そしてすぐに全身から汗が噴出し、
+ガクガクと震え始める。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0029_r18
+<NAME_PLATE>アルカ
+「あ……くっ、ふぁ、あ、あ……！」
+<PAUSE>
+<NAME_PLATE>
+　モニターを見ると、膣とアナルに、普通より
+何倍も大きいサイズの極太バイブレーターが
+ねじ込まれようとしていた。
+<PAUSE>
+<NAME_PLATE>俺
+「あれが、入るのかよ……！？」
+<PAUSE>
+<NAME_PLATE>
+　それらは普通の人間なら入れただけで
+膣とアナルが破壊されかねない。
+<PAUSE>
+<NAME_PLATE>
+　機械化兵士であるアルカだからこそ
+受け入れる事の出来る
+とんでもない代物だった。
+<PAUSE>
+<NAME_PLATE>
+『バイブレーター、３０％挿入』
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0030_r18
+<NAME_PLATE>アルカ
+「ん、くぅぅぅ……ううう……！」
+<PAUSE>
+<NAME_PLATE>
+『バイブレーター、６０％挿入』
+<PAUSE>
+<NAME_PLATE>
+　ず、ずずっ、じゅぷぷぷぷ……！
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0031_r18
+<NAME_PLATE>アルカ
+「あぐぅぅううううううっ、入って……
+　入ってくるうっ……！！！」
+<PAUSE>
+<NAME_PLATE>
+　極太バイブがゆっくりと、確実にアルカの
+快感を引き出そうとするかのように
+膣とアナルの中に沈んでいく。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0032_r18
+<NAME_PLATE>アルカ
+「ん、んぅぅぅ……ぐ、ああああっ！！」
+<PAUSE>
+<NAME_PLATE>
+『バイブレーター、９０％挿入』
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0033_r18
+<NAME_PLATE>アルカ
+「くあ、あ、あああ、ああ……！」
+<PAUSE>
+<NAME_PLATE>
+　全身をガクガクと震わせながら
+アルカは極太バイブを受け入れていく。
+<PAUSE>
+<NAME_PLATE>
+　ぢゅぷぅっ！！！
+<PAUSE>
+<NAME_PLATE>
+『バイブレーター、挿入完了しました』
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0034_r18
+<NAME_PLATE>アルカ
+「あ、あう、あああ……すご……バイブ
+　……すごい……！」
+<PAUSE>
+<NAME_PLATE>
+　極太バイブを完全に呑み込んだ
+アルカの体は弛緩し、
+時たまビクビクと痙攣した。
+<PAUSE>
+<NAME_PLATE>
+　バイザーで隠された目からは涙が流れ、
+挿入時歯を食いしばった口は半開きになり、
+周りには涎と一緒に血が浮かんでいる。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0035_r18
+<NAME_PLATE>アルカ
+「う、ぐぅ……はぁ、はぁ、
+　はぁぁ……あ……」
+<PAUSE>
+<NAME_PLATE>俺
+「アルカ……大丈夫か……？」
+<PAUSE>
+<NAME_PLATE>
+　俺が恐る恐る話しかけてみると、
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0036_r18
+<NAME_PLATE>アルカ
+「は……い……主……大丈……は、あ……
+　くああああああああ！！」
+<PAUSE>
+<SE_PLAY>se070
+<NAME_PLATE>
+　言い終わる前にバイブが動き出したか、
+アルカが悲鳴を上げて痙攣する。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0037_r18
+<NAME_PLATE>アルカ
+「ぐっ、う……動いてる……中で……
+　動いて……る……あ、ぐぅぅぅぅぅ！！」
+<PAUSE>
+<NAME_PLATE>
+　モニター上では極太バイブ二本がアルカの
+膣とアナルの中をゆっくりと動いている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0038_r18
+<NAME_PLATE>アルカ
+「あ、あ、ああ……くあああああ……
+　バイブ……バイブ、気持ちいいっ！！」
+<PAUSE>
+<NAME_PLATE>
+『バイブレーター、出力上昇させます』
+<PAUSE>
+<NAME_PLATE>
+　自動音声がそう告げると同時に、
+二本のバイブが動きを速める。
+<PAUSE>
+<SE_PLAY>se070
+<VOICE_PLAY>chr_0015_2_0039_r18
+<NAME_PLATE>アルカ
+「ひぃあああああ、うあああああああ！
+　もっと……もっとぉぉぉ！」
+<PAUSE>
+<NAME_PLATE>
+　瞬間、装置に覆われた股間から
+大量の潮が吹き出し、ベッドに滴った。
+<PAUSE>
+<NAME_PLATE>
+　既にベッドの上はアルカの汗と涎、
+そして愛液でびしょびしょに濡れている。
+<PAUSE>
+<NAME_PLATE>
+　普通の人間なら入っただけでも快感に
+耐えられないバイブを二本も咥え込み、
+更にそれが強烈に振動し続けている。
+<PAUSE>
+<NAME_PLATE>
+　だがサイボーグとなり全身を強化された
+女性兵士・アルカはそれに耐え、
+バイブによる快楽を完全に受け止めていた。
+<PAUSE>
+<SE_PLAY>se070
+<VOICE_PLAY>chr_0015_2_0040_r18
+<NAME_PLATE>アルカ
+「ああああ、は、あ、あ、く、ふぁぁぁぁ……
+　イイっ、気持ちイイ……
+　くあっ、ああああああ！！」
+<PAUSE>
+<NAME_PLATE>
+　だが、その耐久力もそろそろ限界が
+近づいている様に俺には見えた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0041_r18
+<NAME_PLATE>アルカ
+「くぅ、ふ……あ、主……」
+<PAUSE>
+<NAME_PLATE>俺
+「何だアルカ……俺はここにいるぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0042_r18
+<NAME_PLATE>アルカ
+「……主……ある……じ……
+　く、うう……！！」
+<PAUSE>
+<NAME_PLATE>
+　アルカは俺の言葉には反応せず、
+ただうわごとのように俺を呼び続けるばかり。
+<PAUSE>
+<GROUP>
+<SE_PLAY>se070
+<EFFECT_QUAKE>VERTICAL,0.5,250
+</GROUP>
+<VOICE_PLAY>chr_0015_2_0043_r18
+<NAME_PLATE>アルカ
+「あ、る……うああああああああ！！
+　バイブ、バイブがぁ……！！」
+<PAUSE>
+<NAME_PLATE>
+　再び快感の波が来たのか、
+一際高い悲鳴を上げ、全身を硬直させる。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0044_r18
+<NAME_PLATE>アルカ
+「うあ、あ、あ、あああ……私の
+　……抉られてる……！」
+<PAUSE>
+<NAME_PLATE>俺
+「アルカっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0045_r18
+<NAME_PLATE>アルカ
+「ある……うぐううううう……気持ち……
+　イイ……もっと……もっと……
+　虐めて……くあああああ！！！」
+<PAUSE>
+<NAME_PLATE>
+　そしてベッドの上で激しく痙攣する。
+<PAUSE>
+<NAME_PLATE>
+　モニター上では依然、
+股間と胸のＣＧ映像が映し出されている。
+<PAUSE>
+<NAME_PLATE>
+　股間の映像で膣とアナルを極太バイブが
+激しく犯し、クリトリスと尿道をブラシと
+極細バイブが繊細に刺激して。
+<PAUSE>
+<NAME_PLATE>
+　胸の映像ではアームが胸全体を
+こねくり回し、乳首を強烈に吸引していた。
+<PAUSE>
+<NAME_PLATE>
+『メンテナンス率、５０パーセント、
+　出力上げます』
+<PAUSE>
+<NAME_PLATE>
+　自動音声に続いて、更に整備ベッドが
+重低音を上げ、モニター上では
+極太バイブが今までより強く振動した。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0046_r18
+<NAME_PLATE>アルカ
+「あ、うああああ、すごい、すごいィ、
+　子宮が、抉られるゥゥ！
+　は、ああああ！！」
+<PAUSE>
+<NAME_PLATE>
+　嬌声と同時に普段なら絶対に言わない言葉を
+発しながら、アルカが
+絶頂へと昇りつめていく。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0047_r18
+<NAME_PLATE>アルカ
+「ふぐぅ、うぐああああああ、あ、いい
+　……ああああああ……！！」
+<PAUSE>
+//【e差分】
+<NAME_PLATE>
+　そしてしばらくの後……。
+<PAUSE>
+<GROUP>
+<SE_PLAY>se070
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0015_2e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+</GROUP>
+<VOICE_PLAY>chr_0015_2_0048_r18
+<NAME_PLATE>アルカ
+「ひぎいいいい、
+　くぅぅぅぅああああああーーーーー！！！」
+<PAUSE>
+<NAME_PLATE>
+　遂に絶頂を迎えたか、
+アルカは一際高い声を上げてぐったりとした。
+<PAUSE>
+<NAME_PLATE>
+　そして股間を覆う装置の隙間からは
+それまでにない量の透明の液体が
+大量に流れ出した。
+<PAUSE>
+<NAME_PLATE>俺
+「終わった、のか？」
+<PAUSE>
+<NAME_PLATE>
+『エクスタシー確認、停止します』
+<PAUSE>
+<NAME_PLATE>
+　自動音声に続いて、
+ベッドの作動が一時停止した。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0049_r18
+<NAME_PLATE>アルカ
+「う、あ、ふぅ、ふぅぅぅ……」
+<PAUSE>
+<NAME_PLATE>
+　ベッド上では汗と愛液で
+ドロドロになったアルカが肩で息をしていた。
+<PAUSE>
+<NAME_PLATE>
+『メンテナンス率、６０％』
+<PAUSE>
+<NAME_PLATE>
+　自動音声がまだアルカの興奮が
+収まっていない事を告げる。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0050_r18
+<NAME_PLATE>アルカ
+「ん、あああ……もっと、もっと下さい……
+　ある……じ……」
+<PAUSE>
+<NAME_PLATE>
+　意識をほとんど失いかけたアルカが、
+うわごとの様に呟く。
+<PAUSE>
+<NAME_PLATE>
+　その直後、整備ベッドも
+再び激しい振動音を立て始めた。
+<PAUSE>
+<NAME_PLATE>
+『愛撫、再開します』
+<PAUSE>
+<SE_PLAY>se070
+<VOICE_PLAY>chr_0015_2_0051_r18
+<NAME_PLATE>アルカ
+「くあ……はう、くぅぅぅ、
+　ふああああああ！！」
+<PAUSE>
+<NAME_PLATE>
+　再びバイブが強く作動し、
+アルカがそれに強く反応した。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1500
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_2_0052_r18
+<NAME_PLATE>アルカ
+「ま、また、くああああああああ！！！」
+<PAUSE>
+<NAME_PLATE>
+　アルカはベッド上で更に
+激しく体をしならせ痙攣、絶叫した。
+<PAUSE>
+<NAME_PLATE>
+　だが、バイブは激しく動き続け、
+アルカを愛撫し続ける。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0053_r18
+<NAME_PLATE>アルカ
+「うぁ、あ、ああああああ……」
+<PAUSE>
+<NAME_PLATE>
+　これだけ強烈な絶頂が続けば普通の
+人間ならとっくに失神か
+ショック死しているはずだ。
+<PAUSE>
+<NAME_PLATE>
+　だが、機械化兵士としての強靱な肉体と
+精神を持ったアルカはなおも
+意識を失っていない。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0054_r18
+<NAME_PLATE>アルカ
+「う、はぁぁぁ、あぅ……
+　また、イク、イクぅぅぅぅ！！！！」
+<PAUSE>
+<NAME_PLATE>
+　ただ連続して容赦なく押し寄せる
+快楽の波を受け止め、
+何度も絶頂を迎え続けている。
+<PAUSE>
+//【f差分】
+<EV_OUT>1000
+<WAIT>3000
+<EV>chr_0015_2f_r18,NONE
+<NAME_PLATE>
+　そしてしばらくの後、
+もはや数えきれないほどの絶頂を迎えた後。
+<PAUSE>
+<NAME_PLATE>
+『メンテナンス率１００％、整備完了です』
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0055_r18
+<NAME_PLATE>アルカ
+「あ、ああ、あ…………」
+<PAUSE>
+<NAME_PLATE>
+　アラームに続いて自動音声が鳴り響いた時、
+アルカはほとんど声も発する事ができず、
+ぐったりしているばかりだった。
+<PAUSE>
+<NAME_PLATE>
+　メンテナンスが終わったベッドの上は
+アルカの汗と涎、そして愛液で
+ぐっしょり濡れていた。
+<PAUSE>
+<NAME_PLATE>
+　胸と股間の装置が取り外されると、
+装置と秘肉との間にドロドロになった
+愛液が糸を引いた。
+<PAUSE>
+<NAME_PLATE>
+　装置に覆われていた秘肉はバイブによって
+擦られ真っ赤に充血し、
+クリトリスも勃起したまま伸びきっている。
+<PAUSE>
+<NAME_PLATE>
+　そして胸にはアームの赤い跡が残り、
+乳首は吸引されて硬く勃起している。
+<PAUSE>
+<NAME_PLATE>
+　そして全身はまだ微かに痙攣し続けていた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0056_r18
+<NAME_PLATE>アルカ
+「あ……あうぅ……っ」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　ぴっ、ぴゅっ……
+<PAUSE>
+<NAME_PLATE>
+　アルカは小さく痙攣し、
+秘肉から小さく潮を吹き出す。
+<PAUSE>
+<NAME_PLATE>
+　アルカの人間の部分は
+まだ興奮の余韻が収まっていない様だった。
+<PAUSE>
+<NAME_PLATE>
+　手枷と足枷に続いてバイザーが外される。
+<PAUSE>
+<NAME_PLATE>
+　いつも無表情だったはずのアルカの目は
+焦点が定まらず、周りには涙の跡が残る。
+<PAUSE>
+<NAME_PLATE>
+　だらしなく開かれたままの口からは
+涎が流れ続けている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0057_r18
+<NAME_PLATE>アルカ
+「う、う……」
+<PAUSE>
+<NAME_PLATE>俺
+「収まったのか……ここまで発散しないと
+　いけないほど溜めるんじゃない、全く……」
+<PAUSE>
+<NAME_PLATE>
+　俺は蕩けた表情のアルカの耳元に
+顔を寄せ、話しかけた。
+<PAUSE>
+<NAME_PLATE>俺
+「アルカ、立って歩けるか？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0058_r18
+<NAME_PLATE>アルカ
+「う、ああ……」
+<PAUSE>
+<NAME_PLATE>
+　アルカはうわごとのように
+うめくだけだった。
+<PAUSE>
+<NAME_PLATE>俺
+「駄目か……仕方がない」
+<PAUSE>
+<NAME_PLATE>
+　俺はアルカを部屋に戻そうと、
+ベッドから抱き上げようとする。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0059_r18
+<NAME_PLATE>アルカ
+「あ、はぁ……っ……」
+<PAUSE>
+<NAME_PLATE>
+　するとモジュールが装着された股間から
+微かに愛液が滴る。
+<PAUSE>
+<NAME_PLATE>
+　体に触れただけでもイッてしまうのか。
+<PAUSE>
+<NAME_PLATE>
+　俺は構わずアルカを抱き上げた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_2_0060_r18
+<NAME_PLATE>アルカ
+「あ、あ、はぁ……！」
+<PAUSE>
+<NAME_PLATE>俺
+「戻るぞ、アルカ」
+<PAUSE>
+<NAME_PLATE>
+　俺はアルカを抱き上げたまま、
+メンテナンスルームから出たのだった……。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

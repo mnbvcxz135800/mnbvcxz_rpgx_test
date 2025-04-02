@@ -1,0 +1,24 @@
+{
+  "pairList": [
+    {
+      "parent": "chr_0027a_r18",
+      "child": "chr_0027b_r18"
+    },
+    {
+      "parent": "chr_0027a_r18",
+      "child": "chr_0027c_r18"
+    },
+    {
+      "parent": "chr_0027a_r18",
+      "child": "chr_0027d_r18"
+    },
+    {
+      "parent": "chr_0027a_r18",
+      "child": "chr_0027e_r18"
+    },
+    {
+      "parent": "chr_0027a_r18",
+      "child": "chr_0027f_r18"
+    }
+  ]
+}

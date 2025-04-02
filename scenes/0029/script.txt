@@ -1,0 +1,1035 @@
+//アンジェ　システムボイス
+//■R00xa：アンジェ触手暴走エッチ
+//【黒画面】
+<BGM_PLAY>bgm314,1000
+<BG>black,IN, 3000
+<NAME_PLATE>
+　米連が統治している地域での機密任務中、
+奴らに見つかってしまい、特殊任務チームに
+追われることになってしまった。
+<PAUSE>
+<NAME_PLATE>
+　特殊任務チームといっても
+俺の前にやってきたのは、
+アンジェという一人の少女だった。
+<PAUSE>
+<NAME_PLATE>
+　こちらもナメられたものだそう思いすぐに
+敵を排除し、任務に戻ろうとしたのだが……。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0000_r18
+<NAME_PLATE>アンジェ
+「どうした、もう終わり？」
+<PAUSE>
+<NAME_PLATE>俺
+「くっ……」
+<PAUSE>
+<NAME_PLATE>
+　尋常ではない身体能力の前に逆にこちらが
+追い詰められてしまっていた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0001_r18
+<NAME_PLATE>アンジェ
+「あっけないものだな。
+　あれほど威勢のいいことを
+　言っておきながら、情けない」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0002_r18
+<NAME_PLATE>アンジェ
+「所詮、お前も
+　口だけだったということかあ……」
+<PAUSE>
+<NAME_PLATE>
+　そう言われても文句は言えない。
+だが、彼女は身体能力に加えて
+規格外のモノを持っていた。
+<PAUSE>
+<NAME_PLATE>
+　言い訳ではなく、本当に規格外なんだ。
+<PAUSE>
+<NAME_PLATE>
+　それが直接的な敗因だったと思う。
+<PAUSE>
+<NAME_PLATE>
+　俺の体を拘束しているこの触手。
+一撃は重く苛烈なもので、
+防いだつもりでも体へのダメージは免れない。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0003_r18
+<NAME_PLATE>アンジェ
+「ふう……こんなことなら、
+　部下に相手にさせた方がよっぽど
+　良い実戦経験になったかもねっ」
+<PAUSE>
+<NAME_PLATE>
+　いや、実際こいつの部下だから多少は
+やるんだろうが、今回は触手の有無が
+敗因だと思うんだが……。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0004_r18
+<NAME_PLATE>アンジェ
+「なんだ、不満そうな顔だなあ」
+<PAUSE>
+<NAME_PLATE>
+　こちらを見下ろしたまま、
+一瞬だが笑ったような気がする。
+<PAUSE>
+<NAME_PLATE>俺
+「そうでもない」
+<PAUSE>
+<NAME_PLATE>
+　別に、負けたものはもうしょうがないと
+諦めもついている。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0005_r18
+<NAME_PLATE>アンジェ
+「そうか。まぁ潔く散る前に、
+　質問しなければいけないからね」
+<PAUSE>
+<BGM_STOP>1000
+<NAME_PLATE>俺
+「質問？」
+<PAUSE>
+//【R00xa：アンジェ触手暴走エッチ_暴走前】
+<BGM_PLAY>bgm315,1000
+<EV>chr_0029a_r18,IN, 3000
+<VOICE_PLAY>chr_0029_0006_r18
+<NAME_PLATE>アンジェ
+「あぁ。お前からは色々と
+　聞き出さなきゃって思ってね」
+<PAUSE>
+<NAME_PLATE>
+　まるで俺には全く興味がないが仕事だから
+仕方ない。そう言いたげな表情のまま続けた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0007_r18
+<NAME_PLATE>アンジェ
+「あそこで何をしていたんだ？」
+<PAUSE>
+<NAME_PLATE>俺
+「………………」
+<PAUSE>
+<NAME_PLATE>
+　アンジェはしばらくこちらを眺めていたが
+しびれを切らしたのか表情に苛立ちが
+見えてきた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0008_r18
+<NAME_PLATE>アンジェ
+「質問を変えようか」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0009_r18
+<NAME_PLATE>アンジェ
+「お前は、誰の命令であそこにいたんだ？」
+<PAUSE>
+<NAME_PLATE>俺
+「そんなこと言われても、
+　俺は口を割らないぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0010_r18
+<NAME_PLATE>アンジェ
+「そうか……残念だ」
+<PAUSE>
+<NAME_PLATE>
+　アンジェはただただだるそうな表情で、
+睨みつけてきた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0011_r18
+<NAME_PLATE>アンジェ
+「もうこれ以上お前と喋っていても
+　時間の無駄だ。
+　どうやら口が堅い男らしいな」
+<PAUSE>
+<NAME_PLATE>俺
+「おかげさまで」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0012_r18
+<NAME_PLATE>アンジェ
+「だから、お前には死んでもらう。
+　もういらないからな」
+<PAUSE>
+<NAME_PLATE>
+　そのまま何も口にせず、目を瞑る。
+<PAUSE>
+<NAME_PLATE>
+　触手が近くへ迫ってくる感覚。
+少し変な臭いがする。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0013_r18
+<NAME_PLATE>アンジェ
+「大丈夫だ、痛くはしない、一瞬だ」
+<PAUSE>
+<NAME_PLATE>俺
+「そりゃどーも」
+<PAUSE>
+<NAME_PLATE>
+　別に願ってもないが、痛くしてくれないに
+こしたことはないだろう。
+<PAUSE>
+<NAME_PLATE>
+　そんなことを考えていた時……。
+<PAUSE>
+<GROUP>
+<SE_PLAY>se014_01
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0029_0014_r18
+<NAME_PLATE>アンジェ
+「くぁっ……！」
+<PAUSE>
+<NAME_PLATE>俺
+「うぉっ……」
+<PAUSE>
+<NAME_PLATE>
+　ほぼ同じタイミングで、互いの体を何か
+ビリビリっとした感覚が襲った。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0015_r18
+<NAME_PLATE>アンジェ
+「な、何だ……」
+<PAUSE>
+<NAME_PLATE>
+　何が原因だろうか……？
+<PAUSE>
+<NAME_PLATE>俺
+「一体何なんだ……？」
+<PAUSE>
+<NAME_PLATE>
+　新手の登場か？
+それは御免被りたいものだが。
+<PAUSE>
+<NAME_PLATE>
+　だが、それを機に逃げれるやもしれない。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0029_0016_r18
+<NAME_PLATE>アンジェ
+「くぅ……殺しを邪魔したのは、誰だ……」
+<PAUSE>
+<NAME_PLATE>
+　アンジェの方もいまだ、
+事態を呑み込めていないようで、
+困惑している様子だ。
+<PAUSE>
+<NAME_PLATE>
+　痛みは大したことなかったが自分の仕事を
+邪魔されたことに頭に来ているようだ。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0017_r18
+<NAME_PLATE>アンジェ
+「……まぁいい、後でじっくり、確かめよう」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0018_r18
+<NAME_PLATE>アンジェ
+「今は、お前を始末する。それが先決……」
+<PAUSE>
+<NAME_PLATE>
+　今までのことは今は流し、
+こちらに再び近づき、
+殺しを再開しようとした。
+<PAUSE>
+<NAME_PLATE>
+　だが、その時――
+<PAUSE>
+//【R00xb：アンジェ触手暴走エッチ_暴走拘束】
+<EV>chr_0029b_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0029_0019_r18
+<NAME_PLATE>アンジェ
+「な、なんだ！？」
+<PAUSE>
+<NAME_PLATE>
+　突然、アンジェの体から生えた触手が、
+主であるはずの彼女に襲いかかった。
+<PAUSE>
+<NAME_PLATE>
+　暴れ牛のように狂った動きをしている……
+何があったんだ？
+<PAUSE>
+<VOICE_PLAY>chr_0029_0020_r18
+<NAME_PLATE>アンジェ
+「うっ……な、なぜだ……くぅっ、このっ、
+　やめ……」
+<PAUSE>
+<NAME_PLATE>
+　抵抗し動きを制止しようとする
+彼女の意思とは別に、
+どんどん体を包囲していく。
+<PAUSE>
+<NAME_PLATE>
+　股は開かれ、
+アンジェの両手両足は触手によって
+拘束されてしまった。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0021_r18
+<NAME_PLATE>アンジェ
+「い、今までこんなこと……
+　なかった、のにっ……」
+<PAUSE>
+<NAME_PLATE>
+　苦しそうに、吐息をこぼしながら
+はねのけようとする。
+<PAUSE>
+<NAME_PLATE>
+　そんな時、突然触手はアンジェの肉体へと
+食いこませると、動きを止めた。
+<PAUSE>
+<NAME_PLATE>俺
+「これは……どういうことなんだ……」
+<PAUSE>
+<NAME_PLATE>
+　あの触手は、
+アンジェの指示に従うものだと思っていたが、
+違うのだろうか。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0022_r18
+<NAME_PLATE>アンジェ
+「そ、そうだ……お前、これを解いてくれ」
+<PAUSE>
+<NAME_PLATE>
+　そう言うが、
+身動きがとれないので無理な相談だ。
+<PAUSE>
+<NAME_PLATE>
+　それに、もし動けたとしても
+助けるようなことはしない。
+俺が捕まるだけだからな。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0023_r18
+<NAME_PLATE>アンジェ
+「お前は本当に使えない奴だ……くそっ、
+　うご、けっ……うご……けっ」
+<PAUSE>
+<NAME_PLATE>
+　何度も自分のモノを
+振りほどこうと動く姿は、
+なんだかどこか可哀想だ。
+<PAUSE>
+<NAME_PLATE>
+　そう思い眺めていると彼女の制止していた
+触手が突然動き始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0024_r18
+<NAME_PLATE>アンジェ
+「え、急に動い……」
+<PAUSE>
+//【R00xc：アンジェ触手暴走エッチ_露出】
+<GROUP>
+<SE_PLAY>se066
+<EV>chr_0029c_r18,NONE
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0029_0025_r18
+<NAME_PLATE>アンジェ
+「ぐっ……ぐぅっ、あっ……！
+　なにっ……ちょっ！！」
+<PAUSE>
+<NAME_PLATE>
+　暴走した触手は、
+アンジェの服を引き裂いた。
+<PAUSE>
+<NAME_PLATE>
+　裂かれた部分は一瞬でバラバラになり、
+地面へと落ちる。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0026_r18
+<NAME_PLATE>アンジェ
+「なぁっ……、なぜ……っ！　私の服が……」
+<PAUSE>
+<NAME_PLATE>
+　膨らんだ乳房、ツンと張っている乳首。
+<PAUSE>
+<NAME_PLATE>
+　それを見ていると、
+こんな状況でも不思議と、
+胸の奥から性的感情が湧いてきた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0027_r18
+<NAME_PLATE>アンジェ
+「み、見ないでくれ……頼む、から……」
+<PAUSE>
+<NAME_PLATE>
+　アンジェは恥ずかしいのか頬を紅潮させ、
+懇願してくる……が。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0028_r18
+<NAME_PLATE>アンジェ
+「まだ、誰にも見られた時……
+　ない、のに……」
+<PAUSE>
+<NAME_PLATE>
+　先ほどまで表情を
+あまり見せなかったクールな彼女が、
+<PAUSE>
+<NAME_PLATE>
+　自分の痴態を見られて
+恥ずかしがっているところなんて
+見せられたら……。
+<PAUSE>
+<NAME_PLATE>
+　そりゃあ、男として昂奮してしまう。
+これは止めようがない。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0029_r18
+<NAME_PLATE>アンジェ
+「うっ……やめて……ほんとに、そんな、
+　見ないでくれ……頼むからぁ……」
+<PAUSE>
+<NAME_PLATE>
+　自分のことを殺そうとしていた相手が、
+今は触手に弄ばれ、泣きそうになっている。
+なんていい状況だ。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0030_r18
+<NAME_PLATE>アンジェ
+「うぅ……お願いだ……」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0031_r18
+<NAME_PLATE>アンジェ
+「先ほどの非礼は、わ、詫びる……から……」
+<PAUSE>
+<NAME_PLATE>俺
+「……はぁ、仕方ないな……」
+<PAUSE>
+<NAME_PLATE>
+　今にも泣きそうな顔をされると、
+さすがにこちらも悪い気がしてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0032_r18
+<NAME_PLATE>アンジェ
+「目を閉じてくれるのか……？」
+<PAUSE>
+<NAME_PLATE>俺
+「仕方ないからな、残念だけど」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0033_r18
+<NAME_PLATE>アンジェ
+「ざ、残念といったのか？」
+<PAUSE>
+<NAME_PLATE>
+　なぜか少し嬉しそうに反応する……が、
+それは無視してそのまま目を
+閉じることにした。
+<PAUSE>
+<NAME_PLATE>
+　そう思ったんだが……。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0034_r18
+<NAME_PLATE>アンジェ
+「んっ……んあああああああああ！？」
+<PAUSE>
+<NAME_PLATE>俺
+「なんだ？」
+<PAUSE>
+<NAME_PLATE>
+　突然大きな声を上げたかと思うと、
+触手のアンジェへの拘束が更に
+激しいものとなっていた。
+<PAUSE>
+<NAME_PLATE>
+　少し離れているのにも拘わらずジリジリと
+いった締め付ける音が聞こえてくるようだ。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0035_r18
+<NAME_PLATE>アンジェ
+「はっ……はっ……なぜ、急に……
+　また、動いて……」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0036_r18
+<NAME_PLATE>アンジェ
+「そ、それより……め、目をこっちに
+　向けないでくれ……！」
+<PAUSE>
+<NAME_PLATE>俺
+「あぁっ！」
+<PAUSE>
+<NAME_PLATE>
+　そう言われてとっさに
+後ろを振り向こうとしたが……。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0037_r18
+<NAME_PLATE>アンジェ
+「あっ……あぁぁぁぁっ！！」
+<PAUSE>
+<NAME_PLATE>
+　再び、触手のアンジェへの
+締め付けが厳しくなっていた。
+<PAUSE>
+<NAME_PLATE>俺
+「もしかして、俺が見ていないと
+　ダメなのか……？」
+<PAUSE>
+<NAME_PLATE>
+　不思議だが、触手が頷いたような気がする。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0038_r18
+<NAME_PLATE>アンジェ
+「そ、そんな……！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0039_r18
+<NAME_PLATE>アンジェ
+「う、動……いてっ！
+　なぜいつも私の言うことを
+　聞いてくれるのに……こんな……」
+<PAUSE>
+<NAME_PLATE>
+　アンジェは絶望的な表情をしたまま自分の
+触手を叩く……が、相変わらず反応がない。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0040_r18
+<NAME_PLATE>アンジェ
+「こんなのって……ない……」
+<PAUSE>
+<NAME_PLATE>
+　必死に抵抗する彼女のことは知らんと
+いった感じで、触手は先端を胸、
+股間へうねうねと這わせていった。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0041_r18
+<NAME_PLATE>アンジェ
+「あっ……ひぅっ、だめ、くる……なぁっ！
+　頼むから！！」
+<PAUSE>
+<NAME_PLATE>
+　怯えた表情のアンジェに、
+触手は再び襲いかかった。
+<PAUSE>
+//【R00xd：アンジェ触手暴走エッチ_刺激】
+<EV>chr_0029d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0029_0042_r18
+<NAME_PLATE>アンジェ
+「……んあっ！　……ん、んぁぁあっ！
+　はっ、はひぃいいい！！！」
+<PAUSE>
+<NAME_PLATE>
+　触手は器用に先端を使い、
+乳首を弄るかのように擦っていく。
+<PAUSE>
+<NAME_PLATE>
+　股間も同様に、オナニーする時のような
+感覚で擦らせ、彼女に強い快感を
+与えているようだ。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0043_r18
+<NAME_PLATE>アンジェ
+「あひっ……そ、そこは……あぁっ！
+　強くしないでぇええ！」
+<PAUSE>
+<NAME_PLATE>
+　アンジェの抵抗虚しく、
+触手の力の前には為す術もないようだ。
+<PAUSE>
+<NAME_PLATE>
+　あの力で切り裂かれていたらと思うと、
+こちらまで少し怖くなってくる。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0044_r18
+<NAME_PLATE>アンジェ
+「んっ、んあっ……やめ……ろっ、
+　は、恥ずかし……あああっ！」
+<PAUSE>
+<NAME_PLATE>
+　痴態を全周囲に晒す……といっても、
+ここにはあまり人はいないが、
+それでも恥ずかしいのだろう。
+<PAUSE>
+<NAME_PLATE>
+　なんていったって、
+異性がいるわけだからな。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0045_r18
+<NAME_PLATE>アンジェ
+「はふっ、あぁっ、ふぅん……あぎっ、
+　ぐぎっ、ふぎっ……！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0046_r18
+<NAME_PLATE>アンジェ
+「あっ、あっ、あひゅぅぅん……な、なんで
+　こんな時に……気持ち良く……ンンっ！」
+<PAUSE>
+<NAME_PLATE>
+　触手は容赦なくアンジェの体を攻め続け、
+弱者である彼女をあざ笑うかのように弄ぶ。
+<PAUSE>
+<NAME_PLATE>
+　しかも、奴は自我を持っているかのように
+緩急をつけながら動くという、かなりの高度な
+技術を所有しているようで……。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0047_r18
+<NAME_PLATE>アンジェ
+「はぁっ……はぁっ……こ、れ……
+　昨日の、感覚に似てる……あぁっ……」
+<PAUSE>
+<NAME_PLATE>
+　ぽろっとアンジェがこぼした言葉に、
+少し違和感があった。
+<PAUSE>
+<NAME_PLATE>俺
+「……昨日のって？」
+<PAUSE>
+<NAME_PLATE>
+　訊ねると、アンジェはハッとしたような
+顔をし元々紅潮していた顔が更に赤くなる。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0048_r18
+<NAME_PLATE>アンジェ
+「なんでも……な、いィっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0049_r18
+<NAME_PLATE>アンジェ
+「あひっ、んん～～～！！！　んぐっ、
+　ふごっ、いぎぃっ！？」
+<PAUSE>
+<NAME_PLATE>
+　昨日の……とは、もしかしてだけど、
+昨日オナニーでもしたのだろうか。
+<PAUSE>
+<NAME_PLATE>
+　体の中にしまっている触手だ、
+その時の感覚があってもおかしくない。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0050_r18
+<NAME_PLATE>アンジェ
+「はぁっ、はっ、恥ずかしいけど、
+　もう止まら……ないっ！」
+<PAUSE>
+<NAME_PLATE>
+　なるほどあの緩急のつけ方は普段の彼女の
+オナニーから触手が勉強したのか。
+勝手な推測だが、納得はいく。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0051_r18
+<NAME_PLATE>アンジェ
+「あぐっ！　んぐぅっ！！　もっと、
+　もっとぉ！　いっぱい……いっぱい
+　満たして……ほひぃいいい！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0052_r18
+<NAME_PLATE>アンジェ
+「はぁっ、んんっ、あふぅっ！　もっと、
+　触って……あぁんっ……！」
+<PAUSE>
+<NAME_PLATE>
+　いつの間にかアンジェは、自分から腰を
+振り触手を求めていた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0053_r18
+<NAME_PLATE>アンジェ
+「かきまわひて……んあ～！　あふっ、
+　ひゅぅんっ、はふぅうん！！」
+<PAUSE>
+<NAME_PLATE>
+　こちらも人のことは言えず、異型の物体に
+犯される少女に夢中になってしまっていた。
+<PAUSE>
+<NAME_PLATE>
+　感じているアンジェの姿は、脳裏に
+焼き付けておこう。
+<PAUSE>
+//【R00xe：アンジェ触手暴走エッチ_感じる】
+<EV>chr_0029e_r18,NONE
+<VOICE_PLAY>chr_0029_0054_r18
+<NAME_PLATE>アンジェ
+「あっ、んっ……んひっ！
+　あぐっ、はひぃぃぃっ！
+　らめらめ……あひぃいいいん！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0055_r18
+<NAME_PLATE>アンジェ
+「んはっ、んっ、はぁっ、んぶっ、んぼっ、
+　おぶっ、はっ、はぁ、はぁぁっ……」
+<PAUSE>
+<NAME_PLATE>
+　変わらず、緩急をつけた触手の攻めに
+アンジェは翻弄されている。
+<PAUSE>
+<NAME_PLATE>
+　あんな手つきで普段はオナニーして
+いるのだろうか……そんな妄想が捗る。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0056_r18
+<NAME_PLATE>アンジェ
+「はぁっ、うひっ、んひぃぃっ……
+　らめぇ、らめぇぇ……」
+<PAUSE>
+<NAME_PLATE>
+　愛液の量は最初の頃とは比べ物に
+ならないくらいに多く溢れ、
+足元はドロドロになっていた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0057_r18
+<NAME_PLATE>アンジェ
+「いぎっ……ふぎぃっ！！
+　あっ、はふっ、んん～っ……」
+<PAUSE>
+<NAME_PLATE>
+　あの肉壷に挿入したら
+どんな味がするのだろうか……
+<PAUSE>
+<NAME_PLATE>
+　そんなことも考えつつ、
+自分のモノはどんどん膨張していった。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0058_r18
+<NAME_PLATE>アンジェ
+「んぅっ、あひっ、うごっ、んぐぐぐっ……！
+　はっ、はっ、はぁぁっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0059_r18
+<NAME_PLATE>アンジェ
+「ひゃっ、んっ、ふぎっ、いぐっ！　はぁ、
+　はぁン、ンン……」
+<PAUSE>
+<NAME_PLATE>
+　口からよだれがぽつりと地面に落ちる。
+そのよだれは、とろとろとしており、
+ぜひとも口内で交えたい代物だ……。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0060_r18
+<NAME_PLATE>アンジェ
+「あっ、ふっ、んんっ……！？　りゃぁっ、
+　ち、ちくびらめぇっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0061_r18
+<NAME_PLATE>アンジェ
+「んぁあ……こ、こんなに攻められたら……
+　も、もう……おかしく、なっちゃう……」
+<PAUSE>
+<NAME_PLATE>
+　触手は乳首をじりじりと締め上げては、
+時々優しくほぐしている。
+<PAUSE>
+<NAME_PLATE>
+　天を突き上げるように尖ったそれは、
+優しくされる度に物欲しそうに
+ぴくぴくと震えていた。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0062_r18
+<NAME_PLATE>アンジェ
+「乳首、そんな攻められると……んひっ、
+　あっ、あはぁぁっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0063_r18
+<NAME_PLATE>アンジェ
+「ひゃっ、んっ……あひっ、あひひっ、
+　んぅう……！」
+<PAUSE>
+<NAME_PLATE>
+　アンジェの言葉が通じたのか、今度は
+一気に膣内へと触手の先端が愛液に導かれ
+侵入していく。
+<PAUSE>
+<NAME_PLATE>
+　膣内はぬちゅっと気持ちのよい音がなり、
+すんなりと受け入れたようだ。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0029_0064_r18
+<NAME_PLATE>アンジェ
+「ん……んほっ！！　あっ、んぐっ、あっ、
+　あぁっ、んあっ！！　うぐうぅっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0065_r18
+<NAME_PLATE>アンジェ
+「ひぐっ！？　あっ！！　んぅっ、んほっ、
+　あぁぅっ、ひぎっ、いぎっ、んぎっ、
+　はふうぅっ！！」
+<PAUSE>
+<NAME_PLATE>
+　こちらの顔にかかってしまうくらいの
+勢いで大量に膣奥から愛液が吹き出してくる。
+<PAUSE>
+<NAME_PLATE>
+　ひくひくと膣口は
+動いており男根を求めている。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0066_r18
+<NAME_PLATE>アンジェ
+「はひっ、んん……あっ、んごっ、
+　んひっ、あふぅっ！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0067_r18
+<NAME_PLATE>アンジェ
+「手より……気持ちいいっ、触手、
+　しゅごいっ！」
+<PAUSE>
+<NAME_PLATE>
+　残念ながら自分の男根を
+挿入してあげれないが、
+<PAUSE>
+<NAME_PLATE>
+　代わりのデカ触手で
+満足しているようなので口を
+出すわけにはいかないな。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0068_r18
+<NAME_PLATE>アンジェ
+「触手オナニー、しゅごいのっ！
+　はぁっ、んぐっ、あひぃっ……
+　はふっんんんんっ！！」
+<PAUSE>
+<NAME_PLATE>
+　すっかりご満悦な表情で、
+快感を露わにしつつ喘ぐアンジェ。
+<PAUSE>
+<NAME_PLATE>
+　自分の中にあるモノを、自分の肉壷へ
+挿入する感覚というのは、
+一体どういうものなのだろう。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0069_r18
+<NAME_PLATE>アンジェ
+「はふっ、あひっ、んっ、あっ、あふぅ……
+　んぐっ！？　はひぃいいい！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0070_r18
+<NAME_PLATE>アンジェ
+「も、もうっ……んっ、はぁ……
+　気持ち、よすぎでっ！
+　イッ、イッちゃいそうに……！
+　あぁぁぁっ！？」
+<PAUSE>
+<NAME_PLATE>
+　絶頂が近いためか、息が荒い。
+離れてみている俺の方にまで
+熱い吐息がかかってくる。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0071_r18
+<NAME_PLATE>アンジェ
+「ダメ、なのに……はぁっ、こんなところ、
+　他の男の人に見られたこと、
+　な、ないのに……！！」
+<PAUSE>
+<NAME_PLATE>
+　そう言いつつも、彼女の表情はどこか、
+嬉しそうだ。
+<PAUSE>
+<NAME_PLATE>
+　きっと、露出の気があるんだろう。
+そんなことを思った。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0072_r18
+<NAME_PLATE>アンジェ
+「んあぁぅっ！！　あふっ、はっ、あっ、
+　はぁぅっ、はぁっ！？　い、いぎっ、
+　んぎぃいいいい！！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0073_r18
+<NAME_PLATE>アンジェ
+「はぁっ、あひぃっ！！　だめ、もう
+　イッちゃう！　触手チンポで……
+　い、イッちゃう！！」
+<PAUSE>
+<NAME_PLATE>
+　実際、目が合う度に妖艶な笑みを
+浮かべてくるのが証拠な気がする。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0074_r18
+<NAME_PLATE>アンジェ
+「わたひはっ……じ、自分の触手チンポで
+　オナニーしてイッちゃう、
+　らめな子ですうううぅぅ！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0075_r18
+<NAME_PLATE>アンジェ
+「それを囚えた男の人に見られて、
+　昂奮しじゃうっ！！　らめな子……
+　あぁぁぁぁ！！！」
+<PAUSE>
+<NAME_PLATE>
+　大きく自虐的な言葉を叫び、
+絶頂が近いことを周囲へ知らしめる。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0076_r18
+<NAME_PLATE>アンジェ
+「あひっ、んふっ！！
+　もう、本当にイぐっ……
+　らめだけど、イぐぅううううう！」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0077_r18
+<NAME_PLATE>アンジェ
+「んぎっ！　ふぎぃっ！　あっ、あっ、
+　はぁっ、んぐぅうううううううっっっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0029f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chr_0029_0078_r18
+<NAME_PLATE>アンジェ
+「ほんとに……イグぅううううううううう
+　ううううううううううう！！！！」
+<PAUSE>
+//【R00xd：アンジェ触手暴走エッチ_絶頂】
+<NAME_PLATE>
+　大きく叫びながら絶頂し、
+アンジェは絶頂してしまったようだ。
+<PAUSE>
+<NAME_PLATE>
+　秘部から吹き出した潮が、
+勢い良くこちらの顔にかかってくる。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0029_0079_r18
+<NAME_PLATE>アンジェ
+「はっ、はひっ……はぁ、んんっ……
+　はっ、はっ、はぁぁぁあああ……」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0080_r18
+<NAME_PLATE>アンジェ
+「い、いっぱい……かかっちゃった……
+　えっと……」
+<PAUSE>
+<NAME_PLATE>俺
+「ふうまだ」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0081_r18
+<NAME_PLATE>アンジェ
+「ふうま……ふうまに、いっぱい……
+　かかった……」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0082_r18
+<NAME_PLATE>アンジェ
+「気持ち……よかった……はぁ、はっ、
+　んっ……ふはぁ……」
+<PAUSE>
+<NAME_PLATE>
+　犯される前とは違い、
+恥ずかしそうではあるがおっとりとした
+表情を浮かべている。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0083_r18
+<NAME_PLATE>アンジェ
+「あっ……
+　もっと、もっとかけたい……のにっ」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0084_r18
+<NAME_PLATE>アンジェ
+「なんで、止まっちゃうの……私の、潮……」
+<PAUSE>
+<NAME_PLATE>
+　潮は勢いが弱まり、遂には吹き出すのを
+やめてしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0085_r18
+<NAME_PLATE>アンジェ
+「あっ……」
+<PAUSE>
+<NAME_PLATE>
+　アンジェの潮吹きが止んだ後、
+触手は力を失ったのか、拘束は解かれた。
+<PAUSE>
+<NAME_PLATE>俺
+「やっと、終わったな」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0086_r18
+<NAME_PLATE>アンジェ
+「……んっ」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0087_r18
+<NAME_PLATE>アンジェ
+「やっと……言うこと、聞いてくれた」
+<PAUSE>
+<VOICE_PLAY>chr_0029_0088_r18
+<NAME_PLATE>アンジェ
+「うぅ……」
+<PAUSE>
+<NAME_PLATE>
+　もじもじしながら、顔を赤らめ、
+体を震わせながらこちらを見つめてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0089_r18
+<NAME_PLATE>アンジェ
+「は、初めて男の人の前で……
+　その、い、イッちゃった……から、
+　恥ずか……しい」
+<PAUSE>
+<NAME_PLATE>
+　最初に始末するなんて言ってた時とは、
+大違いだ……。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0090_r18
+<NAME_PLATE>アンジェ
+「こ、こんなに……気持ちいいなんて……
+　思わなかった……ふうまに、見られて
+　……その……」
+<PAUSE>
+<NAME_PLATE>
+　そう言い、体を預けてきた。
+<PAUSE>
+<NAME_PLATE>俺
+「ちょっ、おい、こんなところで……」
+<PAUSE>
+<NAME_PLATE>俺
+「……って、気を失っているのか」
+<PAUSE>
+<NAME_PLATE>
+　さすがに疲れたんだろう頭をうたないよう
+体を横にして寝かせてやる。
+<PAUSE>
+<NAME_PLATE>
+　あれだけ盛大にイッたんだ。
+相当疲れたんだろう。
+<PAUSE>
+//【黒画面】
+<BGM_STOP>1000
+<EV_OUT>1000
+<NAME_PLATE>俺
+「それにしても、
+　何が起こってあんなことに
+　なったんだろうな？」
+<PAUSE>
+<NAME_PLATE>俺
+「特に心当たりもないしな……ん？」
+<PAUSE>
+<NAME_PLATE>
+　何か、胸ポケットに違和感があるような。
+<PAUSE>
+<NAME_PLATE>
+　さすってみると、
+壊れた通信端末が出てきた。
+<PAUSE>
+<NAME_PLATE>俺
+「なるほど、触手の攻撃でこいつが壊れて、
+　そこから電流が俺たちの体に流れたのか」
+<PAUSE>
+<NAME_PLATE>
+　それで、触手の制御を失った……と。ふむ。
+<PAUSE>
+<NAME_PLATE>俺
+「そんなことって、あるんだな……」
+<PAUSE>
+<NAME_PLATE>
+　割ととんでも体験のような気もするが……
+まぁ、生きていればそんな経験、
+一度や二度するだろう。
+<PAUSE>
+<VOICE_PLAY>chr_0029_0091_r18
+<NAME_PLATE>アンジェ
+「んん……はぁ、はぁ……」
+<PAUSE>
+<NAME_PLATE>
+　横で寝言を漏らすアンジェ。
+<PAUSE>
+<NAME_PLATE>俺
+「そうだ、こいつ、どうしようか……」
+<PAUSE>
+<NAME_PLATE>俺
+「……こうなったのも、俺の責任でもあるか」
+<PAUSE>
+<NAME_PLATE>
+　横になったアンジェを背負い、
+安全な場所まで運んでやることにした。
+<PAUSE>
+<NAME_PLATE>俺
+「……思ってたよりも軽いんだな」
+<PAUSE>
+<NAME_PLATE>
+　夜風を浴びながら、そんなことを思った。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

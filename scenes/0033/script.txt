@@ -1,0 +1,1280 @@
+//■由利翡翠 Hシナリオ
+//■R-ev001　　：翡翠Ｈ１
+//【背景：翡翠私室】
+//　※立ち絵
+//　　翡翠立ち絵
+//　　　＊このカードイラスト表を流用
+<BGM_PLAY>bgm604,1000
+<BG>nc025a,IN, 3000
+//※仮
+<ACTOR>0,chr_t0033a_r18,CENTER, CENTER, IN, linear, 1000
+//※仮
+<VOICE_PLAY>chr_0033_0000_r18
+<NAME_PLATE>翡翠
+「いらっしゃい」
+<PAUSE>
+<NAME_PLATE>俺
+「お、お邪魔します」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0001_r18
+<NAME_PLATE>翡翠
+「遠慮しないでいい」
+<PAUSE>
+<NAME_PLATE>俺
+「は、はい……え？」
+<PAUSE>
+<NAME_PLATE>
+　部屋に足を踏み入れるなりギョッとした。
+<PAUSE>
+<NAME_PLATE>
+　今日、俺はだしぬけに
+由利翡翠（ゆりひすい）先輩に誘われた。
+<PAUSE>
+<NAME_PLATE>
+　昼休み、先輩がいきなり俺のところに来て、
+<PAUSE>
+<VOICE_PLAY>chr_0033_0002_r18
+<NAME_PLATE>翡翠
+『放課後、部屋に来て欲しい』
+<PAUSE>
+<NAME_PLATE>
+　いつもの淡々とした顔で言ったのだ。
+<PAUSE>
+<NAME_PLATE>
+　相手の力を奪って自分のものとする
+“合食（ごうしょく）の術”の使い手であり、
+実戦ではその粘り強さに定評のある先輩だが、
+<PAUSE>
+<NAME_PLATE>
+　普段は大概一人でボーッとしていて、表情の
+変化も口数も少ないので、よく分からないが
+取っ付きにくい先輩という印象だ。
+<PAUSE>
+<NAME_PLATE>
+　たまに鍛錬の森で、特に楽しくもなさそうに
+野鳥に餌をやっていたりするのを見るが、
+俺との接点はそれくらいだ。
+<PAUSE>
+<NAME_PLATE>
+　なぜいきなり部屋に誘われるのか
+分からない。
+<PAUSE>
+<NAME_PLATE>
+　いや、いわゆる無口系美人の先輩に誘われて
+悪い気はしないけれど。
+<PAUSE>
+<NAME_PLATE>俺
+「せ、先輩の部屋は和室ですか。
+　なんか“らしい”ですね……」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0003_r18
+<NAME_PLATE>翡翠
+「落ち着くから」
+<PAUSE>
+<NAME_PLATE>俺
+「そうですか……で、あの……
+　ひ、一つ気になるものが
+　あるんですけど……」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0004_r18
+<NAME_PLATE>翡翠
+「なに？」
+<PAUSE>
+<NAME_PLATE>俺
+「なんで布団が敷かれてるんですか？」
+<PAUSE>
+<NAME_PLATE>
+　そう、部屋の真ん中には
+純白のシーツをしわ一つなくぴしっと張った、
+<PAUSE>
+<NAME_PLATE>
+　どう見ても準備万端という感じの布団が
+敷かれていたのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0005_r18
+<NAME_PLATE>翡翠
+「使うから」
+<PAUSE>
+<NAME_PLATE>俺
+「つ、使うって……え！？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0006_r18
+<NAME_PLATE>翡翠
+「じゃあ始める」
+<PAUSE>
+<NAME_PLATE>俺
+「は、始めるって何を？　ちょっ、
+　うわっっ！！」
+<PAUSE>
+<BGM_STOP>1000
+<NAME_PLATE>
+　まさかとは思ったが、俺はいきなり先輩に
+布団の上に押し倒された。
+<PAUSE>
+<ACTOR>0,chr_t0033a_r18,CENTER, CENTER, OUT, linear, 1000
+//■R-ev001a　　：翡翠Ｈ１
+<BGM_PLAY>bgm315,1000
+<EV>chr_0033a_r18,IN, 3000
+<VOICE_PLAY>chr_0033_0007_r18
+<NAME_PLATE>翡翠
+「脱いで」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>俺
+「ちょっ、先輩っ、いきなり過ぎますよっ、
+　ま、待ってください！」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0008_r18
+<NAME_PLATE>翡翠
+「待たない。時間がもったいない。
+　私が脱がす」
+<PAUSE>
+<NAME_PLATE>
+　先輩はいつもと同じボーッとした目で
+俺の服をむしっていく。
+<PAUSE>
+<NAME_PLATE>俺
+「じ、時間がもったいないって。先輩っ、
+　わ、わっ、ひゃわあっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　突然の展開に驚くまま、
+俺はあれよあれよという間に
+裸にひんむかれてしまった。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0009_r18
+<NAME_PLATE>翡翠
+「君は意外と手間がかかる」
+<PAUSE>
+<NAME_PLATE>俺
+「て、手間ってそんな……
+　ちょっ、ええええっ！？」
+<PAUSE>
+<NAME_PLATE>
+　今度こそ目を疑った。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0010_r18
+<NAME_PLATE>翡翠
+「よいしょ」
+<PAUSE>
+<NAME_PLATE>
+　俺をすっ裸にした先輩は、
+いきなり大胆なＭ字開脚のポーズを取り、
+<PAUSE>
+<NAME_PLATE>
+　オマンコをチンポにくっつけるようにして、
+俺の上に座り込んだのだ。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0011_r18
+<NAME_PLATE>翡翠
+「うん」
+<PAUSE>
+<NAME_PLATE>
+　先輩に限ったことでないが、
+対魔忍の装束はそれは
+もう肌への密着度が高い。
+<PAUSE>
+<NAME_PLATE>
+　マンコの形がくっきり浮き出すほどの薄布が
+俺のチンポにぺたっとへばり付くのが
+分かった。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……せ、先輩……」
+<PAUSE>
+<NAME_PLATE>
+　頭がカーッと燃え上がるような気がして、
+わけが分からないまま、下半身にどーっと
+血液が流れ込んでいく。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0012_r18
+<NAME_PLATE>翡翠
+「熱くなってきた。勃起し始めている」
+<PAUSE>
+<NAME_PLATE>
+　先輩は泌尿器科の女医がＥＤ患者の男性器を
+診断するかのように淡々と言った。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>俺
+「ちょっと先輩、先輩ってば！！
+　待ってくださいよ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0013_r18
+<NAME_PLATE>翡翠
+「なに？」
+<PAUSE>
+<NAME_PLATE>
+　俺がさすがに大声を出すと、
+先輩は例によって別に表情も変えずに
+俺を見下ろした。
+<PAUSE>
+<NAME_PLATE>俺
+「どういうことなんですかこれは？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0014_r18
+<NAME_PLATE>翡翠
+「…………」
+<PAUSE>
+<NAME_PLATE>
+　俺の投げつける様な問いに、
+先輩は何を考えているのかよく分からない目で
+黙っている。
+<PAUSE>
+<NAME_PLATE>俺
+「先輩！」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0015_r18
+<NAME_PLATE>翡翠
+「……君に興味がわいたから」
+<PAUSE>
+<NAME_PLATE>
+　先輩はとても興味があるとは
+思えない口調で言った。
+<PAUSE>
+<NAME_PLATE>俺
+「きょ、興味？　俺に興味？　え？　いつ？？
+　俺のどこが？」
+<PAUSE>
+<NAME_PLATE>
+　今聞く必要はないのだが、
+あまりに動転していてそんなことを
+口走ってしまう。
+<PAUSE>
+<NAME_PLATE>
+　先輩は僅かに視線を上に向けて考えてから、
+<PAUSE>
+<VOICE_PLAY>chr_0033_0016_r18
+<NAME_PLATE>翡翠
+「いつ……忘れた」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0017_r18
+<NAME_PLATE>翡翠
+「どこ……色々と。一言では言い切れない」
+<PAUSE>
+<NAME_PLATE>俺
+「一言も言ってませんよ！」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0018_r18
+<NAME_PLATE>翡翠
+「今、説明が必要？」
+<PAUSE>
+<NAME_PLATE>俺
+「い、いや……必要じゃないですけど……」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0019_r18
+<NAME_PLATE>翡翠
+「ならいい」
+<PAUSE>
+<NAME_PLATE>
+　いや、よくないって！
+<PAUSE>
+<NAME_PLATE>
+　もちろん、この会話の間も先輩の股間は
+ぴったり俺のチンポにくっついている。
+<PAUSE>
+<NAME_PLATE>
+　それに加え、太股にぷるんぷるんと
+伝わってくる先輩のお尻の感触で
+気が遠くなりそうだ。
+<PAUSE>
+<NAME_PLATE>
+　先輩がいつもと変わらないので、
+独りで熱くなっていくチンポが
+妙に気恥ずかしい。
+<PAUSE>
+<NAME_PLATE>俺
+「せ、先輩は興味がわいたら
+　こんなことするんですか？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0020_r18
+<NAME_PLATE>翡翠
+「君だって興味があるみたい」
+<PAUSE>
+<NAME_PLATE>
+　野鳥に餌をやっているときのような面白くも
+おかしくもなさそうな顔で、
+軽く腰をくねらせた。
+<PAUSE>
+<NAME_PLATE>
+　極薄の布越しにクニュッとした秘唇の感触が
+間違いなくチンポに伝わってきた。
+<PAUSE>
+<NAME_PLATE>俺
+「うっっ……くっ……」
+<PAUSE>
+<NAME_PLATE>
+　ギリギリのところでなんとか堪えていた
+勃起感が解き放たれ、先輩の股の間でチンポが
+ビクッと跳ねる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0021_r18
+<NAME_PLATE>翡翠
+「君も興味あるでしょう？」
+<PAUSE>
+<NAME_PLATE>俺
+「そ、それはもう……だって先輩素敵だし」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0022_r18
+<NAME_PLATE>翡翠
+「私とセックスしたい？」
+<PAUSE>
+<NAME_PLATE>俺
+「え……？」
+<PAUSE>
+<NAME_PLATE>
+　先輩はいつもと同じあっさりした調子で
+俺に確認する。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0023_r18
+<NAME_PLATE>翡翠
+「答えて。私とセックスしたい？
+　私の身体に興味ある？」
+<PAUSE>
+<NAME_PLATE>俺
+「したいです。先輩とセックスしたいです。
+　先輩の身体にも興味あります」
+<PAUSE>
+<NAME_PLATE>俺
+「あ、いえ身体だけじゃなくて
+　先輩の全部に興味あります！」
+<PAUSE>
+<NAME_PLATE>
+　俺は矢継ぎ早に答えていた。
+<PAUSE>
+<NAME_PLATE>
+　全く訳が分からないが、
+先輩にこんな風に聞かれたら、
+他にどんな答え方があるというのだ。
+<PAUSE>
+//●R-ev001b　翡翠Ｈ１＿素股１
+<EV>chr_0033b_r18,NONE
+<VOICE_PLAY>chr_0033_0024_r18
+<NAME_PLATE>翡翠
+「うれしい」
+<PAUSE>
+<NAME_PLATE>
+　先輩は短く答えた。
+<PAUSE>
+<NAME_PLATE>
+　だがその顔は、俺が今まで一度も
+見たことのない、そしてきっと誰も
+見たことのない、別人のような顔だった。
+<PAUSE>
+<NAME_PLATE>
+　いつも眠そうにしている目が大きく見開かれ
+目尻から頬にかけてサーッと紅潮していく。
+<PAUSE>
+<NAME_PLATE>
+　そういえば『うれしい』という言葉も
+少し上ずっていた。
+<PAUSE>
+<NAME_PLATE>
+　自分から俺を押し倒したくせに、俺に
+『興味がある』と言われた程度で
+こんな顔をしている。
+<PAUSE>
+<NAME_PLATE>俺
+（かわいいな、先輩）
+<PAUSE>
+<VOICE_PLAY>chr_0033_0025_r18
+<NAME_PLATE>翡翠
+「まずは素股から」
+<PAUSE>
+<NAME_PLATE>
+　先輩はこれまた俺の知らない、
+興味津々といった顔で腰を動かし始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0026_r18
+<NAME_PLATE>翡翠
+「んっ……ふっ……んっ……んんっ……」
+<PAUSE>
+<NAME_PLATE>
+　小さく開いた口から小刻みに息が漏れ
+股間がすりすりとチンポを擦っていく。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……くっ……先輩っ……」
+<PAUSE>
+<NAME_PLATE>
+　いきなり俺を押し倒したことといい、
+意外にも可愛らしい表情といい、
+先輩にはペースを握られっぱなしだ。
+<PAUSE>
+<NAME_PLATE>
+　俺のチンポにはギューーンッと
+音を立てるように血流が流れ込み、
+ガチガチに勃起していく。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0027_r18
+<NAME_PLATE>翡翠
+「どんどん勃っていく、楽しい」
+<PAUSE>
+<NAME_PLATE>俺
+「先輩から……そんな言葉が聞けるなんて……
+　くうっ、思ってもみませんでした……
+　顔もすごい楽しそうですよっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0028_r18
+<NAME_PLATE>翡翠
+「そう？　いつもと同じだけれど」
+<PAUSE>
+<NAME_PLATE>俺
+（どこがっ……！）
+<PAUSE>
+<NAME_PLATE>
+　先輩は自分が普段と違うのに
+気づいていない様子でクイッ、クイッと
+腰を振った。
+<PAUSE>
+<NAME_PLATE>
+　ムクムクと固くなっていく肉根が、
+股布が完全に食い込んだ先輩のアソコに
+押しつけられる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0029_r18
+<NAME_PLATE>翡翠
+「これは大きい方？」
+<PAUSE>
+<NAME_PLATE>俺
+「え？　な、なんです？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0030_r18
+<NAME_PLATE>翡翠
+「君のチンポ、これは大きい方なの？」
+<PAUSE>
+<NAME_PLATE>
+　先輩は目をきらきらさせて聞いてきた。
+子供が大きなカブトムシを
+見つけた時のような顔だ。
+<PAUSE>
+<NAME_PLATE>俺
+「え、えっと……
+　はい、結構、大きい方じゃないかと……」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0031_r18
+<NAME_PLATE>翡翠
+「そう……うんっ、なるほど……うん、うん
+　……結構大きい……了解した」
+<PAUSE>
+<NAME_PLATE>
+　先輩はやっぱりどこかズレいて、俺の返事に
+生真面目に頷いている。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0032_r18
+<NAME_PLATE>翡翠
+「んっ……ふっ……チンポってすごく熱い……
+　驚いた……んっ、んっ……ふふ」
+<PAUSE>
+<NAME_PLATE>
+　けれど先輩は顔だけでなく、オマンコでも
+喜んでくれているようだった。
+<PAUSE>
+<NAME_PLATE>
+　股間にはうっすらと愛液の染みができていて
+染み出したその蜜汁がペニスにジュルルと
+絡みつき始めている。
+<PAUSE>
+<NAME_PLATE>俺
+（いくら相手が先輩でも、
+　このままやられっぱなしじゃ
+　ちょっと癪に障るな……よしっ！）
+<PAUSE>
+<NAME_PLATE>
+　先輩が感じ始めたことを確信し、
+その腰ふりに合わせて、
+俺もグイッと腰を動かした。
+<PAUSE>
+//●rR-ev001c　翡翠Ｈ１＿素股２
+<EV>chr_0033c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0033_0033_r18
+<NAME_PLATE>翡翠
+「っくぅんっっ☆」
+<PAUSE>
+<NAME_PLATE>
+　先輩は驚いたような声を出して、
+キュンと身体をすくませた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0034_r18
+<NAME_PLATE>翡翠
+「え？　今の私の声、なに？」
+<PAUSE>
+<NAME_PLATE>
+　しかも、自分の口から出た声が
+甘えた感じだったことに戸惑っているようだ。
+<PAUSE>
+<NAME_PLATE>俺
+「先輩、なんか可愛いですね」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0035_r18
+<NAME_PLATE>翡翠
+「えっ？　ちょっ、ひゃんっっ！」
+<PAUSE>
+<NAME_PLATE>
+　俺は先輩の思いがけない隙を突くように、
+グイグイと腰を押し上げた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0036_r18
+<NAME_PLATE>翡翠
+「んっ……くっ……んっ……あんっ……
+　ンゥッ……くううんっ……」
+<PAUSE>
+<NAME_PLATE>
+　先輩の目が細くなり、目尻がキュウッと
+下がってどこからどう見ても
+感じている顔になる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0037_r18
+<NAME_PLATE>翡翠
+「あんっ……んっ……君が動いてる……んっ
+　……私を……んんっ……押し上げてる……
+　アソコ……擦れてる……んんっ……」
+<PAUSE>
+<NAME_PLATE>
+　先輩は俺のことを『いきなり押し倒されて
+為すがままの初な後輩』だと
+思ってるのかもしれない。
+<PAUSE>
+<NAME_PLATE>
+　実際、今の今まではそうだったのだが、
+俺だってそれなりの経験を積んでいる。
+<PAUSE>
+<NAME_PLATE>
+　ここは男らしいところを見せねばと、
+硬くなったチンポで股布越しに先輩の割れ目を
+グッグッと刺激した。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0038_r18
+<NAME_PLATE>翡翠
+「あっ……ンッ……くっんっ……ねえ君……
+　私ね……私ね……」
+<PAUSE>
+<NAME_PLATE>
+　先輩はプルプルと切なそうに身を
+よじりながら、なにか重大なことを
+告白するように話し始めた。
+<PAUSE>
+<NAME_PLATE>俺
+（ずっと君のことが好きだったの……
+　とかかな。
+　そんな素振り全くなかったけれど）
+<PAUSE>
+<NAME_PLATE>俺
+「なんです？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0039_r18
+<NAME_PLATE>翡翠
+「わたし……今、気持ちよくなってるみたい
+　……驚いた」
+<PAUSE>
+<NAME_PLATE>俺
+「ええっ？」
+<PAUSE>
+<NAME_PLATE>
+　正直ずっこけだ。そこかよ！
+<PAUSE>
+<VOICE_PLAY>chr_0033_0040_r18
+<NAME_PLATE>翡翠
+「んっふっ……この感じ、すごく新鮮……
+　自分が快感を覚えてるなんて……興味深い
+　……とても……」
+<PAUSE>
+<NAME_PLATE>俺
+「そ、そうですか……よかったですね」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0041_r18
+<NAME_PLATE>翡翠
+「うん……それでね……自分がそうだって
+　気づいたら……ますます気持ちよくなって
+　いくの……それが……んんっ、面白い……」
+<PAUSE>
+<NAME_PLATE>俺
+「はあ……」
+<PAUSE>
+<NAME_PLATE>
+　先輩は甘い声を出しながら、そんな自分を
+興味深げに観察しているようだった。
+<PAUSE>
+<NAME_PLATE>
+　なんだか変な感じだが、俺は先輩のために
+腰を突き上げ、その面白いという快感を
+膨らませてあげる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0042_r18
+<NAME_PLATE>翡翠
+「ンッ……あっくう……アソコも……うあんっ
+　濡れてる……すごく……こんなの……
+　初めて……だと……思う……」
+<PAUSE>
+<NAME_PLATE>
+　ともあれ、愛液はこんこんと染みだし股布は
+ぐっちょりと濡れて、ペニスとの接点では
+クチュクチュと卑猥な粘着音が鳴り出す。
+<PAUSE>
+<NAME_PLATE>俺
+「先輩、聞こえますか？　俺と先輩が擦れて
+　イヤらしい音がしてますよ」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0043_r18
+<NAME_PLATE>翡翠
+「うんっ……聞こえる……クチュクチュ……
+　なってる……擦れる音……イヤらしい音」
+<PAUSE>
+<NAME_PLATE>
+　今や積極的に動いているのは
+先輩ではなく俺の方だ。
+<PAUSE>
+<NAME_PLATE>俺
+「先輩、そろそろ本番をしましょう」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0044_r18
+<NAME_PLATE>翡翠
+「本番？　あ、セックス……挿入、するの？
+　私に……チンポ入れるの？」
+<PAUSE>
+<NAME_PLATE>
+　恥ずかしそう――というわけでもなく、
+普通に確認するのが先輩らしい。
+<PAUSE>
+<NAME_PLATE>俺
+「はい、今から先輩に入れます！」
+<PAUSE>
+<NAME_PLATE>
+　俺はきっぱり言って、グチョ濡れの股布を
+びりっと破り取った。
+<PAUSE>
+//●R-ev001d　翡翠Ｈ１＿挿入
+<EV>chr_0033d_r18,NONE
+<VOICE_PLAY>chr_0033_0045_r18
+<NAME_PLATE>翡翠
+「はぁあああっ」
+<PAUSE>
+<NAME_PLATE>
+　股布の下でじっとりと蒸らされたオマンコが
+露出して、先輩は声を震えさせた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0046_r18
+<NAME_PLATE>翡翠
+「はぁ、はぁ……マンコ……熱い……
+　ヒクヒクしてる……
+　私のじゃないみたい……」
+<PAUSE>
+<NAME_PLATE>俺
+「すごく綺麗ですよ、先輩のオマンコ」
+<PAUSE>
+<NAME_PLATE>
+　初めてみた先輩のオマンコは、林檎を
+真っ二つにしたように瑞々しく色鮮やかだ。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0047_r18
+<NAME_PLATE>翡翠
+「私のマンコ……綺麗？　そう？
+　よく分からない……でも、ありがとう」
+<PAUSE>
+<NAME_PLATE>俺
+「それと、先輩って……処女ですよね？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0048_r18
+<NAME_PLATE>翡翠
+「そう、処女、それが？」
+<PAUSE>
+<NAME_PLATE>俺
+（なのに、俺をいきなり押し倒したのか、
+　まるで釣り合いが取れてないな……
+　まあいいか）
+<PAUSE>
+<NAME_PLATE>俺
+「えっと、初めてで騎乗位じゃ
+　入れにくいだろうし、俺が入れましょうか？
+　それとも先輩が自分で？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0049_r18
+<NAME_PLATE>翡翠
+「じゃあ、君がやって……」
+<PAUSE>
+<NAME_PLATE>
+　先輩は特にこだわりもなさそうに答えると、
+俺が入れやすいように少し腰を浮かせた。
+<PAUSE>
+<NAME_PLATE>
+　俺はチンポを掴んで動かし、
+パックリと開いた秘唇に先端を宛がう。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0050_r18
+<NAME_PLATE>翡翠
+「んんっ」
+<PAUSE>
+<NAME_PLATE>
+　亀頭で秘唇がわずかに拡がっただけで、
+先輩はキュウウッと身を竦ませた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0051_r18
+<NAME_PLATE>翡翠
+「すー、はー、すー、はー」
+<PAUSE>
+<NAME_PLATE>
+　先輩も緊張しているようだ。短いリズムの
+深呼吸が本当に可愛らしい。
+<PAUSE>
+<NAME_PLATE>
+　俺は先輩が息を吸ったタイミングに合わせて
+ゆっくり腰を突き上げた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0052_r18
+<NAME_PLATE>翡翠
+「かっはっっ……」
+<PAUSE>
+<NAME_PLATE>
+　かなり優しくやったつもりだが、
+それでも先輩は息を詰まらせてしまう。
+<PAUSE>
+<NAME_PLATE>俺
+「痛くないですか？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0053_r18
+<NAME_PLATE>翡翠
+「だいじょうぶ……
+　痛くな――んんんっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　『痛くない』と言おうとした先輩の顔が
+ギュッとしかめられた。
+<PAUSE>
+<NAME_PLATE>
+　眉間に深い皺が寄り、
+歯がきつく噛みしめられ、
+全身が細かく痙攣する。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0054_r18
+<NAME_PLATE>翡翠
+「くうっ……処女膜……破けたみたい……」
+<PAUSE>
+<NAME_PLATE>
+　先輩はわざわざ報告する。
+<PAUSE>
+<NAME_PLATE>
+　俺の太さまで拡がった膣口から
+真っ赤な血がトロ～～ッと漏れ出す。
+<PAUSE>
+<NAME_PLATE>俺
+「大丈夫ですか？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0055_r18
+<NAME_PLATE>翡翠
+「うん……大丈夫……これが……そうなんだ
+　……この痛み……う、うん……分かった。
+　もっと、入れるね……」
+<PAUSE>
+<NAME_PLATE>俺
+「え？　ええ？」
+<PAUSE>
+<NAME_PLATE>
+　やっぱり先輩だ。
+<PAUSE>
+<NAME_PLATE>
+　気遣う俺をよそに、自分から体重をかけて
+挿入を深くしてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0056_r18
+<NAME_PLATE>翡翠
+「んっくっっ……擦れて……痛いけど……
+　んっ、すごい……君のがどんどん……
+　入ってくる……奥まで……ンゥウッ」
+<PAUSE>
+<NAME_PLATE>
+　そういうことなら遠慮はいらない。
+いや、遠慮したらダメだ。
+<PAUSE>
+<NAME_PLATE>
+　俺はぎこちなく腰を揺する先輩に合わせて、
+グイグイとチンポを突き上げ、
+奥へ奥へと剛直を埋め込んであげた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0057_r18
+<NAME_PLATE>翡翠
+「うっくうっ……こんなとこまでっ……
+　入って……ううっ、まだ来る……まだ来る
+　……すごい……」
+<PAUSE>
+<NAME_PLATE>
+　先輩は痛そうな顔のまま、それすら
+しっかり味わいたいと言いたげに、
+俺のチンポを根元まで完全に収めてしまった。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0058_r18
+<NAME_PLATE>翡翠
+「んっんっんんっ……ぷはーーーーーっ、
+　はーーーーーーっ、はーーーーっ」
+<PAUSE>
+<NAME_PLATE>
+　グッグッと腰に力を込め、
+もうこれ以上入らないと確認してから
+ようやく息を整え始める。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0059_r18
+<NAME_PLATE>翡翠
+「これで全部……君のチンポ……私の
+　膣内に……全部入った……？」
+<PAUSE>
+<NAME_PLATE>俺
+「全部ですよ。先輩すごいですね」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0060_r18
+<NAME_PLATE>翡翠
+「んっ……んっ……すごい？　なにが？」
+<PAUSE>
+<NAME_PLATE>
+　先輩は息を荒げながらも、膣内に
+入っている感触を確かめるように、
+腰を揺すっている。
+<PAUSE>
+<NAME_PLATE>俺
+「先輩は素敵だってことです。
+　俺のが入ってる感じ、どうです？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0061_r18
+<NAME_PLATE>翡翠
+「とても熱い……実際の大きさ以上に……
+　君を感じる……
+　私、君と一つになってる……」
+<PAUSE>
+<NAME_PLATE>俺
+「俺、本格的に動いてもいいですよね。
+　先輩のこと全力で感じさせて
+　あげたいんです」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0062_r18
+<NAME_PLATE>翡翠
+「そうして、君がしたいようにして
+　……私、それを全部感じるから……
+　ううん、感じたいの」
+<PAUSE>
+<NAME_PLATE>
+　先輩はまだ少し痛そうな顔のまま、
+目だけは好奇心をいっぱいにして頷いた。
+<PAUSE>
+//●R-ev001e　翡翠Ｈ１＿抽送
+<NAME_PLATE>俺
+「なら、行きますよ、先輩っ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺はチンポにグッと力を込めて
+腰を勢いよく突き上げた。
+<PAUSE>
+<EV>chr_0033e_r18,NONE
+<VOICE_PLAY>chr_0033_0063_r18
+<NAME_PLATE>翡翠
+「ひぃあっっ！？
+　あああああんんんんんんんっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　膣内でパンパンに肥大した肉根が先輩の
+一番深いところに突き刺さる。
+<PAUSE>
+<NAME_PLATE>
+　先輩は驚きと痛みと快感が
+入り交じったような、もちろん俺が
+今まで聞いたことのない甲高い悲鳴を上げた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0064_r18
+<NAME_PLATE>翡翠
+「す……すごいの……きたぁ……あっ、
+　ああっ……ひっ……はぁっ……」
+<PAUSE>
+<NAME_PLATE>
+　先輩は呼吸もできなくなって、不自然に
+強ばらせた身体をヒクヒクうねらせた。
+<PAUSE>
+<NAME_PLATE>俺
+「先輩、可愛いっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　息を整える暇も与えず、
+二度、三度と腰を突き上げる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0065_r18
+<NAME_PLATE>翡翠
+「あっふっ！　はひっっ、くひいいんっっ！
+　あっあっ、ひゃあああんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺に少し遅れるようにして、チンポで膣奥を
+抉られた先輩がビクン、ビクンと
+全身を跳ねさせる。
+<PAUSE>
+<NAME_PLATE>
+　そのたびにキュウッ、キュウッと蜜壷は
+強く収縮し、顔や声以上にはっきりと先輩が
+感じていることを俺に伝えてくる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0066_r18
+<NAME_PLATE>翡翠
+「ひゃうっ、んっ、あっ！！　ハヒィンッ！！
+　あっひゃっ、うううんんっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　先輩の黄色い喘ぎが響きわたり、
+<PAUSE>
+<NAME_PLATE>
+　二人が繋がった部分からは先走りと愛液が
+入り交じった恥汁がブヂュッ、ブヂュッと
+噴き出した。
+<PAUSE>
+<NAME_PLATE>俺
+「初めてなのにメチャクチャ感じてますね、
+　先輩！！」
+<PAUSE>
+<NAME_PLATE>
+　俺はからかうように言ったが、それで先輩が
+恥ずかしがったり、怒ったりしないのは
+もう分かっていた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0067_r18
+<NAME_PLATE>翡翠
+「うんっ、私っ、すごくっすごく感じてるっっ
+　君のチンポっ、オマンコ擦れてっ、
+　奥に当たってっ、ああン、感じてるっっ！」
+<PAUSE>
+<NAME_PLATE>
+　思ったとおり、先輩は本当に素直に自分が
+感じていることを認めてくれた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0068_r18
+<NAME_PLATE>翡翠
+「だけどっ、だけどっ、んっ、あっ、これっ、
+　この感じっあっダメ、こ、言葉にできないっ
+　気持ちよすぎて観察できないっ！」
+<PAUSE>
+<NAME_PLATE>
+　先輩は眉を可愛らしくひそめて、
+本当に困ったようにこんなことを言ってきた。
+<PAUSE>
+<NAME_PLATE>俺
+「余計なことを考えずに、
+　素直に感じるだけでいいんですよ、
+　先輩！！」
+<PAUSE>
+<NAME_PLATE>
+　俺は先輩にアドバイスしながら、
+その余計なことを考えなくて済むように、
+抽送を激しくしていく。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0069_r18
+<NAME_PLATE>翡翠
+「あひああっっ！！　ひああっっ！！
+　そういうのっ！　苦手だけどっっ！！
+　やってみるっ！　素直に感じてみるっ！！」
+<PAUSE>
+<NAME_PLATE>
+　先輩はコクコクと頷いて、自分から感じる
+場所を探るように腰を動かし、
+膣肉を締め上げ始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0070_r18
+<NAME_PLATE>翡翠
+「んっくううっ！！　ヒクゥウンッ！！
+　ひふあっ！　くっ、くうっ……ひぅんっっ
+　あんっ、んぅううううっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「くっっ……せ、先輩っっっ……
+　さすがっ……」
+<PAUSE>
+<NAME_PLATE>
+　ぎこちなかったのは最初だけで、先輩は
+すぐに息をぴったり合わせて、強烈な快感で
+俺を責め立ててくる。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0071_r18
+<NAME_PLATE>翡翠
+「あっ、ああんっ！！　なんだかっ、
+　ちょっと分かってきたっ……
+　これ気持ちいい、すごく気持ちいいっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「お、俺もですっ！　先輩っ！」
+<PAUSE>
+<NAME_PLATE>
+　先輩の膣内でチンポが弾けそうになる。
+<PAUSE>
+<NAME_PLATE>
+　俺は必死に射精をこらえながら先輩の
+一番深い場所をガンガンと突き上げた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0072_r18
+<NAME_PLATE>翡翠
+「ひあっ！！　あっ、あああっっ、これっ私っ
+　ああんっ、きっとそうっ、もうすぐアクメ
+　くるっ、すごいのくるっ、くるっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　先輩の喘ぎも急速に
+切羽詰まったものになった。
+絶頂が近づいている自分に目を輝かせている。
+<PAUSE>
+<NAME_PLATE>俺
+「先輩！　中出しでいいですねっ！！」
+<PAUSE>
+<NAME_PLATE>
+　先輩は一瞬の躊躇いもなく首を縦に振った。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0073_r18
+<NAME_PLATE>翡翠
+「うんっ、そうしてっ、中出しにしてっ、
+　私イクからっ！
+　君と一緒にイクからっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0074_r18
+<NAME_PLATE>翡翠
+「あっあっイクっ、ああイクっ、早く早くぅ、
+　君も早くっ、ああもうダメっ、もうダメもう
+　ダメぇっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「先輩っっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺の射精をアクメを堪えて必死に
+待っている先輩の膣奥にチンポを押しつけ、
+ありったけの欲望を吐き出した。
+<PAUSE>
+//●R-ev001f　翡翠Ｈ１＿射精
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0033f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chr_0033_0075_r18
+<NAME_PLATE>翡翠
+「あぁああああああああああんんっっっ！！
+　イッくぅううううううううううっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　熱い精液がドビュッッと膣内に
+打ち付けた瞬間、先輩は全てを
+解き放ったかのように絶頂していた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0076_r18
+<NAME_PLATE>翡翠
+「ひああっあっ！！　あああっっ！！　出てる
+　出てるっっ！！　君の精液っ！　熱い精液っ
+　ああっ、私の膣内にっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「先輩っっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0077_r18
+<NAME_PLATE>翡翠
+「うんうんっっ、これがっ、中出しっっ、
+　これが中出しっっ、私、君に中出しされてる
+　中出しされてイッてるっっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0033_0078_r18
+<NAME_PLATE>翡翠
+「ひああああっ！　オマンコから潮も
+　噴いてるっっ、アクメで潮噴きッッ、
+　潮噴きしてるぅううううううっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0079_r18
+<NAME_PLATE>翡翠
+「こんなの初めてっっ、こんなの初めてっっっ
+　気持ちいい気持ちいい
+　気持ちぃいいいいいいっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　先輩はきっと五感の全てを駆使して、
+俺の射精と自分のアクメを
+感じようとしている。
+<PAUSE>
+<NAME_PLATE>
+　初めて見るこのイキ顔が、まるでマンコで
+“合食の術”を使っているような
+この締め付けが俺に教えてくれる。
+<PAUSE>
+<NAME_PLATE>俺
+「くうっ、うううっっっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　どびゅううっ、どびゅううっ、
+どびゅうううっ！！
+<PAUSE>
+<NAME_PLATE>
+　俺のチンポは狂ったように脈打ち、
+後から後から熱い精子を
+先輩に注ぎ込んでいく。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0080_r18
+<NAME_PLATE>翡翠
+「ああっ、ああんっっ、まだ出るのっ！？
+　まだ射精するのっっ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0080_01_r18
+<NAME_PLATE>翡翠
+「もう子宮いっぱいなのにっ、
+　まだ私に出してくれるのっ！」
+<PAUSE>
+<NAME_PLATE>俺
+（いくらでも出しますよッ、先輩っっ！！）
+<PAUSE>
+<NAME_PLATE>
+　それはもう言葉にできない。
+<PAUSE>
+<NAME_PLATE>
+　俺は歯を食いしばって腰を動かし、
+先輩のために精液を絞り出した。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0081_r18
+<NAME_PLATE>翡翠
+「ああああっすごいすごい
+　すごぃいいいいいいいいいいいいっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　先輩は何度も何度も絶頂を迎え、
+そんな先輩に負けまいと
+俺も延々と射精し続けた。
+<PAUSE>
+<NAME_PLATE>
+　だから長い長い絶頂が終わった時には、
+二人ともすっかり息が上がっていた。
+<PAUSE>
+//●R-ev001g　翡翠Ｈ１＿事後
+<EV>chr_0033g_r18,NONE
+<VOICE_PLAY>chr_0033_0082_r18
+<NAME_PLATE>翡翠
+「はぁ、はぁ、はぁ、はぁ、はぁ、はぁ
+　……んっはあん」
+<PAUSE>
+<NAME_PLATE>
+　絶頂の余韻さめやらぬ先輩が息苦しそうに
+身じろぎした。
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>
+　ずるうっっ――
+<PAUSE>
+<VOICE_PLAY>chr_0033_0083_r18
+<NAME_PLATE>翡翠
+「ひゃんっっ！？　ふぇえ……？　なに？
+　……あ、チンポ、抜けてる」
+<PAUSE>
+<NAME_PLATE>俺
+「はぁ、はぁ……え？　あ、ああ……
+　抜けちゃいましたね……ま、いいか」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0084_r18
+<NAME_PLATE>翡翠
+「うん……ま、いい」
+<PAUSE>
+<NAME_PLATE>
+　二人で間の抜けた会話をしながら股間を
+見ると、柔らかくなったペニスが
+膣穴から抜けてしまっていた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0085_r18
+<NAME_PLATE>翡翠
+「精液、ドロドロ出てる……いっぱい……」
+<PAUSE>
+<NAME_PLATE>
+　先輩は絶頂の後で火照ってはいるが、
+いつものどこかボーッとした顔に戻っていた。
+<PAUSE>
+<NAME_PLATE>
+　そしてぽっかり穴の開いた自分の膣穴から
+白濁液が溢れ出るのを興味深げに
+観察している。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0086_r18
+<NAME_PLATE>翡翠
+「んっ……まだ……出てる……止まらない……
+　こんなに出るんだ……あ……すごい……
+　気持ちいい……」
+<PAUSE>
+<NAME_PLATE>
+　『気持ちいい』と言ってくれてはいるが、
+先輩らしいというか、
+男として張り合いのない反応である。
+<PAUSE>
+<NAME_PLATE>俺
+「ええっと、先輩」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0087_r18
+<NAME_PLATE>翡翠
+「……なに？」
+<PAUSE>
+<NAME_PLATE>俺
+「なんでこんなことしたんですか？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0088_r18
+<NAME_PLATE>翡翠
+「なんでこんな……君とセックス？」
+<PAUSE>
+<NAME_PLATE>俺
+「ええまあ……なんでです？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0089_r18
+<NAME_PLATE>翡翠
+「……君に興味があったから」
+<PAUSE>
+<NAME_PLATE>
+　先輩は始める前と同じように答えた。
+<PAUSE>
+<NAME_PLATE>俺
+「俺じゃなくて誰でもよかったとか、
+　そういうことはないですよね？　それは
+　ちょっと寂しいんで。なんで俺なんです？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0090_r18
+<NAME_PLATE>翡翠
+「………………」
+<PAUSE>
+<NAME_PLATE>
+　先輩は俺をじっと見つめた。
+<PAUSE>
+<NAME_PLATE>
+　どう答えるか悩んでいるようでもあり、俺を
+傷つけない言葉を探しているようでもあり、
+単にポカンとしているようでもあった。
+<PAUSE>
+<NAME_PLATE>俺
+「……先輩？」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0091_r18
+<NAME_PLATE>翡翠
+「仲間だから」
+<PAUSE>
+<NAME_PLATE>
+　先輩はそれだけ答えた。
+<PAUSE>
+<NAME_PLATE>
+　まったく意味不明だが、その先輩の答えに
+なぜだか俺のチンポはまたググッと
+起き上がってきた。
+<PAUSE>
+<VOICE_PLAY>chr_0033_0092_r18
+<NAME_PLATE>翡翠
+「あ……また勃起した」
+<PAUSE>
+<NAME_PLATE>俺
+「ですね」
+<PAUSE>
+<VOICE_PLAY>chr_0033_0093_r18
+<NAME_PLATE>翡翠
+「もう一回したい」
+<PAUSE>
+<NAME_PLATE>俺
+「しますか」
+<PAUSE>
+<NAME_PLATE>
+　やっぱり先輩はよく分からない人だ。
+<PAUSE>
+<NAME_PLATE>
+　でも、いいか。
+<PAUSE>
+<NAME_PLATE>
+　俺は先輩と続きをすることに同意した。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

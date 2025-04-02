@@ -1,0 +1,1015 @@
+<BG>black,IN,3000
+//【黒画面】
+<NAME_PLATE>
+　夜、俺と一時的相棒であるアルカが
+任務を終えて本部に帰還する途中。
+<PAUSE>
+<NAME_PLATE>
+　アルカは体のほとんどを機械化した
+サイボーグ兵士ゆえ、いつもはほとんど
+感情や体調の変化を表に出す事はない。
+<PAUSE>
+<NAME_PLATE>
+　だが、そんな彼女が突然息を荒げ、
+動くスピードを落としはじめた。
+<PAUSE>
+////背景・路地裏
+<BGM_PLAY>bgm506,1000
+<BG>nc062a,IN, 1000
+<NAME_PLATE>俺
+「アルカ？」
+<PAUSE>
+<ACTOR>0,chr_t0015a_r18,CENTER, CENTER, IN, linear, 1000
+<VOICE_PLAY>chr_0015_1_0000_r18
+<NAME_PLATE>アルカ
+「……申し訳ありません……主」
+<PAUSE>
+<NAME_PLATE>
+　そう言うアルカの顔は、
+熱に浮かされているように赤く染まっていた。
+<PAUSE>
+<NAME_PLATE>俺
+「どうした、何があったんだ、
+　まさか故障か？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0001_r18
+<NAME_PLATE>アルカ
+「いいえ、各体機能に
+　異常・損傷はありません、ですが……」
+<PAUSE>
+<NAME_PLATE>
+　アルカは少し躊躇するように言葉を切り、
+そして続ける。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0002_r18
+<NAME_PLATE>アルカ
+「出力が、
+　オーバーフロー……して、しまいました」
+<PAUSE>
+<NAME_PLATE>俺
+「オーバーフロー？　どういう事だ？」
+<PAUSE>
+<NAME_PLATE>
+　機械化兵士の事についてほとんど
+知らない俺は、ついアルカに聞き返す。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0003_r18
+<NAME_PLATE>アルカ
+「私に組み込まれたエネルギー源、
+　リアクターの出力は、股間にセットされた
+　モジュールによって制御されています……」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0004_r18
+<NAME_PLATE>アルカ
+「そのモジュールはそこで感じる興奮を
+　糧として出力を大幅に上昇させる機構を
+　備えています……ですが……」
+<PAUSE>
+<NAME_PLATE>
+　アルカは少し置いて、続ける。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0005_r18
+<NAME_PLATE>アルカ
+「それが……先ほどの戦闘時に出力を
+　上げすぎてしまい、興奮を抑えきれなく
+　なって……しまった様です……」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0006_r18
+<NAME_PLATE>アルカ
+「このままだとリアクターの出力が暴走し、
+　爆発してしまう可能性があります……
+　興奮を……抑えなければ……」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<NAME_PLATE>俺
+「爆発！？　それって帰還するまで
+　抑える事はできないのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0007_r18
+<NAME_PLATE>アルカ
+「……不可能、です……ん、んんっ……今、
+　すぐにでも興奮を
+　抑える必要があります……」
+<PAUSE>
+<NAME_PLATE>
+　アルカは更に息荒げ、一見ほとんど
+変わらないものの明らかに
+熱を帯びた表情で俺を見た。
+<PAUSE>
+<NAME_PLATE>
+　アルカは有能な兵士だがほとんど感情を
+表に出さず、俺にとっては
+少し苦手な所がある。
+<PAUSE>
+<NAME_PLATE>
+　だが、どうやら今はそんな事を
+気にしている時間はなさそうだ。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0008_r18
+<NAME_PLATE>アルカ
+「主……至急、
+　興奮の抑制を要請します……主……」
+<PAUSE>
+<NAME_PLATE>
+　俺は周囲を見回し、
+ビルの谷間にある小さな路地裏に目をつける。
+<PAUSE>
+<NAME_PLATE>
+　あそこなら人に気付かれずに
+アルカの要請に応えられるだろう。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0009_r18
+<NAME_PLATE>アルカ
+「主……」
+<PAUSE>
+<NAME_PLATE>俺
+「あーっもう、わかった！　来いっ！」
+<PAUSE>
+<BGM_STOP>1000
+<ACTOR>0,chr_t0015a_r18,CENTER, CENTER, OUT, linear, 1000
+<NAME_PLATE>
+　俺はアルカの手を引き、
+路地裏に連れ込んだ。
+<PAUSE>
+//【a差分】
+<BGM_PLAY>bgm315,1000
+<EV>chr_0015_1a_r18,IN, 3000
+<NAME_PLATE>
+　薄暗い路地裏の奥で。
+<PAUSE>
+<NAME_PLATE>
+　アルカはビルの壁を背にして立ち、
+モジュールがセットされた股間を
+俺の前に突き出した。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0010_r18
+<NAME_PLATE>アルカ
+「主、モジュールを……外して下さい……」
+<PAUSE>
+<NAME_PLATE>
+　股間には太いバイブのような棒状の
+モジュールが深々とセットされている。
+<PAUSE>
+<NAME_PLATE>俺
+「わかった……外すぞ、いいな」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0011_r18
+<NAME_PLATE>アルカ
+「……はい」
+<PAUSE>
+<NAME_PLATE>
+　俺は股間から出たモジュールの先端を
+持つと、一気に引き抜いた。
+<PAUSE>
+<NAME_PLATE>
+　ずっ……ずりゅっ！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_1_0012_r18
+<NAME_PLATE>アルカ
+「ん、んっ！」
+<PAUSE>
+<NAME_PLATE>
+　外されたモジュールと、
+股間の秘裂との間にネットリとした
+愛液が糸を引いた。
+<PAUSE>
+<NAME_PLATE>
+　秘裂から見える秘肉は赤く充血し、
+愛液でぬらぬらと濡れ光っている。
+<PAUSE>
+<NAME_PLATE>
+　まさに男を誘い込む魔性の穴のごとき
+それを見て、強烈に俺のペニスが反応した。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0013_r18
+<NAME_PLATE>アルカ
+「んっ、ふぅ……主、早く、私の……」
+<PAUSE>
+<NAME_PLATE>
+　アルカは更に俺の前に股間を突き出した。
+<PAUSE>
+<NAME_PLATE>俺
+「ま、待て、アルカ……焦るな」
+<PAUSE>
+<NAME_PLATE>
+　何とか平常を装い、アルカを押しとどめる。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0014_r18
+<NAME_PLATE>アルカ
+「何故、です……ん、ん、ふぅぅ……」
+<PAUSE>
+<NAME_PLATE>俺
+「何故でもだ、いいな」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0015_r18
+<NAME_PLATE>アルカ
+「わかり……ました、ですが、
+　早く……ん、んぅ……リアクターが……！」
+<PAUSE>
+<NAME_PLATE>
+　ちゅぷ……っ
+<PAUSE>
+<NAME_PLATE>
+　俺は突き出された秘裂に指を突っ込んだ。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0016_r18
+<NAME_PLATE>アルカ
+「んっ、ん……ん……」
+<PAUSE>
+<NAME_PLATE>
+　秘裂の中はきついながらも愛液で滑りも
+良く、ペニスを受け入れる準備は
+充分に出来ている。
+<PAUSE>
+<NAME_PLATE>
+　これで体のほとんどが機械だなんて、
+とても信じられない気分だ。
+<PAUSE>
+<SE_PLAY>se067
+<NAME_PLATE>
+　ちゅぷ、ちゅ、ちゅっ……
+<PAUSE>
+<NAME_PLATE>
+　更に俺はアルカの中で指を動かしてみる。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0017_r18
+<NAME_PLATE>アルカ
+「……っ、う……ん……！」
+<PAUSE>
+<NAME_PLATE>
+　顔色以外表情はほとんど変わらないものの、
+アルカの秘裂は敏感に反応し、
+強烈に指を締め付けた。
+<PAUSE>
+<NAME_PLATE>
+　アルカの息は更に荒くなり、
+秘裂は愛液で濡れそぼっている。
+<PAUSE>
+既に興奮は極まっている様子だ。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0018_r18
+<NAME_PLATE>アルカ
+「んぅっ、主……指、だけでは……」
+<PAUSE>
+<NAME_PLATE>俺
+「わかってる、俺にまかせろ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0019_r18
+<NAME_PLATE>アルカ
+「は、い……あっ……！」
+<PAUSE>
+//【b差分】
+<EV>chr_0015_1b_r18,NONE
+<NAME_PLATE>
+　俺はもう片方の手でアルカの
+手に余るほどに豊満な乳房を掴んだ。
+<PAUSE>
+//<NAME_PLATE>
+//　すると手に余るほどに
+//豊満な乳房がこぼれ落ちる。
+//<PAUSE>
+<NAME_PLATE>俺
+「うっ……！」
+<PAUSE>
+<NAME_PLATE>
+　十分に大きく、良い形と張りを
+持った胸に俺の股間は強烈に反応した。
+<PAUSE>
+<NAME_PLATE>
+　続いてアルカの胸を強く揉みしだく。
+<PAUSE>
+<NAME_PLATE>
+　むにっ、くにゅっ、ふにゅっ……！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_1_0020_r18
+<NAME_PLATE>アルカ
+「んっ、んんっ、ふぅぅっ……
+　くううっ……！」
+<PAUSE>
+<NAME_PLATE>俺
+「すごいボリュームだな、
+　この胸も人工なのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0021_r18
+<NAME_PLATE>アルカ
+「いい、え……この胸は、天然です……
+　だから……感じます、すごく……」
+<PAUSE>
+<NAME_PLATE>
+　俺はそれを聞いて更に強く
+アルカの胸を揉み続けた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0022_r18
+<NAME_PLATE>アルカ
+「ん、んっ……ある、じ……」
+<PAUSE>
+<NAME_PLATE>
+　胸への刺激に敏感に反応しながら、
+アルカが俺の方を見た。
+<PAUSE>
+<NAME_PLATE>
+　その顔は一見無表情ながら、
+目には明らかな不満の色が浮かんでいる。
+<PAUSE>
+<NAME_PLATE>俺
+「もう少しだけ我慢しろ……おまえだけ
+　発情しててもしょうがないだろう」
+<PAUSE>
+<NAME_PLATE>俺
+「俺の方も盛り上がらせてもらうぞ、
+　お前をもっと感じさせるためにな」
+<PAUSE>
+<NAME_PLATE>
+　既にペニスは十分に硬くなっていたが、
+興奮を抑えるという目的のためだけにセックス
+するには、アルカの体は余りに魅力的だった。
+<PAUSE>
+<NAME_PLATE>
+　アルカは俺の言葉に目を閉じ、頷く。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0023_r18
+<NAME_PLATE>アルカ
+「……わかり、ました……
+　主に、従います……」
+<PAUSE>
+<NAME_PLATE>俺
+「いい娘だ」
+<PAUSE>
+<NAME_PLATE>
+　俺は再びアルカの胸と股間を愛撫する。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0024_r18
+<NAME_PLATE>アルカ
+「んっ、んっ、んんっ……」
+<PAUSE>
+<NAME_PLATE>
+　強い弾力を持ち、
+揉むごとに淫靡に形を変える大きな乳房。
+<PAUSE>
+<NAME_PLATE>
+　既に愛液で濡れ、
+俺のペニスを迎え入れる準備が
+十分に出来ている秘肉。
+<PAUSE>
+<NAME_PLATE>
+　そして変わらず無表情ながら、少しずつ、
+しかし次第に大きくなっていく嬌声。
+<PAUSE>
+<NAME_PLATE>
+　確実に高まっていくアルカの姿は、
+俺のペニスを一層硬くした。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0025_r18
+<NAME_PLATE>アルカ
+「んっ、んっ……ふっ、んんっ……！」
+<PAUSE>
+<NAME_PLATE>俺
+「どうだ、気持ちいいか？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0026_r18
+<NAME_PLATE>アルカ
+「ん、ん……は、い……でも……まだ、です
+　……まだ……暴走の、危険が……ふっ……」
+<PAUSE>
+<NAME_PLATE>
+　もみっ、むにゅっ、むにっ……
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0027_r18
+<NAME_PLATE>アルカ
+「うっ、んっ……ふぅぅん、んっ……！」
+<PAUSE>
+<NAME_PLATE>
+　胸を揉みしだく内に徐々にアルカの胸に
+硬い、小さなしこりが立ち上がってきた。
+<PAUSE>
+<NAME_PLATE>
+　俺は更にそのしこり……アルカの乳首を、
+指の腹で念入りにこね回す。
+<PAUSE>
+<NAME_PLATE>
+　こりっ……くりっ、くりくりっ……
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0028_r18
+<NAME_PLATE>アルカ
+「うん、はぁっ！　んん……」
+<PAUSE>
+<NAME_PLATE>
+　勃起して敏感になった乳首への刺激で、
+アルカは次第に高い嬌声を上げ始めた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0029_r18
+<NAME_PLATE>アルカ
+「んっ、あっ……ふあ、あ……」
+<PAUSE>
+<SE_PLAY>se067
+<NAME_PLATE>
+　くちゅっ、ちゅっ、じゅっ……
+<PAUSE>
+<NAME_PLATE>
+　俺は同時にもう一方の手で秘裂を愛撫し、
+アルカの興奮の波を引き出していく。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0030_r18
+<NAME_PLATE>アルカ
+「んっ、あぁ……主、早くしないと、
+　リアクターが……」
+<PAUSE>
+<NAME_PLATE>
+　表情はほとんど変わらないが、
+高まる興奮で体の温度が
+かなり上昇している状態で言う。
+<PAUSE>
+<NAME_PLATE>俺
+「わかった、俺も準備ＯＫだ」
+<PAUSE>
+<NAME_PLATE>
+　秘裂から指を引き抜くと、
+秘裂から泡立った大量の愛液が流れ出し、
+地面に滴った。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0031_r18
+<NAME_PLATE>アルカ
+「ん、う……ふぅぅぅん……」
+<PAUSE>
+<NAME_PLATE>
+　アルカは小さく体を痙攣させ、
+微かに快感の声を漏らす。
+<PAUSE>
+<NAME_PLATE>
+　俺は冷静を装いながらアルカの前に
+十分な硬度と大きさになったペニスを晒した。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0032_r18
+<NAME_PLATE>アルカ
+「あ……早く……それ……私の……中に……」
+<PAUSE>
+<NAME_PLATE>
+　明らかに切なさの入った声で
+アルカが懇願する。
+<PAUSE>
+<NAME_PLATE>
+　ちゅくっ……
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_1_0033_r18
+<NAME_PLATE>アルカ
+「う、んっ……！」
+<PAUSE>
+<NAME_PLATE>
+　立ったまま、突き出されたアルカの秘裂に
+生の亀頭を当てると、濡れた秘肉が
+淫靡な水音を立てて吸い付いてきた。
+<PAUSE>
+<NAME_PLATE>俺
+「入れるぞ、アルカ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0034_r18
+<NAME_PLATE>アルカ
+「は、い……早く……来て、ください」
+<PAUSE>
+//【c差分】
+<NAME_PLATE>俺
+「行くぞ……！」
+<PAUSE>
+<NAME_PLATE>
+　ぢゅぷぷぷぷーーっ！
+<PAUSE>
+<NAME_PLATE>
+　俺はそのままペニスを一気に突き入れた。
+<PAUSE>
+<EV>chr_0015_1c_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_1_0035_r18
+<NAME_PLATE>アルカ
+「んっ、ふぁ……！」
+<PAUSE>
+<NAME_PLATE>
+　アルカは無表情なまま、
+小さく嬌声を上げる。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0036_r18
+<NAME_PLATE>アルカ
+「ふーっ、ふーっ……ん、ふぅぅ……
+　いい……もっと……ください……ん……」
+<PAUSE>
+<NAME_PLATE>
+　表情こそほとんど変わらないが、アルカの
+声は明らかに熱を帯び乱れた息と共に普段なら
+決して言わない言葉を呟き続けている。
+<PAUSE>
+<NAME_PLATE>俺
+「ずいぶん感情的だな、いつもと大違いだ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0037_r18
+<NAME_PLATE>アルカ
+「仕方、ありません……私の人間の部分が
+　……主のペニスに強く……
+　反応しています……」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0038_r18
+<NAME_PLATE>アルカ
+「私の、人間としての全てが股間に
+　集まっている……性行為とは本来、
+　そういうものでしょう」
+<PAUSE>
+<NAME_PLATE>俺
+「そうたな……動くぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0039_r18
+<NAME_PLATE>アルカ
+「……はい……んっんああっ……！」
+<PAUSE>
+<NAME_PLATE>
+　俺が腰を動かし始めると、アルカは
+体をほとんど動かさないながらも
+息を更に乱れさせていく。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0040_r18
+<NAME_PLATE>アルカ
+「んっ……んっ、はっ、ふぅぅぅん……」
+<PAUSE>
+<NAME_PLATE>
+　アルカの声や反応は普通の人間に
+比べるとほとんど無反応に
+見えなくもない小さなもの。
+<PAUSE>
+<NAME_PLATE>
+　だが、その膣は強く反応し、
+俺のペニスをこれ以上ないほどに締め付けた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0041_r18
+<NAME_PLATE>アルカ
+「んんっ……ん……くうっ
+　……は……ああっ……」
+<PAUSE>
+<NAME_PLATE>アルカ
+「くっ、きつい……なら、こっちも……！」
+<PAUSE>
+<NAME_PLATE>
+　くちゅっ、ぢゅっ、ぢゅぷっ、ぢゅっ……！
+<PAUSE>
+<NAME_PLATE>
+　むにゅっ、むにっ、
+ふにゅっ、むにゅっ……！
+<PAUSE>
+<NAME_PLATE>
+　俺は負けじと腰のピストン速度を上げ、
+手では胸を滅茶苦茶に弄りまくった。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0043_r18
+<NAME_PLATE>アルカ
+「くふっ、ふ、は、あっ……あ、主っ
+　……もっと、私の中に、んんっ……！」
+<PAUSE>
+<NAME_PLATE>
+　アルカの表情はより切なさを増し、
+少しづつ嬌声も高く、大きくなってきた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0044_r18
+<NAME_PLATE>アルカ
+「……んっ……やっ……んんっ……主……」
+<PAUSE>
+<NAME_PLATE>俺
+「どうだアルカ、俺のチンポ、
+　感じるか、感じるかっ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0045_r18
+<NAME_PLATE>アルカ
+「は……い……感じます、
+　主の熱さ、感じます……！」
+<PAUSE>
+<NAME_PLATE>
+　立ったままのアルカの足が、
+次第に小刻みに震え始めた。
+<PAUSE>
+//【d差分】
+<VOICE_PLAY>chr_0015_1_0046_r18
+<NAME_PLATE>アルカ
+「んっ……ふっ……ん、んぅ……主……」
+<PAUSE>
+<NAME_PLATE>俺
+「どうした、アルカ……
+　まさか、きついのか？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0047_r18
+<NAME_PLATE>アルカ
+「……い、いえ……もっと、もっと
+　……んっんんっ！」
+<PAUSE>
+<NAME_PLATE>
+　言葉を途切れさせると、
+少しずつがに股になって
+ゆっくりと腰を落としていく。
+<PAUSE>
+<NAME_PLATE>
+　ずっ、ずずっ……
+<PAUSE>
+<EV>chr_0015_1d_r18,NONE
+<VOICE_PLAY>chr_0015_1_0048_r18
+<NAME_PLATE>アルカ
+「んっ、んん……うん、くぅぅっ！」
+<PAUSE>
+<NAME_PLATE>
+　腰を落とすと、
+俺のペニスがより深く秘肉に
+呑み込まれていった。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0049_r18
+<NAME_PLATE>アルカ
+「もっと……主のペニス、私のマンコに
+　……欲しい、欲しいぃぃ……」
+<PAUSE>
+<NAME_PLATE>
+　そして遂に秘肉が俺のペニスを
+根元まで呑み込んだ。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ、くっ……深、い……！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0050_r18
+<NAME_PLATE>アルカ
+「はぁ、はぁぁ……ふぅん……
+　全部、入り……ました……」
+<PAUSE>
+<NAME_PLATE>
+　そして、今度は自分から
+腰を上下に動かし始めた。
+<PAUSE>
+<NAME_PLATE>
+　ぢゅっ、ぢゅっ、じゅ……っ！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_1_0051_r18
+<NAME_PLATE>アルカ
+「んっ、んんっ、はうっ、ふん、はぁぁ、
+　すごぉ……い……！」
+<PAUSE>
+<NAME_PLATE>
+　アルカはガニマタ状態のまま自分から
+激しく腰を動かし、ペニスから
+更に快感を引き出そうとする。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0052_r18
+<NAME_PLATE>アルカ
+「不思議、です……ん、
+　ふうううっ、んんっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「不思議って……どういう事だ」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0053_r18
+<NAME_PLATE>アルカ
+「私は……サイボーグ兵士……
+　とっくに人を捨てた、
+　はずなのに……ん、く……！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0054_r18
+<NAME_PLATE>アルカ
+「残った人の部分が……あ、はああ……
+　強く……強く、主を求めています……
+　んっんあああっ！」
+<PAUSE>
+<NAME_PLATE>
+　それまでの無表情が信じられないくらいに
+激しく声を上げ、腰を動かすアルカ。
+<PAUSE>
+<NAME_PLATE>俺
+「くっ、アルカ……っ！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0056_r18
+<NAME_PLATE>アルカ
+「……主……もっと……ペニス、精液、
+　ください……私の、マンコの中に
+　……んっ、くぁ……！」
+<PAUSE>
+<NAME_PLATE>
+　俺のペニスはただでさえキツい秘肉に
+包まれ、激しい動きに晒された。
+<PAUSE>
+<NAME_PLATE>
+　このままではアルカより先に
+イッてしまうだろう。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0057_r18
+<NAME_PLATE>アルカ
+「……主……主……あ、は、ふぅぅぅん
+　……気持ち、いいっ、んぅっ……！」
+<PAUSE>
+<NAME_PLATE>
+　だが、それはまずい。
+<PAUSE>
+<NAME_PLATE>
+　もし俺がアルカより先にイッて、
+アルカの興奮を抑える事が出来なかったら。
+<PAUSE>
+<NAME_PLATE>
+　アルカの体内のリアクターは依然出力が
+高まり続ける……いや、それどころか。
+<PAUSE>
+<NAME_PLATE>
+　俺とのセックスによって興奮が
+高められた分より暴走までのタイムリミットが
+早まってしまうかもしれない。
+<PAUSE>
+<NAME_PLATE>
+　絶対にアルカより先にイく事はできない。
+<PAUSE>
+<NAME_PLATE>俺
+「このっ……！」
+<PAUSE>
+<NAME_PLATE>
+　俺はアルカの動きに合わせ、
+自分の腰を激しく動かし始めた。
+<PAUSE>
+<NAME_PLATE>
+　じゅぷっ、じゅっ、じゅぷ、じゅっ……！
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<VOICE_PLAY>chr_0015_1_0058_r18
+<NAME_PLATE>アルカ
+「んっ、んんっ、くあっ、ああっ……
+　あっ、ふああああ！」
+<PAUSE>
+<NAME_PLATE>俺
+「アルカっ、いいかっ、イけそうかっ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0059_r18
+<NAME_PLATE>アルカ
+「まだ、です、もっと、もっと主のペニス
+　……欲しいです、はっ、んんっ！」
+<PAUSE>
+<NAME_PLATE>
+　そう言って腰を降り続けるアルカは、
+サイボーグ兵士ではない、
+完全に普通の女になっていた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0060_r18
+<NAME_PLATE>アルカ
+「んっ、ふうっ、はぅ、んぁ、んん……ん！
+　もっと、マンコにもっと、
+　ふぅぅぅん……！」
+<PAUSE>
+<NAME_PLATE>
+　俺とアルカは、互いに殴り合うように
+腰を打ち付け続けていた。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0061_r18
+<NAME_PLATE>アルカ
+「ふっ、は、んっ、主、主、
+　もっと熱いチンポ、私にくださいぃ！」
+<PAUSE>
+<NAME_PLATE>俺
+「おっ、おお……っ、アルカ……っ！！」
+<PAUSE>
+<NAME_PLATE>
+　もう俺の中からはアルカが
+サイボーグである事、リアクターが
+暴走寸前な事……全てが抜け落ちていた。
+<PAUSE>
+<NAME_PLATE>
+　それどころか自分たちが路地裏にいる
+という事さえも完全に忘れ、
+互いに腰を振り快楽を貪り続けている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0062_r18
+<NAME_PLATE>アルカ
+「あっ、はぁっ、ふううん、はあああん……」
+<PAUSE>
+<NAME_PLATE>
+　やがて、俺の中から強烈な射精感が
+わき上がってきた。
+<PAUSE>
+<NAME_PLATE>俺
+「くっ……アルカ……俺は……
+　そろそろ限界だっ……！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0063_r18
+<NAME_PLATE>アルカ
+「は、はい……私も……もう少し、です……
+　ふ、くううん……！」
+<PAUSE>
+<NAME_PLATE>俺
+「くっ……もう限界だ、出すぞ……
+　出すぞアルカ！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0064_r18
+<NAME_PLATE>アルカ
+「だ、め……主、もう少し……
+　もう、少しです……！」
+<PAUSE>
+<NAME_PLATE>俺
+「まだかっ、まだかぁっ……
+　俺は、もう……！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0065_r18
+<NAME_PLATE>アルカ
+「は、い……私ももう、も……う……！」
+<PAUSE>
+<NAME_PLATE>俺
+「く……っ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0066_r18
+<NAME_PLATE>アルカ
+「はっ……くああああっ……！！」
+<PAUSE>
+//【e差分】
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0015_1e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　どくっ、びゅくっびゅうううううっ！
+<PAUSE>
+<NAME_PLATE>
+　俺のペニスがアルカの秘裂に
+大量の精液を注ぎ込んだ。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0067_r18
+<NAME_PLATE>アルカ
+「……入ってきます、主の精液が……
+　熱い、です……」
+<PAUSE>
+<NAME_PLATE>
+　体は昇りつめたように
+小刻みに震え続けている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0068_r18
+<NAME_PLATE>アルカ
+「んっ、んん……」
+<PAUSE>
+<NAME_PLATE>俺
+「うおっ……お前、マンコの中……！」
+<PAUSE>
+<NAME_PLATE>
+　アルカの秘肉は包み込んだ俺のペニスを
+ぎゅむぎゅむと、他の生き物のように
+締め上げている。
+<PAUSE>
+<NAME_PLATE>
+　まるでペニスから極限まで
+精液を搾り取ろうとしているかのようだ。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……このおっ！」
+<PAUSE>
+<NAME_PLATE>
+　俺はなおもアルカの腰に叩きつけるように
+自分の腰を動かし続けた。
+<PAUSE>
+<NAME_PLATE>
+　まるで自分の精液を最後の一滴まで子宮に
+飲ませようとするかの様に、
+何度も何度もペニスを抉りこむ。
+<PAUSE>
+<NAME_PLATE>
+　ずちゅっ、ずちゅっ、
+ずちゅっ、ずちゅ……っ！
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0069_r18
+<NAME_PLATE>アルカ
+「うっ、うっ、うっ、う……
+　んっ、んんっ、ん、ふ……」
+<PAUSE>
+<NAME_PLATE>
+　アルカもそれに応えるように、
+自分の腰を激しく動かし続けている。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0070_r18
+<NAME_PLATE>アルカ
+「ん、んぅ……ふぅぅ、もっと、ください、
+　主の精液、もっと……！！」
+<PAUSE>
+<NAME_PLATE>
+　ベニスと秘肉の結合部は淫靡な水音を立て、
+精液と愛液の混ざった汁を
+地面に滴らせ続けていた。
+<PAUSE>
+<NAME_PLATE>
+　俺たちはビルの谷間で汗と愛液の飛沫を
+散らしながら、さながら二匹のケモノが
+交わる様に快楽を貪りあった。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0071_r18
+<NAME_PLATE>アルカ
+「あ……んんっ、主……チンポ、
+　熱いです……主……」
+<PAUSE>
+<NAME_PLATE>俺
+「ああ、俺もお前の中が……熱い……」
+<PAUSE>
+<NAME_PLATE>
+　アルカの体は興奮のためか全体が紅潮し、
+息を荒げ続けている。
+<PAUSE>
+<NAME_PLATE>
+　もっとも、それはアルカの体温でなく、
+体内のリアクターの熱さかもしれなかった。
+<PAUSE>
+<NAME_PLATE>俺
+「くっ、ダメだっ、
+　もう、全部出し尽くすぞっ！」
+<PAUSE>
+<NAME_PLATE>俺
+「は、い……全部、
+　出して、くださ……い……！」
+<PAUSE>
+<NAME_PLATE>
+　俺は思い切りペニスをアルカの秘裂に
+押し込み、子宮の奥に最後の精液を流し込む。
+<PAUSE>
+<NAME_PLATE>俺
+「くおおおおおおおっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0015_1_0072_r18
+<NAME_PLATE>アルカ
+「くっ……ふぅぅぅ、はぁぁぁぁぁ……！」
+<PAUSE>
+<NAME_PLATE>
+　俺は精液を出し尽くした後もしばらくの間、
+アルカと交わり続けていた。
+<PAUSE>
+//【黒画面】
+<BG_OUT>1000
+<NAME_PLATE>
+　……そして。
+<PAUSE>
+<NAME_PLATE>俺
+「抜くぞ、いいな」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0073_r18
+<NAME_PLATE>アルカ
+「は、い……」
+<PAUSE>
+<NAME_PLATE>
+　ずずっ……ずるっ……
+<PAUSE>
+<NAME_PLATE>
+　俺がアルカの秘裂からペニスを引き抜くと、
+精液と愛液が混じり合った
+白濁した液体が滴った。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0074_r18
+<NAME_PLATE>アルカ
+「んっ、んんっ……ふーっ、ふーっ……」
+<PAUSE>
+<NAME_PLATE>
+　アルカは肩で息をしながら、
+路地裏の地面にへたりこんだ。
+<PAUSE>
+<NAME_PLATE>俺
+「お、おい……！」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0075_r18
+<NAME_PLATE>アルカ
+「心配……ありません……少しだけ
+　……疲れました」
+<PAUSE>
+<NAME_PLATE>
+　少しの後、アルカは再び立ち上がり、
+脱いでいた装備を再び装着した。
+<PAUSE>
+<NAME_PLATE>俺
+「どうだ、リアクターはもう、大丈夫か？」
+<PAUSE>
+<NAME_PLATE>
+　俺が訊くと、
+アルカは平常に戻った無表情な声で応える。
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0076_r18
+<NAME_PLATE>アルカ
+「はい、少しだけ出力が元に戻りました。
+　ありがとうございます」
+<PAUSE>
+<NAME_PLATE>俺
+「少しって、まだ足りないのかよ！？」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0077_r18
+<NAME_PLATE>アルカ
+「まだ完全に収まったわけではありません……
+　完全に出力を安定させるには、
+　更なる調整が必要です」
+<PAUSE>
+<NAME_PLATE>俺
+「つまりどっちにしろ本部で
+　メンテナンスしなきゃならないって事だな」
+<PAUSE>
+<VOICE_PLAY>chr_0015_1_0078_r18
+<NAME_PLATE>アルカ
+「はい、主」
+<PAUSE>
+<NAME_PLATE>
+　あれだけやってもアルカの興奮が
+収まらない……となると、
+いったいどれだけの刺激を与えればいいのか。
+<PAUSE>
+<BGM_STOP>1000
+<NAME_PLATE>
+　少しだけ怖い考えを浮かべながら、
+俺はアルカと共に本部に向かった。
+<PAUSE>
+//（ＥＮＤ）
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

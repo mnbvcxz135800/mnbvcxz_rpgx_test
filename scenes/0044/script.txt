@@ -1,0 +1,1126 @@
+//☆上原燐　Hシナリオ
+<BGM_PLAY>bgm506,1000
+<BG>chrnc0044a,IN, 3000
+//※仮
+//■R00x：上原燐-足コキ
+//【背景：MISAO_nc003b】森の中、夕焼け
+<NAME_PLATE>俺
+「はぁ、はぁ、はぁ、はぁ」
+<PAUSE>
+<NAME_PLATE>
+　“電輝の対魔忍”こと
+上原燐（うえはらりん）先生のしごきが
+始まって数時間。
+<PAUSE>
+<NAME_PLATE>
+　俺は五車学園の野外訓練用フィールド、
+通称“鍛錬の森”にひっくり返っていた。
+<PAUSE>
+<NAME_PLATE>
+　ゼーハーと荒い息で見上げる空は
+もう茜に染まり始めている。
+<PAUSE>
+<NAME_PLATE>俺
+（疲れた……こんなことなら
+　授業をサボるんじゃなかった……）
+<PAUSE>
+<NAME_PLATE>俺
+（まさか今日に限って、野外訓練の講師が
+　燐先生だとは……蛇子のやつ、
+　教えてくれよ）
+<PAUSE>
+//　※立ち絵
+//　　燐立ち絵
+//　　　＊このカードイラスト表を流用
+<ACTOR>0,chr_t0044a_r18,CENTER, CENTER, IN, linear, 1000
+//※仮
+<VOICE_PLAY>chr_0044_0000_r18
+<NAME_PLATE>燐
+「ふうま小太郎！　立て！
+　まだ訓練は終わっていないぞ！」
+<PAUSE>
+<NAME_PLATE>
+　燐先生が仁王立ちで俺を見下ろしていた。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0001_r18
+<NAME_PLATE>燐
+「空を見ろ！　あれはなんだ！」
+<PAUSE>
+<NAME_PLATE>俺
+「なんだって夕焼けですけど……
+　綺麗だとかそういう？」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0002_r18
+<NAME_PLATE>燐
+「馬鹿者。誰がそんな話をしている！
+　今は黄昏時だ。昼が夜になるこの時間、
+　人の感覚はもっとも乱れるのだぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0003_r18
+<NAME_PLATE>燐
+「その僅かな時間に鍛錬をしないでどうする！
+　さっさと立たないか！！」
+<PAUSE>
+<NAME_PLATE>
+　仮にも対魔忍の修行を積んでいる俺が
+もう起き上がるのも嫌なのに、
+燐先生はまるで疲れた様子がない。
+<PAUSE>
+<NAME_PLATE>
+　いくら俺がしごかれる側、
+燐先生がしごく側といっても、
+タフにも程がある。
+<PAUSE>
+<NAME_PLATE>俺
+「燐先生、勘弁してください。
+　もう動けません」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0004_r18
+<NAME_PLATE>燐
+「ふん、わざとらしく息を荒らげるな。
+　お前のそのくさい演技はお見通しだ」
+<PAUSE>
+<NAME_PLATE>俺
+「演技って……俺、普通に
+　疲労困憊なんですけど……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0005_r18
+<NAME_PLATE>燐
+「本当に疲労困憊な奴はそんな風に
+　調子よく舌を動かしたりはしない。
+　反吐を吐き、のたうち回っているはずだ」
+<PAUSE>
+<NAME_PLATE>俺
+（そりゃ、確かに反吐は吐いてないけど……）
+<PAUSE>
+<VOICE_PLAY>chr_0044_0006_r18
+<NAME_PLATE>燐
+「お前はいつもそうだ」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0007_r18
+<NAME_PLATE>燐
+「ふうまの“目抜け”などと一族に
+　呼ばれているにも拘わらず、それで
+　発憤するどころか昼行灯を貫いている」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0008_r18
+<NAME_PLATE>燐
+「そんな軟弱者が私のしごきについて
+　こられたのも驚きだが、
+　まだ限界を見せていないのが腹立たしい」
+<PAUSE>
+<NAME_PLATE>俺
+「そこは褒めるところでは？」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0009_r18
+<NAME_PLATE>燐
+「誰が褒めるものか！
+　今日はこのまま夜間訓練だ！！」
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>俺
+「ええっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0010_r18
+<NAME_PLATE>燐
+「『ええ』とはなんだ。今日はうちで寝られる
+　などと思うなよ！　お前の限界がどれほどか
+　この私が見極めてやる！　さあ立て！」
+<PAUSE>
+<NAME_PLATE>俺
+「いや、だから本当に無理ですって。
+　せめてちょっとだけ休ませてください。
+　ほんのちょっとだけ！」
+<PAUSE>
+<NAME_PLATE>
+　俺は無理であることを必死にアピールした。
+<PAUSE>
+<NAME_PLATE>
+　いや、実際本当に辛かったのだが。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0011_r18
+<NAME_PLATE>燐
+「そうか、まだそうやって昼行灯で
+　いるつもりだ。ならば仕方ないな。
+　私にも考えがある」
+<PAUSE>
+<NAME_PLATE>
+　俺を見下ろす燐先生の目がなにやら
+危なげな方向に変わる。
+<PAUSE>
+<NAME_PLATE>
+　生徒というより獲物を見る目だ。
+<PAUSE>
+<BGM_STOP>1000
+<NAME_PLATE>俺
+「えっ？　ちょっ、
+　何するつもりですか？」
+<PAUSE>
+//【R00xa：上原燐-足コキ】
+<ACTOR>0,chr_t0044a_r18,CENTER, CENTER, OUT, linear, 1000
+<BGM_PLAY>bgm315,1000
+<EV>chr_0044a_r18,IN, 3000
+<VOICE_PLAY>chr_0044_0012_r18
+<NAME_PLATE>燐
+「お前のようなふざけた生徒が
+　今までいなかったと思うか？」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0013_r18
+<NAME_PLATE>燐
+「そういう輩には別のしごきをすると
+　決めている」
+<PAUSE>
+<NAME_PLATE>俺
+「べ、別のしごきって……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0014_r18
+<NAME_PLATE>燐
+「すぐに分かる」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は俺の足の方に回り込むと、
+だしぬけに片方の靴を脱いだ。
+<PAUSE>
+<NAME_PLATE>俺
+「え……？」
+<PAUSE>
+<NAME_PLATE>
+　対魔忍の任務にも耐えられる強靱な靴だが、
+いくら美人の燐先生でも、
+今日一日履いていて蒸れている。
+<PAUSE>
+<NAME_PLATE>
+　爪先から踵まで綺麗な形だがムワッと
+匂い立つような素足が露わになった。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0015_r18
+<NAME_PLATE>燐
+「ふふ……」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は怖い笑い方をすると踵をくいっと
+持ち上げた。ぎらりと光る視線の先は
+俺の股間――えっ？
+<PAUSE>
+<NAME_PLATE>俺
+（まさか金玉を！？）
+<PAUSE>
+<VOICE_PLAY>chr_0044_0016_r18
+<NAME_PLATE>燐
+「もう一歩も動けないのだったな」
+<PAUSE>
+<NAME_PLATE>俺
+「ちょっ、先生っっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺は慌てて逃げようとしたが、身体は
+まだ疲れ切っている。しかも相手が
+燐先生では逃げようがない。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0017_r18
+<NAME_PLATE>燐
+「はあっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ギロチンのような踵が
+股間に振り下ろされる。
+<PAUSE>
+<NAME_PLATE>俺
+「ひいいっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　俺は思わず目を閉じ、
+地獄の痛みを覚悟したが、
+それはいつまでも襲ってこない。
+<PAUSE>
+<NAME_PLATE>
+　その代わりに、柔らかい足がズボンの上から
+股間にぴったりと押しつけられるのを感じた。
+<PAUSE>
+<NAME_PLATE>俺
+「え？　えっ？」
+<PAUSE>
+<NAME_PLATE>
+　死刑執行の寸前で助かった様な気分で
+恐る恐る目を開けると、
+燐先生が俺を蔑むように見下ろしていた。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0018_r18
+<NAME_PLATE>燐
+「金的を踏みつぶすとでも思ったか。
+　生徒相手にそんなことはしないぞ」
+<PAUSE>
+<NAME_PLATE>
+　そう俺をからかうように言いうと、
+燐先生は股間に押し当てた
+足をゆっくりと動かし始めた。
+<PAUSE>
+<NAME_PLATE>俺
+「じゃ、じゃあ……ちょっ、
+　いったい……な、なにを……！？」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0019_r18
+<NAME_PLATE>燐
+「だから言ったろう？
+　別のしごきをしてやると。
+　分からないフリをしているのか？」
+<PAUSE>
+<NAME_PLATE>俺
+「べ、べ、別のしごきって……」
+<PAUSE>
+<NAME_PLATE>俺
+（まさか足コキのこと言ってるのか？
+　あの燐先生が？　嘘だろ！？）
+<PAUSE>
+<VOICE_PLAY>chr_0044_0020_r18
+<NAME_PLATE>燐
+「動けないなら別の仕置きで
+　賄わないといけないだろう？　なあ？」
+<PAUSE>
+<NAME_PLATE>
+　燐先生の足裏がやわやわと
+股間をなぞるように這う。
+<PAUSE>
+<NAME_PLATE>
+　それは明らかに卑猥なうごきで、
+しかもはっきりとズボン下のイチモツを
+狙っている。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……くっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0021_r18
+<NAME_PLATE>燐
+「なんだその声は？　まさか私に踏まれて
+　興奮しているのか？　今は鍛錬中だぞ。
+　不真面目にも程があるな」
+<PAUSE>
+<NAME_PLATE>俺
+「た、鍛錬って、これが？　ううっ」
+<PAUSE>
+<NAME_PLATE>
+　まるで虫ピンで捕まった昆虫だ。俺は
+仰向けにひっくりかえったまま、燐先生の足を
+どうしようもなく意識させられてしまう。
+<PAUSE>
+<NAME_PLATE>
+　教師に股間を踏まれるという異常な状況で、
+チンポに音を立てるように血液が
+流れ込んでいく。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0022_r18
+<NAME_PLATE>燐
+「ふふん、お前のろくでもない代物が
+　硬くなってきているぞ。なにが一歩も
+　動けないだ。とんでもない嘘つきだな」
+<PAUSE>
+<NAME_PLATE>俺
+「こ、これは嘘とかそんなんじゃ……
+　燐先生みたいな美人に……その、
+　踏まれたら……だ、誰だって……うぅっ」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0023_r18
+<NAME_PLATE>燐
+「今さらそんなお世辞を言っても無駄だ」
+<PAUSE>
+<NAME_PLATE>
+　チンポは見る見るうちに硬くなり、
+ズボンをムクムクと押し上げていく。
+<PAUSE>
+//【R00xb：上原燐-足コキ_チンコだし】
+<EV>chr_0044b_r18,NONE
+<VOICE_PLAY>chr_0044_0024_r18
+<NAME_PLATE>燐
+「お前これで相当な悪さをしているらしいな。
+　そんなところだけふうまの頭領らしいとは
+　呆れた奴だ」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は俺を嘲ると、
+足の指を器用に使ってズボンの
+ファスナーを下ろした。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0025_r18
+<NAME_PLATE>燐
+「どれ、悪さばかりしているイチモツを
+　見せてもらおうか」
+<PAUSE>
+<NAME_PLATE>俺
+「ちょっ、先生、待ってください！」
+<PAUSE>
+<NAME_PLATE>
+　そこまで――
+いや、どこまでやるつもりだ、この人は？
+<PAUSE>
+<NAME_PLATE>
+　まさか本気で足コキ全部するつもりなのか？
+<PAUSE>
+<NAME_PLATE>
+　それは嬉し――
+いや、いくらなんでもまずいだろ！？
+<PAUSE>
+<VOICE_PLAY>chr_0044_0026_r18
+<NAME_PLATE>燐
+「駄目だ。お前のような信用ならん男の
+　イチモツは教師としても、
+　女としても確かめておく必要がある」
+<PAUSE>
+<NAME_PLATE>俺
+「そんな馬鹿な！」
+<PAUSE>
+<NAME_PLATE>
+　俺は本気で焦ったが燐先生がこれまた器用に
+下着をずらすと、半勃起のチンポが
+顔を出してしまった。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0027_r18
+<NAME_PLATE>燐
+「ほう、これがお前のイチモツか。
+　さすがにまだ完全に勃っては――おや？」
+<PAUSE>
+<NAME_PLATE>
+　ぐっ、ぐっ、ぐぐぐっっ、ぐぐううううっ。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0028_r18
+<NAME_PLATE>燐
+「なんだなんだ。
+　いきなり激しく勃起し始めたぞ」
+<PAUSE>
+<NAME_PLATE>俺
+（駄目だ……我慢できないっ……）
+<PAUSE>
+<VOICE_PLAY>chr_0044_0029_r18
+<NAME_PLATE>燐
+「そうか、私に見られて興奮しているのか。
+　そうなんだな？
+　お前、私に見られて勃起しているんだな」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は土踏まずを軽く肉柱に
+押しつけるだけで、ほとんど動かしていない。
+<PAUSE>
+<NAME_PLATE>
+　にも拘わらず、さっきまで服で
+押さえつけられていたチンポがようやく
+解放されたことと、
+<PAUSE>
+<NAME_PLATE>
+　なにより『燐先生にチンポを見られている』
+という異常な興奮がいつも以上に
+勃起を促してしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0030_r18
+<NAME_PLATE>燐
+「足の裏で感じた上、見られてさらに
+　感じるとはどうしようもない変態の
+　ようだな。こういうのが好きなのか？」
+<PAUSE>
+<NAME_PLATE>俺
+「ち、違います。
+　こんなのは初めてで……あっ！」
+<PAUSE>
+<NAME_PLATE>
+　俺は動揺するあまり、
+言わなくてもいいことまで口走ってしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0031_r18
+<NAME_PLATE>燐
+「つまりたった今、
+　新たな性癖に目覚めたというわけだな？」
+<PAUSE>
+<NAME_PLATE>俺
+「ううっ……だからそうじゃなくて……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0032_r18
+<NAME_PLATE>燐
+「いい、いい。別に気にすることはない。
+　そういう対魔忍がいても別に構わない。
+　私は全く気にしないぞ」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0033_r18
+<NAME_PLATE>燐
+「いやむしろ、米連や魔族の女にはＳが
+　多いから任務に有利かもしれないぞ、
+　あっはははは！！」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は頭ごなしに決めつけるように
+高笑いした。
+<PAUSE>
+<NAME_PLATE>俺
+（Ｓなのは燐先生もでしょうが！！）
+<PAUSE>
+<NAME_PLATE>
+　と言いたかったが、それを言ったら
+もっと責められそうなので（そして俺は
+Ｍではないので）口には出せない。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0034_r18
+<NAME_PLATE>燐
+「それにしても、さすがふうま直系の血だな。
+　まさに“女殺し”だ。ゾクゾクしてくる」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は舌舐めずりしそうな目で言った。
+<PAUSE>
+<NAME_PLATE>俺
+（なんなんだ、この人は！？）
+<PAUSE>
+<NAME_PLATE>
+　本当に授業のしごきの延長なのか、
+俺が知らなかっただけで、単なるドＳの
+変態教師なのかまるで分からない。
+<PAUSE>
+//【R00xc：上原燐-足コキ_足変化】
+<VOICE_PLAY>chr_0044_0035_r18
+<NAME_PLATE>燐
+「少し楽しませてもらうぞ」
+<PAUSE>
+<NAME_PLATE>俺
+（楽しむ気かよ！）
+<PAUSE>
+<VOICE_PLAY>chr_0044_0036_r18
+<NAME_PLATE>燐
+「いいか、足コキというのはこうして――」
+<PAUSE>
+<EV>chr_0044c_r18,NONE
+<NAME_PLATE>
+　足の指がクパアッと拡がり、
+もう勃起を戻すことなど到底できないチンポの
+先に覆い被さってきた。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0037_r18
+<NAME_PLATE>燐
+「こう捕まえる」
+<PAUSE>
+<NAME_PLATE>
+　親指、人差し指、そして中指がクニュウッと
+曲がって亀頭を包み込む。
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0038_r18
+<NAME_PLATE>燐
+「ふふふふっ、いい顔だ。
+　私の足に捕まった男は皆
+　そういう顔になる」
+<PAUSE>
+<NAME_PLATE>俺
+「くっ……燐先生、
+　他の男子にもこんなこと
+　してるんですかっ……？」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0039_r18
+<NAME_PLATE>燐
+「それはどういう意味だ。怠け者の分際で私の
+　足を独占したいとでも考えているのか？」
+<PAUSE>
+<NAME_PLATE>
+　燐先生はサディスティックな笑みを
+浮かべて、亀頭を掴んだ指をウネウネと
+動かし始めた。
+<PAUSE>
+<NAME_PLATE>
+　手でチンポを弄られるのとは明らかに異なる
+異様な興奮がゾワワッと背筋を駆け上がった。
+<PAUSE>
+<NAME_PLATE>俺
+「そ、そんなっ……つもりじゃっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0040_r18
+<NAME_PLATE>燐
+「お前は余計なことを考えずに、ただ私に
+　踏みつけにされていればいいのだ。
+　どうせ抵抗できないのだろう？」
+<PAUSE>
+<NAME_PLATE>俺
+（そうだ……抵抗できないっ……）
+<PAUSE>
+<NAME_PLATE>
+　自分の一番大切な場所が文字どおり
+踏みつけにされ、辱められているという
+マゾヒスティックな快感を覚える。
+<PAUSE>
+<NAME_PLATE>
+　今までそんなことは一度もなかったが、
+燐先生にはどんな男もそうさせてしまう魔性、
+ひょっとして能力があるのかもしれない。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0041_r18
+<NAME_PLATE>燐
+「そらそら、変態のチンポが
+　ますます硬くなっていくぞ」
+<PAUSE>
+<NAME_PLATE>
+　そう、燐先生に嘲られながら、チンポは
+ますます凶暴に、情けないくらいに
+ガチガチに熱り立っていく。
+<PAUSE>
+<NAME_PLATE>俺
+「うっっ……」
+<PAUSE>
+<NAME_PLATE>
+　ぴゅっ、ぴゅぴゅっ☆
+<PAUSE>
+<VOICE_PLAY>chr_0044_0042_r18
+<NAME_PLATE>燐
+「ははは、もう先走りが出てきた。
+　本当に堪え性のない奴だ」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は尿道からあふれ出た我慢汁を足指に
+絡みつかせると、クチュリクチュリと
+亀頭に塗りたくっていく。
+<PAUSE>
+<NAME_PLATE>俺
+「むうっ……くくっ……ふうっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0043_r18
+<NAME_PLATE>燐
+「どうした？　さっきまでの無駄な
+　お喋りがなくなってきたぞ。
+　気持ちいいくらい言ってみろ」
+<PAUSE>
+<NAME_PLATE>俺
+「き、気持ちいいです……燐先生」
+<PAUSE>
+<NAME_PLATE>
+　まるで女王様に命令される雄奴隷のように
+俺は気持ちいいと言ってしまう。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0044_r18
+<NAME_PLATE>燐
+「素直で結構。生徒はそうでなくてはな」
+<PAUSE>
+<NAME_PLATE>
+　屈辱に満ちたその言葉、
+蔑みしか感じない視線、
+それがますます俺をおかしな気分にさせる。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0045_r18
+<NAME_PLATE>燐
+「もっと気持ちよくして欲しいか？」
+<PAUSE>
+<NAME_PLATE>俺
+「は、はい、気持ちよくして欲しいです」
+<PAUSE>
+<NAME_PLATE>
+　俺は犬のようにコクコク頷いていた。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0046_r18
+<NAME_PLATE>燐
+「それだけでは駄目だな。
+　私はお前の教師だぞ。もっとちゃんと頼め」
+<PAUSE>
+<NAME_PLATE>俺
+「ちゃんと？」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0047_r18
+<NAME_PLATE>燐
+「ちゃんとだ。『怠け者の私のチンポを足で
+　気持ちよくしてください。
+　私は変態です』とな」
+<PAUSE>
+<NAME_PLATE>
+　丸めた爪先で亀頭をヌチュリ、ヌチュリと
+捏ね回しながら、
+俺にさらなる辱めを強要する。
+<PAUSE>
+<NAME_PLATE>
+　そんなことまで口にしたら、
+いったい自分がどうなってしまうか
+怖い気がする。
+<PAUSE>
+<NAME_PLATE>
+　けれど、自分の中に芽生え始めた
+この被虐的な快感には抗えない。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0048_r18
+<NAME_PLATE>燐
+「どうした？
+　ここで止めてもいいんだぞ？　ん？」
+<PAUSE>
+<NAME_PLATE>
+　燐先生はニヤリと笑って、
+足指をチンポから離する素振りを見せた。
+<PAUSE>
+<NAME_PLATE>俺
+「ま、待ってください、先生！！」
+<PAUSE>
+<NAME_PLATE>俺
+「怠け者の私のチンポを先生の足で
+　気持ちよくしてください！
+　私は変態です！！　お願いします！！」
+<PAUSE>
+<NAME_PLATE>
+　気がつけば俺はそう口走り、
+燐先生はしてやったりとばかりの
+艶めかしい笑みを浮かべた。
+<PAUSE>
+//【R00xd：上原燐-足コキ_微電流】
+<VOICE_PLAY>chr_0044_0049_r18
+<NAME_PLATE>燐
+「いいぞ。そこまで言うなら、
+　私の力でもっと可愛がってやる」
+<PAUSE>
+<NAME_PLATE>俺
+「せ、先生の力で！？」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0050_r18
+<NAME_PLATE>燐
+「ふふふふっ♪」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0044d_r18,NONE
+</GROUP>
+<NAME_PLATE>
+　ピリッッ☆
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>俺
+「うっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　突然の衝撃に俺は息を詰まらせた。
+<PAUSE>
+<NAME_PLATE>
+　まるでチンポに電気を流されたかのような
+――いや、本当に流された！？
+<PAUSE>
+<VOICE_PLAY>chr_0044_0051_r18
+<NAME_PLATE>燐
+「敏感だな。
+　私のオモチャとなる素質は十分だ」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+</GROUP>
+<NAME_PLATE>
+　ピリッ☆　ピリピリッ☆
+<PAUSE>
+<NAME_PLATE>俺
+「くうっ……かはっ……」
+<PAUSE>
+<NAME_PLATE>
+　ま、間違いない。
+<PAUSE>
+<NAME_PLATE>
+　燐先生はあの水城ゆきかぜ以上と言われる
+雷遁の力を俺のチンポに使っている。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0052_r18
+<NAME_PLATE>燐
+「こうやってチンポに電気を流すとな、
+　そいつの限界以上に勃起するのだ。
+　下手をすると弾け飛ぶほどにな」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+</GROUP>
+<NAME_PLATE>
+　ビリッ！　ビリビリッ！！
+<PAUSE>
+<NAME_PLATE>俺
+「せ、先生っ……おおおっ、
+　ち、チンポがっ！！　くはああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　微細な電気にビリッ、ビリッと
+打たれるたびに、血流が空恐ろしい勢いで
+男根に流れ込んでいくのが分かる。
+<PAUSE>
+<NAME_PLATE>
+　普段はいくら勃起しても黒ずんでいる肉柱が
+真っ赤にパンパンに膨れあがり、
+本当に弾け飛びそうだ。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0053_r18
+<NAME_PLATE>燐
+「そうら、はち切れそうなチンポを
+　しごいてやるぞ」
+<PAUSE>
+<NAME_PLATE>俺
+「ま、待って、うわあああっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　まるで犯される直前の処女のような
+情けない悲鳴が出た。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0054_r18
+<NAME_PLATE>燐
+「本当は待ってなど欲しくないのだろう、
+　この嘘つきめ」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は残酷に笑い、異常勃起した
+チンポを足指でみっちり掴んで、
+電気を流したまましごき始めた。
+<PAUSE>
+<NAME_PLATE>俺
+「くはぁあああああああっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　脳みそにまで電気を流されたかのように
+頭が真っ白になった。
+<PAUSE>
+<NAME_PLATE>
+　腰がぐうんと勝手に浮き上がり、
+ガクンガクンと壊れたかのように脈打つ。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0055_r18
+<NAME_PLATE>燐
+「どうだ？　もうチンポのことしか
+　考えられないだろう？
+　気が狂いそうになるだろう？」
+<PAUSE>
+<NAME_PLATE>俺
+「は……はひっ……先生……で、でも……
+　おっ、おおっ……きもひ……いいっ……
+　ひゅごいいいっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0056_r18
+<NAME_PLATE>燐
+「あははは！！　その顔だ！　その声だ！
+　見込みのある男がそんな風になるのは
+　たまらないぞ！」
+<PAUSE>
+<NAME_PLATE>
+　燐先生はもう間違いなく俺を
+嬲って楽しんでいた。
+<PAUSE>
+<NAME_PLATE>
+　だがもうそれでいい。俺もこの快感に
+抗いたくない。先生にもっと嬲って欲しい。
+もっと感じさせて欲しい。
+<PAUSE>
+<NAME_PLATE>俺
+「かっ……はっ……り、燐……先生っ……
+　も、もう……イ、イキそう……ですっ……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0057_r18
+<NAME_PLATE>燐
+「そんなことはとっくに分かっている」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は高らかに笑いながら、
+シュコシュコと足扱きを加速させた。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0058_r18
+<NAME_PLATE>燐
+「イキたいなら懇願しろ！　私に懇願しろ！
+　『私は先生のチンポ奴隷です』とな！！
+　さあ言え！！」
+<PAUSE>
+<NAME_PLATE>
+　燐先生の足の裏でチンポが
+破裂しそうなほど膨れあがる。
+<PAUSE>
+<NAME_PLATE>俺
+（だ、駄目だ、もう出るっ、
+　先生に懇願しないと！　早くっっ！！）
+<PAUSE>
+<NAME_PLATE>
+　俺は射精を必死に堪えながら
+絶叫していた。
+<PAUSE>
+<NAME_PLATE>俺
+「私は先生のチンポ奴隷ですっ！　射精させて
+　くださいっ！　射精させてください！！
+　射精させてくださいっっ！！」
+<PAUSE>
+//【R00xe：上原燐-足コキ_射精01】
+<VOICE_PLAY>chr_0044_0059_r18
+<NAME_PLATE>燐
+「ようし、いいぞ。ぶちまけろ、
+　チンポ奴隷！！」
+<PAUSE>
+<NAME_PLATE>俺
+「はひぃいいいいいいいいいいいっ！！」
+<PAUSE>
+<NAME_PLATE>
+　ゆ、許された。
+<PAUSE>
+<NAME_PLATE>
+　脳天まで突き抜けるような歓喜。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0044e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　どっびゅううううう
+ううううううううううううううっっ！！
+<PAUSE>
+<VOICE_PLAY>chr_0044_0060_r18
+<NAME_PLATE>燐
+「あっはあああっっ！！
+　出た出たあああっっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　チンポが弾けるような怒濤の射精が
+足裏にビチャアッとぶち当たる。
+<PAUSE>
+<NAME_PLATE>
+　燐先生は授業では決して見せない
+淫らな顔になった。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0061_r18
+<NAME_PLATE>燐
+「いいぞ！！　すごくいい！
+　ほら、もっともっと出せ！！」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は射精に脈打つチンポを足指で
+ガッチリ捕まえ、ギラギラした目で
+更にしごく。
+<PAUSE>
+<NAME_PLATE>俺
+「くうっっ、だ、出しますっっ！！
+　先生の足に出しますっ、ううううっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　あまりの快感に呼吸もできない。
+<PAUSE>
+<NAME_PLATE>
+　だけど先生の綺麗な足を俺の汚いザーメンで
+グチャグチャのドロドロにしてあげたい。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0062_r18
+<NAME_PLATE>燐
+「あはあっ、あんっ！　あんっ！
+　熱いのがビュクビュク当たってるぞ！」
+<PAUSE>
+<NAME_PLATE>俺
+「くうぅっ、もっと感じてくださいっ、
+　俺のチンポ汁っっっ！　先生っっ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　どびゅうっ！　どびゅううっ！
+どびゅどびゅどっびゅううっ！
+<PAUSE>
+<VOICE_PLAY>chr_0044_0063_r18
+<NAME_PLATE>燐
+「んぅうっ、あんっ、うふふっ、チンポ汁で
+　私を感じさせるなんてっ、お前は
+　チンポ奴隷の見込みがあるぞっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「うっ……くっ……あ、ありがとう……っ、
+　ごさいますっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　気が遠くなる。
+<PAUSE>
+<NAME_PLATE>
+　このまま燐先生の足にずっと出し続けたい。
+<PAUSE>
+<NAME_PLATE>
+　けれどチンポがドビュウッと脈打つたびに
+射精の勢いが弱まっていく。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0064_r18
+<NAME_PLATE>燐
+「どうしたどうした！
+　射精が弱くなってきているぞ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0065_r18
+<NAME_PLATE>燐
+「若いんだからまだ出せるだろう！！
+　チンポでも怠けるつもりか！！
+　私を失望させたいのか！！」
+<PAUSE>
+<NAME_PLATE>俺
+「ち、ちがい……ますっ……ううっ、
+　出しますっ……先生に……くっ、ぐううっ
+　……もっとっ……だ駄目だ……出ない……」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0066_r18
+<NAME_PLATE>燐
+「情けないやつめ！！
+　この玉袋にはまだたっぷりチンポ汁が
+　詰まっているだろうが！！」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+</GROUP>
+<NAME_PLATE>
+　グニュウウウ！！
+ビリビリビリッッッ！！
+<PAUSE>
+<NAME_PLATE>
+　燐先生が射精の終わりかけた俺の金玉を
+踵で押し潰しながら、
+強烈な電気を当ててきた。
+<PAUSE>
+//【R00xf：上原燐-足コキ_射精02】
+<VOICE_PLAY>chr_0044_0067_r18
+<NAME_PLATE>燐
+「そおらもっと出せっ！！
+　チンポ汁出せええええっっ！！！」
+<PAUSE>
+<NAME_PLATE>俺
+「おほぉおおおおおおおおおおおおっっ！！」
+<PAUSE>
+<NAME_PLATE>
+　さっき以上の凄まじい射精感。
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0044f_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<NAME_PLATE>
+　ドビュウウウウウウウ
+ウウウウウウウウッッ！！！
+<PAUSE>
+<NAME_PLATE>
+　今度こそチンポが破裂した気がした。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0068_r18
+<NAME_PLATE>燐
+「あははははははははははっっっ！！
+　出るじゃないかっっ！！
+　まだまだこんなに出るぞっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「おふおおおっ、
+　おおっおおおおおおおおっっっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0069_r18
+<NAME_PLATE>燐
+「いいか、覚えておけ！！
+　お前が考えている限界など
+　限界でもなんでもない！！」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0070_r18
+<NAME_PLATE>燐
+「人間、やりようでいくらでも
+　底力を出せるのだ、このようになっっ！！」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+</GROUP>
+<NAME_PLATE>
+　ググッグッググッ、びりびりびりっ！！
+<PAUSE>
+<NAME_PLATE>
+　燐先生は金玉を電撃責めしながら
+押し潰して、中の精液をチンポに
+押し出すように俺に射精させた。
+<PAUSE>
+<NAME_PLATE>俺
+「わ、わかりまひたあっっ、せんひぇいっっ、
+　よくわかりまひたあああああっ！！
+　クヒイイイイイイ！！」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<NAME_PLATE>
+　ドビュウウウッ、ドビュウウウウ、
+ドビュドビュドビュウウウウウッ！！
+<PAUSE>
+<VOICE_PLAY>chr_0044_0071_r18
+<NAME_PLATE>燐
+「やっと分かったか！　馬鹿者がっっ！
+　だが分かっただけ見所があるっ！！
+　チンポ奴隷になる見所がなっっ！！」
+<PAUSE>
+<NAME_PLATE>俺
+「ありがろおお
+　ごひゃいましゅうううううっ！！」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0072_r18
+<NAME_PLATE>燐
+「あははははははははははははは！！
+　それでいい！！　それでいいんだ！！」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は他のどんな生徒にも
+見せない恍惚の高笑いを上げていた。
+<PAUSE>
+<NAME_PLATE>
+　そして、俺の金玉が本当に空っぽになるまで
+ただひたすら俺のために足コキを
+続けてくれた。
+<PAUSE>
+<NAME_PLATE>俺
+「かはっ……はっ……はひっ……ひっ
+　……は……くひっ……ひっ……はっ……」
+<PAUSE>
+<NAME_PLATE>
+　初めての足コキ、初めてのＭ快感。
+<PAUSE>
+<NAME_PLATE>
+　そのあまりの凄まじさに、射精が終わった後
+今度こそ本当にピクリとも動けなかった。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0073_r18
+<NAME_PLATE>燐
+「いいか。もし今後また訓練をサボるような
+　ことがあれば、こうやって個人的な授業を
+　行ってやるからな」
+<PAUSE>
+<NAME_PLATE>
+　燐先生がゾクリとするような意地悪で、
+艶めかしい目で俺を見下ろしている。
+<PAUSE>
+<NAME_PLATE>俺
+（それはつまり……）
+<PAUSE>
+<NAME_PLATE>
+　またサボれば、
+先生がこんな風に俺を
+楽しませてくれるということだ。
+<PAUSE>
+<NAME_PLATE>俺
+（でも、いいのか？　そんなこと続けてたら
+　本当に先生のチンポ奴隷に
+　なってしまうかもしれないぞ）
+<PAUSE>
+<NAME_PLATE>
+　男にとって避けがたい賢者タイムの訪れに、
+ふとそんな感情が浮かぶ。
+<PAUSE>
+<VOICE_PLAY>chr_0044_0074_r18
+<NAME_PLATE>燐
+「なんだその目は。私に刃向かうつもりか？
+　私の実力を忘れたのか？　ん？」
+<PAUSE>
+<NAME_PLATE>
+　燐先生はこれが実力だと言わんばかりに、
+精液でドロドロになった足の指を
+にちゃにちゃと動かした。
+<PAUSE>
+<NAME_PLATE>俺
+（だ、大丈夫だよな……ハマりすぎないように
+　気をつければ、きっと大丈夫だ、うん）
+<PAUSE>
+<NAME_PLATE>俺
+「わ、分かりました……先生」
+<PAUSE>
+<VOICE_PLAY>chr_0044_0075_r18
+<NAME_PLATE>燐
+「結構。何かあれば言えよ。我が従僕」
+<PAUSE>
+<NAME_PLATE>
+　燐先生は意味深な言葉を口にする。
+<PAUSE>
+<NAME_PLATE>
+　そして、子供が新しいオモチャに
+自分の名前を書くように、足についた精液を
+俺の顔にべっとりと擦りつけた。
+<PAUSE>
+<NAME_PLATE>
+　教師が生徒にするとはとても思えない、
+その淫らがましい振る舞いに、俺はまたも
+妖しい興奮を覚えてしまった。
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>

@@ -1,0 +1,859 @@
+<BGM_PLAY>bgm604,1000
+<BG>nc071a,IN, 1000
+<NAME_PLATE>Me
+「“To the new head of the Fuuma family,” huh......?」
+<PAUSE>
+<NAME_PLATE>
+　A mysterious email had been sent to me.
+<PAUSE>
+<NAME_PLATE>
+　It was an invitation to an underground, members-only site.
+<PAUSE>
+<NAME_PLATE>
+　The site's address, and an ID and password, were listed on it.
+<PAUSE>
+<NAME_PLATE>
+　It was something I had noticed by chance when I was sorting out my spam.
+<PAUSE>
+<NAME_PLATE>
+　It was the kind of thing I would normally ignore without even thinking about it.
+<PAUSE>
+<NAME_PLATE>
+　However, I was curious about this address, which was kept pretty secret, and moreover, the fact that it had been sent addressed to the “head of the Fuuma family”.
+<PAUSE>
+<NAME_PLATE>Me
+「I don't suppose it's a prank by Hebiko or someone, is it......?」
+<PAUSE>
+<NAME_PLATE>
+　I didn't want to get infected by some weird virus, but for whatever reason, I was strangely hooked by this.
+<PAUSE>
+<NAME_PLATE>
+　After carefully running a security check, I decided to try peeking at that underground site.
+<PAUSE>
+<NAME_PLATE>Me
+「S Buta Mama's Training Diary......」
+<PAUSE>
+<NAME_PLATE>
+　It was a surprisingly simple title page, which had nothing but that written on it, in white text on a black background.
+<PAUSE>
+<NAME_PLATE>
+　Several thumbnails of training videos with dates on them were lined up on it.
+<PAUSE>
+<NAME_PLATE>
+　It didn't seem much like a commercial site. It didn't have the creativity for a prank.
+<PAUSE>
+<NAME_PLATE>Me
+「A private wife training site......?」
+<PAUSE>
+<NAME_PLATE>
+　I tried clicking on the latest video for starters.
+<PAUSE>
+<BGM_STOP>1000
+<BG_OUT>1000
+<BGM_PLAY>bgm611,1000
+<EV>chr_0005_1a_r18,IN, 3000
+<NAME_PLATE>Me
+「Uuh......」
+<PAUSE>
+<NAME_PLATE>
+　I reflexively gasped.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0000_r18
+<NAME_PLATE>Woman
+「..................」
+<PAUSE>
+<NAME_PLATE>
+　Suddenly, a woman was displayed, with both arms and legs restrained by a strange machine.
+<PAUSE>
+<NAME_PLATE>
+　What's more, an outrageously sexy woman.
+<PAUSE>
+<NAME_PLATE>Me
+「Whoa...... Awesome......」
+<PAUSE>
+<NAME_PLATE>
+　Saliva flooded the inside of my mouth.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0001_r18
+<NAME_PLATE>Woman
+「........................」
+<PAUSE>
+<NAME_PLATE>
+　The woman was glaring sternly in this direction―in other words, at whoever was filming her.
+<PAUSE>
+<NAME_PLATE>
+　Furthermore, this woman was wearing clothes which looked like those of a Taimanin.
+<PAUSE>
+<NAME_PLATE>
+　As cosplay went, it was well done. As was the equipment restraining the woman.
+<PAUSE>
+<NAME_PLATE>
+　Was this real? No, it couldn't be.
+<PAUSE>
+<NAME_PLATE>
+　Both shoulders were bare; a super-thin, super-high-leg leotard was covering her crotch; and, although pretty much covered, those clothes were exposing her enormous breasts, which there was no way to hide.
+<PAUSE>
+<NAME_PLATE>
+　Her age――This fully-matured body probably wasn't 20...... Was she over 30?
+<PAUSE>
+<NAME_PLATE>
+　The woman had her dark hair cut shortly and evenly, and long ribbons which looked like bunny ears attached to it.
+<PAUSE>
+<NAME_PLATE>
+　Mm? A mature woman with enormous breasts and bunny ear ribbons?? Who was she, and where had I――
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<NAME_PLATE>Me
+「Wait a sec!!」
+<PAUSE>
+<NAME_PLATE>
+　I stopped the video out of extreme surprise.
+<PAUSE>
+<NAME_PLATE>
+　This woman――
+<PAUSE>
+<NAME_PLATE>Me
+「No way, is that Mizuki Shiranui?!」
+<PAUSE>
+<NAME_PLATE>
+　It was Mizuki Yukikaze's mother, who had gone missing five years ago.
+<PAUSE>
+<NAME_PLATE>
+　The “Illusion Taimanin”, who had been a super-ultra ace Taimanin about two generations ago, and who, by the end, had been dedicated to playing a support role for Captain Asagi.
+<PAUSE>
+<NAME_PLATE>
+　However, due to her Phantasmic Illusion Arts, in truth, she had never been outclassed by Captain Asagi―No, one could even say that she had surpassed her right until the end.
+<PAUSE>
+<NAME_PLATE>
+　Since her mysterious disappearance, many famous Taimanin had been put on the search, but they still hadn't been able to find a trace of her.
+<PAUSE>
+<NAME_PLATE>
+　Her daughter, Yukikaze, was always dead set on the idea that she would definitely track Shiranui down herself.
+<PAUSE>
+<NAME_PLATE>
+　I had also seen her data, and of course facial photographs, but she was so extremely sexy that I hadn't realized until just now.
+<PAUSE>
+<NAME_PLATE>Me
+「Gokuh...... Is she the real thing?」
+<PAUSE>
+<NAME_PLATE>
+　This was no time to be swallowing my saliva.
+<PAUSE>
+<NAME_PLATE>
+　I had to inform Captain Asagi as soon as possible, and yet, I couldn't take my eyes off the woman in the video.
+<PAUSE>
+<NAME_PLATE>Me
+「N, no...... The first thing to do is check. So I can report it to Captain Asagi.」
+<PAUSE>
+<NAME_PLATE>
+　Although I realized that was an excuse, I made the video that I had stopped play again.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0002_r18
+<NAME_PLATE>Shiranui
+「Amusing thing you've done to me.」
+<PAUSE>
+<NAME_PLATE>
+　The woman who looked like Shiranui uttered.
+<PAUSE>
+<NAME_PLATE>Me
+「Whoa...... Sexy voice......」
+<PAUSE>
+<NAME_PLATE>
+　Her voice was clearly angry, yet there was spine-chilling sexiness in it.
+<PAUSE>
+<NAME_PLATE>
+　It was a big difference from her always-shrill daughter.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0003_r18
+<NAME_PLATE>Shiranui
+「I wonder if you think you can hold me with a toy like this?」
+<PAUSE>
+<NAME_PLATE>
+　In spite of having both arms and legs restrained in an object that, no matter how I looked at it, seemed like a dedicated training machine, I couldn't sense any fear in her.
+<PAUSE>
+<NAME_PLATE>
+　In fact, a feeling that it would be dangerous to anger this person was rising up inside me, just watching the video here.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Mizuki Shiranui. Cease your bluffing. Your powers of illusion are already sealed.」
+<PAUSE>
+<NAME_PLATE>
+　A man's voice came from somewhere.
+<PAUSE>
+<NAME_PLATE>
+　It was a high-pitched voice which felt like it had been heard through a speaker, and furthermore, was a modulated voice, not his natural one.
+<PAUSE>
+<NAME_PLATE>
+　However, the voice had said “Mizuki Shiranui”. So she was the real thing after all?
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0004_r18
+<NAME_PLATE>Shiranui
+「Looks like you don't want your true identity to be known to me, huh? It also seems to be true that my powers are sealed off.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0004_01_r18
+<NAME_PLATE>Shiranui
+「Still, that's no big deal, though. Ufufu.」
+<PAUSE>
+<NAME_PLATE>
+　Still not throwing off her angry expression, Shiranui made a far scarier smile.
+<PAUSE>
+<NAME_PLATE>
+　It looked like that was not a bluff, and she genuinely considered it no big deal.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Kukuku, there is a person who wants you, so henceforth, we are going to remodel you.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0005_r18
+<NAME_PLATE>Shiranui
+「Remodelling. I see. Hence this over-the-top training machine. Do you plan to turn me into a Slave Prostitute or something, ××××-×××?」
+<PAUSE>
+<NAME_PLATE>Me
+「Mm......?」
+<PAUSE>
+<NAME_PLATE>
+　Just at the end, her voice had been cut out, and a mosaic covered her lips. It looked like she had said his name or something.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Kuhahahaha!! I figured you would be a difficult Taimanin to deal with. It would be no fun if you weren't.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0006_r18
+<NAME_PLATE>Shiranui
+「Even if you do something like remodel me, it's pointless. I will not fall.」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「I wonder about that. Well then, shall we begin the remodelling?!!」
+<PAUSE>
+<NAME_PLATE>
+　The mystery man declared loudly.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0007_r18
+<NAME_PLATE>Shiranui
+「I suppose I'll be tritely injected with orc aphrodisiac or whatnot?」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「I do not employ such tasteless means. We use things like this here.」
+<PAUSE>
+<NAME_PLATE>
+　Two obviously sketchy men in white clothes appeared.
+<PAUSE>
+<NAME_PLATE>
+　The men put lots of extremely suspicious-looking lotion on both hands, and approached the restrained Shiranui.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0008_r18
+<NAME_PLATE>Shiranui
+「Lotion. This is the tasteful method you spoke of, huh? How enlightening. Thanks.」
+<PAUSE>
+<EV>chr_0005_1b_r18,NONE
+<NAME_PLATE>
+　Shiranui said with plenty of sarcasm, and the white-robed men began smearing the lotion on her.
+<PAUSE>
+<NAME_PLATE>
+　Through her clothes, for some reason. ......Uh, I mean, not that I especially wanted them to strip her...
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0009_r18
+<NAME_PLATE>Shiranui
+「Mmh...... You're not going to remodel me yourself, then?」
+<PAUSE>
+<NAME_PLATE>
+　Shiranui frowned like she was displeased for just a second when the white-robed men's hands touched her skin, but beyond that, she completely ignored the two and continued conversing with the mysterious man.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0010_r18
+<NAME_PLATE>Shiranui
+「That's a little disappointing. Even though I wanted to check out what kind of cock you have with my pussy...」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Kukuku, this is because I don't have the kind of time to head to your location all of a sudden.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0011_r18
+<NAME_PLATE>Shiranui
+「Then, I wonder if you would come to me if I were to hang on and endure this? Or would it be better to get off immediately?」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「I am not going to be taken in by provocations such as those. I will simply be watching from over here until your remodelling concludes.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0012_r18
+<NAME_PLATE>Shiranui
+「No one likes a man who acts self-important.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0012_01_r18
+<NAME_PLATE>Shiranui
+「Or this dull pair. Looks like these boys aren't used to dealing with women, huh?」
+<PAUSE>
+<NAME_PLATE>
+　With cold eyes, Shiranui stared at the men, who were continuing to plaster lotion onto her body in silence.
+<PAUSE>
+<NAME_PLATE>
+　No, far from not being used to it, the white-clothed men's hand usage was quite good.
+<PAUSE>
+<NAME_PLATE>
+　Not to even mention her breasts and crotch, it was equivalent to Shiranui having her entire body fondled by the pair of them together.
+<PAUSE>
+<NAME_PLATE>
+　Moreover, this wouldn't be a mere lotion. It would undoubtedly have a powerful aphrodisiac component.
+<PAUSE>
+<NAME_PLATE>
+　And yet, Shiranui was practically unfazed, just knitting her brows slightly.
+<PAUSE>
+<NAME_PLATE>
+　In fact, she started to make requests to the men with a dissatisfied face.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0013_r18
+<NAME_PLATE>Shiranui
+「Mmmh～～...... This is kind of boring...... If you're going to train a person, couldn't you do a bit more?」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0014_r18
+<NAME_PLATE>Shiranui
+「Hey, you on the right, you can rub my tits a bit more firmly. The nipples, too...... Anh, yeah, yeah, that's a little better.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0015_r18
+<NAME_PLATE>Shiranui
+「You on the left, please knead my buttocks a bit harder......」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0015_01_r18
+<NAME_PLATE>Shiranui
+「Like you're twisting them around with both hands, okay......? Mmh, yeah, yeah, that feels nice.」
+<PAUSE>
+<NAME_PLATE>Me
+「This person's incredible.」
+<PAUSE>
+<NAME_PLATE>
+　She thought being trained was nothing.
+<PAUSE>
+<NAME_PLATE>
+　No, it looked like she didn't even think of something like this as training.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Do not be deceived by this woman's nonsense. Think of her as a mere puppet and continue your work! Do you not understand why we restrained her?!」
+<PAUSE>
+<NAME_PLATE>
+　Being reprimanded by the mystery man, the white-clothed men continued to caress Shiranui's body with lotion like they were a little flustered.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0016_r18
+<NAME_PLATE>Shiranui
+「Mmh...... Kuh, not good at handling your subordinates, are you......? It's not good to intimidate a young boy......」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Hmph...... I'll take those as the words of an experienced woman. It looks like the aphrodisiac's slowly working, even on you, hmm?」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0017_r18
+<NAME_PLATE>Shiranui
+「Thanks to you...... My body can't help but get hot......」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Kuku, to be able a keep making a face like that after ingesting Drake aphrodisiac, which is said to break even the whores of hell...」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「You do indeed appear to be a tremendously talented woman.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0018_r18
+<NAME_PLATE>Shiranui
+「What an honour to have you praise me...... haah, haah...... It has gotten a little tougher...... My, I wonder if it's my age......」
+<PAUSE>
+<NAME_PLATE>
+　A change had appeared in the state of Shiranui, who had been making a composed face all this time.
+<PAUSE>
+<NAME_PLATE>
+　The area from the outer corners of her eyes to her cheeks became red, and, although she was trying to hide it, it looked like it was tough to even breathe.
+<PAUSE>
+<NAME_PLATE>
+　It was no wonder. Drake aphrodisiac, he said?
+<PAUSE>
+<NAME_PLATE>
+　That was an aphrodisiac extracted from a poisonous plant found in hell, a substance said to even make a succubus―a natural whore mazoku―cum until they went crazy.
+<PAUSE>
+<NAME_PLATE>
+　I had read about it in a book that Danjou had left behind. Even that Danjou had added the annotation, 「Must never use on humans.」
+<PAUSE>
+<NAME_PLATE>
+　She was maintaining her sanity quite well, for having something like that plastered over her entire body.
+<PAUSE>
+<NAME_PLATE>
+　Did she know a way to block the pleasure or something?
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Well then, let us torture you a little harder. You there, stimulate her breasts and groin directly.」
+<PAUSE>
+<NAME_PLATE>
+　The white-clothed men nodded, and ripped up the clothing over Shiranui's breasts.
+<PAUSE>
+<EV>chr_0005_1c_r18,NONE
+<VOICE_PLAY>chr_0005_1_0019_r18
+<NAME_PLATE>Shiranui
+「Nnhh...... kuh......」
+<PAUSE>
+<NAME_PLATE>
+　Soft breasts appeared, which had extremely indecent shapes, and were so voluptuous that it felt like they were going to pop out through the screen.
+<PAUSE>
+<NAME_PLATE>
+　As did her deep-red, gaping cleft, which looked like it had both the youthfulness of a virgin and the obscenity of a mature woman.
+<PAUSE>
+<NAME_PLATE>Me
+「A, amazing, she's too erotic...... Gokuh...」
+<PAUSE>
+<NAME_PLATE>
+　All rational thought that this person was a Taimanin, and was Yukikaze's mother, ended up whizzing out of my head.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0020_r18
+<NAME_PLATE>Shiranui
+「Haahaah...... I feel a little better...... now that the thing that was pressing against my breasts and pussy is gone......」
+<PAUSE>
+<NAME_PLATE>
+　Shiranui was saying things like that to try and show composure, but she was completely unable to hide the lewdness of her female body, which had been made horny by the aphrodisiac.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0021_r18
+<NAME_PLATE>Shiranui
+「Fufu...... What's wrong? You take my clothes off, and that's it? What awfully peculiar tastes. I haven't fallen at all yet.」
+<PAUSE>
+<NAME_PLATE>
+　Due to her overwhelming sex appeal, even the white-robed men who had torn her clothes apart were standing bolt upright with their breath taken away.
+<PAUSE>
+<NAME_PLATE>
+　After a brief silence, the mystery man said, with an astonished sigh,
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Fu fu fu, this is the first time I've seen a woman this good. This lewdness doesn't seem human at all. You're not the reincarnation of an inma, are you?」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0022_r18
+<NAME_PLATE>Shiranui
+「I'm only human. “Only,” ufufu.」
+<PAUSE>
+<NAME_PLATE>
+　Her captivating smile and flushed cheeks didn't really make it seem that way.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「You two, what are you doing?! Continue quickly!」
+<PAUSE>
+<NAME_PLATE>
+　Being reprimanded by the mystery man, the white-clothed men suddenly came back to their senses, and began frantically playing around with Shiranui's body.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0023_r18
+<NAME_PLATE>Shiranui
+「Nnhh...... kuhh......」
+<PAUSE>
+<NAME_PLATE>
+　Her breasts and nipples were squashed by the men's hands, and the aphrodisiac lotion was thickly smeared onto them.
+<PAUSE>
+<NAME_PLATE>
+　Fingers were also thrust into her pussy, and the drug that would drive even an inma mad was plastered directly onto her vaginal walls.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0024_r18
+<NAME_PLATE>Shiranui
+「Auh...... kuh...... Looks like...... mmh...... you've finally started...... to feel like groping me for real, huh......? Mmh...... kuh...... fuuh......」
+<PAUSE>
+<NAME_PLATE>
+　Yeah, she was feeling it.
+<PAUSE>
+<NAME_PLATE>
+　I got uncontrollably erect from the sight of Shiranui, who had finally started to twist her body needfully.
+<PAUSE>
+<NAME_PLATE>
+　If I were there, even I would probably become absorbed in teasing her.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0025_r18
+<NAME_PLATE>Shiranui
+「Mmh...... kuh...... auh...... kuuuh...... ah, kuh...... mmmh......」
+<PAUSE>
+<NAME_PLATE>
+　That face was irresistible, bending her thin, shapely eyebrows, biting her lip hard, and desperately resisting the pleasure.
+<PAUSE>
+<NAME_PLATE>
+　I turned the volume of the video to maximum, and enjoyed Shiranui's surreptitious moans, and the squishing sounds of her honey pot.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0026_r18
+<NAME_PLATE>Shiranui
+「Kuh...... uuh...... kuh...... This has gotten nice...... Looks like...... you two remember...... my requests from before...... mmh......」
+<PAUSE>
+<NAME_PLATE>
+　Indeed, the white-clothed men hadn't been too noteworthy until now, but, perhaps because they had found which spots Shiranui got off from, they had started stimulating her precisely.
+<PAUSE>
+<NAME_PLATE>
+　Her gigantic breasts, which were bigger than her face, were stretching larger as they were massaged by the men, and her nipples were abnormally erect, several times their usual size, areolae and all.
+<PAUSE>
+<NAME_PLATE>
+　The plump, swollen flesh lips of her pussy were spread left and right, and love juices would no longer stop overflowing from there.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0027_r18
+<NAME_PLATE>Shiranui
+「Ah...... nnh...... uuh...... Having them played around with...... like this...... by young boys......」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0027_01_r18
+<NAME_PLATE>Shiranui
+「Kuuh...... Even if you are enemies...... I'm still happy......」
+<PAUSE>
+<NAME_PLATE>
+　As a young boy, I wanted to join in as well.
+<PAUSE>
+<NAME_PLATE>
+　It may have been wrong, but I unconsciously ended up thinking that. No, any man would think that for sure. There's no way you could hold back with such an erotic woman.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Ku ku ku, it appears you still have plenty of composure, hmm?」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0028_r18
+<NAME_PLATE>Shiranui
+「Mmh...... Kuh, that's natural, isn't it......? I'm not going to cum quickly...... being toyed with by men I don't even like......」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0029_r18
+<NAME_PLATE>Shiranui
+「Even if...... mmh, I am made to cum...... it's no big deal, though......」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0029_01_r18
+<NAME_PLATE>Shiranui
+「Well, I wonder if I should try cumming, for a change of pace......? Kuuuh...」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「In that case, henceforth, we shall do away with our hesitation. From this point on, it's the main part of your remodelling.」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0030_r18
+<NAME_PLATE>Shiranui
+「Oh? I wonder what you're going to do?」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「This.」
+<PAUSE>
+<NAME_PLATE>
+　The remodelling machine that was restraining Shiranui had started to move, and make strange noises.
+<PAUSE>
+<EV>chr_0005_1d_r18,NONE
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0005_1_0031_r18
+<NAME_PLATE>Shiranui
+「......h?!」
+<PAUSE>
+<NAME_PLATE>
+　A full-face mask had descended from above and suddenly covered Shiranui's head.
+<PAUSE>
+<NAME_PLATE>
+　Everything except for her lips could no longer be seen, and a strange pipe―no, a tentacle―stuck to that remaining mouth.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0032_r18
+<NAME_PLATE>Shiranui
+「Nhh...... fugugu...... nguh...... guguuh......」
+<PAUSE>
+<NAME_PLATE>
+　Shiranui started to emit muffled moans.
+<PAUSE>
+<NAME_PLATE>
+　It seemed that the tentacle had gone inside her mouth. Her narrow throat was bulging out eerily.
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+</GROUP>
+<VOICE_PLAY>chr_0005_1_0033_r18
+<NAME_PLATE>Shiranui
+「Fugguh...... uuh, fuguuh...... guguh...... guuhh......」
+<PAUSE>
+<NAME_PLATE>
+　It appeared that an electric current was flowing from the mask that covered her head. Perhaps needles were even being stuck directly into her brain.
+<PAUSE>
+<NAME_PLATE>
+　Small sparks popped off the surface of the mask, and Shiranui's body began spasming repeatedly.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「I've checked up on you. It appears that you are able to divert climaxes at will, yes?」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0034_r18
+<NAME_PLATE>Shiranui
+「Nnh?! Nnh, fuguuuuuhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Shiranui gave off a moan that seemed like she wanted to say 『How did you know about that?!』
+<PAUSE>
+<NAME_PLATE>Me
+「......I, I've heard of that.」
+<PAUSE>
+<NAME_PLATE>
+　“Inki Stream”, an outstanding secret technique of the Taimanin, who were always at risk of being raped by mazoku. Alias, “Climax Diversion”.
+<PAUSE>
+<NAME_PLATE>
+　Like water constantly flowing through you, you didn't retain the pleasure in your body, and even if you were made to climax, you would flush that away at will to preserve yourself.
+<PAUSE>
+<NAME_PLATE>
+　You would just let your climax flow away, rather than defending against or braving it.
+<PAUSE>
+<NAME_PLATE>
+　It was said that Mochizuki Chiyome (a Taimanin from the Sengoku period, who had even served Takeda Shingen) hadn't fallen despite being made to climax for a thousand days, and had ultimately brought down the inoni (sex oni)
+<PAUSE>
+<NAME_PLATE>
+that ejaculated in her.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0035_r18
+<NAME_PLATE>Shiranui
+「Fuh...... guh, guuh...... muguguguuhh...... higuuh...... guh, fuuuuh!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「I wonder if you can use that climax diversion thing if your body feels pleasure constantly, and your sensitivity increases 3000 times over?」
+<PAUSE>
+<NAME_PLATE>
+　The mystery man said, filled with confidence.
+<PAUSE>
+<NAME_PLATE>
+　It seemed all the aphrodisiac lotion so far was just preparation, and the main part of the training would be brain remodelling using that mask. Also, 3000 times?
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0036_r18
+<NAME_PLATE>Shiranui
+「Nguguguh?! Fuguuuuuuuuuuuhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Having heard that, Shiranui started giving off tremendous moans, and twisting her body left and right.
+<PAUSE>
+<NAME_PLATE>Me
+「A, amazing......」
+<PAUSE>
+<NAME_PLATE>
+　The intensity and lewdness of Shiranui's reaction just now was completely incomparable to anything so far.
+<PAUSE>
+<NAME_PLATE>
+　Even though the white-robed men had stopped their fondling now, Shiranui's body was shaking wildly of its own accord, due to the 3000-fold pleasure.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0037_r18
+<NAME_PLATE>Shiranui
+「Fuguu, nguh, guguuh! Nnhnh, fuuh, fuguuuuuhh!!」
+<PAUSE>
+<NAME_PLATE>
+　She was probably getting off even from the sweat that ran down her skin, or the air that touched it, and she was thrashing around as though every part of her body had become a pussy.
+<PAUSE>
+<NAME_PLATE>
+　Her heavy breasts swung so violently that they changed shape amid all the shaking, and the abnormally-erect nipples at the peaks of them were twitching.
+<PAUSE>
+<NAME_PLATE>
+　Her clitoris and labia grew abnormally enlarged, the opening and closing of her pussy would no longer stop, and bitch juices were spurting out continuously.
+<PAUSE>
+<EFFECT_QUAKE>VERTICAL,0.5,500
+<VOICE_PLAY>chr_0005_1_0038_r18
+<NAME_PLATE>Shiranui
+「Nguuuuh, guh fuh, guuuuuuuuuuuuhh!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Kuhahahaha!! It appears it's useless, hmm? Right now, your brain is filled up with 3000-fold pleasure!」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0039_r18
+<NAME_PLATE>Shiranui
+「Hyugugugugu!! Nguguh, fuguh, guh, fuguuuuuuuuuuh!!」
+<PAUSE>
+<NAME_PLATE>
+　I could no longer even imagine how much pleasure she was being tormented by.
+<PAUSE>
+<NAME_PLATE>
+　But Shiranui's moans became rougher, like those of an animal, and her whole body was jerking like a toy on the verge of breaking.
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「My my, your 3000-fold orgasm in approaching, isn't it? In 5, 4, 3......」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0040_r18
+<NAME_PLATE>Shiranui
+「Fugugugu!! Hifugufuguhh!! Gufufuuuuuuuuh!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「2, 1......」
+<PAUSE>
+<NAME_PLATE>
+　A countdown to her climax. And then――
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Zero!」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0005_1e_r18,NONE
+<EFFECT_FLASH>WHITE, 1500
+<EFFECT_QUAKE>VERTICAL,0.5,250
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0005_1_0041_r18
+<NAME_PLATE>Shiranui
+「Hyuguguguuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!!」
+<PAUSE>
+<NAME_PLATE>
+　Shiranui's body stiffened up.
+<PAUSE>
+<NAME_PLATE>
+　Along with the moan from a fierce, agonizing orgasm, she squirted like a water pistol.
+<PAUSE>
+<NAME_PLATE>Me
+「She came!!」
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0042_r18
+<NAME_PLATE>Shiranui
+「Hihh gih gahh gagagagagagagagahhhh!!」
+<PAUSE>
+<NAME_PLATE>
+　Her head, which was covered by the mask, shot far back and twitched.
+<PAUSE>
+<NAME_PLATE>
+　It seemed like her neck would break any time now.
+<PAUSE>
+<NAME_PLATE>
+　What an amazing orgasm.
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0005_1_0043_r18
+<NAME_PLATE>Shiranui
+「Higuuuuuuuh!! Higugigugiguuuuuuuuuuuuhhh!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Ku ku ku, every time you climax, your maximum pleasure threshold gets overwritten, and that becomes the norm.」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0005_1_0044_r18
+<NAME_PLATE>Shiranui
+「Igiiiiiih!! Giiihh!! Fungiiiiiiiiiiihh!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Turning your brain into one that has orgasms all the time, whether waking or sleeping!」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0005_1_0045_r18
+<NAME_PLATE>Shiranui
+「Ugigyaaaaaaaaaaaaaaaaaaaaahh!!」
+<PAUSE>
+<NAME_PLATE>Me
+「She came again!!」
+<PAUSE>
+<NAME_PLATE>
+　Once the dam of ecstasy broke from the 3000-fold-pleasure brain remodelling, Shiranui's orgasms wouldn't stop anymore.
+<PAUSE>
+<NAME_PLATE>
+　She climaxed many times in succession, making her entire body convulse so hard that I thought her bones would be smashed to pieces.
+<PAUSE>
+<NAME_PLATE>
+　Every time, sharp electric sparks burst out from the head mask, and I could tell that her brain was being tinkered with.
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0005_1_0046_r18
+<NAME_PLATE>Shiranui
+「Fugihh!! Agihh!! Gaggih! Agagagagagahh!! Ngigigiiiiiiiiiiih!!」
+<PAUSE>
+<NAME_PLATE>Me
+「A, amazing......」
+<PAUSE>
+<NAME_PLATE>
+　I had made many fine women fall as well, but I had never seen an orgasm this incredible.
+<PAUSE>
+<NAME_PLATE>
+　She was having climaxes far beyond the limit of a human being. Was this 3000-fold pleasure?
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0047_r18
+<NAME_PLATE>Shiranui
+「Ugigigigigigigigihh!! Guguuuuuuuuu――」
+<PAUSE>
+<NAME_PLATE>Me
+「She's gonna cum! She's cumming again......! Gokuh...」
+<PAUSE>
+<GROUP>
+<SE_PLAY>se030
+<EFFECT_FLASH>WHITE, 1000
+<EFFECT_QUAKE>VERTICAL,0.5,500
+</GROUP>
+<VOICE_PLAY>chr_0005_1_0048_r18
+<NAME_PLATE>Shiranui
+「Ugogiiiiiiiiiiiiiiiiiihh!!」
+<PAUSE>
+<NAME_PLATE>Me
+「She came! She came again!!」
+<PAUSE>
+<NAME_PLATE>
+　I continued to watch Shiranui have agonizing orgasms as though I were glued to the screen.
+<PAUSE>
+<BG_OUT>1000
+<NAME_PLATE>
+　After that, the video had skipped to one day later, two days, three days, etc., showing me the changes in Shiranui.
+<PAUSE>
+<NAME_PLATE>
+　Terrifyingly, Shiranui had kept being trained hard, without even being allowed to rest or sleep.
+<PAUSE>
+<NAME_PLATE>
+　Even for meals, she had been made to drink semen with aphrodisiac and nutrients in it from the mouth tentacle, and that was used as the basis for her next climax.
+<PAUSE>
+<NAME_PLATE>
+　Of course, she would also shit herself, and after a few days, when there was no longer anything but cum inside her stomach, she had become like a semen pipe, which was made purely to drink it from above and eject it
+<PAUSE>
+<NAME_PLATE>
+from below.
+<PAUSE>
+<NAME_PLATE>
+　According to the orgasm count, which the mystery man would sometimes tell us, she had already reached climax more than thirty thousand times by the seventh day.
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<EV>chr_0005_1f_r18,IN,3000
+<EFFECT_FLASH>WHITE, 1500
+<VOICE_PLAY>chr_0005_1_0049_r18
+<NAME_PLATE>Shiranui
+「Figiiiiiiiiih!! Ngigigiiiiiiiihhh!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Shiranui, your remodelling has finally reached its first stopping point. 3000-fold pleasure has been etched into every nook and cranny of your brain.」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Your entire body has transformed into a horny cunt. If you breathe in or move your fingers, you will be struck by pleasure identical to having your pussy fingered.」
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0005_1_0050_r18
+<NAME_PLATE>Shiranui
+「Ogogogogogogo!! Fugooooooooooohhhhhhh!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「It appears you're too busy having orgasms to be able to listen to my words, yes? That's fine, that's fine.」
+<PAUSE>
+<NAME_PLATE>
+　It certainly looked like the man's words weren't entering Shiranui's ears.
+<PAUSE>
+<NAME_PLATE>
+　She was just single-mindedly repeating her cries, making her entire body convulse, spewing urine around, squirting, and exposing her orgasm face.
+<PAUSE>
+<NAME_PLATE>
+　Now the mask was transparent, and I could even see her face, on which she had rolled her eyes back completely.
+<PAUSE>
+<VOICE_PLAY>chr_0005_1_0051_r18
+<NAME_PLATE>Shiranui
+「Aiaaguuuuh, aguuuuh, nguguguguhh, guhhiiiiinnnnnn!!」
+<PAUSE>
+<NAME_PLATE>Mystery Man
+「Henceforth, you will be a pig bitch that serves its new owner. That will surely be far more fun than being a Taimanin.」
+<PAUSE>
+<NAME_PLATE>
+　The mystery man spoke again.
+<PAUSE>
+<EFFECT_FLASH>WHITE, 1000
+<VOICE_PLAY>chr_0005_1_0052_r18
+<NAME_PLATE>Shiranui
+「Guhhin guhhing guhhhiiiiiiiiinnnnnnnnnnnn!!」
+<PAUSE>
+<NAME_PLATE>
+　However, Shiranui was having another powerful orgasm, as though she didn't care about things like that.
+<PAUSE>
+<NAME_PLATE>Me
+「Mizuki Shiranui, huh......? I wanna do her.」
+<PAUSE>
+<NAME_PLATE>
+　Before thinking “Poor her” or “I'll save you,” I had started wanting to cause Shiranui to make that face.
+<PAUSE>
+<NAME_PLATE>
+　As the head of the Fuuma family―No, as a male, I wanted to obtain this female no matter what it took.
+<PAUSE>
+<NAME_PLATE>
+　Because of that desire, my cock was more furiously erect than ever.
+<PAUSE>
+<BGM_STOP>3000
+<UI_DISP>OFF, 500
+<BG_OUT>3000
+<SCENARIO_END>
